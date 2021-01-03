@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+<!-- Includes links to ideograms, ISCN photos of chromosomes at different banding levels, and CytoGPS -->
+<head>
+	<title>Cytogenetics Report Checklist</title>
+	<!-- Released 5 November 2020 -->
+	<style>	
+		body{
+			background-color: white;
+		}
+		.btn{
+			border-color: #87ceeb;
+			font-size: 16px;
+			background-color: white;
+			height: 25px;
+			margin: 5px;
+		}
+
+		.btn:hover{
+			background: #87ceeb;
+			color: white;
+		}
+		.reset{
+			background-color: #87ceeb;
+			font
+		}
+		.reset:hover{
+			background: white;
+			border-color: green;
+			color: green;
+			cursor: pointer;
+		}
+		
+	</style>
+</head>
+<body>
+	<h2 style="text-align: center">Cytogenetics Report Checklist</h2>
+	<h3 style="text-align: center">Version 3.1</h3><br>
+
+	<button class="btn" onclick="viewChecklist('POC')">POC</button>
+	<button class="btn" onclick="viewChecklist('PB')">Peripheral Blood</button>
+	<button class="btn" onclick="viewChecklist('Oncology')">Oncology</button>
+	<button class="btn" onclick="viewChecklist('otherMacros')">Other Macros</button>
+	<button class="reset" onClick="window.location.reload()">Reset</button></p>
+
+	<nav style="font-size: 1.1em">
+		<a href="400_bands.svg">Ideogram 400 bands</a>&nbsp
+		<a href="550_bands.svg">Ideogram 550 bands</a>&nbsp
+		<a href="Groups A,C6-8,D,F,G.html">Groups A/C6-8/D/F/G</a>&nbsp
+		<a href="Groups B,C9-12,E,XY.html">Groups B/C9-12/E/XY</a>&nbsp
+		<a href="http://cytogps.org/karyotype_parser">CytoGPS</a>
+	</nav>
+
+	<div id="POC" style="display: none">
+		<h3>Products of Conception</h3>
+
+		<ul>
+			<span><strong>Karyotype field</strong></span>
+			<li>ISCN does not have brackets unless mosaic or reporting possible MCC<br>**Note:  Do not use brackets even if reporting on <20 metaphases**</li>
+				<li> Any communication to cytogenetics director written in Karyotype field</li>
+				<li>If No Growth, put "Culture failure" or "Culture failure secondary to microbial overgrowth" macro here.</li>
+				<br>
+				
+				<span><strong>Interpretation field</strong></span>
+
+				<li>Maternal source macro for 46,XX POC where fetal tissue not submitted or studied</li>
+				<li>Fetal source macro for 46,XX POC where fetal tissue identified and studied</li>
+				<li><a href="#otherMacros" onclick="viewChecklist('otherMacros')">Long term culture macro</a> if a long term culture was studied even if not exclusively.</li>
+				<li>Correct abnormal macro chosen</li>
+				<br>
+				<span><strong>Comments field</strong></span>
+
+				<li>GEN COMM required for any case reporting at least 1 metaphase</li>
+				<li>Reflex testing added per request (usually SNP/microarray macro)</li>
+				<li>Linked report if patient's spouse or parent is being or has been studied</li>
+				<li>NeoTrack macro as applicable<br> PREV ABNOR 1,2,3	PREV NOR 1,2</li>
+				<br>
+				<span><strong>Test Detail section</strong></span>	
+
+				<li>Number of cells  counted and analyzed correct</li>
+				<li>Banding level if different from default</li>
+				<li>Most photogenic karyotype chosen</li>
+				<li>Label on report karyotype correct</li>
+				<li>Study sheet uploaded</li>
+				<li>Failure sheet uploaded</li>
+				<li>Diagnosis Type dropdown box (Report Options) answered</li>
+
+			</ul>
+		</div>
+		<div id="PB" style="display: none">
+			<h3>PB Constitutional</h3>
+			<ul>
+
+				<span><strong>Karyotype field</strong></span>
+				<li>ISCN does not have brackets unless mosaic <br>**Note:  Do not use brackets even if reporting on <20 metaphases**</li>
+					<li>Any communication to cytogenetics director written in Karyotype field</li>
+					<br>
+					<span><strong>Interpretation field</strong></span>
+
+					<li>Infertility macro pb (recommends studying spouse) if reason for referral is recurrent miscarriages or other history regarding reproductive issues</li>
+					<li>Constitutional macro pb (recommends SNP/microarray) for all others including short stature, Turner's, primary or secondary amenorrhea</li>
+					<li>Additional cells counted for sex chromosome mosaicism noted and correct number reported</li>
+					<li>Correct abnormal macro chosen</li>
+					<li><a href="#otherMacros" onclick="viewChecklist('otherMacros')">Preliminary report</a> comment appended</li>
+					<br>
+					<span><strong>Comments field</strong></span>
+
+					<li>GEN COMM required for any case reporting at least 1 metaphase</li>
+					<li>Reflex testing added per request (usually SNP/microarray macro)</li>
+					<li>Linked report if patient's spouse or parent is being or has been studied</li>
+					<li>NeoTrack macro as applicable<br> PREV ABNOR 1,2,3	PREV NOR 1,2</li>
+					<br>
+					<span><strong>Test Detail section</strong></span>	
+
+					<li>Number of cells counted and number of cells analyzed correct</li>
+					<li>Banding level if different from default</li>
+					<li>Most photogenic karyotype chosen</li>
+					<li>Label on report karyotype correct</li>
+					<li>Study sheet uploaded</li>
+					<li>Diagnosis Type dropdown box (Report Options) answered</li>
+
+				</ul>
+			</div>
+			<div id="Oncology" style="display: none"><h3>Oncology</h3>
+				<ul>
+					<span><strong>Karyotype field:</strong></span>
+					<li>ISCN correct including sex chromosome designation and number range for composite</li>
+						<li>Composite karyotype follows rules for clonality (3 cells for losses, 2 for structural abnormalities or gains)</li>
+						<li>Communication to cytogenetics director written in Karyotype field</li>
+						<li>If No Growth, put "No metaphase cells for analysis" macro here.</li>
+						<br>
+						<span><strong>Interpretation field</strong></span>
+						<li>Long-term culture macro in APVX for any normal karyotype with study of long term culture ("Chrome Analysis long term culture only"); also at <a href="#otherMacros" onclick="viewChecklist('otherMacros')">Other Macros section</a></li>
+						<li>PB failure (< 5 metaphases) macro ("Chrome-Analysis -Blood failure")</li>
+						<li>Correct abnormal macro chosen</li>
+						<li>Abnormal writeup started if not for Dr. Mixon</li>
+						<li>If failure AND a COMPASS case with no pending FISH,  email <a href="mailto: FLPathSupport@neogenomics.com">Pathology Support</a></li>
+						<br>
+						<span><strong>Comments field</strong></span>
+
+						<li>GEN COMM required for any case reporting at least 1 metaphase</li>
+						<li>Reflex testing added per request (usually SNP/microarray macro)</li>
+						<li>Linked report if patient's spouse or parent is being or has been studied</li>
+						<li>NeoTrack macro as applicable for previous cases<br> PREV ABNOR 1,2,3 PREV NOR 1,2 in APVX <br>or Generic from <a href="#otherMacros" onclick="viewChecklist('otherMacros')">Other Macros section</a></li>
+						<li>"Previous reports" macro (normal or abnormal) for cases not in NeoTrack (see <a href="#otherMacros" onclick="viewChecklist('otherMacros')">Other Macros section</a>)</li>
+						<br> 
+						<span><strong>Test Detail section</strong></span>	
+
+						<li>Number of cells counted and analyzed correct; should match number in [ ] in karyotype</li>
+						<li>Banding level if different from default</li>
+						<li>Most photogenic karyotype chosen</li>
+						<li>Label on report karyotype correct</li>
+						<li>Study sheet uploaded</li>
+						<li>Culture failure sheet uploaded</li>
+						<li>Diagnosis Type dropdown box (Report Options) answered</li>
+
+					</ul>
+				</div>
+
+				<div id="otherMacros" style="display: none"><h3>Other Macros</h3><p>Click on macro; edit as appropriate; control+a  control+c to copy without dragging the mouse</p>
+					<ul>
+						<li contenteditable="true">Please refer to NeoTRACK Results (below) for a summary of previous cytogenetic studies on file for this patient.</li>
+						<li contenteditable="true">A normal karyotype was identified in this patient previously ( ).</li>
+						<li contenteditable="true">An abnormal karyotype was identified in this patient previously ( ).</li>
+						<li contenteditable="true">See also concurrent cytogenetics for spouse ( ).</li>
+						<li contenteditable="true">This study was performed on tissue identified as .  
+							<li style="list-style: none">**Note:  This identification should be specifically stated by the client.**</li>
+						<li contenteditable="true" id="longTerm">This study is based on long term culture of the specimen and may not represent a tumor karyotype.</li>
+						<li contenteditable="true">This report agrees with the preliminary report given to --- at ----h on --- by --- .</li>
+						</ul>
+				</div>
+
+				<script>
+
+						function viewChecklist(div) {
+							var x = document.getElementById(div);
+							if (x.style.display === "none") {
+								x.style.display = "block";
+							} else {
+								x.style.display = "none";
+							}
+						};
+				</script>
+
+</body>
+</html>
