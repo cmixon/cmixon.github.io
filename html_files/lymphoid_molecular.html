@@ -11,6 +11,7 @@
   </style>
   <script src="https://cdn.jsdelivr.net/npm/ideogram@1.28.0/dist/js/ideogram.min.js"></script>
 <link rel="icon" type="image/x-icon" href="img/ideogram_favicon.ico">
+<script type="text/javascript" src="/data/apvx_comments_json_format.json"></script>
 </head>
 <body>
   <h1 style="text-align: center">Lymphoma Profiles</h1>
@@ -131,11 +132,22 @@
           var empireLink = '<a target="_blank" href="' + empireUrl + '">EmpireGenomics</a>';
           var atlasLink = '<a target="_blank" href="' + atlasUrl + '">Atlas</a>';
           var omimLink = '<a target="_blank" href="' + omimUrl + '">OMIM</a>';
-          var neoLink = '<a target="_blank" style="color: #009933; font-size: 14px" href="' + neoUrl + '">NeoTests</a>';
+          var neoLink = '<a target="_blank" style="color: red"; font-size: 14px" href="' + neoUrl + '">NeoTests</a>';
           var fullName = result.description;
           var geneSummary = result.summary;
           var clinInfo = '<a target="_blank" href="/Users/neosignout/Atlas/Legacy_myeloid_molecular.txt">Clinical Significance</a>';
           var bandLoc = mapLoc;
+          var dataAPVX = dataApvx
+          // var clinSignificance = dataNCCN[gene];
+          var apvxComment = dataAPVX[gene];
+          // var displaySignificance = '<span style="color:navy"><strong>Clinical Significance (NCCN):</strong>cdc' + ' ' + clinSignificance + '</span>'
+          var displayAPVX = '<span style="color:green"><strong>APVX Comments:</strong>' + ' ' + apvxComment + '</span>'
+          // if (clinSignificance === undefined){
+          //   displaySignificance = '<span style="color:navy">Clinical Significance (NCCN): No entry </span>'
+          // }
+          if (apvxComment === undefined){
+            displayAPVX= '<span style="color:green">APVX Comment: No entry </span>'
+          }
 
 
           // Add properties like fullName or clinvarLink for later use in hyperlinkGene
@@ -150,6 +162,7 @@
             // cytocellLink,
             // empireLink,
             // clinInfo,
+            displayAPVX,
             neoLink,
             bandLoc
           
@@ -217,9 +230,9 @@ console.log(annots[i].shape);
       annots.displayName =
       '<a target="_blank" href="' + url + '">' + annots.name + '</a><br/>' + '<span style="color:green">' + description.bandLoc + '</span>' +'<br/>'+
       description.fullName + '<br/>' +
-      description.clinvarLink + '<br/>'+
-      description.atlasLink + '  ' + description.omimLink + '<br/>' +
-      description.geneSummary + '<br/>' +
+      description.clinvarLink + ' '+ ' ' +
+      description.atlasLink + '  ' + ' '+ description.omimLink + '<br/>' +
+      description.geneSummary + '<hr/>' + description.displayAPVX + '<hr>' +
       // description.vysisLink + '    ' + description.metasystemsLink + '<br/>' + '  ' + description.cytocellLink + '<br/>' + '    ' +
       // description.empireLink + '    ' + '<br/>' +
       description.neoLink + '<br/>';

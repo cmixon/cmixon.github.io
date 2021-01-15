@@ -8,9 +8,13 @@
     a, a:visited {text-decoration: none;}
     a:hover {text-decoration: underline;}
     a, a:hover, a:visited, a:active {color: #0366d6;}
+    hr.dashed{
+      border-top: 1px dashed navy;
+    }
   </style>
   <script src="https://cdn.jsdelivr.net/npm/ideogram@1.28.0/dist/js/ideogram.min.js"></script>
 <link rel="icon" type="image/x-icon" href="img/ideogram_favicon.ico">
+<script type="text/javascript" src="/data/apvx_comments_json_format.json"></script>
 </head>
 <body>
   <h1 style="text-align: center">Myeloid Disorders Profile and Derivatives</h1>
@@ -136,7 +140,7 @@ console.log(acmgGenes.length);
           var empireLink = '<a target="_blank" href="' + empireUrl + '">EmpireGenomics</a>';
           var atlasLink = '<a target="_blank" href="' + atlasUrl + '">Atlas</a>';
           var omimLink = '<a target="_blank" href="' + omimUrl + '">OMIM</a>';
-          var neoLink = '<a target="_blank" style="color: #009933; font-size: 14px" href="' + neoUrl + '">NeoTests</a>';
+          var neoLink = '<a target="_blank" style="color: red; font-size: 14px" href="' + neoUrl + '">NeoTests</a>';
           var fullName = result.description;
           var geneSummary = result.summary;
           var bandLoc = mapLoc;
@@ -152,7 +156,7 @@ console.log(acmgGenes.length);
   "RUNX1": "The runt-related transcription factor 1 (RUNX1) gene, encoding a myeloid transcription factor, is mutated in approximately 10% of de novo AML cases and associated with adverse prognoses.91-93 In a study of adult patients with newly diagnosed AML (n = 2439), RUNX1 mutations were associated with older age, male gender, more immature morphology, and secondary AML evolving from MDS. RUNX1 mutations frequently co-occurred with epigenetic modifiers ASXL1, IDH2, KMT2A, and EZH2. In a study examining the impact of multiple RUNX1 mutations and loss of wild-type RUNX1 in AML, both loss of wild-type RUNX1 (OS, 5 months) and having ≥1 RUNX1 mutation (14 months) had an adverse impact on prognosis compared to 1 RUNX1 mutation (22 months; P < .002 and .048, respectively).  Independently associated with a poor prognosis in MDS.",
   "ASXL1": "ASXL1 mutations have been reported in approximately 5% to 36% of de novo AML cases and are associated with poor outcomes. In an analysis of peripheral blood samples from adult patients with AML (n = 423), ASXL1 mutations were observed to be more common in older adult patients (≥60 years) compared to patients younger than 60 years (16.2% vs. 3.2%, respectively; P < .001). In older patients, ASXL1 mutations were significantly associated with wild-type NPM1, FLT3-ITD mutations, mutated CEBPA, and lower survival. A large series analyzing younger adult patients with AML (range, 18–61 years) also observed that ASXL1 mutations were associated with older age(P = .0001) and decreased EFS and OS. In this study, ASXL1 mutations were also significantly associated with RUNX1 (P = .0001).101 In another study analyzing biological and prognostic subgroups based on mutations in ASXL1, RUNX1, DNMT3A, NPM1, FLT3, and TP53 in patients with AML with myelodysplasia-related changes (n = 125), ASXL1 (n = 26; 21%) and TP53 (n = 28; 22%) were independently associated with shorter OS (HR, 2.53; 95% CI, 1.40–4.6; P = .002). Independently associated with a poor prognosis in MDS and CMML. More frequent in CMML (40%– 50%). Common in CHIP and CCUS.",
   "TP53": "TP53 mutations have been reported in approximately 12%–13% of AML cases, and are associated with unfavorable risk and poor outcomes. TP53 mutations are also most common in AML with complex karyotype.103 However, in therapy-related AML, TP53 mutations are more frequently associated with monosomal karyotype, and with abnormalities in chromosomes 5 and 7. In therapy-related AML, the frequency of TP53 mutations is approximately 23%. In a large analysis of different hematologic malignancies including 858 AML cases, TP53 mutations or deletions were observed in 7% and 1%, respectively, of the AML cases, and both TP53 mutations and deletions were observed in 5% of the cases. TP53 mutations were significantly more frequently seen in older adult patients (≥60 years) when compared to patients <60 years of age (9% vs. 2%, P < .001). Interestingly, compared to TP53 deletions, TP53 mutations negatively impacted survival in AML (36 months vs. 9 months, respectively; P < .001), suggesting the importance of evaluating both TP53 mutation and deletion status. Independently associated with a poor prognosis. More frequent with complex karyotypes (50%) and del(5q) (15%–20%). May predict resistance or relapse to lenalidomide.",
-  "TET2":"Associated with normal karyotypes. More frequent in CMML (40%–60%). Common in clonal hematopoiesis of indeterminate potential (CHIP) and clonal cytopenia of undetermined significance (CCUS).",
+  "TET2":"Associated with normal karyotypes. More frequent in CMML (40%–60%).Common in clonal hematopoiesis of indeterminate potential (CHIP) and clonal cytopenia of undetermined significance (CCUS).",
   "EZH2":"Independently associated with a poor prognosis in MDS and MDS/MPN. More frequent in CMML (12%).",
   "SF3B1":"Strongly associated with ring sideroblasts and more frequent in MDS-RS (80%). Independently associated with a more favorable prognosis.",
   "SRSF2":"More frequent in CMML (40%) and associated with a poor prognosis.",
@@ -174,12 +178,16 @@ console.log(acmgGenes.length);
   "STAT3":"Occurs in large granular lymphocyte leukemia (LGL) associated with MDS; associated with immune bone marrow failure.",
   "PPM1D":"Associated with therapy-related MDS, but not associated with adverse prognosis independent of TP53. Common in CHIP and CCUS."
 };
-
+          var dataAPVX = dataApvx
           var clinSignificance = dataNCCN[gene];
-          var displaySignificance = '<span style="color:navy">Clinical Significance (NCCN):' + ' ' + clinSignificance + '</span>'
-
+          var apvxComment = dataAPVX[gene];
+          var displaySignificance = '<span style="color:navy"><strong>Clinical Significance (NCCN):</strong>' + ' ' + clinSignificance + '</span>'
+          var displayAPVX = '<span style="color:green"><strong>APVX Comments:</strong>' + ' ' + apvxComment + '</span>'
           if (clinSignificance === undefined){
             displaySignificance = '<span style="color:navy">Clinical Significance (NCCN): No entry </span>'
+          }
+          if (apvxComment === undefined){
+            displayAPVX= '<span style="color:green">APVX Comment: No entry </span>'
           }
 
 
@@ -195,6 +203,7 @@ console.log(acmgGenes.length);
             // cytocellLink,
             // empireLink,
             displaySignificance,
+            displayAPVX,
             neoLink,
             bandLoc
           
@@ -264,9 +273,9 @@ console.log(acmgGenes.length);
       annots.displayName =
       '<a target="_blank" href="' + url + '">' + annots.name + '</a><br/>'+  '<span style="color:green">' + description.bandLoc + '</span>' +'<br/>'+
       description.fullName + '<br/>' +
-      description.clinvarLink + '<br/>'+
-      description.atlasLink + '  ' + description.omimLink + '<br/>' +
-      description.geneSummary + '<hr/>' + description.displaySignificance + '<hr> ' +
+      description.clinvarLink + ' '+ ' ' +
+      description.atlasLink + '  ' + ' ' + description.omimLink + '<br/>' +
+      description.geneSummary + '<hr/>' + description.displaySignificance + '<hr class="dashed">' + description.displayAPVX + '<hr> ' +
       // description.vysisLink + '    ' + description.metasystemsLink + '<br/>' + '  ' + description.cytocellLink + '<br/>' + '    ' +
       // description.empireLink + '    ' + '<br/>' +
       description.neoLink + '<br/>';
