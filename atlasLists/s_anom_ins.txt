@@ -1,0 +1,49 @@
+der(10)ins(10;11)(p12;q23q23)	-	-	Acute monoblastic leukemia (FAB type M5)
+ins(X;11)(q22;q13q25)	SEPT6	-	Acute Myelocytic Leukemia
+ins(X;11)(q24;q13q23)	SEPT6	-	Acute Myelocytic Leukemia
+ins(X;11)(q26;q23q23)	KMT2A/CT45A2	-	MPD
+ins(1;1)(q21;p36p22)	-	-	Multiple myeloma
+ins(3;3)(q26;q21q26)	-	-	Acute myeloid leukemia, NOS
+ins(3;7)(q26;q34q22)	TRB/MECOM	-	MPD
+ins(4;11)(q21;q11q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+ins(4;11)(q21;q23q23)	AFF1/DSCAML1	-	MPD
+ins(4;11)(q21;q23q23)	AFF1/FXYD6	-	MPD
+ins(4;11)(q21;q23q23)	ATG16L2/KMT2A	-	MPD
+ins(4;11)(q21;q23q23)	DSCAML1/KMT2A	-	MPD
+ins(4;11)(q21;q23q23)	FXYD6/KMT2A	-	MPD
+ins(8;21)(q22;q22q22)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+ins(8;21)(q22;q22q22)		-	Acute Myelocytic Leukemia-M2
+ins(9;4)(q33;q12q25)	CDK5RAP2/PDGFRA	-	MPD
+der(10)ins(10;11)(p12;q23q23)	-	-	Acute monoblastic leukemia (FAB type M5)
+ins(10;11)(p11;q23q13)	-	-	Acute monoblastic leukemia (FAB type M5)
+ins(10;11)(p11;q23q24)		-	Acute Myelocytic Leukemia-M5
+ins(10;11)(p12;q23q12)	MLLT10	-	Acute Myelocytic Leukemia
+ins(10;11)(p12;q23q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+ins(10;11)(p12;q23q13)	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+ins(10;11)(p12;q23q13)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+ins(10;11)(p12;q23q13)		-	Acute Myelocytic Leukemia
+ins(10;11)(p12;q23q13)		-	Acute Myelocytic Leukemia-M5
+ins(10;11)(p12;q23q23)	MLLT10/CLP1	-	MPD
+ins(10;11)(p13;q23q13)	-	-	Acute myeloid leukemia, NOS
+ins(10;11)(p13;q23q21)	-	-	Acute monoblastic leukemia (FAB type M5)
+ins(11;10)(q23;p12p15)	-	-	Acute monoblastic leukemia with differentiation (FAB type M5b)
+ins(11;4)(q23;q21q24)	NFKB1/KMT2A	-	MPD
+ins(11;4)(q23;q21q31)	ELF2/KMT2A	-	MPD
+ins(12;21)(p13;q22q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+ins(12;8)(p11;p11p21)		-	Non-Hodgkin Lymphoma
+ins(12;8)(p13;q11q21)	ETV6/LYN	-	MPD
+ins(14;14)(q32;q32q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+ins(14)(q32.33)	XM_001718220.1	-	Follicular Lymphoma
+ins(15;17)(q22;q12q21)	PML	-	Acute Promyelocytic Leukemia
+ins(15;17)(q22;q21q21)	PML/CDC6/RARA	-	MPD
+ins(15;17)(q22;q21q26)	PML/ADAMTS17/RARA	-	MPD
+ins(16)(q22p13p13)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+ins(17;15)(q12;q22q22)	-	-	Acute promyelocytic leukemia (FAB type M3)
+ins(21;20)(q22;q11q11)	RUNX1/CBFA2T2	-	MPD
+ins(21;8)(q22;q11q22)		-	Acute Myelocytic Leukemia-M2
+ins(21;8)(q22;q13q22)		-	Acute Myelocytic Leukemia-M2
+ins(21;8)(q22;q13q22)	-	-	Acute myeloid leukemia, NOS
+ins(21;8)(q22;q21q22)		-	Acute Myelocytic Leukemia-M2
+ins(21;8)(q22;q21q22)	-	-	Acute myeloid leukemia, NOS
+ins(21;8)(q22;q22q22)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+ins(21;8)(q22;q22q22)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)

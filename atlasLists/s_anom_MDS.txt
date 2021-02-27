@@ -1,0 +1,130 @@
+t(X;20)(q13;q13.3)		-	MPD::MDS
+t(Y;1)(q12;q12)		-	MPD::MDS
+t(1;11)(p32;q23)	KMT2A/EPS15	-	AML::B-ALL::MDS
+t(1;11)(q24;p15)	NUP98/PRRX1	-	MPD::MDS::t-AML
+t(1;12)(p36;p13)	ETV6/MDS2	-	MPD::MDS
+t(1;12)(p36;p13)	ETV6/MDS2	-	RAEBt
+t(1;12)(q21;p13)	ETV6/ARNT	-	MPD::MDS::T-ALL
+t(1;12)(q21;q24)		-	AML::t-AML::MDS
+t(1;16)(q11;q11)		-	MDS::NHL
+t(1;19)(p13;p13.1)		-	MPD::MDS::AML
+t(1;21)(p36;q22)	RUNX1/PRDM16	-	MDS::t-AML::AML
+t(1;2)(p36;p21)	THADA/PRDM16	-	MPD::MDS::t-AML::T-ALL
+t(1;3)(p36;p21)		-	MPD::MDS::t-AML::AML::B-ALL::NHL
+t(1;3)(p36;q21) PSMD2/PRDM16 ???	PSMD2/PRDM16	-	MPD::MDS::t-AML::AML::NHL
+t(1;3)(p36;q21)	RPN1/PRDM16	-	MDS::AML::t-AML
+t(1;5)(q21;q32)	PDE4DIP/PDGFRB	-	MPD::MDS::AML::B-ALL::NHL
+t(1;6)(p36;p21)		-	MDS::t-AML::NHL
+t(1;7)(p36;p12)	IKZF1/PRDM16	-	MDS
+t(2;11)(p21;q23)	KMT2A/?	-	MDS::AML::B-ALL
+t(2;11)(p21;q23) without KMT2A (MLL) rearrangement		-	MPD::MDS::AML
+t(2;11)(p21;q24)	MIR125B1/?	-	MPD::MDS::AML
+t(2;11)(q31;p15) (MDS, AML; NUP98 and HOXD13; rare)		-	MDS::AML
+t(2;11)(q31;p15)	NUP98/HOXD13	-	AML::t-AML::MPD::MDS
+t(2;12)(q31;p13)	ETV6/?	-	MDS::NHL
+t(2;8)(q12;p11)	RANBP2/FGFR1	-	MDS
+t(3;11)(p25;p15)	ANKRD28/NUP98	-	MDS::AML
+t(3;11)(q12;p15)	NUP98/LNP1	-	MDS::AML::T-ALL
+t(3;12)(q26;p13)	ETV6/MECOM	-	MPD::MDS::AML
+t(3;16)(q21;q22)		-	MDS::AML
+t(3;18)(q26;q11)	?/MECOM	-	MDS
+t(3;21)(q26;q11)	NRIP1/MECOM	-	MDS::AML
+t(3;21)(q26;q22)	RUNX1/MECOM	-	MPD::MDS::t-AML::AML
+t(3;3)(p24;q26)	?/MECOM	-	MDS
+t(3;4)(p21;q34)		-	MDS::AML
+t(3;5)(q21;q31)		-	AML::MDS::MPD
+t(3;5)(q25;q34)	NPM1/MLF1	-	MPD::MDS::AML
+t(3;7)(q26;q21)	CDK6/MECOM	-	MPD::MDS::AML
+t(3;8)(q26;q24)	PVT1/MECOM	-	AML::MDS
+t(4;11)(p12;q23)	KMT2A/FRYL	-	MDS::t-AML::B-ALL
+t(4;5)(q31;q31)		-	MDS::AML
+t(5;11)(q31;q23)	KMT2A/ARHGAP26	-	MPD::MDS::t-AML::AML::B-ALL
+t(5;12)(q13;p13)	?/ETV6	-	AML::MDS::T-ALL
+t(5;12)(q31;p13) ETV6/ACSL6 in MDS,AML and AEL	ETV6/ACSL6	-	MPD::MDS::AML
+t(5;12)(q31;p13)	ETV6/ACSL6	-	MDS
+t(5;12)(q31;p13)	ETV6/ACSL6	-	MDS/MPN
+t(5;12)(q33;p13)	ETV6/PDGFRB	-	MPD::MDS
+t(5;16)(q32;p13)	NDE1/PDGFRB	-	MDS
+t(5;17)(q33;p11.2)	SPECC1/PDGFRB	-	MDS
+t(5;17)(q33;p13)	RABEP1/PDGFRB	-	MDS::NHL
+t(5;17)(q35;q21) without RARA involvement in non-M3 AML		-	MDS
+t(5;21)(q13;q22)	RUNX1/?	-	MDS::AML
+t(5;7)(q33;q11)	HIP1/PDGFRB	-	MDS
+t(6;12)(p21;p13) CCND3/ETV6 in lymphoid malignancies	CCND3/ETV6	-	MDS::B-ALL::NHL
+t(6;12)(p25;q24)	GMDS/TMEM132B	Female organs: Breast	
+t(6;17)(p21;p13)		-	MDS::AML
+t(6;17)(p25;q23)	GMDS/BCAS3	Male organs: Prostate	
+t(6;20)(q13;q12)	LMBRD1/CHD6	-	MDS::MPD::AML
+t(6;21)(p22;q22)	RUNX1-?	-	MDS::t-AML
+t(6;6)(p21;p25)	GMDS/CCND3	Male organs: Prostate	
+t(6;6)(p21;p25)	GMDS/DNAH8	Female organs: Breast	
+t(6;6)(p21;p25)	GMDS/MRPS18B	Urinary system: Bladder	
+t(6;6)(p25;q21)	GMDS/METTL24	Female organs: Breast	
+t(6;8)(p25;q22)	VPS13B/GMDS	Female organs: Breast	
+t(6;8)(q27;p12)	FGFR1OP/FGFR1	-	MDS::AML::NHL
+t(6;9)(p22;q34) DEK/NUP214 in Childhood	DEK/NUP214	-	MDS::AML
+t(6;9)(p22;q34)	DEK/NUP214	-	MDS::t-AML::AML
+t(7;12)(p12;q13) HMGA2 truncated		-	MDS
+t(8;12)(q12;p13)		-	MDS::AML
+t(8;12)(q22;q13)	HMGA2/?	-	MPD::MDS
+t(8;13)(p11;q12)	ZMYM2/FGFR1	-	MDS::NHL
+t(8;21)(q23;q22)	RUNX1/ZFPM2	-	MDS
+t(8;9)(p22;p24)	PCM1/JAK2	-	MDS::AML::B-ALL::T-ALL::NHL
+t(9;12)(p24;p13)	ETV6/JAK2	-	MPD::MDS::B-ALL::T-ALL
+t(9;12)(q22;p13)	ETV6/SYK	-	MDS
+t(9;12)(q34;p13)	ETV6/ABL1	-	AML::B-ALL::T-ALL::MDS::MPD
+t(9;22)(p24;q11.2)	BCR/JAK2	-	MPD::MDS::AML::B-ALL::NHL
+t(10;12)(q24;p13)	ETV6/GOT1	-	MDS::MPD
+t(10;16)(q22;p13)	KAT6B/CREBBP	-	AML::MDS
+t(11;11)(p15;q22)	NUP98/DDX10	-	AML::MDS::MPD
+t(11;14)(p15;q22)	AP2A2/NID2	-	MDS
+t(11;16)(q23;p13.3)	KMT2A/CREBBP	-	MDS::t-AML::AML::B-ALL
+t(11;17)(p15;q21)	NUP98/?	-	MDS::t-AML::AML
+t(11;17)(q23;q25)	KMT2A/SEPT9	-	MDS::t-AML::AML::B-ALL
+t(11;20)(p15;q11)	NUP98/TOP1	-	MDS::AML::t-AML
+t(11;21)(q13;q22)	RUNX1/MACROD1	-	MDS::AML::MPD
+t(11;22)(q13;q13)	HRASLS5/PHF21B	-	MPD::MDS::AML
+t(12;12)(p13;q13)	ETV6/BAZ2A	-	MDS::AML::B-ALL::T-ALL
+t(12;12)(p13;q13)	HMGA2/?	-	MDS
+t(12;13)(p13;q14)	LIN00598/ETV6	-	MPD::MDS::AML::t-AML::B-ALL
+t(12;14)(q13;q31)	HMGA2/?	-	MDS
+t(12;15)(p13;q25) ETV6/NTRK3 in Hematological malignancies	ETV6/NTRK3	-	MDS::AML::B-ALL
+t(12;17)(p13;p13)	ETV6/PER1	-	MDS::AML
+t(12;18)(p13;q12)	ETV6/SETBP1	-	MDS::AML
+t(12;20)(q15;q11.2) HMGA2 truncated		-	MDS
+t(12;22)(p13;q11)	MN1/ETV6	-	AML on MDS
+t(12;22)(p13;q12)	MN1/ETV6	-	MPD::MDS::AML
+t(14;21)(q22;q22)	RUNX1/?	-	MDS::t-AML
+t(15;21)(q22;q22)	RUNX1/?	-	MDS::t-AML
+t(16;16)(p13;q22)	CBFB/MYH11	-	MPD::MDS::AML::t-AML
+t(16;21)(q24;q22)	RUNX1/CBFA2T3	-	MDS::t-AML::AML
+t(20;21)(q13.2;q22.12)	ZFP64/RUNX1	-	MDS
+t(20;21)(q13;q22)	RUNX1/?	-	MDS::AML
+del(1p)	solely	-	MDS::AML::T-ALL::NHL
+del(5q) in myeloid neoplasms		-	MDS::t-AML::AML
+del(6p) (loss of JARID2 and DTNBP1) in myeloid malignances		-	MPD::MDS::t-AML::AML
+del(6q)		-	MDS::AML::B-ALL::T-ALL::NHL
+del(9q)	solely	-	MPD::MDS::AML::T-ALL
+del(13q) in myeloid malignancies		-	MPD::MDS::t-AML
+del(16)(q22)	CBFB/MYH11	-	MPD::MDS::AML::t-AML
+del(17p) in myeloid malignancies		-	MDS::t-AML::AML
+del(18)(p11)		-	MPD::MDS::AML::t-AML::B-ALL::T-ALL::NHL
+del(20q) in myeloid malignancies		-	MPD::MDS::AML
+del(21)(q21q22)	USP16/RUNX1	-	MDS::AML
+ider(20q) in Myeloid Malignancies		-	MDS::AML
+idic(X)(q13)		-	MPD::MDS::AML
+dic(1;15)(p11;p11)		-	MPD::MDS::AML
+dic(17;20)(p11.2;q11.2)		-	AML::MDS::t-AML
+dup(1)(q11-q44) in myeloid malignancies		-	MPD::MDS::t-AML::AML
+i(4p) in myeloid malignancies		-	MDS::AML
+i(17q) solely in myeloid malignancies		-	MPD::MDS
+inv(3)(p24q26)	?/MECOM	-	MDS::AML
+inv(3)(q21q26)	RPN1/MECOM	-	AML::t-AML::MDS::MPD
+inv(6)(p25q13)		-	MDS::AML
+inv(6)(p25q13)		-	MDS::t-AML
+inv(11)(p15q22)	NUP98/DDX10	-	AML::MDS::MPD
+inv(11)(p15q23)	NUP98/KMT2A	-	MDS::t-AML::AML::B-ALL::NHL
+inv(11)(q21q23) KMT2A/MAML2 in therapy related leukemias	KMT2A/MAML2	-	MDS::t-AML
+inv(12)(p13q15)	ETV6/PTPRR	-	MDS::AML
+inv(16)(p13q22)	CBFB/MYH11	-	MPD::MDS::AML::t-AML
+inv(18)(p11q21)		-	MDS::NHL

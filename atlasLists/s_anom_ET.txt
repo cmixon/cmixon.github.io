@@ -1,0 +1,20 @@
+t(X;17)(q27;q22)		-	Essential Thrombocythemia
+t(1;7)(p11;p11)	-	-	Essential thrombocythemia
+del(5)(q13q33)	-	-	Essential thrombocythemia
+del(5)(q15q33)	-	-	Essential thrombocythemia
+del(5q)	-	-	Essential thrombocythemia
+del(13)(q12q14)	-	-	Essential thrombocythemia
+del(13)(q12q14)	-	-	Essential thrombocythemia
+del(13q)	-	-	Essential thrombocythemia
+del(17)(q24q25)	-	-	Essential thrombocythemia
+del(17)(q24q25)	-	-	Essential thrombocythemia
+del(17q)	-	-	Essential thrombocythemia
+del(20)(q11)	-	-	Essential thrombocythemia
+del(20)(q11q13)	-	-	Essential thrombocythemia
+del(20)(q12)	-	-	Essential thrombocythemia
+del(20)(q13)	-	-	Essential thrombocythemia
+del(20)(q13q13)	-	-	Essential thrombocythemia
+del(20q)	-	-	Essential thrombocythemia
+der(1)t(1;7)(p11;p11)	-	-	Essential thrombocythemia
+inv(3)(q21q26)	-	-	Essential thrombocythemia
+inv(3)(q21q26)	-	-	Essential thrombocythemia

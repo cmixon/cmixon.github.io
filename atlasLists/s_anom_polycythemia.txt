@@ -1,0 +1,45 @@
+t(Y;1)(q12;q12)		-	Polycythemia Vera
+t(1;14)(q11;p11)	-	-	Polycythemia vera
+t(1;7)(p11;p11)	-	-	Polycythemia vera
+t(1;9)(q12;q12)	-	-	Polycythemia vera
+t(3;11)(q27;q14)		-	Polycythemia Vera
+t(9;18)(p13;p11)	-	-	Polycythemia vera
+t(12;21)(q14;q22)	HMGA2	-	Polycythemia Vera
+t(13;17)(q14;q21)		-	Polycythemia Vera
+del(1)(p11)	-	-	Polycythemia vera
+del(4)(q25q25)		-	Polycythemia Vera
+del(5)(q14q32)	-	-	Polycythemia vera
+del(5)(q31)	-	-	Polycythemia vera
+del(5q)	-	-	Polycythemia vera
+del(7)(q21q31)	-	-	Polycythemia vera
+del(7)(q22)	-	-	Polycythemia vera
+del(7)(q22q34)	-	-	Polycythemia vera
+del(7q)	-	-	Polycythemia vera
+del(11)(q13)	-	-	Polycythemia vera
+del(11)(q14)	-	-	Polycythemia vera
+del(11)(q21)	-	-	Polycythemia vera
+del(11)(q22)	-	-	Polycythemia vera
+del(12)(p11)	-	-	Polycythemia vera
+del(13)(q12q14)	-	-	Polycythemia vera
+del(13)(q12q14)	-	-	Polycythemia vera
+del(13)(q12q22)	-	-	Polycythemia vera
+del(13)(q12q22)	-	-	Polycythemia vera
+del(13)(q13q31)	-	-	Polycythemia vera
+del(13)(q13q31)	-	-	Polycythemia vera
+del(13)(q14q32)	-	-	Polycythemia vera
+del(13)(q14q32)	-	-	Polycythemia vera
+del(13q)	-	-	Polycythemia vera
+del(20)(q11)	-	-	Polycythemia vera
+del(20)(q11q13)	-	-	Polycythemia vera
+del(20)(q12)	-	-	Polycythemia vera
+del(20)(q13)	-	-	Polycythemia vera
+del(20q)	-	-	Polycythemia vera
+der(1)t(1;7)(p11;p11)	-	-	Polycythemia vera
+der(9)t(1;9)(q12;q12)	-	-	Polycythemia vera
+der(14)t(1;14)(q11;p11)	-	-	Polycythemia vera
+der(18)t(9;18)(p13;p11)	-	-	Polycythemia vera
+der(18)t(9;18)(p13;p11)	-	-	Polycythemia vera
+dup(1)(q21q42)	-	-	Polycythemia vera
+dup(1)(q21q42)	-	-	Polycythemia vera
+dup(1)(q21q44)	-	-	Polycythemia vera
+dup(1)(q21q44)	-	-	Polycythemia vera

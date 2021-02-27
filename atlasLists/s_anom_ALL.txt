@@ -1,0 +1,1102 @@
+t(X;10;11)(p11;p11;p15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(X;11)(q13;q23)	FOXO4/MLL	-	T-Cell Acute Lymphoblastic Leukemia
+t(X;17)(q26;q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(X;18)(p22;q23)		-	Acute Lymphoblastic Leukemia
+t(X;6)(q21;q14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(Y;14)(p11;q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;1)(p36;q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;1)(p36;q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;1)(q23;q32)		-	Acute Lymphoblastic Leukemia
+t(1;11)(p32;q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;11)(p34;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;11)(q21;q14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;11)(q21;q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;11)(q23;q21)		-	Acute Lymphoblastic Leukemia
+t(1;12)(p22;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;12)(q12;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;12)(q21;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;12)(q21;q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;12)(q25;p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;12)(q41;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;12)(q44;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;13)(q31;q21)		-	B-Cell Acute Lymphoblastic Leukemia
+t(1;14)(p32;q11)		-	Acute Lymphoblastic Leukemia
+t(1;14)(p32;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;14)(p32;q32)	TAL1	-	T-Cell Acute Lymphoblastic Leukemia
+t(1;14)(p34;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;14)(q21;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;14)(q21;q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;14)(q21;q32)	BCL9	-	Acute Lymphoblastic Leukemia
+t(1;14)(q23;q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;14)(q25;q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;14)(q25;q32)	NM_001718220	-	Acute Lymphoblastic Leukemia
+t(1;15)(q11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;15)(q12;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;15)(q23;q26)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;16)(q12;q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;16)(q12;q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;16)(q21;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;16)(q21;q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;16)(q21;q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;16)(q23;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;17)(p13;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;17)(p36;q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;17)(q11;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;17)(q12;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;17)(q21;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;19)(q11;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;19)(q12;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;19)(q21;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;19)(q21;q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;19)(q23;p13)		-	Acute Lymphoblastic Leukemia
+t(1;19)(q23;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;19)(q23;p13.3)	PBX1/TCF3	-	Acute Lymphoblastic Leukemias
+t(1;19)(q23;q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;19)(q32;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;2)(q12;q37)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;2)(q21;q33)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;2)(q23;q37)		-	Acute Lymphoblastic Leukemia
+t(1;20)(q12;q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;20)(q25;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;21)(q11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;21)(q11;q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;21)(q12;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;21)(q12;q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;21)(q21;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;21)(q21;q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;21)(q25;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;21)(q25;q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;22)(p13;q13)	NM_000878.2	-	T-Cell Acute Lymphoblastic Leukemia
+t(1;22)(q11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;22)(q23;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;3)(p34;p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;3)(p34;p21)	NM_001664.2	-	Acute Lymphoblastic Leukemia
+t(1;3)(p36;p21)		-	Acute Lymphoblastic Leukemia
+t(1;3)(p36;p21)		-	Acute Lymphoblastic Leukemia, Non-Hodgkin's Lymphoma
+t(1;3)(p36;p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;3)(q12;q29)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;4)(p32;p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;5)(p32;q31)		-	Acute Lymphoblastic Leukemia
+t(1;5)(p32;q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;5)(q21;p15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;6)(q21;q27)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;6)(q23;p21.3)		-	Acute Lymphoblastic Leukemia
+t(1;7)(p13;q33)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;7)(p33;q34)	NT_079596.2	-	T-Cell Acute Lymphoblastic Leukemia
+t(1;7)(p34;q34)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;7)(p34;q34)	LCK	-	T-Cell Acute Lymphoblastic Leukemia
+t(1;7)(q12;p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;7)(q21;q36)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;8)(q32;q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;9)(p13;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;9)(p34;q34)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;9)(q11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(1;9)(q23;p13)		-	Pre-B Acute Lymphoblastic Leukemia
+t(1;9)(q23;q34)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(2;11)(p21;q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(2;11)(p23;p14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(2;11)(q11;q23)	AFF3/MLL	-	Acute Lymphoblastic Leukemia
+t(2;12)(p11;p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(2;12)(p11;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(2;12)(p21;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(2;12)(q31;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(2;14)(p11;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(2;14)(p11;q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(2;14)(p13;q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(2;14)(q21;q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(2;16)(p11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(2;22)(p11.2;q11.2)		-	B-Cell Acute Lymphoblastic Leukemia
+t(2;22)(p11;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(2;22)(p25;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(2;3)(q31;q27)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(2;4)(q31;q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(2;4;11)(p21;q21;q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(2;5)(p21;q35)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(2;8)(p12;q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(2;8)(p21;q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(2;9)(p11.2;p13)		-	B-Cell Acute Lymphoblastic Leukemia
+t(2;9)(p12;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(2;9)(p12;p23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(2;9)(q11;q34)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(2;9)(q21;q34)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(2;9;22)(p13;q34;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(3;10)(p21;q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(3;11)(q12;p15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(3;12)(p13;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(3;12)(p21;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(3;12)(q12;p12)		-	Acute Lymphoblastic Leukemias
+t(3;12)(q21;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(3;15)(p21;q15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(3;16)(q23;p13)		-	Acute Lymphoblastic Leukemia
+t(3;19)(p21;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(3;3)(q21;q26)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(3;4)(p13;p16)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(3;9)(p11;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(3;9)(p14;p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(4;11)(q13;q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(4;11)(q21.3;q23.3)	AFF1/MLL	-	Acute Lymphoblastic Leukemia
+t(4;11)(q21;p15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(4;11)(q21;p15.5)		-	T-Cell Acute Lymphoblastic Leukemia
+t(4;11)(q21;q23)		-	Acute Lymphoblastic Leukemia
+t(4;11)(q21;q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(4;11)(q21;q23)	AFF1/MLL	-	Acute Lymphoblastic Leukemia
+t(4;11)(q21;q23.3)		-	Acute Lymphoblastic Leukemia
+t(4;11)(q21;q23.3)	AFF1/MLL	-	Acute Lymphoblastic Leukemia
+t(4;11)(q22.1;q23.3)	AFF1/MLL	-	Acute Lymphoblastic Leukemia
+t(4;11)(q23;p15)	RAP1GDS1/NUP98	-	T-Cell Acute Lymphoblastic Leukemia
+t(4;11)(q24.21;q23)	NM_005933.2	-	Acute Lymphoblastic Leukemia
+t(4;11)(q27;q13)	NM_005933.2	-	Acute Lymphoblastic Leukemia
+t(4;11)(q32;q23)		-	Acute Lymphoblastic Leukemia
+t(4;11;13)(q21;q23;q14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(4;12)(q13;p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(4;12;21)(q21;p13;q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(4;15)(p10;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(4;21)(q28;q22.3)	FGA/RUNX1	-	Acute Lymphoblastic Leukemia
+t(4;21)(q31;q22)	NM_001754	-	T-Cell Acute Lymphoblastic Leukemia
+t(4;7)(p15.31;q36.1)	SLIT2	-	T-Cell Acute Lymphoblastic Leukemia
+t(5;10)(q22;q24)		-	Acute Lymphoblastic Leukemia
+t(5;11)(q31;q23)	RARA/MLL	-	Acute Lymphoblastic Leukemia
+t(5;11)(q35;q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(5;12)(p15;q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(5;12)(q13;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(5;12)(q33;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(5;12)(q33;p13)	NM_0019874	-	Acute Lymphoblastic Leukemia
+t(5;14)(p13.2;q11)		-	Acute Lymphoblastic Leukemia
+t(5;14)(q34;q11)	NC_000014.8	-	Acute Lymphoblastic Leukemia
+t(5;14)(q34;q11)	RANBP17	-	Acute Lymphoblastic Leukemia
+t(5;15)(p15;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(5;6)(q13;p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(5;7)(q33;q33)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(5;9)(q23;q34)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(6;11)(q27;q23)		-	Acute Lymphoblastic Leukemia
+t(6;11)(q27;q24)		-	Acute Lymphoblastic Leukemia
+t(6;11)(q32;q23)	NM_005933.2	-	Acute Lymphoblastic Leukemia
+t(6;12)(p21;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(6;12)(q21;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(6;12)(q23;p13)		-	Acute Lymphoblastic Leukemia
+t(6;14)(p22;q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(6;14)(p22;q32)	NM_001718220.1	-	B-Cell Acute Lymphoblastic Leukemia
+t(6;14)(q23;q21)		-	Acute Lymphoblastic Leukemia
+t(6;19)(p21;q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(6;19)(p25;q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(6;7)(p21;q36)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(7;10)(q22;q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(7;11)(q11;q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(7;11)(q21.2;q23.3)	CDK6/MLL	-	Acute Lymphoblastic Leukemia
+t(7;11)(q35;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(7;12)(p11;q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(7;12)(p15;q24.3)		-	T-Cell Acute Lymphoblastic Leukemia
+t(7;12)(q11;p11)		-	Acute Lymphoblastic Leukemia
+t(7;12)(q11;p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(7;12)(q11;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(7;12)(q11;q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(7;12)(q22;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(7;12)(q34;p12.3)		-	T-Cell Acute Lymphoblastic Leukemia
+t(7;12)(q35;p13)	NM_001987.4	-	Acute Lymphoblastic Leukemia
+t(7;12)(q36;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(7;13)(q11;q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(7;14)(p11;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(7;14)(p13;q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(7;14)(p15;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(7;14)(p15;q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(7;14)(p22;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(7;14)(q34;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(7;14)(q36;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(7;15)(q22;q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(7;17)(q11;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(7;19)(q34;p13)	NT_079596.2/NM_005583.3	-	Acute Lymphoblastic Leukemia
+t(7;9)(p13;q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(7;9)(q11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(7;9)(q11;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(7;9)(q34;q32)		-	T-Cell Acute Lymphoblastic Leukemia
+t(7;9)(q34;q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(7;9;22)(q11;q34;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(8;10)(q24;q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(8;12)(p21;q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(8;12)(p22;p13)		-	Acute Lymphoblastic Leukemia
+t(8;12)(p22;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(8;12)(q11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(8;12)(q11;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(8;12)(q13;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(8;12)(q24;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(8;13)(p12;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(8;14)(q11;q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(8;14)(q21;q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(8;14)(q24.21;q11)	MYC	-	Acute Lymphoblastic Leukemia
+t(8;14)(q24;q11)		-	T-cell Acute Lymphoblastic Leukemia
+t(8;14)(q24;q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(8;14)(q24;q32)		-	Acute Lymphoblastic Leukemia
+t(8;14)(q24;q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(8;16)(p11;p13)	KAT6A/CREBBP	-	Common-Acute Lymphoblastic Leukemia
+t(8;21)(q22;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(8;21)(q22;q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(8;22)(q24;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(8;9)(q24;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(8;9)(q24;q34)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(9;10)(q34;q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(9;11)(p13;p15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(9;11)(p13;q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(9;11)(p21;q23)		-	Acute Lymphoblastic Leukemia
+t(9;11)(p21;q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(9;11)(p22;q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(9;11)(p22;q23)	MLLT3/MLL	-	Acute Lymphoblastic Leukemia
+t(9;11;21)(q33;q23;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(9;12)(p11;p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(9;12)(p11;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(9;12)(p11;q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(9;12)(p13;p13)	NM_001987.4	-	Acute Lymphoblastic Leukemia
+t(9;12)(p13;q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(9;12)(p21;p12)		-	Acute Lymphoblastic Leukemias
+t(9;12)(p21;p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(9;12)(p22;q14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(9;12)(p24;p13)	NM_001987.4	-	Acute Lymphoblastic Leukemia
+t(9;12)(q11;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(9;12)(q11;p13)	NM_001987.4	-	Acute Lymphoblastic Leukemia
+t(9;12)(q22;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(9;12)(q34;p13)	NM_001987.4	-	Acute Lymphoblastic Leukemia
+t(9;13)(p13;q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(9;13)(p21;q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(9;14)(p21.3;q11.2)	CDKN2A	-	B-Cell Acute Lymphoblastic Leukemia
+t(9;14)(p21;q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(9;14)(q34;q32)	ABL1/EML1	-	T-Cell Acute Lymphoblastic Leukemia
+t(9;15)(p22;q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(9;15)(q32;q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(9;17)(q12;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(9;17)(q13;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(9;17)(q34;q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(9;18)(p13;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(9;20)(p12;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(9;20)(p21;q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(9;21)(p13;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(9;22)(q34;q11)		-	Acute Lymphoblastic Leukemia
+t(9;22)(q34;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(9;22)(q34;q11)	ABL1/BCR	-	Acute Lymphoblastic Leukemia
+t(9;22)(q34;q11.2)		-	Acute Lymphoblastic Leukemia
+t(9;22)(q34;q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(9;22;11)(q34;q11;q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(9;9)(p11;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(9;9)(p22;p24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(10;11)(p12;q14)	MLLT10/PICALM	-	Acute Lymphoblastic Leukemia
+t(10;11)(p12;q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(10;11)(p12;q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(10;11)(p13;q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(10;11)(p13;q14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(10;11)(p13;q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(10;11)(p14;q14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(10;11)(p14;q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(10;12)(q22.1;p12.3)		-	Acute Lymphoblastic Leukemia
+t(10;13)(p15;q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(10;14)(p12;q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(10;14)(q24.31;q11)		-	T-Cell Acute Lymphoblastic Leukemia
+t(10;14)(q24.31;q11.2)	TLX1	-	Acute Lymphoblastic Leukemia
+t(10;14)(q24.31;q11.2)	TLX1NB	-	T-Cell Acute Lymphoblastic Leukemia
+t(10;14)(q24;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(10;14)(q24;q11)	TLX1	-	T-Cell Acute Lymphoblastic Leukemia
+t(10;14)(q24;q32)		-	Acute Lymphoblastic Leukemia
+t(10;14)(q25;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(10;14)(q26;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(10;21)(q22;q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(11;12)(p11;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(11;12)(q25;p12)		-	Acute Lymphoblastic Leukemia
+t(11;14)(p13;q11)		-	Acute Lymphoblastic Leukemias
+t(11;14)(p13;q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(11;14)(p13;q32)	LMO2	-	T-Cell Acute Lymphoblastic Leukemia
+t(11;14)(p14;q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(11;14)(p15.4;q11.2)		-	T-Cell Acute Lymphoblastic Leukemia
+t(11;14)(p34;q11)		-	Acute Lymphoblastic Leukemia
+t(11;14)(q13;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(11;14)(q13;q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(11;14)(q23;q11)		-	Acute Lymphoblastic Leukemia
+t(11;14)(q23;q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(11;14)(q24;q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(11;16)(q23;p13)	MLL/CREBBP	-	T-Cell Acute Lymphoblastic Leukemia
+t(11;16)(q23;p13.3)	MLL/CREBBP	-	Acute Lymphoblastic Leukemias
+t(11;17)(q23;q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(11;17)(q23;q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(11;19)(q13;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(11;19)(q13;q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(11;19)(q23.3;p13.3)	MLL/MLLT1	-	T-Cell Acute Lymphoblastic Leukemia
+t(11;19)(q23;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(11;19)(q23;p13)		-	Acute Lymphoblastic Leukemia
+t(11;19)(q23;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(11;19)(q23;p13.3)		-	Acute Lymphoblastic Leukemia
+t(11;20)(p15;q11.2)	NUP98/TOP1	-	Acute Lymphoblastic Leukemia
+t(11;20)(q23;q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(11;9)(q23;p22)		-	Acute Lymphoblastic Leukemia
+t(12;13)(p11;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(12;13)(p11;q14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(12;13)(p13;q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(12;13)(p13;q12)	ETV6	-	Acute Lymphoblastic Leukemia
+t(12;13)(p13;q14)	ETV6	-	Acute Lymphoblastic Leukemia
+t(12;13)(q21;q14)		-	Acute Lymphoblastic Leukemia
+t(12;14)(p12;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(12;14)(p13;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(12;14)(p13;q11)	ETV6	-	Acute Lymphoblastic Leukemia
+t(12;14)(p13;q32)	ETV6	-	B-Cell Acute Lymphoblastic Leukemia
+t(12;14)(q24;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(12;15)(p11;q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(12;15)(p13;q15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(12;16)(q24;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(12;17)(p12;q12)		-	Acute Lymphoblastic Leukemia
+t(12;17)(p12;q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(12;17)(p13;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(12;17)(p13;q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(12;18)(p11;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(12;18)(p12;q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(12;19)(p13;p13)		-	Acute Lymphoblastic Leukemia
+t(12;19)(p13;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(12;19)(p13;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(12;21)(p12;q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(12;21)(p13.2;q22.12)	ETV6/RUNX1	-	Acute Lymphoblastic Leukemia
+t(12;21)(p13.2;q22.12)	ETV6/RUNX1	-	Acute Lymphoblastic Leukemia
+t(12;21)(p13.2;q22.12)	ETV6/RUNX1	-	B-Cell Acute Lymphoblastic Leukemia
+t(12;21)(p13;q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(12;21)(p13;q22)	ETV6	-	Acute Lymphoblastic Leukemia
+t(12;21)(p13;q22)	ETV6/RUNX1	-	Acute Lymphoblastic Leukemia
+t(12;21)(p13;q22)	RUNX1/ETV6	-	Acute Lymphoblastic Leukemia
+t(12;22)(p11;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(12;22)(p13;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(12;22)(p13;q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(13;14)(q12;q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(13;17)(q12;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(13;20)(q11;q12)		-	B-Cell Acute Lymphoblastic Leukemia
+t(14;14)(q11;q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(14;17)(q32;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(14;18)(q32;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(14;18)(q32;q21)		-	Acute Lymphoblastic Leukemia
+t(14;18)(q32;q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(14;19)(q32;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(14;19)(q32;q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(14;20)(q11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(14;20)(q11;p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(14;20)(q11;q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(14;20)(q32;q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(14;20)(q32;q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(14;21)(q11;q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(14;22)(q32;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(16;22)(p13;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(17;19)(q21;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(17;19)(q21;q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(17;19)(q22;p13)		-	Acute Lymphoblastic Leukemia
+t(17;19)(q22;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(17;19)(q22;p13)	HLF/TCF3	-	Acute Lymphoblastic Leukemia
+t(18;20)(q11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+t(19;21)(p13;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(X)(p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(X)(q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(X)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(X)(q22q26)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(X)(q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(X)(q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(X)(q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(X)(q26)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(Xq)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(Y)(q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(Y)(q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p13p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p13p31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p21p31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p22p31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p22p32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p22p36)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p32p34)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p32p36)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p34)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p36)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(q22q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(q32q42)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(q41)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(q42)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1p)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(2)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(2)(p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(2)(p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(2)(p13p23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(2)(p15p23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(2)(p16)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(2)(p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(2)(p21p25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(2)(p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(2)(p23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(2)(q21q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(2)(q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(2)(q33)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(2p)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(2q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(p12p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(p14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(p21p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(p23p25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(p24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(p25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(q12q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(q12q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(q13q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(q21q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(q26)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(q26q26)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3p)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(4)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(4)(p14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(4)(p14p16)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(4)(p15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(4)(q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(4)(q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(4)(q21q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(4)(q21q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(4)(q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(4)(q27q35)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(4)(q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(4)(q31q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(4)(q31q35)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(4)(q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(4p)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(4q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(p14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(p15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q11q31)		-	Acute Lymphoblastic Leukemia
+del(5)(q12q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q13q15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q13q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q13q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q13q33)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q13q35)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q14q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q14q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q15q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q15q33)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q15q35)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q22q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q22q33)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q22q34)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q22q35)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q23q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q23q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q23q33)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q31q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q31q33)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q31q35)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q33q33)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q34)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5q) in acute lymphoblastic leukemia (ALL)		-	B-ALL::T-ALL
+der(5)del(5)(q33)t(5;7)(q33;q33)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(p21p25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(p23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q11q15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q11q21)		-	T-Cell Acute Lymphoblastic Leukemia
+del(6)(q11q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q12q15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q12q16)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q12q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q12q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q12q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q13q15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q13q16)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q13q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q13q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q13q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q13q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q14q16)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q14q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q14q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q14q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q14q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q14q27)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q15q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q15q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q15q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q15q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q15q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q15q27)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q16)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q16q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q16q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q16q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q16q27)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q21q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q21q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q21q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q21q26)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q21q27)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q22q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q23q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q23q26)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q23q27)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q26)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6p)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(p11p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(p11p14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(p12p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(p12p15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(p13p15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(p13p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(p13p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(p14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(p14.1p14.1)		-	T-Cell Acute Lymphoblastic Leukaemia
+del(7)(p14.1p14.2)		-	Acute Lymphoblastic Leukemia
+del(7)(p14p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(p15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(p15p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(q11q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(q11q36)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(q21q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(q21q36)		-	Acute Lymphoblastic Leukemia
+del(7)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(q22q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(q22q31)ordel(7)(q31q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(q22q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(q22q34)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(q22q35)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(q22q36)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(q32q36)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(q34)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7p)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8)(p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8)(p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8)(p21p23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8)(p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8)(q11q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8)(q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8)(q13q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8)(q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8)(q21q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8)(q21q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8)(q22q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8)(q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8)(q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8p)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p11p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p11p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p11p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p12p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p12p24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p13p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p13p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p13p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p13p23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p13p24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p21.3p21.1)	MTAP/LINGO2	-	B-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)		-	B-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)		-	B-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)		-	T-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)		-	T-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)		-	T-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)	CDKN2A/CDKN2B	-	T-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)	CDKN2A/CDKN2B-AS1	-	B-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)	FOCAD/CDKN2B-AS1	-	T-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)	MLLT3	-	B-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)	MTAP	-	T-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)	MTAP/CDKN2A	-	B-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)	MTAP/CDKN2A	-	T-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)	MTAP/CDKN2B	-	B-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)	MTAP/CDKN2B	-	T-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)	MTAP/CDKN2B-AS1	-	B-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)	MTAP/CDKN2B-AS1	-	T-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)	NM_058195	-	B-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)	NM_058195	-	B-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)	NM_058195	-	T-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)	NM_058195	-	T-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)	NR_003529.2	-	B-Cell Acute Lymphoblastic Leukemia
+del(9)(p21p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p21p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p21p23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p21p24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p22.1p21.3)		-	B-Cell Acute Lymphoblastic Leukemia
+del(9)(p22p24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q11q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q12q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q12q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q12q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q13q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q13q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q13q34)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q21q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q21q34)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q22q33)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q22q34)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q34.11q34.13)	SET/NUP214	-	T-Cell Acute Lymphoblastic Leukemia
+del(9)(q34q34)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9p)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9p) in Acute Lymphoblastic Leukemia		-	B-ALL::T-ALL
+del(9q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(9)del(9)(p12)t(9;20)(p12;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(9)del(9)(p12)t(9;22)(q34;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(9)del(9)(p13)t(9;22)(q34;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(9)del(9)(p21)t(9;22)(q34;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(9)del(9)(p22)t(9;22)(q34;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10)(p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10)(p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10)(p13p14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10)(p14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10)(q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10)(q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10)(q22q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10)(q22q26)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10)(q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10)(q23q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10)(q23q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10)(q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10)(q24q26)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10)(q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10p)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(p11p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(p14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(p15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(q13q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(q13q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(q14q21)		-	T Cell Acute Lymphoblastic
+del(11)(q14q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(q14q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(q14q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(q21q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(q22.3q22.3)	ATM	-	T-Cell Acute Lymphoblastic Leukemia
+del(11)(q22q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(q22q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(q22q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(q23)	MLL	-	Acute Lymphoblastic Leukemia
+del(11)(q23q23)	MLL	-	Acute Lymphoblastic Leukemia
+del(11)(q23q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(q23q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11p)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(12)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(12)(p11p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(12)(p11p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(12)(p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(12)(p12p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(12)(p13p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(12)(q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(12)(q14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(12)(q14q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(12)(q15q24)		-	Acute Lymphoblastic Leukemia
+del(12)(q21q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(12)(q21q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(12)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(12)(q22q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(12)(q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(12p)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(12q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(12)del(12)(p11)t(1;12)(q44;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q11q14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q12q14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q12q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q12q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q12q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q13q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q13q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q13q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q13q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q14q14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q14q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q14q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q14q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q14q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q14q33)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q14q34)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q22q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(14)(q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(14)(q11q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(14)(q11q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(14)(q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(14)(q21q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(14)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(14)(q22q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(14)(q22q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(14)(q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(14)(q24q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(14)(q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(14)(q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(14q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(15)(q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(15)(q15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(15)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(15)(q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(15)(q24q26)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(15q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(16)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(16)(p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(16)(p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(16)(q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(16)(q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(16)(q12q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(16)(q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(16)(q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(16)(q22q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(16)(q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(16q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(17)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(17)(p11p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(17)(p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(17)(p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(17)(q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(17)(q21q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(17)(q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(17p)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(17q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(18)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(18)(q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(18)(q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(19)(p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(19)(p13p13)		-	Acute Lymphoblastic Leukemia
+del(19)(p13p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(19)(q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(19)(q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(19p)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(20)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(20)(p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(20)(q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(20)(q11q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(20)(q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(20)(q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(20)(q13q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(20q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(20)del(20)(q11q13)t(20;21)(q11;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(21)(q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(21)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(21)(q22q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(21q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(22)(q11q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(22)(q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(22q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(X)t(X;17)(q26;q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(1)t(1;1)(p36;q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(1)t(1;1)(p36;q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(1)t(1;17)(p36;q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(1)trp(1)(q11q32)dup(1)(q41q42)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+ider(1)(p10)add(1)(p34)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(2)t(1;2)(q12;q37)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(2)t(1;2)(q21;q33)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(2)t(2;11)(p23;p14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(3)t(1;3)(q12;q29)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(4)t(4;11)(q21;q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(5)del(5)(q33)t(5;7)(q33;q33)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(5)t(1;5)(q21;p15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(5)t(5;11)(q35;q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(5)t(5;12)(p15;q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(6)t(1;6)(q21;q27)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(6)t(X;6)(q21;q14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(7)t(1;7)(q12;p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(7)t(1;7)(q21;q36)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(7)t(7;12)(p11;q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(7)t(7;14)(p11;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(7)t(7;9)(p13;q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(7;9)(q10;q10)t(9;22)(q34;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(8)t(8;14)(q24;q32)t(14;18)(q32;q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(9)(p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(9)add(9)(p12)t(9;22)(q34;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(9)del(9)(p12)t(9;20)(p12;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(9)del(9)(p12)t(9;22)(q34;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(9)del(9)(p13)t(9;22)(q34;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(9)del(9)(p21)t(9;22)(q34;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(9)del(9)(p22)t(9;22)(q34;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(9)t(1;9)(q11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(9)t(7;9)(p11;p13)t(9;22)(q34;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(9)t(7;9)(q11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(9)t(7;9)(q11;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(9)t(8;9)(q12;p22)t(9;22)(q34;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(9)t(9;11)(p13;q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(9)t(9;12)(p11;q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(9)t(9;13)(p13;q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(9)t(9;18)(p13;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(9)t(9;21)(p13;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(9)t(9;22)(q34;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(9;20)t(9;20)(p11;q11)t(9;22)(q34;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+ider(9)(q10)t(9;22)(q34;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(10)t(10;13)(p15;q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(10)t(10;14)(q24;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(11)t(1;11)(q21;q14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(11)t(1;11)(q21;q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(11)t(4;11)(q21;q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(11)t(7;11)(q11;q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(12)del(12)(p11)t(1;12)(q44;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(12)t(12;13)(p11;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(12)t(12;14)(p12;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(12)t(12;14)(p13;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(12)t(12;17)(p13;q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(12)t(12;18)(p11;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(12)t(12;21)(p13;q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(12)t(3;12)(p13;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(12)t(7;12)(q11;p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(12)t(7;12)(q11;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(12)t(7;12)(q11;q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(12)t(8;12)(q11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(12)t(9;12)(p11;p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(12)t(9;12)(q11;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(13)t(7;13)(q11;q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(14)(q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(14)(q32)	?IGH?	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(14)t(11;14)(q24;q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(14)t(14;14)(q11;q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(14)t(14;17)(q32;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(14)t(14;18)(q32;q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(14)t(1;14)(q21;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(14)t(1;14)(q21;q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(14)t(8;14)(q11;q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(14)t(8;14)(q21;q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(14)t(8;14)(q24;q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(15)t(1;15)(q11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(15)t(1;15)(q12;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(15)t(1;15)(q23;q26)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(16)t(1;16)(q12;q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(16)t(1;16)(q12;q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(16)t(1;16)(q21;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(16)t(1;16)(q21;q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(16)t(1;16)(q21;q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(17)t(13;17)(q12;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(17)t(1;17)(p13;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(17)t(1;17)(q11;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(17)t(1;17)(q12;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(17)t(1;17)(q21;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(17)t(9;17)(q12;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(17)t(9;17)(q13;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(19)t(11;19)(q13;q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(19)t(11;19)(q23;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(19)t(12;19)(p13;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(19)t(17;19)(q21;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(19)t(17;19)(q21;q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(19)t(17;19)(q22;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(19)t(19;21)(p13;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(19)t(1;19)(q11;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(19)t(1;19)(q12;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(19)t(1;19)(q21;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(19)t(1;19)(q23;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(19)t(1;19)(q23;q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(20)del(20)(q11q13)t(20;21)(q11;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(20)t(1;20)(q12;q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(20)t(1;20)(q25;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(21)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(21)add(21)(p11)add(21)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(21)add(21)(p11)add(21)(q22)dup(21)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(21)add(21)(p11)dup(21)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(21)r(21)dup(21)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(21)t(12;21)(p13;q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(21)t(1;21)(q11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(21)t(1;21)(q11;q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(21)t(1;21)(q12;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(21)t(1;21)(q12;q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(21)t(1;21)(q21;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(21)t(1;21)(q21;q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(21)t(1;21)(q25;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(21)t(1;21)(q25;q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(21)t(9;11;21)(q33;q23;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+ider(21)(q10)add(21)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+ider(21)(q10)dup(21)(q21q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+ider(21)(q10)dup(21)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+ider(21)(q10)dup(21)(q22q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+ider(21)(q10)t(12;21)(p13;q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(22)t(1;22)(q11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(22)t(1;22)(q23;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(22)t(9;22)(q34;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+idic(1)(p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(7;12)(p11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(7;12)(p11;p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(7;16)(p11;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(7;9)(p11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(7;9)(p11;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(7;9)(p12;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(7;9)(p13;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+idic(7)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(8;12)(p11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(9;12)(p11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(9;12)(p11;p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(9;12)(p12;p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(9;12)(p13;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(9;12)(p13;p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(9;12)(p13;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(9;15)(p11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(9;17)(p11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(9;17)(p13;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(9;18)(p13;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(9;20)(p11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(9;20)(p11;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(9;20)(p12;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(9;22)(p11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+idic(9)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+idic(9)(p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+idic(9)(p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(12;13)(p11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(12;15)(p11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(12;16)(p11;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(12;17)(p11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(12;18)(p11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(16;18)(q11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+idic(17)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(21;21)(p11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+idic(21)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+idic(21)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(X)(p11p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(X)(q25q28)		-	Acute Lymphoblastic Leukemia
+dup(X)(q25q28)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(1)trp(1)(q11q32)dup(1)(q41q42)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(p22p36)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q11q44)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q12q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q12q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q12q42)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q12q43)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q12q44)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q21q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q21q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q21q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q21q41)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q21q42)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q21q44)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q22q44)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q23q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q23q42)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q23q44)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q24q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q25q44)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q31q41)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q31q44)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q32q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(2)(q11q37)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(2)(q31q33)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(2)(q31q37)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(4)(p15p16)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(5)(q13q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(7)(p15p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(8)(q22q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(9)(p13p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(9)(p13p24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(10)(p11p15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(10)(q11q26)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(11)(q13q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(12)(p11p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(12)(q13q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(13)(q12q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(14)(q24q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(16)(p11p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(17)(q11q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(17)(q21q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(17)(q22q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(18)(p11p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(20)(p11p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(21)add(21)(p11)add(21)(q22)dup(21)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(21)add(21)(p11)dup(21)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(21)r(21)dup(21)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(21)(q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(21)(q11q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(21)(q21q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(21)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(21)(q22q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+ider(21)(q10)dup(21)(q21q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+ider(21)(q10)dup(21)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+ider(21)(q10)dup(21)(q22q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+i(9)(q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+ins(4;11)(q21;q11q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+ins(10;11)(p12;q23q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+ins(12;21)(p13;q22q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+ins(14;14)(q32;q32q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+inv(1)(p13q42)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+inv(2)(p11q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+inv(2)(p25q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+inv(3)(q21q26)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+inv(5)(p15q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+inv(7)(p11q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+inv(7)(p14p22)		-	B-Cell Acute Lymphoblastic Leukemia
+inv(7)(p15.2q35)		-	T-Cell Acute Lymphoblastic Leukemia
+inv(7)(p15q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+inv(9)(p11q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+inv(9)(p12q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+inv(9)(p21.3p21.3)		-	T-Cell Acute Lymphoblastic Leukemia
+inv(10)(p15q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+inv(11)(p15q22.3)		-	Acute Lymphoblastic Leukemia
+inv(11)(p15q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+inv(11)(q21q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+inv(12)(p13q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+inv(14)(q22q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+inv(14)(q32q11.2)	BCL11B	-	T-Cell Acute Lymphoblastic Leukemia
+inv(16)(p13q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+inv(19)(p13q13)		-	Acute Lymphoblastic Leukemia
+inv(20)(p11q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+inv(21)(q22.12q22.12)	RUNX1	-	Acute Lymphoblastic Leukemia

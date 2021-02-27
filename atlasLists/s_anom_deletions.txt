@@ -1,0 +1,3305 @@
+del(X)(p11)	-	-	Acute myeloid leukemia, NOS
+del(X)(p11)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(X)(p11)	-	-	Multiple myeloma
+del(X)(p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(X)(p21)	-	-	Burkitt lymphoma/leukemia
+del(X)(p21)	-	-	Follicular lymphoma
+del(X)(p21)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(X)(p22)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(X)(p22p22)	CSF2RA/CRLF2	-	MPD
+del(X)(q12)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(X)(q12)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(X)(q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(X)(q13)	-	-	Multiple myeloma
+del(X)(q21)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(X)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(X)(q22)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(X)(q22)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(X)(q22)	-	-	Acute myeloid leukemia, NOS
+del(X)(q22)	-	-	Burkitt lymphoma/leukemia
+del(X)(q22)	-	-	Diffuse large B-cell lymphoma
+del(X)(q22)	-	-	Follicular lymphoma
+del(X)(q22)	-	-	Multiple myeloma
+del(X)(q22q26)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(X)(q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(X)(q23)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(X)(q23)	-	-	Follicular lymphoma
+del(X)(q23)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(X)(q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(X)(q24)	-	-	Acute myeloid leukemia, NOS
+del(X)(q24)	-	-	Diffuse large B-cell lymphoma
+del(X)(q24)	-	-	Follicular lymphoma
+del(X)(q24)	-	-	Multiple myeloma
+del(X)(q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(X)(q25)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(X)(q26)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(X)(q26)	-	-	Chronic lymphocytic leukemia
+del(X)(q26)	-	-	Diffuse large B-cell lymphoma
+del(X)(q26)	-	-	Follicular lymphoma
+del(X)(q26)	-	-	Mantle cell lymphoma
+del(X)(q26)	-	-	Multiple myeloma
+del(X)(q27)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(X)(q28)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(Xq)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(Y)(p11)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(Y)(q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(Y)(q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(Y)(q12)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(1)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p11)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(1)(p11)	-	-	Acute myeloid leukemia, NOS
+del(1)(p11)	-	-	Diffuse large B-cell lymphoma
+del(1)(p11)	-	-	Multiple myeloma
+del(1)(p11p21)	-	-	Multiple myeloma
+del(1)(p11p22)	-	-	Multiple myeloma
+del(1)(p11p31)	-	-	Mantle cell lymphoma
+del(1)(p11p31)	-	-	Multiple myeloma
+del(1)(p11p32)	-	-	Multiple myeloma
+del(1)(p11p33)	-	-	Multiple myeloma
+del(1)(p11p34)	-	-	Multiple myeloma
+del(1)(p11)	-	-	Polycythemia vera
+del(1)(p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p12)	-	-	Diffuse large B-cell lymphoma
+del(1)(p12)	-	-	Follicular lymphoma
+del(1)(p12)	-	-	Multiple myeloma
+del(1)(p12p13)		-	B-Cell Diffuse Large Cell Lymphoma
+del(1)(p12p21)	-	-	Multiple myeloma
+del(1)(p12p22)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(1)(p12p22)	-	-	Mantle cell lymphoma
+del(1)(p12p22)	-	-	Multiple myeloma
+del(1)(p12p31)	-	-	Mantle cell lymphoma
+del(1)(p12p31)	-	-	Multiple myeloma
+del(1)(p12p35)	-	-	Multiple myeloma
+del(1)(p13)	-	-	Acute erythroleukemia (FAB type M6)
+del(1)(p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p13)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(1)(p13)	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+del(1)(p13)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(1)(p13)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(1)(p13)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(1)(p13)	-	-	Acute myeloid leukemia, NOS
+del(1)(p13)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(1)(p13)	-	-	Burkitt lymphoma/leukemia
+del(1)(p13)	-	-	Chronic lymphocytic leukemia
+del(1)(p13)	-	-	Diffuse large B-cell lymphoma
+del(1)(p13)	-	-	Follicular lymphoma
+del(1)(p13)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(1)(p13)	-	-	Multiple myeloma
+del(1)(p13p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p13p22)	-	-	Diffuse large B-cell lymphoma
+del(1)(p13p22)	-	-	Mantle cell lymphoma
+del(1)(p13p22)	-	-	Multiple myeloma
+del(1)(p13p22)		-	Multiple Myeloma
+del(1)(p13p31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p13p31)	-	-	Mantle cell lymphoma
+del(1)(p13p31)	-	-	Multiple myeloma
+del(1)(p13p31)		-	Multiple Myeloma
+del(1)(p13p31)	-	-	Plasma cell leukemia
+del(1)(p13p32)	-	-	Multiple myeloma
+del(1)(p13p36)	-	-	Multiple myeloma
+del(1)(p13)	-	-	Peripheral T-cell lymphoma, unspecified
+del(1)(p13)	-	-	Plasma cell leukemia
+del(1)(p13)	-	-	Refractory anemia
+del(1)(p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p21)	-	-	Acute myeloid leukemia, NOS
+del(1)(p21)	-	-	Chronic lymphocytic leukemia
+del(1)(p21)	-	-	Diffuse large B-cell lymphoma
+del(1)(p21)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(1)(p21)	-	-	Mantle cell lymphoma
+del(1)(p21)	-	-	Multiple myeloma
+del(1)(p21p22)	-	-	Multiple myeloma
+del(1)(p21p31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p21p31)	-	-	Mantle cell lymphoma
+del(1)(p21p31)	-	-	Multiple myeloma
+del(1)(p21p34)	-	-	Multiple myeloma
+del(1)(p21p36)	-	-	Multiple myeloma
+del(1)(p21)	-	-	Refractory anemia with excess of blasts (FAB)
+del(1)(p22)	-	-	Acute erythroleukemia (FAB type M6)
+del(1)(p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p22)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(1)(p22)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(1)(p22)	-	-	Acute myeloid leukemia, NOS
+del(1)(p22)	-	-	Burkitt lymphoma/leukemia
+del(1)(p22)	-	-	Diffuse large B-cell lymphoma
+del(1)(p22)	-	-	Follicular lymphoma
+del(1)(p22)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(1)(p22)	-	-	Multiple myeloma
+del(1)(p22p31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p22p31)	-	-	Mantle cell lymphoma
+del(1)(p22p31)	-	-	Multiple myeloma
+del(1)(p22p32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p22p32)	-	-	Diffuse large B-cell lymphoma
+del(1)(p22p32)	-	-	Mantle cell lymphoma
+del(1)(p22p32)	-	-	Multiple myeloma
+del(1)(p22p33)	-	-	Multiple myeloma
+del(1)(p22p35)	-	-	Multiple myeloma
+del(1)(p22p36)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p22p36)	-	-	Acute myeloid leukemia, NOS
+del(1)(p22p36)	-	-	Multiple myeloma
+del(1)(p22)	-	-	Refractory anemia with excess blasts-2
+del(1)(p22)	-	-	Refractory anemia with excess of blasts (FAB)
+del(1)(p31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p31)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(1)(p31)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(1)(p31)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(1)(p31)	-	-	Multiple myeloma
+del(1)(p31p35)		-	Multiple Myeloma
+del(1)(p31p36)	-	-	Multiple myeloma
+del(1)(p32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p32)	-	-	Acute myeloid leukemia, NOS
+del(1)(p32)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(1)(p32)	-	-	Anaplastic large cell lymphoma, systemic type
+del(1)(p32)	-	-	Diffuse large B-cell lymphoma
+del(1)(p32)	-	-	Follicular lymphoma
+del(1)(p32)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(1)(p32)	-	-	Multiple myeloma
+del(1)(p32p34)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p32p34)	-	-	Multiple myeloma
+del(1)(p32p36)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p32p36)	-	-	Acute myeloid leukemia, NOS
+del(1)(p32p36)	-	-	Multiple myeloma
+del(1)(p32)	-	-	Plasma cell leukemia
+del(1)(p33)	-	-	Diffuse large B-cell lymphoma
+del(1)(p34)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p34)	-	-	Acute myeloid leukemia, NOS
+del(1)(p34)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(1)(p34)	-	-	Diffuse large B-cell lymphoma
+del(1)(p34)	-	-	Follicular lymphoma
+del(1)(p34)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(1)(p34)	-	-	Mantle cell lymphoma
+del(1)(p34)	-	-	Multiple myeloma
+del(1)(p34p36)	-	-	Chronic lymphocytic leukemia
+del(1)(p35)	-	-	Diffuse large B-cell lymphoma
+del(1)(p35)	-	-	Follicular lymphoma
+del(1)(p35)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(1)(p36)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(p36)	-	-	Acute myeloid leukemia, NOS
+del(1)(p36)	-	-	Chronic lymphocytic leukemia
+del(1)(p36)	-	-	Diffuse large B-cell lymphoma
+del(1)(p36)	-	-	Follicular lymphoma
+del(1)(p36)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(1)(p36)	-	-	Multiple myeloma
+del(1)(p36p13)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(1)(p36p35)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(1p)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1p)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(1p)	-	-	Acute myeloid leukemia, NOS
+del(1p)	-	-	Chronic lymphocytic leukemia
+del(1p)	-	-	Diffuse large B-cell lymphoma
+del(1p)	-	-	Mantle cell lymphoma
+del(1p)	-	-	Multiple myeloma
+del(1p)	-	-	Plasma cell leukemia
+del(1p)	solely	-	MDS::AML::T-ALL::NHL
+del(1)(q11)	-	-	Acute erythroleukemia (FAB type M6)
+del(1)(q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(q11)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(1)(q11)	-	-	Acute myeloid leukemia, NOS
+del(1)(q11)	-	-	Burkitt lymphoma/leukemia
+del(1)(q11)	-	-	Diffuse large B-cell lymphoma
+del(1)(q11)	-	-	Follicular lymphoma
+del(1)(q11)	-	-	Multiple myeloma
+del(1)(q11)	-	-	Refractory anemia with excess of blasts (FAB)
+del(1)(q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(q12)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(1)(q12)	-	-	Chronic lymphocytic leukemia
+del(1)(q12)	-	-	Diffuse large B-cell lymphoma
+del(1)(q12)	-	-	Multiple myeloma
+del(1)(q21)	-	-	Acute erythroleukemia (FAB type M6)
+del(1)(q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(q21)	-	-	Acute monoblastic leukemia with differentiation (FAB type M5b)
+del(1)(q21)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(1)(q21)	-	-	Acute myeloid leukemia, NOS
+del(1)(q21)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(1)(q21)	-	-	Acute promyelocytic leukemia (FAB type M3)
+del(1)(q21)	-	-	Burkitt lymphoma/leukemia
+del(1)(q21)	-	-	Chronic lymphocytic leukemia
+del(1)(q21)	-	-	Diffuse large B-cell lymphoma
+del(1)(q21)	-	-	Follicular lymphoma
+del(1)(q21)	-	-	Idiopathic myelofibrosis
+del(1)(q21)	-	-	Mantle cell lymphoma
+del(1)(q21)	-	-	Multiple myeloma
+del(1)(q21)	-	-	Plasma cell leukemia
+del(1)(q21q42)	-	-	Multiple myeloma
+del(1)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(q22)	-	-	Diffuse large B-cell lymphoma
+del(1)(q22)	-	-	Multiple myeloma
+del(1)(q22q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(q23)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(1)(q23)	-	-	Diffuse large B-cell lymphoma
+del(1)(q23)	-	-	Follicular lymphoma
+del(1)(q23)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(1)(q23)	-	-	Multiple myeloma
+del(1)(q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(q24)	-	-	Mantle cell lymphoma
+del(1)(q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(q25)	-	-	Burkitt lymphoma/leukemia
+del(1)(q25)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(1)(q25)	-	-	Multiple myeloma
+del(1)(q25q25)	RABGAP1L/ZBTB37	-	MPD
+del(1)(q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(q31)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(1)(q31)	-	-	Multiple myeloma
+del(1)(q31)	-	-	Refractory anemia with excess blasts-2
+del(1)(q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(q32)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(1)(q32)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(1)(q32)	-	-	Acute myeloid leukemia, NOS
+del(1)(q32)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(1)(q32)	-	-	Burkitt lymphoma/leukemia
+del(1)(q32)	-	-	Chronic lymphocytic leukemia
+del(1)(q32)	-	-	Diffuse large B-cell lymphoma
+del(1)(q32)	-	-	Follicular lymphoma
+del(1)(q32)	-	-	Mantle cell lymphoma
+del(1)(q32)	-	-	Multiple myeloma
+del(1)(q32q42)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(q32q42)	-	-	Diffuse large B-cell lymphoma
+del(1)(q32q42)	-	-	Multiple myeloma
+del(1)(q32q44)	-	-	Multiple myeloma
+del(1)(q32)	-	-	Refractory anemia with excess of blasts (FAB)
+del(1)(q41)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(q41)	-	-	Follicular lymphoma
+del(1)(q41)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(1)(q42)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1)(q42)	-	-	Acute myeloid leukemia, NOS
+del(1)(q42)	-	-	Chronic lymphocytic leukemia
+del(1)(q42)	ESRRG/ACBD3	-	MPD
+del(1)(q42)	-	-	Follicular lymphoma
+del(1)(q42)	-	-	Multiple myeloma
+del(1)(q42q44)	-	-	Diffuse large B-cell lymphoma
+del(1)(q43)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(1)(q44)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(1q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(1q)	-	-	Diffuse large B-cell lymphoma
+del(1q)	-	-	Multiple myeloma
+ider(1)(q10)del(1)(q42)	-	-	Multiple myeloma
+del(2)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(2)(p11)	-	-	Acute myeloid leukemia, NOS
+del(2)(p11)	-	-	Burkitt lymphoma/leukemia
+del(2)(p11)	-	-	Diffuse large B-cell lymphoma
+del(2)(p11)	-	-	Follicular lymphoma
+del(2)(p11)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(2)(p11)	-	-	Multiple myeloma
+del(2)(p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(2)(p12)	-	-	Burkitt lymphoma/leukemia
+del(2)(p12)	-	-	Chronic lymphocytic leukemia
+del(2)(p12)	-	-	Follicular lymphoma
+del(2)(p12)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(2)(p12)	-	-	Multiple myeloma
+del(2)(p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(2)(p13)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(2)(p13)	-	-	Burkitt lymphoma/leukemia
+del(2)(p13)	-	-	Diffuse large B-cell lymphoma
+del(2)(p13)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(2)(p13)	-	-	Multiple myeloma
+del(2)(p13p23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(2)(p14)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(2)(p14)	-	-	Refractory anemia with excess of blasts (FAB)
+del(2)(p15p23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(2)(p16)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(2)(p16)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(2)(p16)	-	-	Multiple myeloma
+del(2)(p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(2)(p21)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(2)(p21)	-	-	Acute myeloid leukemia, NOS
+del(2)(p21)	-	-	Chronic lymphocytic leukemia
+del(2)(p21)	-	-	Diffuse large B-cell lymphoma
+del(2)(p21)	-	-	Follicular lymphoma
+del(2)(p21)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(2)(p21p25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(2)(p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(2)(p22)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(2)(p22q14)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(2)(p23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(2)(p23)	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+del(2)(p23)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(2)(p23)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(2)(p23)	-	-	Acute myeloid leukemia, NOS
+del(2)(p23)	-	-	Diffuse large B-cell lymphoma
+del(2)(p23)	-	-	Follicular lymphoma
+del(2)(p23)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(2)(p23)	-	-	Mantle cell lymphoma
+del(2)(p23)	-	-	Multiple myeloma
+del(2)(p23)	-	-	Peripheral T-cell lymphoma, unspecified
+del(2)(p23)	-	-	Refractory anemia with excess of blasts (FAB)
+del(2)(p24)	-	-	Burkitt lymphoma/leukemia
+del(2)(p24)	-	-	Diffuse large B-cell lymphoma
+del(2)(p24)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(2)(p25)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(2p)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(2)(q11)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(2)(q11q13)	-	-	Acute myeloid leukemia, NOS
+del(2)(q12)	-	-	Acute myeloid leukemia, NOS
+del(2)(q12)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(2)(q13q23)		-	B-Cell Lymphoma
+del(2)(q14)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(2)(q21)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(2)(q21)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(2)(q21)	-	-	Diffuse large B-cell lymphoma
+del(2)(q21)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(2)(q21)	-	-	Multiple myeloma
+del(2)(q21q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(2)(q21q31)	-	-	Diffuse large B-cell lymphoma
+del(2)(q22)	-	-	Diffuse large B-cell lymphoma
+del(2)(q22)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(2)(q22q24)	-	-	Follicular lymphoma
+del(2)(q22q32)	-	-	Diffuse large B-cell lymphoma
+del(2)(q23)	-	-	Diffuse large B-cell lymphoma
+del(2)(q23)	-	-	Follicular lymphoma
+del(2)(q23)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(2)(q24)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(2)(q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(2)(q31)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(2)(q31)	-	-	Acute myeloid leukemia, NOS
+del(2)(q31)	-	-	Chronic lymphocytic leukemia
+del(2)(q31)	-	-	Diffuse large B-cell lymphoma
+del(2)(q31)	-	-	Follicular lymphoma
+del(2)(q31)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(2)(q31)	-	-	Multiple myeloma
+del(2)(q31q33)	-	-	Mantle cell lymphoma
+del(2)(q31q33)	-	-	Multiple myeloma
+del(2)(q32)	-	-	Acute myeloid leukemia, NOS
+del(2)(q32)	-	-	Burkitt lymphoma/leukemia
+del(2)(q32)	-	-	Diffuse large B-cell lymphoma
+del(2)(q32)	-	-	Follicular lymphoma
+del(2)(q32)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(2)(q32)	-	-	Multiple myeloma
+del(2)(q32q35)	-	-	Multiple myeloma
+del(2)(q33)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(2)(q33)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(2)(q33)	-	-	Acute myeloid leukemia, NOS
+del(2)(q33)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(2)(q33)	-	-	Diffuse large B-cell lymphoma
+del(2)(q33)	-	-	Follicular lymphoma
+del(2)(q33)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(2)(q33)	-	-	Mantle cell lymphoma
+del(2)(q33)	-	-	Multiple myeloma
+del(2)(q33q37)	-	-	Chronic lymphocytic leukemia
+del(2)(q34)	-	-	Chronic lymphocytic leukemia
+del(2)(q34)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(2)(q34q35)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(2)(q34q36)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(2)(q35)	-	-	Multiple myeloma
+del(2)(q36)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(2)(q37)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(2q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(2q)	-	-	Acute myeloid leukemia, NOS
+del(2q)	-	-	Chronic lymphocytic leukemia
+del(2q)	-	-	Diffuse large B-cell lymphoma
+del(2q)	-	-	Follicular lymphoma
+del(2q)	-	-	Mantle cell lymphoma
+del(2q)	-	-	Multiple myeloma
+del(3)(p11)	-	-	Acute erythroleukemia (FAB type M6)
+del(3)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(p11)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(3)(p11)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(3)(p11)	-	-	Acute myeloid leukemia, NOS
+del(3)(p11)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(3)(p11)	-	-	Chronic lymphocytic leukemia
+del(3)(p11)	-	-	Diffuse large B-cell lymphoma
+del(3)(p11)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(3)(p11)	-	-	Multiple myeloma
+del(3)(p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(p12)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(3)(p12)	-	-	Acute myeloid leukemia, NOS
+del(3)(p12)	-	-	Diffuse large B-cell lymphoma
+del(3)(p12)	-	-	Follicular lymphoma
+del(3)(p12)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(3)(p12)	-	-	Multiple myeloma
+del(3)(p12p21)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(3)(p12p21)	-	-	Multiple myeloma
+del(3)(p12p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(p13)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(3)(p13)	-	-	Acute myeloid leukemia, NOS
+del(3)(p13)	-	-	Chronic lymphocytic leukemia
+del(3)(p13)	-	-	Diffuse large B-cell lymphoma
+del(3)(p13)	-	-	Follicular lymphoma
+del(3)(p13)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(3)(p13)	-	-	Multiple myeloma
+del(3)(p13)	-	-	Nodal marginal zone B-cell lymphoma
+del(3)(p13p21)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(3)(p13p21)	-	-	Acute myeloid leukemia, NOS
+del(3)(p13p21)	-	-	Diffuse large B-cell lymphoma
+del(3)(p13p23)	-	-	Diffuse large B-cell lymphoma
+del(3)(p13p25)	-	-	Diffuse large B-cell lymphoma
+del(3)(p13)	-	-	Splenic marginal zone B-cell lymphoma
+del(3)(p14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(p14)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(3)(p14)	-	-	Acute myeloid leukemia, NOS
+del(3)(p14)	-	-	Diffuse large B-cell lymphoma
+del(3)(p14)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(3)(p14)	-	-	Multiple myeloma
+del(3)(p14p23)	-	-	Acute erythroleukemia (FAB type M6)
+del(3)(p14)	-	-	Peripheral T-cell lymphoma, unspecified
+del(3)(p21)	-	-	Acute erythroleukemia (FAB type M6)
+del(3)(p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(p21)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(3)(p21)	-	-	Acute monoblastic leukemia with differentiation (FAB type M5b)
+del(3)(p21)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(3)(p21)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(3)(p21)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(3)(p21)	-	-	Acute myeloid leukemia, NOS
+del(3)(p21)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(3)(p21)	-	-	Chronic lymphocytic leukemia
+del(3)(p21)	-	-	Diffuse large B-cell lymphoma
+del(3)(p21)	-	-	Follicular lymphoma
+del(3)(p21)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(3)(p21)	-	-	Mantle cell lymphoma
+del(3)(p21)	-	-	Multiple myeloma
+del(3)(p21p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(p21p22)	-	-	Follicular lymphoma
+del(3)(p21p23)	-	-	Mantle cell lymphoma
+del(3)(p21)	-	-	Refractory anemia with excess of blasts (FAB)
+del(3)(p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(p22)	-	-	Diffuse large B-cell lymphoma
+del(3)(p22)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(3)(p22)	-	-	Multiple myeloma
+del(3)(p22)	-	-	Refractory anemia with excess of blasts (FAB)
+del(3)(p23)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(3)(p23)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(3)(p23)	-	-	Diffuse large B-cell lymphoma
+del(3)(p23)	-	-	Multiple myeloma
+del(3)(p23p25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(p23)	-	-	Splenic marginal zone B-cell lymphoma
+del(3)(p24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(p24)	-	-	Burkitt lymphoma/leukemia
+del(3)(p24)	-	-	Chronic lymphocytic leukemia
+del(3)(p24)	-	-	Diffuse large B-cell lymphoma
+del(3)(p24)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(3)(p25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(p25)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(3)(p25)	-	-	Chronic lymphocytic leukemia
+del(3)(p25)	-	-	Diffuse large B-cell lymphoma
+del(3)(p25)	-	-	Follicular lymphoma
+del(3)(p25)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(3)(p26)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(3p)	-	-	Acute erythroleukemia (FAB type M6)
+del(3p)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3p)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(3p)	-	-	Acute myeloid leukemia, NOS
+del(3p)	-	-	Diffuse large B-cell lymphoma
+del(3p)	-	-	Follicular lymphoma
+del(3p)	-	-	Mantle cell lymphoma
+del(3p)	-	-	Multiple myeloma
+del(3)(q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(q11)	-	-	Diffuse large B-cell lymphoma
+del(3)(q11)	-	-	Mantle cell lymphoma
+del(3)(q11q21)	-	-	Diffuse large B-cell lymphoma
+del(3)(q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(q12)	-	-	Acute myeloid leukemia, NOS
+del(3)(q12)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(3)(q12)	-	-	Follicular lymphoma
+del(3)(q12)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(3)(q12)	-	-	Multiple myeloma
+del(3)(q12q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(q12q13)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(3)(q12q22)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(3)(q12q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(q12q26)	-	-	Acute myeloid leukemia, NOS
+del(3)(q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(q13)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(3)(q13)	-	-	Diffuse large B-cell lymphoma
+del(3)(q13)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(3)(q13)	-	-	Multiple myeloma
+del(3)(q13q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(q13q24)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(3)(q13q26)	-	-	Follicular lymphoma
+del(3)(q13q27)	-	-	Acute myeloid leukemia, NOS
+del(3)(q21)	-	-	Acute erythroleukemia (FAB type M6)
+del(3)(q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(q21)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(3)(q21)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(3)(q21)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(3)(q21)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(3)(q21)	-	-	Acute myeloid leukemia, NOS
+del(3)(q21)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(3)(q21)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(3)(q21)	-	-	Burkitt lymphoma/leukemia
+del(3)(q21)	-	-	Chronic lymphocytic leukemia
+del(3)(q21)	-	-	Diffuse large B-cell lymphoma
+del(3)(q21)	-	-	Follicular lymphoma
+del(3)(q21)	-	-	Multiple myeloma
+del(3)(q21q23)	-	-	Multiple myeloma
+del(3)(q21q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(q21q25)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(3)(q21q25)	-	-	Follicular lymphoma
+del(3)(q21q26)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(3)(q21q26)	-	-	Acute myeloid leukemia, NOS
+del(3)(q21q26)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(3)(q21q27)	-	-	Acute myeloid leukemia, NOS
+del(3)(q21q27)	-	-	Diffuse large B-cell lymphoma
+del(3)(q21)	-	-	Refractory anemia with excess of blasts (FAB)
+del(3)(q22)	-	-	Chronic lymphocytic leukemia
+del(3)(q22)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(3)(q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(q23)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(3)(q23)	-	-	Acute myeloid leukemia, NOS
+del(3)(q23)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(3)(q23)	-	-	Diffuse large B-cell lymphoma
+del(3)(q23)	-	-	Follicular lymphoma
+del(3)(q23)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(3)(q23)	-	-	Multiple myeloma
+del(3)(q23q26)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(3)(q24)	-	-	Acute myeloid leukemia, NOS
+del(3)(q24)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(3)(q24q29)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(3)(q25)	-	-	Acute myeloid leukemia, NOS
+del(3)(q25)	-	-	Chronic lymphocytic leukemia
+del(3)(q25)	-	-	Diffuse large B-cell lymphoma
+del(3)(q25)	-	-	Follicular lymphoma
+del(3)(q25)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(3)(q25)	-	-	Multiple myeloma
+del(3)(q25)ordel(3)(q21q26)	-	-	Acute myeloid leukemia, NOS
+del(3)(q26)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(q26)	-	-	Acute myeloid leukemia, NOS
+del(3)(q26)	-	-	Follicular lymphoma
+del(3)(q26)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(3)(q26)	-	-	Multiple myeloma
+del(3)(q26q26)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3)(q26q27)	-	-	Diffuse large B-cell lymphoma
+del(3)(q26q28)		-	Lymphoblastic Lymphoma
+del(3)(q26q29)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(3)(q27)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(3)(q27)	-	-	Chronic lymphocytic leukemia
+del(3)(q27):del(3)(q27q28)	LPP/BCL6	-	MPD
+del(3)(q27)	-	-	Follicular lymphoma
+del(3)(q27q28)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(3)(q27q28)	LPP/BCL6	-	MPD
+del(3)(q28)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(3)(q28q29)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(3)(q29)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(3q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(3q)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(3q)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(3q)	-	-	Acute myeloid leukemia, NOS
+del(3q)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(3q)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(3q)	-	-	Diffuse large B-cell lymphoma
+del(3q)	-	-	Follicular lymphoma
+del(3q)	-	-	Multiple myeloma
+del(4)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(4)(p11)	-	-	Burkitt lymphoma/leukemia
+del(4)(p11p15)	-	-	Multiple myeloma
+del(4)(p12)	-	-	Chronic lymphocytic leukemia
+del(4)(p12)	-	-	Diffuse large B-cell lymphoma
+del(4)(p12)	-	-	Follicular lymphoma
+del(4)(p12)	-	-	Multiple myeloma
+del(4)(p12p14)	-	-	Multiple myeloma
+del(4)(p12p15)	-	-	Diffuse large B-cell lymphoma
+del(4)(p12p15)	-	-	Multiple myeloma
+del(4)(p12p16)	-	-	Multiple myeloma
+del(4)(p13)	-	-	Follicular lymphoma
+del(4)(p13)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(4)(p13q31)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(4)(p14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(4)(p14)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(4)(p14)	-	-	Diffuse large B-cell lymphoma
+del(4)(p14)	-	-	Follicular lymphoma
+del(4)(p14p16)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(4)(p14)	-	-	Refractory anemia with excess blasts-2
+del(4)(p15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(4)(p15)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(4)(p15)	-	-	Chronic lymphocytic leukemia
+del(4)(p15)	-	-	Diffuse large B-cell lymphoma
+del(4)(p15)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(4)(p15)	-	-	Multiple myeloma
+del(4)(p15p12)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(4)(p15p13)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(4)(p15p14)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(4)(p15q13)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(4)(p16)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(4)(p16q13)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(4p)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(4p)	-	-	Diffuse large B-cell lymphoma
+del(4p)	-	-	Multiple myeloma
+del(4)(q11q21)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(4)(q12)	-	-	Diffuse large B-cell lymphoma
+del(4)(q12)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(4)(q12q13)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(4)(q12q23)	-	-	Multiple myeloma
+del(4)(q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(4)(q13)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(4)(q13)	-	-	Follicular lymphoma
+del(4)(q13)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(4)(q13q22)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(4)(q13q31)		-	Acute Myelocytic Leukemia
+del(4)(q21)	-	-	Acute erythroleukemia (FAB type M6)
+del(4)(q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(4)(q21)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(4)(q21)	-	-	Acute myeloid leukemia, NOS
+del(4)(q21)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(4)(q21)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(4)(q21)	-	-	Diffuse large B-cell lymphoma
+del(4)(q21)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(4)(q21)	-	-	Multiple myeloma
+del(4)(q21q22)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(4)(q21q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(4)(q21q25)	-	-	Diffuse large B-cell lymphoma
+del(4)(q21q25)	-	-	Follicular lymphoma
+del(4)(q21q26)	-	-	Acute myeloid leukemia, NOS
+del(4)(q21q27)	-	-	Acute myeloid leukemia, NOS
+del(4)(q21q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(4)(q21q31)	-	-	Acute myeloid leukemia, NOS
+del(4)(q22)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(4)(q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(4)(q24)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(4)(q25)	-	-	Acute myeloid leukemia, NOS
+del(4)(q25)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(4)(q25q25)		-	Polycythemia Vera
+del(4)(q25q31)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(4)(q25q31)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(4)(q25q32)	-	-	Acute myeloid leukemia, NOS
+del(4)(q25)	-	-	Refractory anemia with excess of blasts (FAB)
+del(4)(q26)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(4)(q26)	-	-	Refractory anemia with excess of blasts (FAB)
+del(4)(q27)	-	-	Diffuse large B-cell lymphoma
+del(4)(q27)	-	-	Follicular lymphoma
+del(4)(q27)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(4)(q27)	-	-	Multiple myeloma
+del(4)(q27q35)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(4)(q28)	-	-	Diffuse large B-cell lymphoma
+del(4)(q28)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(4)(q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(4)(q31)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(4)(q31)	-	-	Chronic lymphocytic leukemia
+del(4)(q31)	-	-	Diffuse large B-cell lymphoma
+del(4)(q31)	-	-	Follicular lymphoma
+del(4)(q31)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(4)(q31)	-	-	Mantle cell lymphoma
+del(4)(q31)	-	-	Multiple myeloma
+del(4)(q31q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(4)(q31q35)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(4)(q31)	-	-	Refractory anemia with excess blasts-2
+del(4)(q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(4)(q32)	-	-	Follicular lymphoma
+del(4)(q32)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(4)(q33)	-	-	Follicular lymphoma
+del(4)(q34)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(4q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(4q)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(4q)	-	-	Acute myeloid leukemia, NOS
+del(4q)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(4q)	-	-	Diffuse large B-cell lymphoma
+del(4q)	-	-	Follicular lymphoma
+del(4q)	-	-	Multiple myeloma
+del(5)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(p12)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(5)(p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(p13)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(5)(p13)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(5)(p13)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5)(p13)	-	-	Acute myeloid leukemia, NOS
+del(5)(p13)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(5)(p13)	-	-	Burkitt lymphoma/leukemia
+del(5)(p13)	-	-	Diffuse large B-cell lymphoma
+del(5)(p13)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(5)(p13)	-	-	Multiple myeloma
+del(5)(p13p14)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(5)(p13p15)	-	-	Chronic lymphocytic leukemia
+del(5)(p13p15)	-	-	Follicular lymphoma
+del(5)(p13)	-	-	Plasma cell leukemia
+del(5)(p14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(p14)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(5)(p14)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(5)(p15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(p15)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(5)(p15)	-	-	Diffuse large B-cell lymphoma
+del(5)(p15)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(5p)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(5p)	-	-	Chronic lymphocytic leukemia
+del(5p)	-	-	Follicular lymphoma
+del(5)(q11)	-	-	Acute erythroleukemia (FAB type M6)
+del(5)(q11)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5)(q11)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(5)(q11)	-	-	Acute myeloid leukemia, NOS
+del(5)(q11q13)	-	-	Acute myeloid leukemia, NOS
+del(5)(q11q23)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(5)(q11q23)	-	-	Follicular lymphoma
+del(5)(q11q31)		-	Acute Lymphoblastic Leukemia
+del(5)(q11q31)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5)(q11q31)	-	-	Acute myeloid leukemia, NOS
+del(5)(q11q31)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q11q33)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5)(q11q33)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(5)(q11q33)	-	-	Acute myeloid leukemia, NOS
+del(5)(q11q33)	-	-	Multiple myeloma
+del(5)(q11q33)	-	-	Refractory anemia with excess blasts-1
+del(5)(q11q33)	-	-	Refractory anemia with excess blasts-2
+del(5)(q11q33)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q11q34)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5)(q11q34)	-	-	Acute myeloid leukemia, NOS
+del(5)(q11q35)	-	-	Acute erythroleukemia (FAB type M6)
+del(5)(q11q35)	-	-	Acute myeloid leukemia, NOS
+del(5)(q12)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(5)(q12)	-	-	Acute myeloid leukemia, NOS
+del(5)(q12)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(5)(q12q13)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(5)(q12q14)	-	-	Multiple myeloma
+del(5)(q12q15)	-	-	Multiple myeloma
+del(5)(q12q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q12q23)	-	-	Acute myeloid leukemia, NOS
+del(5)(q12q31)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5)(q12q31)		-	Acute Myelocytic Leukemia
+del(5)(q12q31)	-	-	Acute myeloid leukemia, NOS
+del(5)(q12q31)	-	-	Acute undifferentiated leukemia
+del(5)(q12q31)	-	-	Refractory anemia
+del(5)(q12q32)	-	-	Acute erythroleukemia (FAB type M6)
+del(5)(q12q32)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5)(q12q32)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(5)(q12q32)	-	-	Acute myeloid leukemia, NOS
+del(5)(q12q32)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(5)(q12q32)	-	-	Refractory anemia
+del(5)(q12q32)	-	-	Refractory anemia with excess blasts-1
+del(5)(q12q32)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q12q33)	-	-	Acute erythroleukemia (FAB type M6)
+del(5)(q12q33)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5)(q12q33)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(5)(q12q33)	-	-	Acute myeloid leukemia, NOS
+del(5)(q12q33)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(5)(q12q33)	-	-	Follicular lymphoma
+del(5)(q12q33)	-	-	Refractory anemia
+del(5)(q12q33)	-	-	Refractory anemia with excess blasts-2
+del(5)(q12q33)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q12q34)	-	-	Acute erythroleukemia (FAB type M6)
+del(5)(q12q34)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5)(q12q34)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(5)(q12q34)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(5)(q12q34)	-	-	Acute myeloid leukemia, NOS
+del(5)(q12q34)	-	-	Refractory anemia
+del(5)(q12q34)	-	-	Refractory anemia with excess blasts-2
+del(5)(q12q34)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q12q35)	-	-	Acute myeloid leukemia, NOS
+del(5)(q12)	-	-	Refractory anemia
+del(5)(q12)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q13)	-	-	Acute erythroleukemia (FAB type M6)
+del(5)(q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q13)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(5)(q13)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(5)(q13)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(5)(q13)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(5)(q13)	-	-	Acute undifferentiated leukemia
+del(5)(q13)	-	-	Diffuse large B-cell lymphoma
+del(5)(q13)	-	-	Follicular lymphoma
+del(5)(q13)	-	-	Multiple myeloma
+del(5)(q13q15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q13q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q13q22)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(5)(q13q22)	-	-	Acute myeloid leukemia, NOS
+del(5)(q13q22)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(5)(q13q22)	-	-	Multiple myeloma
+del(5)(q13q22)	-	-	Refractory anemia
+del(5)(q13q23)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(5)(q13q23)	-	-	Refractory anemia
+del(5)(q13q31)	-	-	Acute erythroleukemia (FAB type M6)
+del(5)(q13q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q13q31)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(5)(q13q31)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(5)(q13q31)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5)(q13q31)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(5)(q13q31)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(5)(q13q31)		-	Acute Myelocytic Leukemia
+del(5)(q13q31)	-	-	Acute myeloid leukemia, NOS
+del(5)(q13q31)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(5)(q13q31)	-	-	Acute undifferentiated leukemia
+del(5)(q13q31)	-	-	Idiopathic myelofibrosis
+del(5)(q13q31)	-	-	Multiple myeloma
+del(5)(q13q31)	-	-	Refractory anemia
+del(5)(q13q31)	-	-	Refractory anemia with excess blasts-2
+del(5)(q13q31)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q13q31)	-	-	Refractory anemia with ringed sideroblasts
+del(5)(q13q32)	-	-	Acute erythroleukemia (FAB type M6)
+del(5)(q13q32)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5)(q13q32)	-	-	Acute myeloid leukemia, NOS
+del(5)(q13q32)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q13q33)	-	-	Acute erythroleukemia (FAB type M6)
+del(5)(q13q33)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q13q33)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(5)(q13q33)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(5)(q13q33)	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+del(5)(q13q33)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5)(q13q33)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(5)(q13q33)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(5)(q13q33)		-	Acute Myelocytic Leukemia
+del(5)(q13q33)	-	-	Acute myeloid leukemia, NOS
+del(5)(q13q33)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(5)(q13q33)	-	-	Acute promyelocytic leukemia (FAB type M3)
+del(5)(q13q33)	-	-	Acute undifferentiated leukemia
+del(5)(q13q33)	-	-	Chronic lymphocytic leukemia
+del(5)(q13q33)	-	-	Diffuse large B-cell lymphoma
+del(5)(q13q33)	-	-	Essential thrombocythemia
+del(5)(q13q33)	-	-	Multiple myeloma
+del(5)(q13q33)	-	-	Refractory anemia
+del(5)(q13q33)	-	-	Refractory anemia with excess blasts-1
+del(5)(q13q33)	-	-	Refractory anemia with excess blasts-2
+del(5)(q13q33)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q13q33)	-	-	Refractory anemia with ringed sideroblasts
+del(5)(q13q33)	-	-	Refractory cytopenia with multilineage dysplasia
+del(5)(q13q34)	-	-	Acute erythroleukemia (FAB type M6)
+del(5)(q13q34)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5)(q13q34)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(5)(q13q34)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(5)(q13q34)	-	-	Acute myeloid leukemia, NOS
+del(5)(q13q34)	-	-	Refractory anemia
+del(5)(q13q34)	-	-	Refractory anemia with excess blasts-2
+del(5)(q13q34)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q13q35)	-	-	Acute erythroleukemia (FAB type M6)
+del(5)(q13q35)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q13q35)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5)(q13q35)	-	-	Acute myeloid leukemia, NOS
+del(5)(q13q35)	-	-	Refractory anemia
+del(5)(q13q35)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q13q35)	-	-	Refractory anemia with ringed sideroblasts
+del(5)(q13)	-	-	Refractory anemia
+del(5)(q13)	-	-	Refractory anemia with excess blasts-2
+del(5)(q13)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q14)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5)(q14)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(5)(q14)	-	-	Acute myeloid leukemia, NOS
+del(5)(q14)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(5)(q14q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q14q22)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(5)(q14q23)	-	-	Acute myeloid leukemia, NOS
+del(5)(q14q23)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(5)(q14q23)	-	-	Diffuse large B-cell lymphoma
+del(5)(q14q23)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(5)(q14q23)	-	Testis	Diffuse large B-cell lymphoma
+del(5)(q14q31)	-	-	Acute erythroleukemia (FAB type M6)
+del(5)(q14q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q14q32)	-	-	Acute erythroleukemia (FAB type M6)
+del(5)(q14q32)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5)(q14q32)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(5)(q14q32)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(5)(q14q32)	-	-	Acute myeloid leukemia, NOS
+del(5)(q14q32)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(5)(q14q32)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(5)(q14q32)	-	-	Polycythemia vera
+del(5)(q14q32)	-	-	Refractory anemia
+del(5)(q14q32)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q14q32)	-	-	Refractory anemia with ringed sideroblasts
+del(5)(q14q33.3)		-	Acute Myelocytic Leukemia
+del(5)(q14q33)	-	-	Acute erythroleukemia (FAB type M6)
+del(5)(q14q33)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5)(q14q33)	-	-	Acute myeloid leukemia, NOS
+del(5)(q14q33)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(5)(q14q33)	-	-	Refractory anemia
+del(5)(q14q33)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q14q33)	-	-	Refractory anemia with ringed sideroblasts
+del(5)(q14q34)	-	-	Acute erythroleukemia (FAB type M6)
+del(5)(q14q34)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5)(q14q34)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(5)(q14q34)	-	-	Acute myeloid leukemia, NOS
+del(5)(q14q34)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(5)(q14q34)	-	-	Refractory anemia
+del(5)(q14q34)	-	-	Refractory anemia with excess blasts-2
+del(5)(q14q34)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q14q34)	-	-	Refractory cytopenia with multilineage dysplasia
+del(5)(q14)	-	-	Refractory anemia
+del(5)(q14)	-	-	Refractory anemia with excess blasts-2
+del(5)(q15)	-	-	Acute erythroleukemia (FAB type M6)
+del(5)(q15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q15)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5)(q15)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(5)(q15)	-	-	Acute myeloid leukemia, NOS
+del(5)(q15)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(5)(q15)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(5)(q15)	-	-	Multiple myeloma
+del(5)(q15)		-	Myeloperoxidase-negative Acute Leukemia
+del(5)(q15q21)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(5)(q15q22)	-	-	Acute myeloid leukemia, NOS
+del(5)(q15q22)	-	-	Follicular lymphoma
+del(5)(q15q23)	-	-	Chronic lymphocytic leukemia
+del(5)(q15q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q15q31)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(5)(q15q31)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5)(q15q31)	-	-	Acute myeloid leukemia, NOS
+del(5)(q15q31)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(5)(q15q31)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(5)(q15q31)	-	-	Follicular lymphoma
+del(5)(q15q31)	-	-	Multiple myeloma
+del(5)(q15q31)	-	-	Refractory anemia
+del(5)(q15q31)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q15q33.3)		-	Acute Myelocytic Leukemia
+del(5)(q15q33)	-	-	Acute erythroleukemia (FAB type M6)
+del(5)(q15q33)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q15q33)	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+del(5)(q15q33)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5)(q15q33)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(5)(q15q33)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(5)(q15q33)	-	-	Acute myeloid leukemia, NOS
+del(5)(q15q33)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(5)(q15q33)	-	-	Essential thrombocythemia
+del(5)(q15q33)	-	-	Follicular lymphoma
+del(5)(q15q33)	-	-	Multiple myeloma
+del(5)(q15q33)	-	-	Refractory anemia
+del(5)(q15q33)	-	-	Refractory anemia with excess blasts-2
+del(5)(q15q33)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q15q33)	-	-	Refractory anemia with ringed sideroblasts
+del(5)(q15q34)	-	-	Acute erythroleukemia (FAB type M6)
+del(5)(q15q34)	-	-	Acute myeloid leukemia, NOS
+del(5)(q15q35)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q15q35)	-	-	Acute myeloid leukemia, NOS
+del(5)(q15q35)	-	-	Multiple myeloma
+del(5)(q15q35)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q15)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q21)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5)(q21)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(5)(q21)	-	-	Acute myeloid leukemia, NOS
+del(5)(q21)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(5)(q21q23)	-	-	Acute erythroleukemia (FAB type M6)
+del(5)(q21q23)	-	-	Acute myeloid leukemia, NOS
+del(5)(q21q31)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(5)(q21q31)	-	-	Acute myeloid leukemia, NOS
+del(5)(q21q32)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5)(q21q33)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5)(q21q33)	-	-	Acute myeloid leukemia, NOS
+del(5)(q21q33)	-	-	Refractory anemia
+del(5)(q21q33)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q21q34)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(5)(q21q34)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(5)(q21q34)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5)(q21q34)	-	-	Acute myeloid leukemia, NOS
+del(5)(q21q34)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(5)(q21q34)	-	-	Refractory anemia with excess blasts-1
+del(5)(q21q34)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q21q35)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5)(q21q35)	-	-	Refractory anemia
+del(5)(q21)	-	-	Refractory anemia
+del(5)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q22)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5)(q22)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(5)(q22)	-	-	Acute myeloid leukemia, NOS
+del(5)(q22)	-	-	Diffuse large B-cell lymphoma
+del(5)(q22)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(5)(q22)	-	-	Multiple myeloma
+del(5)(q22q31)	-	-	Acute erythroleukemia (FAB type M6)
+del(5)(q22q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q22q31)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(5)(q22q31)	-	-	Acute myeloid leukemia, NOS
+del(5)(q22q31)	-	-	Follicular lymphoma
+del(5)(q22q31)	-	-	Multiple myeloma
+del(5)(q22q33.	1)	-	Acute Nonlymphocytic Leukemia
+del(5)(q22q33)	-	-	Acute erythroleukemia (FAB type M6)
+del(5)(q22q33)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q22q33)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(5)(q22q33)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5)(q22q33)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(5)(q22q33)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(5)(q22q33)	-	-	Acute myeloid leukemia, NOS
+del(5)(q22q33)	-	-	Refractory anemia
+del(5)(q22q33)	-	-	Refractory anemia with excess blasts-1
+del(5)(q22q33)	-	-	Refractory anemia with excess blasts-2
+del(5)(q22q33)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q22q33)	-	-	Refractory anemia with ringed sideroblasts
+del(5)(q22q34)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q22q34)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5)(q22q34)	-	-	Acute myeloid leukemia, NOS
+del(5)(q22q35)	-	-	Acute erythroleukemia (FAB type M6)
+del(5)(q22q35)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q22q35)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5)(q22q35)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(5)(q22q35)	-	-	Acute myeloid leukemia, NOS
+del(5)(q22q35)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(5)(q22q35)	-	-	Refractory anemia
+del(5)(q22)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q23)	-	-	Acute myeloid leukemia, NOS
+del(5)(q23)	-	-	Diffuse large B-cell lymphoma
+del(5)(q23)	-	-	Follicular lymphoma
+del(5)(q23)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(5)(q23q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q23q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q23q32)		-	Acute Myelocytic Leukemia
+del(5)(q23q32)	-	-	Acute myeloid leukemia, NOS
+del(5)(q23q32)	-	-	Refractory anemia
+del(5)(q23q33)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q23q33)		-	Acute Myelocytic Leukemia
+del(5)(q23q33)	-	-	Acute myeloid leukemia, NOS
+del(5)(q23q33)	-	-	Refractory anemia
+del(5)(q23q33)	-	-	Refractory anemia with excess blasts-2
+del(5)(q23q34)	-	-	Acute erythroleukemia (FAB type M6)
+del(5)(q23q34)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(5)(q23q34)	-	-	Acute myeloid leukemia, NOS
+del(5)(q23q34)	-	-	Refractory anemia
+del(5)(q23q34)	-	-	Refractory anemia with excess blasts-2
+del(5)(q23q34)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q31)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(5)(q31)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(5)(q31)	-	-	Follicular lymphoma
+del(5)(q31)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(5)(q31)	-	-	Multiple myeloma
+del(5)(q31)	-	-	Polycythemia vera
+del(5)(q31q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q31q33)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q31q33)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5)(q31q33)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(5)(q31q33)	-	-	Acute myeloid leukemia, NOS
+del(5)(q31q33)	-	-	Diffuse large B-cell lymphoma
+del(5)(q31q33)	-	-	Multiple myeloma
+del(5)(q31q33)	-	-	Refractory anemia
+del(5)(q31q34)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5)(q31q34)	-	-	Refractory anemia with excess blasts-2
+del(5)(q31q34)	-	-	Refractory cytopenia with multilineage dysplasia
+del(5)(q31q35)	-	-	Acute erythroleukemia (FAB type M6)
+del(5)(q31q35)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q31q35)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(5)(q31q35)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5)(q31q35)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(5)(q31q35)	-	-	Acute myeloid leukemia, NOS
+del(5)(q31q35)	-	-	Follicular lymphoma
+del(5)(q31q35)	-	-	Refractory anemia
+del(5)(q31q35)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q31)	-	-	Refractory anemia
+del(5)(q31)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q31)	-	-	Refractory anemia with ringed sideroblasts
+del(5)(q32)	-	-	Acute myeloid leukemia, NOS
+del(5)(q32)	-	-	Diffuse large B-cell lymphoma
+del(5)(q32)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(5)(q33)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(5)(q33)	-	-	Acute myeloid leukemia, NOS
+del(5)(q33)	-	-	Chronic lymphocytic leukemia
+del(5)(q33)	-	-	Multiple myeloma
+del(5)(q33q33)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q33q35)	-	-	Chronic lymphocytic leukemia
+del(5)(q33q35)	-	-	Follicular lymphoma
+del(5)(q34)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5)(q34)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(5)(q34)	-	-	Multiple myeloma
+del(5)(q35)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(5q)	-	-	Acute erythroleukemia (FAB type M6)
+del(5q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(5q)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(5q)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(5q)	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+del(5q)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(5q)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(5q)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(5q)	-	-	Acute myeloid leukemia, NOS
+del(5q)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(5q)	-	-	Acute promyelocytic leukemia (FAB type M3)
+del(5q)	-	-	Acute undifferentiated leukemia
+del(5q)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(5q)	-	-	Chronic lymphocytic leukemia
+del(5q)	-	-	Diffuse large B-cell lymphoma
+del(5q)	-	-	Essential thrombocythemia
+del(5q)	-	-	Follicular lymphoma
+del(5q)	-	-	Idiopathic myelofibrosis
+del(5q) in acute lymphoblastic leukemia (ALL)		-	B-ALL::T-ALL
+del(5q) in myeloid neoplasms		-	MDS::t-AML::AML
+del(5q)	-	-	Multiple myeloma
+del(5q)	-	-	Polycythemia vera
+del(5q)	-	-	Refractory anemia
+del(5q)	-	-	Refractory anemia with excess blasts-1
+del(5q)	-	-	Refractory anemia with excess blasts-2
+del(5q)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5q)	-	-	Refractory anemia with ringed sideroblasts
+del(5q)	-	-	Refractory cytopenia with multilineage dysplasia
+del(5q)	-	Testis	Diffuse large B-cell lymphoma
+der(5)del(5)(q33)t(5;7)(q33;q33)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(p11)	-	-	Diffuse large B-cell lymphoma
+del(6)(p11)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(6)(p11)	-	-	Multiple myeloma
+del(6)(p12)	-	-	Acute myeloid leukemia, NOS
+del(6)(p12)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(6)(p12)	-	-	Mantle cell lymphoma
+del(6)(p12q24)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(6)(p21.31p25.3)		-	Acute Myelocytic Leukemia-M2
+del(6)(p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(p21)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(6)(p21)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(6)(p21)	-	-	Acute myeloid leukemia, NOS
+del(6)(p21)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(6)(p21)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(6)(p21)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(6)(p21)	-	-	Mantle cell lymphoma
+del(6)(p21)	-	-	Multiple myeloma
+del(6)(p21p21)	ITPR3/PNPLA1	-	MPD
+del(6)(p21p23)	-	-	Acute myeloid leukemia, NOS
+del(6)(p21p23)	-	-	Idiopathic myelofibrosis
+del(6)(p21p25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(p21p25)	-	-	Acute myeloid leukemia, NOS
+del(6)(p21p25)	-	-	Chronic lymphocytic leukemia
+del(6)(p22.1;p25.3)		-	Acute Myelocytic Leukemia-M1
+del(6)(p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(p22)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(6)(p22)	-	-	Acute myeloid leukemia, NOS
+del(6)(p22)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(6)(p22)	-	-	Diffuse large B-cell lymphoma
+del(6)(p22)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(6)(p22)	-	-	Lymphoplasmacytic lymphoma
+del(6)(p22)	-	-	Multiple myeloma
+del(6)(p22)	-	-	Refractory cytopenia with multilineage dysplasia
+del(6)(p23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(p23)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(6)(p23)	-	-	Acute myeloid leukemia, NOS
+del(6)(p23)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(6)(p23)	-	-	Multiple myeloma
+del(6)(p24)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(6)(p25)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(6p)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6p)	-	-	Acute myeloid leukemia, NOS
+del(6p)	-	-	Chronic lymphocytic leukemia
+del(6p)	-	-	Idiopathic myelofibrosis
+del(6p) (loss of JARID2 and DTNBP1) in myeloid malignances		-	MPD::MDS::t-AML::AML
+del(6)(q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q11)	-	-	Burkitt lymphoma/leukemia
+del(6)(q11)	-	-	Diffuse large B-cell lymphoma
+del(6)(q11)	-	-	Follicular lymphoma
+del(6)(q11)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(6)(q11)	-	-	Multiple myeloma
+del(6)(q11q15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q11q15)	-	-	Follicular lymphoma
+del(6)(q11q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q11q21)		-	B-Cell Lymphoma
+del(6)(q11q21)		-	T-Cell Acute Lymphoblastic Leukemia
+del(6)(q11q22)		-	B-Cell Lymphoma
+del(6)(q11q24)		-	B-Cell Lymphoma
+del(6)(q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q12)	-	-	Acute myeloid leukemia, NOS
+del(6)(q12)	-	-	Chronic lymphocytic leukemia
+del(6)(q12)	-	-	Diffuse large B-cell lymphoma
+del(6)(q12)	-	-	Follicular lymphoma
+del(6)(q12)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(6)(q12)	-	-	Mantle cell lymphoma
+del(6)(q12)	-	-	Multiple myeloma
+del(6)(q12)		-	Posttransplant B-Cell Lymphoma
+del(6)(q12q15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q12q16)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q12q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q12q21)	-	-	Multiple myeloma
+del(6)(q12q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q12q22)		-	B-Cell Lymphoma
+del(6)(q12q24)	-	-	Chronic lymphocytic leukemia
+del(6)(q12q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q12q26)	-	-	Chronic lymphocytic leukemia
+del(6)(q12q26)	-	-	Follicular lymphoma
+del(6)(q12q27)	-	-	Diffuse large B-cell lymphoma
+del(6)(q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q13)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(6)(q13)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(6)(q13)	-	-	Burkitt lymphoma/leukemia
+del(6)(q13)	-	-	Chronic lymphocytic leukemia
+del(6)(q13)	-	-	Diffuse large B-cell lymphoma
+del(6)(q13)	-	-	Follicular lymphoma
+del(6)(q13)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(6)(q13)	-	-	Mantle cell lymphoma
+del(6)(q13)	-	-	Multiple myeloma
+del(6)(q13q14)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(6)(q13q15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q13q15)	-	-	Chronic lymphocytic leukemia
+del(6)(q13q16)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q13q16)	-	-	Nodal marginal zone B-cell lymphoma
+del(6)(q13q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q13q21)	-	-	Acute myeloid leukemia, NOS
+del(6)(q13q21)	-	-	Chronic lymphocytic leukemia
+del(6)(q13q21)	-	-	Diffuse large B-cell lymphoma
+del(6)(q13q21)	-	-	Follicular lymphoma
+del(6)(q13q21)	SENP6/TOP1	-	T-Cell Lymphoblastic Lymphoma
+del(6)(q13q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q13q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q13q23)	-	-	Chronic lymphocytic leukemia
+del(6)(q13q23)	-	-	Diffuse large B-cell lymphoma
+del(6)(q13q23)	-	-	Follicular lymphoma
+del(6)(q13q23)	-	-	Multiple myeloma
+del(6)(q13q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q13q25)	-	-	Chronic lymphocytic leukemia
+del(6)(q13q25)	-	-	Diffuse large B-cell lymphoma
+del(6)(q13q25)	-	-	Follicular lymphoma
+del(6)(q13q25)	-	-	Multiple myeloma
+del(6)(q13q26)	-	-	Chronic lymphocytic leukemia
+del(6)(q13q26)	-	-	Mantle cell lymphoma
+del(6)(q13q27)	-	-	Diffuse large B-cell lymphoma
+del(6)(q13q27)	-	-	Follicular lymphoma
+del(6)(q13q27)	-	-	Multiple myeloma
+del(6)(q14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q14)	-	-	Acute myeloid leukemia, NOS
+del(6)(q14)	-	-	Burkitt lymphoma/leukemia
+del(6)(q14)	-	-	Chronic lymphocytic leukemia
+del(6)(q14)	-	-	Diffuse large B-cell lymphoma
+del(6)(q14)	-	-	Follicular lymphoma
+del(6)(q14)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(6)(q14)	-	-	Mantle cell lymphoma
+del(6)(q14)	-	-	Multiple myeloma
+del(6)(q14q16)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q14q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q14q21)	-	-	Chronic lymphocytic leukemia
+del(6)(q14q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q14q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q14q23)	-	-	Burkitt lymphoma/leukemia
+del(6)(q14q23)	-	-	Chronic lymphocytic leukemia
+del(6)(q14q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q14q24)	-	-	Acute myeloid leukemia, NOS
+del(6)(q14q24)	-	-	Chronic lymphocytic leukemia
+del(6)(q14q24)	-	-	Mantle cell lymphoma
+del(6)(q14q25)	-	-	Follicular lymphoma
+del(6)(q14q25)	-	-	Mantle cell lymphoma
+del(6)(q14q25)	-	-	Splenic marginal zone B-cell lymphoma
+del(6)(q14q27)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q15)	-	-	Acute myeloid leukemia, NOS
+del(6)(q15)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(6)(q15)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(6)(q15)	-	-	Anaplastic large cell lymphoma, systemic type
+del(6)(q15)	-	-	Burkitt lymphoma/leukemia
+del(6)(q15)	-	-	Chronic lymphocytic leukemia
+del(6)(q15)	-	-	Diffuse large B-cell lymphoma
+del(6)(q15)	-	-	Follicular lymphoma
+del(6)(q15)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(6)(q15)	-	-	Mantle cell lymphoma
+del(6)(q15)	-	-	Multiple myeloma
+del(6)(q15)	-	-	Nodal marginal zone B-cell lymphoma
+del(6)(q15)	-	-	Plasma cell leukemia
+del(6)(q15q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q15q21)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(6)(q15q21)	-	-	Burkitt lymphoma/leukemia
+del(6)(q15q21)	-	-	Chronic lymphocytic leukemia
+del(6)(q15q21)	-	-	Diffuse large B-cell lymphoma
+del(6)(q15q21)	-	-	Follicular lymphoma
+del(6)(q15q21)		-	Non-Hodgkin Lymphoma
+del(6)(q15q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q15q22)	-	-	Chronic lymphocytic leukemia
+del(6)(q15q22)	-	-	Diffuse large B-cell lymphoma
+del(6)(q15q22)	-	-	Multiple myeloma
+del(6)(q15q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q15q23)	-	-	Chronic lymphocytic leukemia
+del(6)(q15q23)	-	-	Diffuse large B-cell lymphoma
+del(6)(q15q23)	-	-	Follicular lymphoma
+del(6)(q15q23)	-	-	Multiple myeloma
+del(6)(q15q23)	-	-	Splenic marginal zone B-cell lymphoma
+del(6)(q15q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q15q24)	-	-	Multiple myeloma
+del(6)(q15q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q15q25)	-	-	Acute myeloid leukemia, NOS
+del(6)(q15q25)	-	-	Chronic lymphocytic leukemia
+del(6)(q15q25)	-	-	Diffuse large B-cell lymphoma
+del(6)(q15q25)	-	-	Follicular lymphoma
+del(6)(q15q25)	-	-	Multiple myeloma
+del(6)(q15q25)	-	-	Peripheral T-cell lymphoma, unspecified
+del(6)(q15q26)	-	-	Follicular lymphoma
+del(6)(q15q27)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q15q27)	-	-	Follicular lymphoma
+del(6)(q15q27)	-	-	Multiple myeloma
+del(6)(q15q27)	-	-	Refractory anemia
+del(6)(q15)	-	-	Splenic marginal zone B-cell lymphoma
+del(6)(q16)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q16)	-	-	Chronic lymphocytic leukemia
+del(6)(q16)	-	-	Follicular lymphoma
+del(6)(q16)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(6)(q16)	-	-	Mantle cell lymphoma
+del(6)(q16)	-	-	Multiple myeloma
+del(6)(q16q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q16q22)	-	-	Chronic lymphocytic leukemia
+del(6)(q16q22)	-	-	Follicular lymphoma
+del(6)(q16q22)		-	Follicular Lymphoma
+del(6)(q16q22)	-	-	Peripheral T-cell lymphoma, unspecified
+del(6)(q16q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q16q23)	-	-	Burkitt lymphoma/leukemia
+del(6)(q16q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q16q24)	-	-	Diffuse large B-cell lymphoma
+del(6)(q16q24)	-	-	Refractory anemia with excess of blasts (FAB)
+del(6)(q16q25)	-	-	Multiple myeloma
+del(6)(q16q26)	-	-	Peripheral T-cell lymphoma, unspecified
+del(6)(q16q27)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q21)	-	-	Acute erythroleukemia (FAB type M6)
+del(6)(q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q21)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(6)(q21)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(6)(q21)	-	-	Acute myeloid leukemia, NOS
+del(6)(q21)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(6)(q21)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(6)(q21)	-	-	Anaplastic large cell lymphoma, systemic type
+del(6)(q21)	-	-	Angioimmunoblastic T-cell lymphoma
+del(6)(q21)	-	-	Burkitt lymphoma/leukemia
+del(6)(q21)	-	-	Chronic lymphocytic leukemia
+del(6)(q21)	-	-	Diffuse large B-cell lymphoma
+del(6)(q21)	-	-	Follicular lymphoma
+del(6)(q21)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(6)(q21)	-	-	Mantle cell lymphoma
+del(6)(q21)	-	-	Multiple myeloma
+del(6)(q21)	-	-	Plasma cell leukemia
+del(6)(q21q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q21q23)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(6)(q21q23)	-	-	Acute myeloid leukemia, NOS
+del(6)(q21q23)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(6)(q21q23)	-	-	Burkitt lymphoma/leukemia
+del(6)(q21q23)	-	-	Chronic lymphocytic leukemia
+del(6)(q21q23)	-	-	Diffuse large B-cell lymphoma
+del(6)(q21q23)	-	-	Follicular lymphoma
+del(6)(q21q23)	-	-	Multiple myeloma
+del(6)(q21q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q21q24)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(6)(q21q24)	-	-	Chronic lymphocytic leukemia
+del(6)(q21q24)	-	-	Diffuse large B-cell lymphoma
+del(6)(q21q24)	-	-	Follicular lymphoma
+del(6)(q21q24)	-	-	Multiple myeloma
+del(6)(q21q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q21q25)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(6)(q21q25)	-	-	Acute myeloid leukemia, NOS
+del(6)(q21q25)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(6)(q21q25)	-	-	Chronic lymphocytic leukemia
+del(6)(q21q25)	-	-	Diffuse large B-cell lymphoma
+del(6)(q21q25)	-	-	Extranodal NK/T-cell lymphoma
+del(6)(q21q25)	-	-	Follicular lymphoma
+del(6)(q21q25)	-	-	Mantle cell lymphoma
+del(6)(q21q25)	-	-	Multiple myeloma
+del(6)(q21q25)	-	-	Peripheral T-cell lymphoma, unspecified
+del(6)(q21q25)	-	-	Splenic marginal zone B-cell lymphoma
+del(6)(q21q26)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q21q27)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q21q27)	-	-	Chronic lymphocytic leukemia
+del(6)(q21q27)	-	-	Diffuse large B-cell lymphoma
+del(6)(q21q27)	-	-	Multiple myeloma
+del(6)(q21)	-	-	Refractory anemia
+del(6)(q21)	-	-	Refractory anemia with excess of blasts (FAB)
+del(6)(q22)	-	-	Acute erythroleukemia (FAB type M6)
+del(6)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q22)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(6)(q22)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(6)(q22)	-	-	Acute promyelocytic leukemia (FAB type M3)
+del(6)(q22)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(6)(q22)	-	-	Chronic lymphocytic leukemia
+del(6)(q22)	-	-	Diffuse large B-cell lymphoma
+del(6)(q22)	-	-	Follicular lymphoma
+del(6)(q22)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(6)(q22)	-	-	Mantle cell lymphoma
+del(6)(q22)	-	-	Multiple myeloma
+del(6)(q22)	-	-	Plasma cell leukemia
+del(6)(q22q23)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(6)(q22q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q22q24)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(6)(q22q25)		-	B-Cell Lymphoma
+del(6)(q22q26)	-	-	Chronic lymphocytic leukemia
+del(6)(q22q27)	-	-	Follicular lymphoma
+del(6)(q22q27)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(6)(q22)	-	-	Refractory anemia with excess of blasts (FAB)
+del(6)(q23)	-	-	Acute erythroleukemia (FAB type M6)
+del(6)(q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q23)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(6)(q23)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(6)(q23)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(6)(q23)	-	-	Acute myeloid leukemia, NOS
+del(6)(q23)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(6)(q23)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(6)(q23)	-	-	Anaplastic large cell lymphoma, systemic type
+del(6)(q23)	-	-	Burkitt lymphoma/leukemia
+del(6)(q23)	-	-	Chronic lymphocytic leukemia
+del(6)(q23)	-	-	Follicular lymphoma
+del(6)(q23)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(6)(q23)	LIN28B/STX07	-	MPD
+del(6)(q23)	LIN28B/STX7	-	MPD
+del(6)(q23)	-	-	Mantle cell lymphoma
+del(6)(q23)	-	-	Multiple myeloma
+del(6)(q23q24)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(6)(q23q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q23q25)	-	-	Burkitt lymphoma/leukemia
+del(6)(q23q25)	-	-	Chronic lymphocytic leukemia
+del(6)(q23q25)	-	-	Diffuse large B-cell lymphoma
+del(6)(q23q25)	-	-	Follicular lymphoma
+del(6)(q23q25)	-	-	Mantle cell lymphoma
+del(6)(q23q25)	-	-	Multiple myeloma
+del(6)(q23q26)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q23q26)	-	-	Multiple myeloma
+del(6)(q23q27)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q23q27)	-	-	Diffuse large B-cell lymphoma
+del(6)(q23q27)	-	-	Follicular lymphoma
+del(6)(q23)	-	-	Refractory anemia with excess of blasts (FAB)
+del(6)(q23)	-	-	Splenic marginal zone B-cell lymphoma
+del(6)(q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q24)	-	-	Acute myeloid leukemia, NOS
+del(6)(q24)	-	-	Chronic lymphocytic leukemia
+del(6)(q24)	-	-	Diffuse large B-cell lymphoma
+del(6)(q24)	-	-	Multiple myeloma
+del(6)(q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q25)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(6)(q25)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(6)(q25)	-	-	Acute myeloid leukemia, NOS
+del(6)(q25)	-	-	Burkitt lymphoma/leukemia
+del(6)(q25)	-	-	Chronic lymphocytic leukemia
+del(6)(q25)	-	-	Diffuse large B-cell lymphoma
+del(6)(q25)	-	-	Follicular lymphoma
+del(6)(q25)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(6)(q25)	-	-	Mantle cell lymphoma
+del(6)(q25)	-	-	Multiple myeloma
+del(6)(q25q27)	-	-	Diffuse large B-cell lymphoma
+del(6)(q26)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6)(q26)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(6)(q27)	-	-	Diffuse large B-cell lymphoma
+del(6)(q27)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(6q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(6q)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(6q)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(6q)	-	-	Acute myeloid leukemia, NOS
+del(6q)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(6q)	-	-	Burkitt lymphoma/leukemia
+del(6q)	-	-	Chronic lymphocytic leukemia
+del(6q)	-	-	Diffuse large B-cell lymphoma
+del(6q)	-	-	Extranodal NK/T-cell lymphoma
+del(6q)	-	-	Follicular lymphoma
+del(6q) in Multiple Myeloma		-	NHL
+del(6q)	-	-	Mantle cell lymphoma
+del(6q)		-	MDS::AML::B-ALL::T-ALL::NHL
+del(6q)	-	-	Multiple myeloma
+del(6q)	-	-	Nodal marginal zone B-cell lymphoma
+del(6q)	-	-	Peripheral T-cell lymphoma, unspecified
+del(6q)	-	-	Refractory anemia
+del(6q)	-	-	Refractory anemia with excess of blasts (FAB)
+del(6q)	-	-	Splenic marginal zone B-cell lymphoma
+del(7)(p11)	-	-	Acute erythroleukemia (FAB type M6)
+del(7)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(p11)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(7)(p11)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(7)(p11)	-	-	Acute myeloid leukemia, NOS
+del(7)(p11)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(7)(p11)	-	-	Diffuse large B-cell lymphoma
+del(7)(p11)	-	-	Multiple myeloma
+del(7)(p11p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(p11p14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(p11p15)	-	-	Acute myeloid leukemia, NOS
+del(7)(p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(p12)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(7)(p12)	-	-	Acute myeloid leukemia, NOS
+del(7)(p12)	-	-	Follicular lymphoma
+del(7)(p12)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(7)(p12)	-	-	Multiple myeloma
+del(7)(p12p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(p12p14)	-	-	Acute erythroleukemia (FAB type M6)
+del(7)(p12p15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(p12p21)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(7)(p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(p13)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(7)(p13)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(7)(p13)	-	-	Acute myeloid leukemia, NOS
+del(7)(p13)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(7)(p13)	-	-	Diffuse large B-cell lymphoma
+del(7)(p13)	-	-	Follicular lymphoma
+del(7)(p13p15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(p13p15)	-	-	Diffuse large B-cell lymphoma
+del(7)(p13p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(p13p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(p14.1p14.1)		-	T-Cell Acute Lymphoblastic Leukaemia
+del(7)(p14.1p14.2)		-	Acute Lymphoblastic Leukemia
+del(7)(p14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(p14)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(7)(p14)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(7)(p14p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(p14q34)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(7)(p15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(p15)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(7)(p15)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(7)(p15)	-	-	Acute myeloid leukemia, NOS
+del(7)(p15)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(7)(p15)	-	-	Diffuse large B-cell lymphoma
+del(7)(p15)	-	-	Idiopathic myelofibrosis
+del(7)(p15)	-	-	Multiple myeloma
+del(7)(p15p21)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(7)(p15p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(p21)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(7)(p21)	-	-	Multiple myeloma
+del(7)(p21p15)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(7)(p21q35)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(7)(p22)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(7p)	-	-	Acute erythroleukemia (FAB type M6)
+del(7p)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7p)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(7p)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(7p)	-	-	Acute myeloid leukemia, NOS
+del(7p)	-	-	Diffuse large B-cell lymphoma
+del(7)(q11)	-	-	Acute erythroleukemia (FAB type M6)
+del(7)(q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(q11)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(7)(q11)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(7)(q11)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(7)(q11)	-	-	Acute myeloid leukemia, NOS
+del(7)(q11)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(7)(q11)	-	-	Chronic lymphocytic leukemia
+del(7)(q11)	-	-	Diffuse large B-cell lymphoma
+del(7)(q11)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(7)(q11)	-	-	Mantle cell lymphoma
+del(7)(q11)	-	-	Multiple myeloma
+del(7)(q11q22)	-	-	Acute erythroleukemia (FAB type M6)
+del(7)(q11q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(q11q22)	-	-	Acute myeloid leukemia, NOS
+del(7)(q11q22)	-	-	Follicular lymphoma
+del(7)(q11q22)	-	-	Refractory anemia with excess of blasts (FAB)
+del(7)(q11q31)	-	-	Acute myeloid leukemia, NOS
+del(7)(q11q32)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(7)(q11q32)	-	-	Acute myeloid leukemia, NOS
+del(7)(q11q32)	-	-	Follicular lymphoma
+del(7)(q11q33)	-	-	Acute myeloid leukemia, NOS
+del(7)(q11q34)	-	-	Acute myeloid leukemia, NOS
+del(7)(q11q36)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(q11q36)		-	Acute Myeloid Leukemia
+del(7)(q11q36)	-	-	Acute myeloid leukemia, NOS
+del(7)(q11)	-	-	Refractory anemia
+del(7)(q11)	-	-	Refractory anemia with excess of blasts (FAB)
+del(7)(q11)	-	-	Refractory cytopenia with multilineage dysplasia
+del(7)(q21)	-	-	Acute erythroleukemia (FAB type M6)
+del(7)(q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(q21)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(7)(q21)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(7)(q21)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(7)(q21)	-	-	Acute myeloid leukemia, NOS
+del(7)(q21)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(7)(q21)	-	-	Burkitt lymphoma/leukemia
+del(7)(q21)	-	-	Follicular lymphoma
+del(7)(q21)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(7)(q21q31.1)		-	Acute Myelogenous Leukemia
+del(7)(q21q31)	-	-	Acute erythroleukemia (FAB type M6)
+del(7)(q21q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(q21q31)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(7)(q21q31)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(7)(q21q31)	-	-	Acute myeloid leukemia, NOS
+del(7)(q21q31)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(7)(q21q31)	-	-	Chronic lymphocytic leukemia
+del(7)(q21q31)	-	-	Multiple myeloma
+del(7)(q21q31)	-	-	Polycythemia vera
+del(7)(q21q31)	-	-	Refractory anemia with excess of blasts (FAB)
+del(7)(q21q31)	-	-	Refractory anemia with ringed sideroblasts
+del(7)(q21q31)	-	-	Splenic marginal zone B-cell lymphoma
+del(7)(q21q32)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(7)(q21q33)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(7)(q21q33)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(7)(q21q33)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(7)(q21q33)	-	-	Acute myeloid leukemia, NOS
+del(7)(q21q33)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(7)(q21q33)	-	-	Refractory anemia with excess of blasts (FAB)
+del(7)(q21q34)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(7)(q21q34)	-	-	Refractory anemia with excess of blasts (FAB)
+del(7)(q21q35)	-	-	Acute erythroleukemia (FAB type M6)
+del(7)(q21q35)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(7)(q21q35)	-	-	Acute myeloid leukemia, NOS
+del(7)(q21q36)		-	Acute Lymphoblastic Leukemia
+del(7)(q21q36)	-	-	Acute myeloid leukemia, NOS
+del(7)(q21)	-	-	Refractory anemia with excess blasts-1
+del(7)(q21)	-	-	Refractory anemia with excess blasts-2
+del(7)(q21)	-	-	Refractory anemia with excess of blasts (FAB)
+del(7)(q21)	-	-	Splenic marginal zone B-cell lymphoma
+del(7)(q22)	-	-	Acute erythroleukemia (FAB type M6)
+del(7)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(q22)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(7)(q22)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(7)(q22)	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+del(7)(q22)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(7)(q22)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(7)(q22)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(7)(q22)	-	-	Acute myeloid leukemia, NOS
+del(7)(q22)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(7)(q22)	-	-	Acute promyelocytic leukemia (FAB type M3)
+del(7)(q22)	-	-	Chronic lymphocytic leukemia
+del(7)(q22)	-	-	Diffuse large B-cell lymphoma
+del(7)(q22)	-	-	Follicular lymphoma
+del(7)(q22)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(7)(q22)	-	-	Idiopathic myelofibrosis
+del(7)(q22)	-	-	Mantle cell lymphoma
+del(7)(q22)	-	-	Multiple myeloma
+del(7)(q22)	-	-	Polycythemia vera
+del(7)(q22q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(q22q31)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(7)(q22q31)		-	Acute Myelocytic Leukemia
+del(7)(q22q31)	-	-	Acute myeloid leukemia, NOS
+del(7)(q22q31)ordel(7)(q31q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(q22q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(q22q32)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(7)(q22q32)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(7)(q22q32)		-	Acute Myeloid Leukemia
+del(7)(q22q32)	-	-	Acute myeloid leukemia, NOS
+del(7)(q22q32)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(7)(q22q32)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(7)(q22q32)	-	-	Chronic lymphocytic leukemia
+del(7)(q22q32)	-	-	Diffuse large B-cell lymphoma
+del(7)(q22q32)	-	-	Follicular lymphoma
+del(7)(q22q32)	-	-	Idiopathic myelofibrosis
+del(7)(q22q32)	-	-	Mantle cell lymphoma
+del(7)(q22q32)	-	-	Multiple myeloma
+del(7)(q22q32)		-	Myelodysplasia Syndrome,refractory Anemia with Ring Sideroblast
+del(7)(q22q32)	-	-	Refractory anemia
+del(7)(q22q32)	-	-	Refractory anemia with excess of blasts (FAB)
+del(7)(q22q32)	-	-	Splenic marginal zone B-cell lymphoma
+del(7)(q22q33)	-	-	Splenic marginal zone B-cell lymphoma
+del(7)(q22q34)	-	-	Acute erythroleukemia (FAB type M6)
+del(7)(q22q34)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(q22q34)	-	-	Acute myeloid leukemia, NOS
+del(7)(q22q34)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(7)(q22q34)	-	-	Chronic lymphocytic leukemia
+del(7)(q22q34)	-	-	Diffuse large B-cell lymphoma
+del(7)(q22q34)	-	-	Follicular lymphoma
+del(7)(q22q34)	-	-	Polycythemia vera
+del(7)(q22q34)	-	-	Refractory anemia
+del(7)(q22q34)	-	-	Refractory anemia with excess of blasts (FAB)
+del(7)(q22q34)	-	-	Refractory cytopenia with multilineage dysplasia
+del(7)(q22q34)	-	-	Splenic marginal zone B-cell lymphoma
+del(7)(q22q35)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(q22q35)	-	-	Acute myeloid leukemia, NOS
+del(7)(q22q36)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(q22q36)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(7)(q22q36)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(7)(q22q36)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(7)(q22q36)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(7)(q22q36)		-	Acute Myeloid Leukemia
+del(7)(q22q36)	-	-	Acute myeloid leukemia, NOS
+del(7)(q22q36)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(7)(q22q36)	-	-	Chronic lymphocytic leukemia
+del(7)(q22q36)	-	-	Diffuse large B-cell lymphoma
+del(7)(q22q36)	-	-	Follicular lymphoma
+del(7)(q22q36)	-	-	Multiple myeloma
+del(7)(q22q36)	-	-	Refractory anemia with excess of blasts (FAB)
+del(7)(q22)	-	-	Refractory anemia
+del(7)(q22)	-	-	Refractory anemia with excess blasts-1
+del(7)(q22)	-	-	Refractory anemia with excess blasts-2
+del(7)(q22)	-	-	Refractory anemia with excess of blasts (FAB)
+del(7)(q22)	-	-	Refractory anemia with ringed sideroblasts
+del(7)(q22)	-	-	Refractory cytopenia with multilineage dysplasia
+del(7)(q22)	-	-	Splenic marginal zone B-cell lymphoma
+del(7)(q22)	-	Stomach	Extranodal marginal zone B-cell lymphoma
+del(7)(q31)	-	-	Acute erythroleukemia (FAB type M6)
+del(7)(q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(q31)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(7)(q31)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(7)(q31)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(7)(q31)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(7)(q31)	-	-	Acute myeloid leukemia, NOS
+del(7)(q31)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(7)(q31)	-	-	Chronic lymphocytic leukemia
+del(7)(q31)	-	-	Diffuse large B-cell lymphoma
+del(7)(q31)	-	-	Follicular lymphoma
+del(7)(q31)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(7)(q31)	-	-	Multiple myeloma
+del(7)(q31)	-	-	Peripheral T-cell lymphoma, unspecified
+del(7)(q31q32)	-	-	Splenic marginal zone B-cell lymphoma
+del(7)(q31q33)	-	-	Acute erythroleukemia (FAB type M6)
+del(7)(q31q33)	-	-	Refractory anemia
+del(7)(q31q34)	-	-	Acute erythroleukemia (FAB type M6)
+del(7)(q31q34)	-	-	Acute myeloid leukemia, NOS
+del(7)(q31q34)	-	-	Chronic lymphocytic leukemia
+del(7)(q31q34)	-	-	Refractory anemia
+del(7)(q31q34)	-	-	Refractory anemia with excess of blasts (FAB)
+del(7)(q31q34)	-	-	Splenic marginal zone B-cell lymphoma
+del(7)(q31q35)	-	-	Acute myeloid leukemia, NOS
+del(7)(q31q35)	-	-	Lymphoplasmacytic lymphoma
+del(7)(q31q36)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(7)(q31q36)	-	-	Acute myeloid leukemia, NOS
+del(7)(q31q36)	-	-	Refractory anemia
+del(7)(q31q36)	-	-	Splenic marginal zone B-cell lymphoma
+del(7)(q31)	-	-	Refractory anemia
+del(7)(q31)	-	-	Splenic marginal zone B-cell lymphoma
+del(7)(q32)	-	-	Acute erythroleukemia (FAB type M6)
+del(7)(q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(q32)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(7)(q32)	-	-	Acute monoblastic leukemia with differentiation (FAB type M5b)
+del(7)(q32)	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+del(7)(q32)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(7)(q32)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(7)(q32)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(7)(q32)	-	-	Acute myeloid leukemia, NOS
+del(7)(q32)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(7)(q32)	-	-	Chronic lymphocytic leukemia
+del(7)(q32)	-	-	Diffuse large B-cell lymphoma
+del(7)(q32)	-	-	Follicular lymphoma
+del(7)(q32)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(7)(q32)	-	-	Mantle cell lymphoma
+del(7)(q32)	-	-	Multiple myeloma
+del(7)(q32q34)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(7)(q32q34)	-	-	Splenic marginal zone B-cell lymphoma
+del(7)(q32q35)	-	-	Diffuse large B-cell lymphoma
+del(7)(q32q36)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(q32q36)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(7)(q32q36)	-	-	Acute myeloid leukemia, NOS
+del(7)(q32q36)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(7)(q32q36)	-	-	Burkitt lymphoma/leukemia
+del(7)(q32q36)	-	-	Chronic lymphocytic leukemia
+del(7)(q32q36)	-	-	Follicular lymphoma
+del(7)(q32)	-	-	Refractory anemia
+del(7)(q32)	-	-	Refractory anemia with excess of blasts (FAB)
+del(7)(q32)	-	-	Refractory anemia with ringed sideroblasts
+del(7)(q32)	-	-	Splenic marginal zone B-cell lymphoma
+del(7)(q33)	-	-	Acute myeloid leukemia, NOS
+del(7)(q33)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(7)(q33)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(7)(q34)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7)(q34)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(7)(q34)	-	-	Acute myeloid leukemia, NOS
+del(7)(q34)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(7)(q34q36)	-	-	Chronic lymphocytic leukemia
+del(7)(q34q36)	-	-	Splenic marginal zone B-cell lymphoma
+del(7)(q35)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(7)(q35)	-	-	Acute myeloid leukemia, NOS
+del(7)(q35)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(7)(q35)	-	-	Splenic marginal zone B-cell lymphoma
+del(7)(q36)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(7)(q36)	-	-	Multiple myeloma
+del(7q)	-	-	Acute erythroleukemia (FAB type M6)
+del(7q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(7q)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(7q)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(7q)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(7q)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(7q)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(7q)	-	-	Acute myeloid leukemia, NOS
+del(7q)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(7q)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(7q)	-	-	Burkitt lymphoma/leukemia
+del(7q)	-	-	Chronic lymphocytic leukemia
+del(7q)	-	-	Diffuse large B-cell lymphoma
+del(7q)	-	-	Follicular lymphoma
+del(7q)	-	-	Idiopathic myelofibrosis
+del(7q) in non-Hodgkin's lymphoma (NHL)		-	NHL
+del(7q)	-	-	Lymphoplasmacytic lymphoma
+del(7q)	-	-	Mantle cell lymphoma
+del(7q)	-	-	Multiple myeloma
+del(7q)	-	-	Polycythemia vera
+del(7q)	-	-	Refractory anemia
+del(7q)	-	-	Refractory anemia with excess of blasts (FAB)
+del(7q)	-	-	Refractory anemia with ringed sideroblasts
+del(7q)	-	-	Refractory cytopenia with multilineage dysplasia
+del(7q)	-	-	Splenic marginal zone B-cell lymphoma
+der(7)del(7)(p11)del(7)(q11)	-	-	Refractory cytopenia with multilineage dysplasia
+der(7)del(7)(p21)del(7)(q22q33)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(8)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8)(p11)	-	-	Acute myeloid leukemia, NOS
+del(8)(p11)	-	-	Chronic lymphocytic leukemia
+del(8)(p11)	-	-	Diffuse large B-cell lymphoma
+del(8)(p11)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(8)(p11)	-	-	Mantle cell lymphoma
+del(8)(p11)	-	-	Multiple myeloma
+del(8)(p11)	-	-	Splenic marginal zone B-cell lymphoma
+del(8)(p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8)(p12)	-	-	Diffuse large B-cell lymphoma
+del(8)(p12)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(8)(p12)	-	-	Mantle cell lymphoma
+del(8)(p12)	-	-	Multiple myeloma
+del(8)(p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8)(p21)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(8)(p21)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(8)(p21)	-	-	Acute myeloid leukemia, NOS
+del(8)(p21)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(8)(p21)	-	-	B-cell lymphoma associated with hemophagocytic syndrome
+del(8)(p21)	-	-	Diffuse large B-cell lymphoma
+del(8)(p21)	-	-	Follicular lymphoma
+del(8)(p21)	-	-	Multiple myeloma
+del(8)(p21p23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8)(p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8)(p22)	-	-	Acute myeloid leukemia, NOS
+del(8)(p22)	-	-	Diffuse large B-cell lymphoma
+del(8)(p22)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(8)(p22)	-	-	Multiple myeloma
+del(8)(p23)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(8p)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8)(q11)	-	-	Acute myeloid leukemia, NOS
+del(8)(q11)	-	-	Diffuse large B-cell lymphoma
+del(8)(q11)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(8)(q11q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8)(q11q13)	-	-	Diffuse large B-cell lymphoma
+del(8)(q11q13)	-	-	Follicular lymphoma
+del(8)(q11q22)	-	-	Multiple myeloma
+del(8)(q12)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(8)(q12)	-	-	Multiple myeloma
+del(8)(q12)	-	-	Splenic marginal zone B-cell lymphoma
+del(8)(q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8)(q13)	-	-	Diffuse large B-cell lymphoma
+del(8)(q13)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(8)(q13q21)	-	-	Diffuse large B-cell lymphoma
+del(8)(q13q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8)(q13q22)	-	-	Multiple myeloma
+del(8)(q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8)(q21)	-	-	Follicular lymphoma
+del(8)(q21)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(8)(q21q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8)(q21q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8)(q21q23)	-	-	Acute myeloid leukemia, NOS
+del(8)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8)(q22)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(8)(q22)	-	-	Acute myeloid leukemia, NOS
+del(8)(q22)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(8)(q22)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(8)(q22)	-	-	Diffuse large B-cell lymphoma
+del(8)(q22)	-	-	Follicular lymphoma
+del(8)(q22)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(8)(q22)	-	-	Multiple myeloma
+del(8)(q22q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8)(q22q24)	-	-	Acute myeloid leukemia, NOS
+del(8)(q22q24)		-	B-Cell Lymphoma
+del(8)(q22q24)	-	-	Multiple myeloma
+del(8)(q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8)(q23)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(8)(q23q24)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(8)(q24.21q24.21)		-	B-Cell Lymphoma
+del(8)(q24.21q24.21)		-	B-Cell Lymphomas
+del(8)(q24.2q24.2)		-	Acute Promyelocytic Leukemia
+del(8)(q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8)(q24)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(8)(q24)	-	-	Acute myeloid leukemia, NOS
+del(8)(q24)	-	-	Chronic lymphocytic leukemia
+del(8)(q24)	-	-	Diffuse large B-cell lymphoma
+del(8)(q24)	-	-	Follicular lymphoma
+del(8)(q24)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(8)(q24)	-	-	Multiple myeloma
+del(8q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(8q)	-	-	Acute myeloid leukemia, NOS
+del(8q)	-	-	Diffuse large B-cell lymphoma
+del(8q)	-	-	Follicular lymphoma
+del(8q)	-	-	Multiple myeloma
+der(8)del(8)(p21)del(8)(q23)	-	-	Diffuse large B-cell lymphoma
+del(9)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p11)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(9)(p11)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(9)(p11)	-	-	Diffuse large B-cell lymphoma
+del(9)(p11)	-	-	Multiple myeloma
+del(9)(p11p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p11p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p11p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p12)	-	-	Acute myeloid leukemia, NOS
+del(9)(p12)	-	-	Chronic lymphocytic leukemia
+del(9)(p12)	-	-	Diffuse large B-cell lymphoma
+del(9)(p12)	-	-	Follicular lymphoma
+del(9)(p12)	-	-	Mantle cell lymphoma
+del(9)(p12p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p12p24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p13.2p13.2)	ZBTB5	-	B-Cell Lymphomas
+del(9)(p13)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(9)(p13)	-	-	Acute myeloid leukemia, NOS
+del(9)(p13)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(9)(p13)	-	-	Burkitt lymphoma/leukemia
+del(9)(p13)	-	-	Chronic lymphocytic leukemia
+del(9)(p13)	-	-	Diffuse large B-cell lymphoma
+del(9)(p13)	-	-	Follicular lymphoma
+del(9)(p13)	-	-	Lymphoplasmacytic lymphoma
+del(9)(p13)	-	-	Mantle cell lymphoma
+del(9)(p13)	-	-	Multiple myeloma
+del(9)(p13p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p13p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p13p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p13p23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p13p23)	-	-	Splenic marginal zone B-cell lymphoma
+del(9)(p13p24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p13p24)	-	-	Diffuse large B-cell lymphoma
+del(9)(p21.3p21.1)	MTAP/LINGO2	-	B-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)		-	B-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)	CDKN2A/CDKN2B-AS1	-	B-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)	CDKN2A/CDKN2B	-	T-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)	FOCAD/CDKN2B-AS1	-	T-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)	MLLT3	-	B-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)	MTAP/CDKN2A	-	B-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)	MTAP/CDKN2A	-	T-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)	MTAP/CDKN2B-AS1	-	B-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)	MTAP/CDKN2B-AS1	-	T-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)	MTAP/CDKN2B	-	B-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)	MTAP/CDKN2B	-	T-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)	MTAP	-	T-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)	NM_058195	-	B-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)	NM_058195	-	T-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)	NR_003529.2	-	B-Cell Acute Lymphoblastic Leukemia
+del(9)(p21.3p21.3)		-	T-Cell Acute Lymphoblastic Leukemia
+del(9)(p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p21)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(9)(p21)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(9)(p21)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(9)(p21)	-	-	Acute myeloid leukemia, NOS
+del(9)(p21)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(9)(p21)	-	-	Burkitt lymphoma/leukemia
+del(9)(p21)	-	-	Chronic lymphocytic leukemia
+del(9)(p21)	-	-	Diffuse large B-cell lymphoma
+del(9)(p21)	-	-	Follicular lymphoma
+del(9)(p21)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(9)(p21)	-	-	Mantle cell lymphoma
+del(9)(p21)	-	-	Multiple myeloma
+del(9)(p21p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p21p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p21p23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p21p24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p21)	-	-	Peripheral T-cell lymphoma, unspecified
+del(9)(p21)	-	-	Splenic marginal zone B-cell lymphoma
+del(9)(p22.1p21.3)		-	B-Cell Acute Lymphoblastic Leukemia
+del(9)(p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p22)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(9)(p22)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(9)(p22)	-	-	Acute myeloid leukemia, NOS
+del(9)(p22)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(9)(p22)	-	-	Burkitt lymphoma/leukemia
+del(9)(p22)	-	-	Diffuse large B-cell lymphoma
+del(9)(p22)	-	-	Follicular lymphoma
+del(9)(p22)	-	-	Mantle cell lymphoma
+del(9)(p22)	-	-	Multiple myeloma
+del(9)(p22p21)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(9)(p22p24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p22p24)	-	-	Chronic lymphocytic leukemia
+del(9)(p22p24)	-	-	Follicular lymphoma
+del(9)(p23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(p23)	-	-	Chronic lymphocytic leukemia
+del(9)(p23)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(9)(p24)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(9p)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9p)	-	-	Chronic lymphocytic leukemia
+del(9p)	-	-	Diffuse large B-cell lymphoma
+del(9p)	-	-	Follicular lymphoma
+del(9p) in Acute Lymphoblastic Leukemia		-	B-ALL::T-ALL
+del(9p)	-	-	Splenic marginal zone B-cell lymphoma
+del(9)(q11)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(9)(q11)	-	-	Acute myeloid leukemia, NOS
+del(9)(q11)	-	-	Burkitt lymphoma/leukemia
+del(9)(q11)	-	-	Chronic lymphocytic leukemia
+del(9)(q11)	-	-	Diffuse large B-cell lymphoma
+del(9)(q11q13)	-	-	Chronic lymphocytic leukemia
+del(9)(q11q21)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(9)(q11q21)	-	-	Acute myeloid leukemia, NOS
+del(9)(q11q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q11q22)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(9)(q11q22)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(9)(q11q22)	-	-	Refractory anemia
+del(9)(q11q32)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(9)(q11q34)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(9)(q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q12)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(9)(q12)	-	-	Acute myeloid leukemia, NOS
+del(9)(q12)	-	-	Chronic lymphocytic leukemia
+del(9)(q12)	-	-	Diffuse large B-cell lymphoma
+del(9)(q12)	-	-	Multiple myeloma
+del(9)(q12q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q12q21)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(9)(q12q22)	-	-	Acute erythroleukemia (FAB type M6)
+del(9)(q12q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q12q22)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(9)(q12q22)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(9)(q12q22)	-	-	Acute myeloid leukemia, NOS
+del(9)(q12q22)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(9)(q12q22)	-	-	Acute promyelocytic leukemia (FAB type M3)
+del(9)(q12q22)	-	-	Burkitt lymphoma/leukemia
+del(9)(q12q22)	-	-	Follicular lymphoma
+del(9)(q12q22)	-	-	Refractory anemia
+del(9)(q12q31)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(9)(q12q31)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(9)(q12q31)		-	Acute Myelocytic Leukemia
+del(9)(q12q31)	-	-	Acute myeloid leukemia, NOS
+del(9)(q12q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q12q32)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(9)(q12q32)	-	-	Acute myeloid leukemia, NOS
+del(9)(q12q32)	-	-	Acute promyelocytic leukemia (FAB type M3)
+del(9)(q12q32)	-	-	Chronic lymphocytic leukemia
+del(9)(q12q33)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(9)(q12q33)	-	-	Multiple myeloma
+del(9)(q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q13)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(9)(q13)	-	-	Acute myeloid leukemia, NOS
+del(9)(q13)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(9)(q13)	-	-	Anaplastic large cell lymphoma, systemic type
+del(9)(q13)	-	-	Diffuse large B-cell lymphoma
+del(9)(q13)	-	-	Mantle cell lymphoma
+del(9)(q13q22)	-	-	Acute erythroleukemia (FAB type M6)
+del(9)(q13q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q13q22)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(9)(q13q22)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(9)(q13q22)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(9)(q13q22)	-	-	Acute myeloid leukemia, NOS
+del(9)(q13q22)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(9)(q13q22)	-	-	Acute promyelocytic leukemia (FAB type M3)
+del(9)(q13q22)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(9)(q13q22)	-	-	Multiple myeloma
+del(9)(q13q22)	-	-	Refractory anemia with excess of blasts (FAB)
+del(9)(q13q31)	-	-	Acute erythroleukemia (FAB type M6)
+del(9)(q13q31)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(9)(q13q31)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(9)(q13q31)	-	-	Acute myeloid leukemia, NOS
+del(9)(q13q31)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(9)(q13q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q13q32)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(9)(q13q32)	-	-	Acute myeloid leukemia, NOS
+del(9)(q13q32)	-	-	Diffuse large B-cell lymphoma
+del(9)(q13q32)	-	-	Follicular lymphoma
+del(9)(q13q33)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(9)(q13q33)	-	-	Multiple myeloma
+del(9)(q13q34)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q13q34)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(9)(q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q21)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(9)(q21)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(9)(q21)	-	-	Diffuse large B-cell lymphoma
+del(9)(q21)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(9)(q21)	-	-	Multiple myeloma
+del(9)(q21q22)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(9)(q21q22)	-	-	Multiple myeloma
+del(9)(q21q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q21q31)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(9)(q21q31)	-	-	Acute myeloid leukemia, NOS
+del(9)(q21q31)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(9)(q21q32)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(9)(q21q33)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(9)(q21q33)	-	-	Acute myeloid leukemia, NOS
+del(9)(q21q33)	-	-	Multiple myeloma
+del(9)(q21q34)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q21q34)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(9)(q21q34)	-	-	Acute myeloid leukemia, NOS
+del(9)(q21q34)	-	-	Peripheral T-cell lymphoma, unspecified
+del(9)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q22)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(9)(q22)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(9)(q22)	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+del(9)(q22)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(9)(q22)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(9)(q22)	-	-	Acute myeloid leukemia, NOS
+del(9)(q22)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(9)(q22)	-	-	Acute promyelocytic leukemia (FAB type M3)
+del(9)(q22)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(9)(q22)	-	-	Burkitt lymphoma/leukemia
+del(9)(q22)	-	-	Chronic lymphocytic leukemia
+del(9)(q22):del(9)(q22q31)	TEX10/XPA	-	MPD
+del(9)(q22)	-	-	Mantle cell lymphoma
+del(9)(q22)	-	-	Multiple myeloma
+del(9)(q22q31)	TEX10/XPA	-	MPD
+del(9)(q22q32)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(9)(q22q32)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(9)(q22q32)		-	Acute Myelocytic Leukemia
+del(9)(q22q32)	-	-	Diffuse large B-cell lymphoma
+del(9)(q22q33)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q22q33)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(9)(q22q34)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q22q34)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(9)(q22q34)		-	Acute Myelocytic Leukemia
+del(9)(q22q34)	-	-	Acute myeloid leukemia, NOS
+del(9)(q22q34)	-	-	Multiple myeloma
+del(9)(q22q34)	-	-	Peripheral T-cell lymphoma, unspecified
+del(9)(q22q34)	-	-	Refractory anemia with excess of blasts (FAB)
+del(9)(q22)	-	-	Refractory cytopenia with multilineage dysplasia
+del(9)(q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q31)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(9)(q31)	-	-	Mantle cell lymphoma
+del(9)(q32)	-	-	Chronic lymphocytic leukemia
+del(9)(q32)		-	Myeloperoxidase-negative Acute Leukemia
+del(9)(q33)	-	-	Chronic lymphocytic leukemia
+del(9)(q33)	-	-	Diffuse large B-cell lymphoma
+del(9)(q33)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(9)(q34.11q34.13)	SET/NUP214	-	Acute Myelocytic Leukemia
+del(9)(q34.11q34.13)	SET/NUP214	-	T-Cell Acute Lymphoblastic Leukemia
+del(9)(q34)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(9)(q34)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(9)(q34)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(9)(q34q34)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9)(q34q34)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(9)(q34q34)	NOTCH1/EDF1	-	MPD
+del(9q)	-	-	Acute erythroleukemia (FAB type M6)
+del(9q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(9q)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(9q)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(9q)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(9q)	-	-	Acute myeloid leukemia, NOS
+del(9q)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(9q)	-	-	Acute promyelocytic leukemia (FAB type M3)
+del(9q)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(9q)	-	-	Burkitt lymphoma/leukemia
+del(9q)	-	-	Chronic lymphocytic leukemia
+del(9q)	-	-	Diffuse large B-cell lymphoma
+del(9q)	-	-	Follicular lymphoma
+del(9q)	-	-	Multiple myeloma
+del(9q)	-	-	Peripheral T-cell lymphoma, unspecified
+del(9q)	-	-	Refractory anemia
+del(9q)	-	-	Refractory anemia with excess of blasts (FAB)
+del(9q)	solely	-	MPD::MDS::AML::T-ALL
+der(9)del(9)(p12)t(9;20)(p12;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(9)del(9)(p12)t(9;22)(q34;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(9)del(9)(p13)t(9;22)(q34;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(9)del(9)(p21)t(9;22)(q34;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(9)del(9)(p22)t(9;22)(q34;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10)(p11)	-	-	Acute myeloid leukemia, NOS
+del(10)(p11)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(10)(p11)	-	-	Diffuse large B-cell lymphoma
+del(10)(p11)	-	-	Follicular lymphoma
+del(10)(p11)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(10)(p11)	-	-	Multiple myeloma
+del(10)(p11p13)	-	-	Acute myeloid leukemia, NOS
+del(10)(p11p13)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(10)(p11)	-	-	Peripheral T-cell lymphoma, unspecified
+del(10)(p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10)(p12)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(10)(p12)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(10)(p12)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(10)(p12)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(10)(p12)	-	-	Diffuse large B-cell lymphoma
+del(10)(p12)	-	-	Multiple myeloma
+del(10)(p12p15)	-	-	Acute myeloid leukemia, NOS
+del(10)(p12q23)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(10)(p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10)(p13)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(10)(p13)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(10)(p13)	-	-	Diffuse large B-cell lymphoma
+del(10)(p13)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(10)(p13)	-	-	Multiple myeloma
+del(10)(p13p11)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(10)(p13p14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10)(p13)	-	-	Peripheral T-cell lymphoma, unspecified
+del(10)(p14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10)(p14)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(10)(p14)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(10)(p14)	-	-	Diffuse large B-cell lymphoma
+del(10)(p14)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(10)(p14p12)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(10p)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10p)	-	-	Acute myeloid leukemia, NOS
+del(10p)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(10)(q11)	-	-	Acute erythroleukemia (FAB type M6)
+del(10)(q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10)(q11)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(10)(q11q21)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(10)(q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10)(q21)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(10)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10)(q22)	-	-	Acute myeloid leukemia, NOS
+del(10)(q22)	-	-	Chronic lymphocytic leukemia
+del(10)(q22)	-	-	Diffuse large B-cell lymphoma
+del(10)(q22)	-	-	Follicular lymphoma
+del(10)(q22q23)	-	-	Chronic lymphocytic leukemia
+del(10)(q22q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10)(q22q24)	-	-	Burkitt lymphoma/leukemia
+del(10)(q22q24)	-	-	Chronic lymphocytic leukemia
+del(10)(q22q24)	-	-	Diffuse large B-cell lymphoma
+del(10)(q22q24)	-	-	Follicular lymphoma
+del(10)(q22q24)	-	-	Splenic marginal zone B-cell lymphoma
+del(10)(q22q26)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10)(q22q26)	-	-	Follicular lymphoma
+del(10)(q22q26)	-	-	Multiple myeloma
+del(10)(q23.2q24.3)		-	Follicular Lymphoma
+del(10)(q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10)(q23)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(10)(q23)	-	-	Follicular lymphoma
+del(10)(q23)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(10)(q23q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10)(q23q24)	-	-	Follicular lymphoma
+del(10)(q23q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10)(q24.32q23.33)	INA	-	B-Cell Chronic Lymphocytic Leukemia
+del(10)(q24.32q24.32)	CUEDC2	-	T-Cell Cutaneous Lymphoma
+del(10)(q24)	-	-	Acute erythroleukemia (FAB type M6)
+del(10)(q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10)(q24)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(10)(q24)	-	-	Acute myeloid leukemia, NOS
+del(10)(q24)	-	-	Acute promyelocytic leukemia (FAB type M3)
+del(10)(q24)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(10)(q24)	-	-	Burkitt lymphoma/leukemia
+del(10)(q24)	-	-	Diffuse large B-cell lymphoma
+del(10)(q24)	-	-	Follicular lymphoma
+del(10)(q24)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(10)(q24)	-	-	Mantle cell lymphoma
+del(10)(q24)	-	-	Multiple myeloma
+del(10)(q24q26)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10)(q24q26)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(10)(q24q26)	-	-	Follicular lymphoma
+del(10)(q24)	-	-	Splenic marginal zone B-cell lymphoma
+del(10)(q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10)(q25)	-	-	Acute myeloid leukemia, NOS
+del(10)(q25)	-	-	Diffuse large B-cell lymphoma
+del(10)(q25)	-	-	Follicular lymphoma
+del(10)(q26)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(10q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(10q)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(10q)	-	-	Burkitt lymphoma/leukemia
+del(10q)	-	-	Chronic lymphocytic leukemia
+del(10q)	-	-	Diffuse large B-cell lymphoma
+del(10q)	-	-	Follicular lymphoma
+del(10q)	-	-	Multiple myeloma
+del(10q)	-	-	Splenic marginal zone B-cell lymphoma
+del(11)(p11)	-	-	Acute erythroleukemia (FAB type M6)
+del(11)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(p11)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(11)(p11)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(11)(p11)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(11)(p11)	-	-	Acute myeloid leukemia, NOS
+del(11)(p11)	-	-	Anaplastic large cell lymphoma, systemic type
+del(11)(p11)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(11)(p11)	-	-	Mantle cell lymphoma
+del(11)(p11)	-	-	Multiple myeloma
+del(11)(p11p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(p11p13)	-	-	Acute myeloid leukemia, NOS
+del(11)(p11p13)	-	-	Multiple myeloma
+del(11)(p11p14)	-	-	Acute myeloid leukemia, NOS
+del(11)(p11p15)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(11)(p11p15)	-	-	Acute myeloid leukemia, NOS
+del(11)(p11p15)	-	-	Multiple myeloma
+del(11)(p12)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(11)(p12)	-	-	Acute myeloid leukemia, NOS
+del(11)(p12)	-	-	Acute promyelocytic leukemia (FAB type M3)
+del(11)(p12)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(11)(p12p14)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(11)(p13)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(11)(p13)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(11)(p13)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(11)(p13)	-	-	Acute myeloid leukemia, NOS
+del(11)(p13)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(11)(p13)	-	-	Anaplastic large cell lymphoma, systemic type
+del(11)(p13)	-	-	Chronic lymphocytic leukemia
+del(11)(p13)	-	-	Diffuse large B-cell lymphoma
+del(11)(p13)	-	-	Follicular lymphoma
+del(11)(p13)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(11)(p13)	-	-	Multiple myeloma
+del(11)(p13p15)	-	-	Diffuse large B-cell lymphoma
+del(11)(p14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(p14)	-	-	Acute myeloid leukemia, NOS
+del(11)(p14)	-	-	Acute promyelocytic leukemia (FAB type M3)
+del(11)(p14)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(11)(p15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(p15)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(11)(p15)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(11)(p15)	-	-	Multiple myeloma
+del(11)(p15p15)	HBB	-	Lymphoma of Intermediate Differentiation
+del(11p)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11p)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(11p)	-	-	Acute myeloid leukemia, NOS
+del(11p)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(11p)	-	-	Diffuse large B-cell lymphoma
+del(11p)	-	-	Multiple myeloma
+del(11)(q11)	-	-	Acute myeloid leukemia, NOS
+del(11)(q11)	-	-	Chronic lymphocytic leukemia
+del(11)(q11)	-	-	Multiple myeloma
+del(11)(q11q23)	-	-	Chronic lymphocytic leukemia
+del(11)(q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(q12)	-	-	Burkitt lymphoma/leukemia
+del(11)(q12)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(11)(q12)	-	-	Multiple myeloma
+del(11)	(q12q24)	-	Acute Myelocytic Leukemia
+del(11)(q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(q13)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(11)(q13)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(11)(q13)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(11)(q13)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(11)(q13)	-	-	Acute myeloid leukemia, NOS
+del(11)(q13)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(11)(q13)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(11)(q13)	-	-	Burkitt lymphoma/leukemia
+del(11)(q13)	-	-	Chronic lymphocytic leukemia
+del(11)(q13)	-	-	Diffuse large B-cell lymphoma
+del(11)(q13)	-	-	Follicular lymphoma
+del(11)(q13)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(11)(q13)	-	-	Multiple myeloma
+del(11)(q13)	-	-	Peripheral T-cell lymphoma, unspecified
+del(11)(q13)	-	-	Plasma cell leukemia
+del(11)(q13)	-	-	Polycythemia vera
+del(11)(q13q21)	-	-	Chronic lymphocytic leukemia
+del(11)(q13q21)	-	-	Diffuse large B-cell lymphoma
+del(11)(q13q21)	-	-	Idiopathic myelofibrosis
+del(11)(q13q21)	-	-	Multiple myeloma
+del(11)(q13q22)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(11)(q13q22)	-	-	Chronic lymphocytic leukemia
+del(11)(q13q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(q13q23)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(11)(q13q23)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(11)(q13q23)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(11)(q13q23)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(11)(q13q23)	-	-	Acute myeloid leukemia, NOS
+del(11)(q13q23)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(11)(q13q23)	-	-	Chronic lymphocytic leukemia
+del(11)(q13q23)	-	-	Diffuse large B-cell lymphoma
+del(11)(q13q23)	-	-	Refractory anemia
+del(11)(q13q23)	-	-	Refractory anemia with excess of blasts (FAB)
+del(11)(q13q23)	-	-	Splenic marginal zone B-cell lymphoma
+del(11)(q13q24)	-	-	Chronic lymphocytic leukemia
+del(11)(q13q24)	-	-	Refractory anemia with ringed sideroblasts
+del(11)(q13q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(q14)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(11)(q14)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(11)(q14)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(11)(q14)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(11)(q14)	-	-	Burkitt lymphoma/leukemia
+del(11)(q14)	-	-	Chronic lymphocytic leukemia
+del(11)(q14)	-	-	Diffuse large B-cell lymphoma
+del(11)(q14)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(11)(q14)	-	-	Idiopathic myelofibrosis
+del(11)(q14)	-	-	Multiple myeloma
+del(11)(q14)	-	-	Polycythemia vera
+del(11)(q14q21)		-	T Cell Acute Lymphoblastic
+del(11)(q14q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(q14q23)	-	-	Acute myeloid leukemia, NOS
+del(11)(q14q23)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(11)(q14q23)		-	B Cell Non-Hodgkina's Lymphoma
+del(11)(q14q23)	-	-	Chronic lymphocytic leukemia
+del(11)(q14q23)	-	-	Refractory anemia
+del(11)(q14q23)	-	-	Refractory anemia with excess blasts-2
+del(11)(q14q23)	-	-	Refractory anemia with ringed sideroblasts
+del(11)(q14q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(q14q24)	-	-	Chronic lymphocytic leukemia
+del(11)(q14q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(q14q25)	-	-	Chronic lymphocytic leukemia
+del(11)(q14)	-	-	Refractory anemia
+del(11)(q14)	-	-	Refractory anemia with excess blasts-1
+del(11)(q14)	-	-	Refractory anemia with excess blasts-2
+del(11)(q14)	-	-	Refractory anemia with excess of blasts (FAB)
+del(11)(q14)	-	-	Refractory anemia with ringed sideroblasts
+del(11)(q21)	-	-	Acute erythroleukemia (FAB type M6)
+del(11)(q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(q21)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(11)(q21)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(11)(q21)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(11)(q21)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(11)(q21)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(11)(q21)	-	-	Acute myeloid leukemia, NOS
+del(11)(q21)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(11)(q21)	-	-	Chronic lymphocytic leukemia
+del(11)(q21)	-	-	Diffuse large B-cell lymphoma
+del(11)(q21)	-	-	Multiple myeloma
+del(11)(q21)	-	-	Polycythemia vera
+del(11)(q21q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(q21q23)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(11)(q21q23)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(11)(q21q23)	-	-	Acute myeloid leukemia, NOS
+del(11)(q21q23)	-	-	Anaplastic large cell lymphoma, systemic type
+del(11)(q21q23)	-	-	Chronic lymphocytic leukemia
+del(11)(q21q23)	-	-	Diffuse large B-cell lymphoma
+del(11)(q21q23)	-	-	Follicular lymphoma
+del(11)(q21q23)	-	-	Mantle cell lymphoma
+del(11)(q21q23)	-	-	Multiple myeloma
+del(11)(q21q23)	-	-	Refractory anemia
+del(11)(q21q23)	-	-	Refractory anemia with excess of blasts (FAB)
+del(11)(q21q24)	-	-	Chronic lymphocytic leukemia
+del(11)(q21q25)	-	-	Acute myeloid leukemia, NOS
+del(11)(q21q25)	-	-	Chronic lymphocytic leukemia
+del(11)(q21)	-	-	Refractory anemia with excess of blasts (FAB)
+del(11)(q21)	-	-	Refractory anemia with ringed sideroblasts
+del(11)(q21)	-	-	Splenic marginal zone B-cell lymphoma
+del(11)(q22.3q22.3)	ATM	-	T-Cell Acute Lymphoblastic Leukemia
+del(11)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(q22)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(11)(q22)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(11)(q22)	-	-	Acute myeloid leukemia, NOS
+del(11)(q22)	-	-	Chronic lymphocytic leukemia
+del(11)(q22)	-	-	Diffuse large B-cell lymphoma
+del(11)(q22)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(11)(q22)	-	-	Lymphoplasmacytic lymphoma
+del(11)(q22)	-	-	Multiple myeloma
+del(11)(q22)	-	-	Polycythemia vera
+del(11)(q22q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(q22q23)	-	-	Chronic lymphocytic leukemia
+del(11)(q22q23)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(11)(q22q23)	-	-	Multiple myeloma
+del(11)(q22q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(q22q24)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(11)(q22q24)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(11)(q22q24)	-	-	Chronic lymphocytic leukemia
+del(11)(q22q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(q22)	-	-	Refractory anemia with excess of blasts (FAB)
+del(11)(q22)	-	-	Refractory anemia with ringed sideroblasts
+del(11)(q23)	-	-	Acute erythroleukemia (FAB type M6)
+del(11)(q23)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(11)(q23)	-	-	Acute promyelocytic leukemia (FAB type M3)
+del(11)(q23)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(11)(q23)	-	-	Burkitt lymphoma/leukemia
+del(11)(q23)	-	-	Chronic lymphocytic leukemia
+del(11)(q23)	-	-	Diffuse large B-cell lymphoma
+del(11)(q23)	-	-	Follicular lymphoma
+del(11)(q23)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(11)(q23)	-	-	Mantle cell lymphoma
+del(11)(q23)	MLL	-	Acute Lymphoblastic Leukemia
+del(11)(q23)	-	-	Multiple myeloma
+del(11)(q23q23)	MLL	-	Acute Lymphoblastic Leukemia
+del(11)(q23q23)	MLL	-	Acute Lymphocytic Leukemia
+del(11)(q23q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(q23q24)	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+del(11)(q23q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11)(q23q25)	-	-	Acute myeloid leukemia, NOS
+del(11)(q23q25)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(11)(q23q25)	-	-	Chronic lymphocytic leukemia
+del(11)(q23)	-	-	Refractory anemia
+del(11)(q23)	-	-	Refractory anemia with ringed sideroblasts
+del(11)(q23)	-	-	Refractory cytopenia with multilineage dysplasia
+del(11)(q24)	-	-	Chronic lymphocytic leukemia
+del(11)(q24)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(11)(q24)	KMT2A/TIRAP	-	MPD
+del(11)(q24)	-	-	Nodal marginal zone B-cell lymphoma
+del(11)(q24q25)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(11q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(11q)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(11q)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(11q)	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+del(11q)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(11q)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(11q)	-	-	Acute myeloid leukemia, NOS
+del(11q)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(11q)	-	-	Anaplastic large cell lymphoma, systemic type
+del(11q)	-	-	Chronic lymphocytic leukemia
+del(11q)	-	-	Diffuse large B-cell lymphoma
+del(11q)	-	-	Follicular lymphoma
+del(11q)	-	-	Idiopathic myelofibrosis
+del(11q) in non-Hodgkin's lymphoma (NHL)		-	NHL
+del(11q)	-	-	Mantle cell lymphoma
+del(11q)	-	-	Multiple myeloma
+del(11q)	-	-	Refractory anemia
+del(11q)	-	-	Refractory anemia with excess blasts-2
+del(11q)	-	-	Refractory anemia with excess of blasts (FAB)
+del(11q)	-	-	Refractory anemia with ringed sideroblasts
+del(11q)	-	-	Splenic marginal zone B-cell lymphoma
+del(12)(p11)	-	-	Acute erythroleukemia (FAB type M6)
+del(12)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(12)(p11)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(12)(p11)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(12)(p11)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(12)(p11)	-	-	Acute myeloid leukemia, NOS
+del(12)(p11)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(12)(p11)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(12)(p11)	-	-	Chronic lymphocytic leukemia
+del(12)(p11)	-	-	Diffuse large B-cell lymphoma
+del(12)(p11)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(12)(p11)	-	-	Idiopathic myelofibrosis
+del(12)(p11)	-	-	Mantle cell lymphoma
+del(12)(p11)	-	-	Multiple myeloma
+del(12)(p11p11)		-	Acute Myelocytic Leukemia
+del(12)(p11p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(12)(p11p12)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(12)(p11p12)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(12)(p11p12)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(12)(p11p12)	-	-	Acute myeloid leukemia, NOS
+del(12)(p11p12)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(12)(p11p12)	-	-	Multiple myeloma
+del(12)(p11p12)	-	-	Refractory anemia
+del(12)(p11p12)	-	-	Refractory anemia with excess of blasts (FAB)
+del(12)(p11p13)	-	-	Acute erythroleukemia (FAB type M6)
+del(12)(p11p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(12)(p11p13)	-	-	Acute monoblastic leukemia with differentiation (FAB type M5b)
+del(12)(p11p13)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(12)(p11p13)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(12)(p11p13)	-	-	Acute myeloid leukemia, NOS
+del(12)(p11p13)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(12)(p11p13)	-	-	Follicular lymphoma
+del(12)(p11p13)	-	-	Idiopathic myelofibrosis
+del(12)(p11p13)	-	-	Multiple myeloma
+del(12)(p11p13)	-	-	Refractory anemia with excess of blasts (FAB)
+del(12)(p11)	-	-	Polycythemia vera
+del(12)(p11q12)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(12)(p11)	-	-	Refractory anemia
+del(12)(p11)	-	-	Refractory anemia with excess of blasts (FAB)
+del(12)(p11)	-	-	Refractory anemia with ringed sideroblasts
+del(12)(p12)	-	-	Acute erythroleukemia (FAB type M6)
+del(12)(p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(12)(p12)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(12)(p12)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(12)(p12)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(12)(p12)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(12)(p12)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(12)(p12)	-	-	Acute myeloid leukemia, NOS
+del(12)(p12)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(12)(p12)	-	-	Diffuse large B-cell lymphoma
+del(12)(p12)	-	-	Follicular lymphoma
+del(12)(p12)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(12)(p12)	-	-	Multiple myeloma
+del(12)(p12p11)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(12)(p12p12)	-	-	Multiple myeloma
+del(12)(p12p13)	-	-	Acute erythroleukemia (FAB type M6)
+del(12)(p12p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(12)(p12p13)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(12)(p12p13)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(12)(p12p13)		-	Acute Myelocytic Leukemia
+del(12)(p12p13)	-	-	Acute myeloid leukemia, NOS
+del(12)(p12p13)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(12)(p12p13)	-	-	Follicular lymphoma
+del(12)(p12p13)	-	-	Multiple myeloma
+del(12)(p12p13)	-	-	Refractory anemia with excess blasts-2
+del(12)(p12p13)	-	-	Refractory anemia with excess of blasts (FAB)
+del(12)(p12)	-	-	Refractory anemia
+del(12)(p12)	-	-	Refractory anemia with excess blasts-2
+del(12)(p12)	-	-	Refractory anemia with excess of blasts (FAB)
+del(12)(p12)	-	-	Refractory anemia with ringed sideroblasts
+del(12)(p13)	-	-	Acute erythroleukemia (FAB type M6)
+del(12)(p13)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(12)(p13)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(12)(p13)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(12)(p13)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(12)(p13)	-	-	Acute promyelocytic leukemia (FAB type M3)
+del(12)(p13)	-	-	Anaplastic large cell lymphoma, systemic type
+del(12)(p13)	-	-	Chronic lymphocytic leukemia
+del(12)(p13)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(12)(p13)	-	-	Mantle cell lymphoma
+del(12)(p13)	-	-	Multiple myeloma
+del(12)(p13p11)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(12)(p13p12)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(12)(p13p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(12)(p13p13)	-	-	Acute myeloid leukemia, NOS
+del(12)(p13)	-	-	Refractory anemia with excess blasts-1
+del(12p)	-	-	Acute erythroleukemia (FAB type M6)
+del(12p)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(12p)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(12p)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(12p)	-	-	Acute monoblastic leukemia with differentiation (FAB type M5b)
+del(12p)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(12p)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(12p)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(12p)	-	-	Acute myeloid leukemia, NOS
+del(12p)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(12p)	-	-	Follicular lymphoma
+del(12p)	-	-	Idiopathic myelofibrosis
+del(12p)	-	-	Multiple myeloma
+del(12p)	-	-	Refractory anemia
+del(12p)	-	-	Refractory anemia with excess blasts-2
+del(12p)	-	-	Refractory anemia with excess of blasts (FAB)
+del(12)(q12)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(12)(q12q13)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(12)(q12q21)	-	-	Acute promyelocytic leukemia (FAB type M3)
+del(12)(q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(12)(q13)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(12)(q13)	-	-	Diffuse large B-cell lymphoma
+del(12)(q13)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(12)(q13)	-	-	Multiple myeloma
+del(12)(q13q13)	DHH/RHEBL1	-	MPD
+del(12)(q13q21)	-	-	Acute myeloid leukemia, NOS
+del(12)(q13q24)	-	-	Acute myeloid leukemia, NOS
+del(12)(q13q24)	-	-	Multiple myeloma
+del(12)(q14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(12)(q14)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(12)(q14)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(12)(q14)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(12)(q14)	-	-	Multiple myeloma
+del(12)(q14q15)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(12)(q14q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(12)(q15)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(12)(q15)	-	-	Mantle cell lymphoma
+del(12)(q15q24)		-	Acute Lymphoblastic Leukemia
+del(12)(q21)	-	-	Diffuse large B-cell lymphoma
+del(12)(q21)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(12)(q21)	-	-	Multiple myeloma
+del(12)(q21q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(12)(q21q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(12)(q21q23)	-	-	Refractory anemia
+del(12)(q21q24)	-	-	Follicular lymphoma
+del(12)(q21q24)	-	-	Multiple myeloma
+del(12)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(12)(q22)	-	-	Follicular lymphoma
+del(12)(q22)	-	-	Multiple myeloma
+del(12)(q22q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(12)(q22q24)	-	-	Acute myeloid leukemia, NOS
+del(12)(q22q24)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(12)(q23)	-	-	Acute erythroleukemia (FAB type M6)
+del(12)(q23)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(12)(q23)	-	-	Chronic lymphocytic leukemia
+del(12)(q23)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(12)(q23)	-	-	Multiple myeloma
+del(12)(q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(12)(q24)	-	-	Diffuse large B-cell lymphoma
+del(12)(q24)	-	-	Follicular lymphoma
+del(12)(q24)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(12)(q24)	-	-	Multiple myeloma
+del(12)(q24q24)	SETD1B/GTF2H3	-	MPD
+del(12q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(12q)	-	-	Acute myeloid leukemia, NOS
+del(12q)	-	-	Acute promyelocytic leukemia (FAB type M3)
+del(12q)	-	-	Follicular lymphoma
+del(12q)	-	-	Multiple myeloma
+del(12q)	-	-	Refractory anemia
+der(12)del(12)(p11)t(1;12)(q44;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q11q14)	-	-	Acute erythroleukemia (FAB type M6)
+del(13)(q11q14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q11q14)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(13)(q11q14)	-	-	Acute myeloid leukemia, NOS
+del(13)(q11q14)	-	-	Chronic lymphocytic leukemia
+del(13)(q11q21)	-	-	Diffuse large B-cell lymphoma
+del(13)(q11q21)	-	-	Multiple myeloma
+del(13)(q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q12)	-	-	Chronic lymphocytic leukemia
+del(13)(q12)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(13)(q12)	-	-	Lymphoplasmacytic lymphoma
+del(13)(q12)	-	-	Multiple myeloma
+del(13)(q12q13)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(13)(q12q14)	-	-	Acute erythroleukemia (FAB type M6)
+del(13)(q12q14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q12q14)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(13)(q12q14)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(13)(q12q14)	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+del(13)(q12q14)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(13)(q12q14)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(13)(q12q14)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(13)(q12q14)	-	-	Acute myeloid leukemia, NOS
+del(13)(q12q14)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(13)(q12q14)	-	-	Acute promyelocytic leukemia (FAB type M3)
+del(13)(q12q14)	-	-	Burkitt lymphoma/leukemia
+del(13)(q12q14)	-	-	Chronic lymphocytic leukemia
+del(13)(q12q14)	-	-	Diffuse large B-cell lymphoma
+del(13)(q12q14)	-	-	Essential thrombocythemia
+del(13)(q12q14)	-	-	Follicular lymphoma
+del(13)(q12q14)	-	-	Idiopathic myelofibrosis
+del(13)(q12q14)	-	-	Mantle cell lymphoma
+del(13)(q12q14)	-	-	Multiple myeloma
+del(13)(q12q14)	-	-	Nodal marginal zone B-cell lymphoma
+del(13)(q12q14)	-	-	Peripheral T-cell lymphoma, unspecified
+del(13)(q12q14)	-	-	Polycythemia vera
+del(13)(q12q14)	-	-	Refractory anemia
+del(13)(q12q14)	-	-	Refractory anemia with excess of blasts (FAB)
+del(13)(q12q14)	-	-	Refractory anemia with ringed sideroblasts
+del(13)(q12q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q12q21)	-	-	Chronic lymphocytic leukemia
+del(13)(q12q21)	-	-	Idiopathic myelofibrosis
+del(13)(q12q21)	-	-	Multiple myeloma
+del(13)(q12q21)	-	-	Refractory anemia with excess of blasts (FAB)
+del(13)(q12q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q12q22)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(13)(q12q22)	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+del(13)(q12q22)	-	-	Acute myeloid leukemia, NOS
+del(13)(q12q22)	-	-	Chronic lymphocytic leukemia
+del(13)(q12q22)	-	-	Diffuse large B-cell lymphoma
+del(13)(q12q22)	-	-	Follicular lymphoma
+del(13)(q12q22)	-	-	Idiopathic myelofibrosis
+del(13)(q12q22)	-	-	Multiple myeloma
+del(13)(q12q22)	-	-	Polycythemia vera
+del(13)(q12q31)	-	-	Chronic lymphocytic leukemia
+del(13)(q12q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q12q32)	-	-	Follicular lymphoma
+del(13)(q12q34)	-	-	Multiple myeloma
+del(13)(q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q13)	-	-	Acute myeloid leukemia, NOS
+del(13)(q13)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(13)(q13)	-	-	Plasma cell leukemia
+del(13)(q13q14)	-	-	Acute myeloid leukemia, NOS
+del(13)(q13q14)	-	-	Chronic lymphocytic leukemia
+del(13)(q13q14)	-	-	Follicular lymphoma
+del(13)(q13q14)	-	-	Multiple myeloma
+del(13)(q13q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q13q21)	-	-	Acute myeloid leukemia, NOS
+del(13)(q13q21)	-	-	Chronic lymphocytic leukemia
+del(13)(q13q21)	-	-	Follicular lymphoma
+del(13)(q13q21)	-	-	Idiopathic myelofibrosis
+del(13)(q13q21)	-	-	Multiple myeloma
+del(13)(q13q21)	-	-	Refractory anemia with ringed sideroblasts
+del(13)(q13q21)	-	-	Refractory cytopenia with multilineage dysplasia
+del(13)(q13q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q13q22)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(13)(q13q22)	-	-	Acute myeloid leukemia, NOS
+del(13)(q13q22)	-	-	Chronic lymphocytic leukemia
+del(13)(q13q22)	-	-	Diffuse large B-cell lymphoma
+del(13)(q13q22)	-	-	Multiple myeloma
+del(13)(q13q22)	-	-	Refractory anemia
+del(13)(q13q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q13q31)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(13)(q13q31)	-	-	Chronic lymphocytic leukemia
+del(13)(q13q31)	-	-	Diffuse large B-cell lymphoma
+del(13)(q13q31)	-	-	Follicular lymphoma
+del(13)(q13q31)	-	-	Idiopathic myelofibrosis
+del(13)(q13q31)	-	-	Multiple myeloma
+del(13)(q13q31)	-	-	Polycythemia vera
+del(13)(q13q31)	-	-	Refractory anemia with excess of blasts (FAB)
+del(13)(q13q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q13q32)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(13)(q13q32)	-	-	Idiopathic myelofibrosis
+del(13)(q13q33)	-	-	Chronic lymphocytic leukemia
+del(13)(q14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q14)	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+del(13)(q14)	-	-	Acute myeloid leukemia, NOS
+del(13)(q14)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(13)(q14)	-	-	Burkitt lymphoma/leukemia
+del(13)(q14)	-	-	Chronic lymphocytic leukemia
+del(13)(q14)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(13)(q14)	-	-	Multiple myeloma
+del(13)(q14)	-	-	Plasma cell leukemia
+del(13)(q14q14)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q14q14)	CCDC122/VPS36	-	MPD
+del(13)(q14q14)	-	-	Chronic lymphocytic leukemia
+del(13)(q14q14)	-	-	Multiple myeloma
+del(13)(q14q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q14q21)	-	-	Chronic lymphocytic leukemia
+del(13)(q14q21)	-	-	Idiopathic myelofibrosis
+del(13)(q14q21)	-	-	Mantle cell lymphoma
+del(13)(q14q21)	-	-	Multiple myeloma
+del(13)(q14q22)	-	-	Acute erythroleukemia (FAB type M6)
+del(13)(q14q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q14q22)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(13)(q14q22)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(13)(q14q22)	-	-	Acute myeloid leukemia, NOS
+del(13)(q14q22)	-	-	Burkitt lymphoma/leukemia
+del(13)(q14q22)	-	-	Chronic lymphocytic leukemia
+del(13)(q14q22)	-	-	Diffuse large B-cell lymphoma
+del(13)(q14q22)	-	-	Follicular lymphoma
+del(13)(q14q22)	-	-	Mantle cell lymphoma
+del(13)(q14q22)	-	-	Multiple myeloma
+del(13)(q14q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q14q31)	-	-	Chronic lymphocytic leukemia
+del(13)(q14q31)	-	-	Multiple myeloma
+del(13)(q14q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q14q32)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(13)(q14q32)	-	-	Acute myeloid leukemia, NOS
+del(13)(q14q32)	-	-	Chronic lymphocytic leukemia
+del(13)(q14q32)	-	-	Multiple myeloma
+del(13)(q14q32)	-	-	Polycythemia vera
+del(13)(q14q33)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q14q34)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q14q34)	-	-	Acute myeloid leukemia, NOS
+del(13)(q14q34)	-	-	Multiple myeloma
+del(13)(q14)	-	-	Splenic marginal zone B-cell lymphoma
+del(13)(q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q21)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(13)(q21)	-	-	Acute myeloid leukemia, NOS
+del(13)(q21)	-	-	Chronic lymphocytic leukemia
+del(13)(q21)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(13)(q21q22)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(13)(q21q31)	-	-	Acute monoblastic leukemia with differentiation (FAB type M5b)
+del(13)(q21q31)	-	-	Diffuse large B-cell lymphoma
+del(13)(q21q31)	-	-	Multiple myeloma
+del(13)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q22)	-	-	Burkitt lymphoma/leukemia
+del(13)(q22)	-	-	Chronic lymphocytic leukemia
+del(13)(q22)	-	-	Diffuse large B-cell lymphoma
+del(13)(q22)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(13)(q22q31)	-	-	Multiple myeloma
+del(13)(q22q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q22q32)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(13)(q22q32)	-	-	Chronic lymphocytic leukemia
+del(13)(q22q32)	-	-	Multiple myeloma
+del(13)(q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13)(q31)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(13)(q31)	-	-	Follicular lymphoma
+del(13)(q31)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(13)(q31q33)	-	-	Diffuse large B-cell lymphoma
+del(13)(q31q33)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(13)(q31q34)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(13)(q32)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(13)(q32)	-	-	Chronic lymphocytic leukemia
+del(13)(q32)	-	-	Follicular lymphoma
+del(13)(q32)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(13)(q32q33)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(13)(q33)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(13q)	-	-	Acute erythroleukemia (FAB type M6)
+del(13q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(13q)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(13q)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(13q)	-	-	Acute monoblastic leukemia with differentiation (FAB type M5b)
+del(13q)	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+del(13q)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(13q)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(13q)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(13q)	-	-	Acute myeloid leukemia, NOS
+del(13q)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(13q)	-	-	Acute promyelocytic leukemia (FAB type M3)
+del(13q)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(13q)	-	-	Burkitt lymphoma/leukemia
+del(13q)	-	-	Chronic lymphocytic leukemia
+del(13q)	-	-	Diffuse large B-cell lymphoma
+del(13q)	-	-	Essential thrombocythemia
+del(13q)	-	-	Follicular lymphoma
+del(13q)	-	-	Idiopathic myelofibrosis
+del(13q) in chronic lymphocytic leukemia		-	NHL
+del(13q) in multiple myeloma		-	NHL
+del(13q) in myeloid malignancies		-	MPD::MDS::t-AML
+del(13q) in non-Hodgkin's lymphoma		-	NHL
+del(13q)	-	-	Mantle cell lymphoma
+del(13q)	-	-	Multiple myeloma
+del(13q)	-	-	Nodal marginal zone B-cell lymphoma
+del(13q)	-	-	Peripheral T-cell lymphoma, unspecified
+del(13q)	-	-	Polycythemia vera
+del(13q)	-	-	Refractory anemia
+del(13q)	-	-	Refractory anemia with excess of blasts (FAB)
+del(13q)	-	-	Refractory anemia with ringed sideroblasts
+del(13q)	-	-	Refractory cytopenia with multilineage dysplasia
+del(14)(q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(14)(q11)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(14)(q11q13)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(14)(q11q21)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(14)(q11q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(14)(q11q24)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(14)(q11q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(14)(q11q32)	-	-	Multiple myeloma
+del(14)(q12)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(14)(q12q21)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(14)(q13q32)	-	-	Multiple myeloma
+del(14)(q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(14)(q21)	-	-	Acute myeloid leukemia, NOS
+del(14)(q21)	-	-	Chronic lymphocytic leukemia
+del(14)(q21)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(14)(q21q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(14)(q21q32)	-	-	Multiple myeloma
+del(14)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(14)(q22)	-	-	Acute myeloid leukemia, NOS
+del(14)(q22)	-	-	Chronic lymphocytic leukemia
+del(14)(q22)	-	-	Diffuse large B-cell lymphoma
+del(14)(q22)	-	-	Follicular lymphoma
+del(14)(q22)	-	-	Mantle cell lymphoma
+del(14)(q22)	-	-	Multiple myeloma
+del(14)(q22q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(14)(q22q24)	-	-	Multiple myeloma
+del(14)(q22q31)	-	-	Chronic lymphocytic leukemia
+del(14)(q22q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(14)(q22q32)	-	-	Chronic lymphocytic leukemia
+del(14)(q22q32)	-	-	Multiple myeloma
+del(14)(q22q32)	-	-	Splenic marginal zone B-cell lymphoma
+del(14)(q22)	-	-	Splenic marginal zone B-cell lymphoma
+del(14)(q23)	-	-	Diffuse large B-cell lymphoma
+del(14)(q23)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(14)(q23q24)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(14)(q23q32)	-	-	Multiple myeloma
+del(14)(q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(14)(q24)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(14)(q24)	-	-	Acute myeloid leukemia, NOS
+del(14)(q24)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(14)(q24q31)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(14)(q24q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(14)(q24q32)	-	-	Chronic lymphocytic leukemia
+del(14)(q24q32)	-	-	Multiple myeloma
+del(14)(q24q32)	ZFP36L1/IGH	-	MPD
+del(14)(q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(14)(q31)	-	-	Chronic lymphocytic leukemia
+del(14)(q31)	-	-	Diffuse large B-cell lymphoma
+del(14)(q31)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(14)(q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(14)(q32)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(14q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(14q)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(14q)	-	-	Chronic lymphocytic leukemia
+del(14q)	-	-	Multiple myeloma
+del(14q)	-	-	Splenic marginal zone B-cell lymphoma
+del(15)(q11q15)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(15)(q11q15)	-	-	Follicular lymphoma
+del(15)(q11q21)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(15)(q11q21)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(15)(q12)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(15)(q12q15)	-	-	Follicular lymphoma
+del(15)(q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(15)(q13q15)	-	-	Diffuse large B-cell lymphoma
+del(15)(q13q15)	-	-	Follicular lymphoma
+del(15)(q15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(15)(q15)	-	-	Acute myeloid leukemia, NOS
+del(15)(q15)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(15)(q15q22)	-	-	Acute myeloid leukemia, NOS
+del(15)(q15q22)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(15)(q15q22)	-	-	Diffuse large B-cell lymphoma
+del(15)(q21)	-	-	Acute myeloid leukemia, NOS
+del(15)(q21)	-	-	Burkitt lymphoma/leukemia
+del(15)(q21)	-	-	Diffuse large B-cell lymphoma
+del(15)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(15)(q22)	-	-	Diffuse large B-cell lymphoma
+del(15)(q22)	-	-	Follicular lymphoma
+del(15)(q22)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(15)(q22q24)	-	-	Diffuse large B-cell lymphoma
+del(15)(q22q26)	-	-	Acute promyelocytic leukemia (FAB type M3)
+del(15)(q22)	-	-	Splenic marginal zone B-cell lymphoma
+del(15)(q23)	-	-	Chronic lymphocytic leukemia
+del(15)(q23)	-	-	Follicular lymphoma
+del(15)(q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(15)(q24)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(15)(q24)	-	-	Chronic lymphocytic leukemia
+del(15)(q24)	-	-	Follicular lymphoma
+del(15)(q24)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(15)(q24q26)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(15)(q25)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(15q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(15q)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(15q)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(15q)	-	-	Acute myeloid leukemia, NOS
+del(15q)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(15q)	-	-	Acute promyelocytic leukemia (FAB type M3)
+del(15q)	-	-	Diffuse large B-cell lymphoma
+del(15q)	-	-	Follicular lymphoma
+del(16)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(16)(p11)	-	-	Diffuse large B-cell lymphoma
+del(16)(p11)	-	-	Follicular lymphoma
+del(16)(p11)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(16)(p11)	-	-	Multiple myeloma
+del(16)(p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(16)(p12)	-	-	Acute myeloid leukemia, NOS
+del(16)(p12)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(16)(p12)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(16)(p13)	-	-	Acute erythroleukemia (FAB type M6)
+del(16)(p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(16)(p13)	-	-	Follicular lymphoma
+del(16)(p13)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(16)(p13p13)		-	Acute Myelocytic Leukemia-M2
+del(16)(q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(16)(q11)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(16)(q11)	-	-	Acute myeloid leukemia, NOS
+del(16)(q11)	-	-	Multiple myeloma
+del(16)(q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(16)(q12)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(16)(q12)	-	-	Acute myeloid leukemia, NOS
+del(16)(q12)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(16)(q12)	-	-	Multiple myeloma
+del(16)(q12q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(16)(q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(16)(q13)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(16)(q13)	-	-	Acute myeloid leukemia, NOS
+del(16)(q13)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(16)(q13)	-	-	Acute promyelocytic leukemia (FAB type M3)
+del(16)(q13)	-	-	Multiple myeloma
+del(16)(q13)	-	-	Refractory anemia with excess of blasts (FAB)
+del(16)(q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(16)(q21)	-	-	Acute myeloid leukemia, NOS
+del(16)(q21)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(16)(q21)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(16)(q21)	-	-	Multiple myeloma
+del(16)(q22)	-	-	Acute erythroleukemia (FAB type M6)
+del(16)(q22)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(16)(q22)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(16)(q22)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(16)(q22)	-	-	Acute myeloid leukemia, NOS
+del(16)(q22)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(16)(q22)	-	-	Acute promyelocytic leukemia (FAB type M3)
+del(16)(q22)	CBFB/MYH11	-	MPD::MDS::AML::t-AML
+del(16)(q22)	-	-	Chronic lymphocytic leukemia
+del(16)(q22)	-	-	Diffuse large B-cell lymphoma
+del(16)(q22)	-	-	Follicular lymphoma
+del(16)(q22)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(16)(q22)	-	-	Hepatosplenic T-cell lymphoma
+del(16)(q22)	-	-	Mantle cell lymphoma
+del(16)(q22)	-	-	Multiple myeloma
+del(16)(q22)	-	-	Plasma cell leukemia
+del(16)(q22q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(16)(q22q22)	CBFB	-	Acute Myelocytic Leukemia-M4
+del(16)(q22q22)	CTCF/PARD6A	-	MPD
+del(16)(q22q22)	-	-	Multiple myeloma
+del(16)(q22q24)	-	-	Acute erythroleukemia (FAB type M6)
+del(16)(q22q24)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(16)(q22q24)	-	-	Acute myeloid leukemia, NOS
+del(16)(q22)	-	-	Refractory anemia
+del(16)(q22)	-	-	Refractory anemia with excess of blasts (FAB)
+del(16)(q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(16)(q23)	-	-	Acute myeloid leukemia, NOS
+del(16)(q23)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(16)(q23)	-	-	Multiple myeloma
+del(16)(q24)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(16q)	-	-	Acute erythroleukemia (FAB type M6)
+del(16q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(16q)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(16q)	-	-	Acute myeloid leukemia, NOS
+del(16q)	-	-	Multiple myeloma
+der(16)del(16)(p11)del(16)(q12)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(17)(p11)	-	-	Acute erythroleukemia (FAB type M6)
+del(17)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(17)(p11)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(17)(p11)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(17)(p11)	-	-	Acute monoblastic leukemia with differentiation (FAB type M5b)
+del(17)(p11)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(17)(p11)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(17)(p11)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(17)(p11)	-	-	Acute myeloid leukemia, NOS
+del(17)(p11)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(17)(p11)	-	-	Anaplastic large cell lymphoma, systemic type
+del(17)(p11)	-	-	Burkitt lymphoma/leukemia
+del(17)(p11)	-	-	Chronic lymphocytic leukemia
+del(17)(p11)	-	-	Diffuse large B-cell lymphoma
+del(17)(p11)	-	-	Follicular lymphoma
+del(17)(p11)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(17)(p11)	-	-	Mantle cell lymphoma
+del(17)(p11)	-	-	Multiple myeloma
+del(17)(p11)	-	-	Nodal marginal zone B-cell lymphoma
+del(17)(p11p12)	-	-	Diffuse large B-cell lymphoma
+del(17)(p11p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(17)(p11p13)	-	-	Diffuse large B-cell lymphoma
+del(17)(p11p13)	-	-	Multiple myeloma
+del(17)(p11p13)	-	-	Refractory anemia
+del(17)(p11)	-	-	Refractory anemia
+del(17)(p11)	-	-	Refractory anemia with excess of blasts (FAB)
+del(17)(p11)	-	-	Splenic marginal zone B-cell lymphoma
+del(17)(p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(17)(p12)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(17)(p12)	-	-	Acute myeloid leukemia, NOS
+del(17)(p12)	-	-	Acute promyelocytic leukemia (FAB type M3)
+del(17)(p12)	-	-	Burkitt lymphoma/leukemia
+del(17)(p12)	-	-	Chronic lymphocytic leukemia
+del(17)(p12)	-	-	Diffuse large B-cell lymphoma
+del(17)(p12)	-	-	Follicular lymphoma
+del(17)(p12)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(17)(p12)	-	-	Multiple myeloma
+del(17)(p12p13)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(17)(p12)	-	-	Peripheral T-cell lymphoma, unspecified
+del(17)(p12)	-	-	Plasma cell leukemia
+del(17)(p12)	-	-	Refractory anemia
+del(17)(p12)	-	-	Refractory anemia with excess of blasts (FAB)
+del(17)(p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(17)(p13)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(17)(p13)	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+del(17)(p13)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(17)(p13)	-	-	Acute myeloid leukemia, NOS
+del(17)(p13)	-	-	Chronic lymphocytic leukemia
+del(17)(p13)	-	-	Diffuse large B-cell lymphoma
+del(17)(p13)	-	-	Follicular lymphoma
+del(17)(p13)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(17)(p13)	-	-	Mantle cell lymphoma
+del(17)(p13)	-	-	Multiple myeloma
+del(17)(p13p13)	-	-	Chronic lymphocytic leukemia
+del(17)(p13)	-	-	Refractory anemia with excess blasts-2
+del(17p)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(17p)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(17p)	-	-	Chronic lymphocytic leukemia
+del(17p)	-	-	Diffuse large B-cell lymphoma
+del(17p) in myeloid malignancies		-	MDS::t-AML::AML
+del(17p) in non-Hodgkin's lymphoma (NHL)		-	NHL
+del(17p)	-	-	Multiple myeloma
+del(17p)	-	-	Refractory anemia
+del(17)(q11q21)	-	-	Acute promyelocytic leukemia (FAB type M3)
+del(17)(q11q21)	-	-	Diffuse large B-cell lymphoma
+del(17)(q12)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(17)(q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(17)(q21)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(17)(q21)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(17)(q21)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(17)(q21)	-	-	Acute myeloid leukemia, NOS
+del(17)(q21)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(17)(q21q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(17)(q22)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(17)(q22)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(17)(q22)	-	-	Acute myeloid leukemia, NOS
+del(17)(q23)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(17)(q23)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(17)(q23)	-	-	Chronic lymphocytic leukemia
+del(17)(q23)	-	-	Diffuse large B-cell lymphoma
+del(17)(q23)	-	-	Follicular lymphoma
+del(17)(q23)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(17)(q24.1q24.2)		-	Hodgkin's Lymphoma
+del(17)(q24)	-	-	Acute erythroleukemia (FAB type M6)
+del(17)(q24q25)	-	-	Essential thrombocythemia
+del(17)(q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(17)(q25)	-	-	Follicular lymphoma
+del(17)(q25)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(17q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(17q)	-	-	Acute promyelocytic leukemia (FAB type M3)
+del(17q)	-	-	Diffuse large B-cell lymphoma
+del(17q)	-	-	Essential thrombocythemia
+der(17)del(17)(p11)del(17)(q11)	-	-	Chronic lymphocytic leukemia
+der(17)del(17)(p13)inv(17)(p13q11)	-	-	Chronic lymphocytic leukemia
+del(18)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(18)(p11)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(18)(p11)	-	-	Acute myeloid leukemia, NOS
+del(18)(p11)	-	-	Follicular lymphoma
+del(18)(p11)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(18)(p11)		-	MPD::MDS::AML::t-AML::B-ALL::T-ALL::NHL
+del(18)(q11q23)	-	-	Acute myeloid leukemia, NOS
+del(18)(q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(18)(q12)	-	-	Acute myeloid leukemia, NOS
+del(18)(q12)	-	-	Follicular lymphoma
+del(18)(q12)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(18)(q12q21)	-	-	Multiple myeloma
+del(18)(q12q23)	-	-	Acute myeloid leukemia, NOS
+del(18)(q21.33q21.33)		-	Follicular Lymphoma
+del(18)(q21)	-	-	Acute erythroleukemia (FAB type M6)
+del(18)(q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(18)(q21)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(18)(q21)	-	-	Acute myeloid leukemia, NOS
+del(18)(q21)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(18)(q21)	-	-	Burkitt lymphoma/leukemia
+del(18)(q21)	-	-	Chronic lymphocytic leukemia
+del(18)(q21)	-	-	Diffuse large B-cell lymphoma
+del(18)(q21)	-	-	Follicular lymphoma
+del(18)(q21)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(18)(q21)	-	-	Mantle cell lymphoma
+del(18)(q21)	-	-	Mediastinal large B-cell lymphoma
+del(18)(q21)	-	-	Multiple myeloma
+del(18)(q21)	-	-	Refractory anemia with excess blasts-1
+del(18)(q21)	-	-	Refractory anemia with excess of blasts (FAB)
+del(18)(q22)	-	-	Acute myeloid leukemia, NOS
+del(18)(q22)	-	-	Chronic lymphocytic leukemia
+del(18)(q22)	-	-	Follicular lymphoma
+del(18)(q22)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(18)(q22)	-	-	Multiple myeloma
+del(18)(q22q23)	-	-	Mantle cell lymphoma
+del(18q)	-	-	Acute myeloid leukemia, NOS
+del(18q)	-	-	Mantle cell lymphoma
+del(18q)	-	-	Multiple myeloma
+der(18)del(18)(p11)del(18)(q21)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(19)(p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(19)(p13)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(19)(p13)	-	-	Diffuse large B-cell lymphoma
+del(19)(p13)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(19)(p13p13)		-	Acute Lymphoblastic Leukemia
+del(19)(p13p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(19p)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(19)(q11)	-	-	Multiple myeloma
+del(19)(q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(19)(q12q13)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(19)(q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(19)(q13)	-	-	Acute myeloid leukemia, NOS
+del(19)(q13)	-	-	Diffuse large B-cell lymphoma
+del(19)(q13)	-	-	Follicular lymphoma
+del(19)(q13)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(19)(q13)	-	-	Multiple myeloma
+der(19)del(19)(p13)del(19)(q11)	-	-	Follicular lymphoma
+del(20)(p11)	-	-	Acute erythroleukemia (FAB type M6)
+del(20)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(20)(p11)	-	-	Acute myeloid leukemia, NOS
+del(20)(p11)	-	-	Multiple myeloma
+del(20)(p11p11)	-	-	Multiple myeloma
+del(20)(p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(20)(p12)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(20)(p13p12)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(20p)	-	-	Multiple myeloma
+del(20)(q11)	-	-	Acute erythroleukemia (FAB type M6)
+del(20)(q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(20)(q11)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(20)(q11)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(20)(q11)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(20)(q11)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(20)(q11)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(20)(q11)	-	-	Acute myeloid leukemia, NOS
+del(20)(q11)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(20)(q11)	-	-	Acute promyelocytic leukemia (FAB type M3)
+del(20)(q11)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+del(20)(q11)	-	-	Chronic lymphocytic leukemia
+del(20)(q11)	-	-	Diffuse large B-cell lymphoma
+del(20)(q11)	-	-	Essential thrombocythemia
+del(20)(q11)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(20)(q11)	-	-	Idiopathic myelofibrosis
+del(20)(q11)	-	-	Mantle cell lymphoma
+del(20)(q11)	-	-	Multiple myeloma
+del(20)(q11)	-	-	Polycythemia vera
+del(20)(q11q12)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(20)(q11q12)	-	-	Acute myeloid leukemia, NOS
+del(20)(q11q13)	-	-	Acute erythroleukemia (FAB type M6)
+del(20)(q11q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(20)(q11q13)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(20)(q11q13)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(20)(q11q13)	-	-	Acute monoblastic leukemia with differentiation (FAB type M5b)
+del(20)(q11q13)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(20)(q11q13)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(20)(q11q13)	-	-	Acute myeloid leukemia, NOS
+del(20)(q11q13)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(20)(q11q13)	-	-	Acute promyelocytic leukemia (FAB type M3)
+del(20)(q11q13)	-	-	Diffuse large B-cell lymphoma
+del(20)(q11q13)	-	-	Essential thrombocythemia
+del(20)(q11q13)	-	-	Follicular lymphoma
+del(20)(q11q13)	-	-	Idiopathic myelofibrosis
+del(20)(q11q13)	-	-	Multiple myeloma
+del(20)(q11q13)	-	-	Peripheral T-cell lymphoma, unspecified
+del(20)(q11q13)	-	-	Polycythemia vera
+del(20)(q11q13)	-	-	Refractory anemia
+del(20)(q11q13)	-	-	Refractory anemia with excess blasts-2
+del(20)(q11q13)	-	-	Refractory anemia with excess of blasts (FAB)
+del(20)(q11q13)	-	-	Refractory anemia with ringed sideroblasts
+del(20)(q11q13)	-	-	Refractory cytopenia with multilineage dysplasia
+del(20)(q11)	-	-	Refractory anemia
+del(20)(q11)	-	-	Refractory anemia with excess blasts-1
+del(20)(q11)	-	-	Refractory anemia with excess blasts-2
+del(20)(q11)	-	-	Refractory anemia with excess of blasts (FAB)
+del(20)(q11)	-	-	Refractory anemia with ringed sideroblasts
+del(20)(q11)	-	-	Refractory cytopenia with multilineage dysplasia
+del(20)(q12)	-	-	Acute erythroleukemia (FAB type M6)
+del(20)(q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(20)(q12)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(20)(q12)	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+del(20)(q12)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(20)(q12)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(20)(q12)	-	-	Acute myeloid leukemia, NOS
+del(20)(q12)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(20)(q12)	-	-	Acute undifferentiated leukemia
+del(20)(q12)	-	-	Chronic lymphocytic leukemia
+del(20)(q12)	-	-	Diffuse large B-cell lymphoma
+del(20)(q12)	-	-	Essential thrombocythemia
+del(20)(q12)	-	-	Idiopathic myelofibrosis
+del(20)(q12)	-	-	Multiple myeloma
+del(20)(q12)	-	-	Polycythemia vera
+del(20)(q12q13)	-	-	Acute myeloid leukemia, NOS
+del(20)(q12q13)	-	-	Refractory anemia
+del(20)(q12q13)	-	-	Refractory anemia with excess of blasts (FAB)
+del(20)(q12q13)	-	-	Refractory anemia with ringed sideroblasts
+del(20)(q12)	-	-	Refractory anemia
+del(20)(q12)	-	-	Refractory anemia with excess blasts-1
+del(20)(q12)	-	-	Refractory anemia with excess blasts-2
+del(20)(q12)	-	-	Refractory anemia with excess of blasts (FAB)
+del(20)(q12)	-	-	Refractory anemia with ringed sideroblasts
+del(20)(q12)	-	-	Refractory cytopenia with multilineage dysplasia
+del(20)(q13)	-	-	Acute erythroleukemia (FAB type M6)
+del(20)(q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(20)(q13)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(20)(q13)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(20)(q13)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(20)(q13)	-	-	Acute myeloid leukemia, NOS
+del(20)(q13)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(20)(q13)	-	-	Acute promyelocytic leukemia (FAB type M3)
+del(20)(q13)	-	-	Essential thrombocythemia
+del(20)(q13)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(20)(q13)	-	-	Multiple myeloma
+del(20)(q13)	-	-	Polycythemia vera
+del(20)(q13q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(20)(q13q13)	-	-	Essential thrombocythemia
+del(20)(q13q13)	-	-	Refractory anemia with excess of blasts (FAB)
+del(20q)	-	-	Acute erythroleukemia (FAB type M6)
+del(20q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(20q)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+del(20q)	-	-	Acute monoblastic leukemia (FAB type M5)
+del(20q)	-	-	Acute monoblastic leukemia with differentiation (FAB type M5b)
+del(20q)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(20q)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(20q)	-	-	Acute myeloid leukemia, NOS
+del(20q)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(20q)	-	-	Acute promyelocytic leukemia (FAB type M3)
+del(20q)	-	-	Diffuse large B-cell lymphoma
+del(20q)	-	-	Essential thrombocythemia
+del(20q)	-	-	Follicular lymphoma
+del(20q)	-	-	Idiopathic myelofibrosis
+del(20q) in myeloid malignancies		-	MPD::MDS::AML
+del(20q)	-	-	Multiple myeloma
+del(20q)	-	-	Peripheral T-cell lymphoma, unspecified
+del(20q)	-	-	Polycythemia vera
+del(20q)	-	-	Refractory anemia
+del(20q)	-	-	Refractory anemia with excess blasts-2
+del(20q)	-	-	Refractory anemia with excess of blasts (FAB)
+del(20q)	-	-	Refractory anemia with ringed sideroblasts
+del(20q)	-	-	Refractory cytopenia with multilineage dysplasia
+del(20q)	-	-	Refractory cytopenia with multilineage dysplasia and ringed sideroblasts
+der(20;20)dic(20;20)(p11;p11)del(20)(q11q13)del(20)	-	-	Refractory cytopenia with multilineage dysplasia
+der(20;20)dic(20;20)(p11;p11)del(20)(q11q13)del(20)	-	-	Refractory cytopenia with multilineage dysplasia and ringed sideroblasts
+der(20)del(20)(q11q13)t(20;21)(q11;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+ider(20)(q10)del(20)(q11q13)	-	-	Refractory anemia
+ider(20)(q10)del(20)(q11)	-	-	Refractory anemia
+del(21)(p11)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(21)(q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(21)(q11)	-	-	Acute myeloid leukemia, NOS
+del(21)(q21)	-	-	Acute myeloid leukemia, NOS
+del(21)(q21)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(21)(q21)	-	-	Diffuse large B-cell lymphoma
+del(21)(q21)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(21)(q21q22)	-	-	Acute myeloid leukemia, NOS
+del(21)(q21q22)	USP16/RUNX1	-	MDS::AML
+del(21)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(21)(q22)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(21)(q22)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+del(21)(q22)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(21)(q22)	-	-	Acute myeloid leukemia, NOS
+del(21)(q22)	-	-	Chronic lymphocytic leukemia
+del(21)(q22)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(21)(q22q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(21)(q22)	-	-	Refractory anemia with excess of blasts (FAB)
+del(21q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(21q)	-	-	Acute myeloid leukemia, NOS
+del(22)(q11)	-	-	Acute erythroleukemia (FAB type M6)
+del(22)(q11)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+del(22)(q11)	-	-	Acute myeloid leukemia, NOS
+del(22)(q11)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(22)(q11)	-	-	Burkitt lymphoma/leukemia
+del(22)(q11)	-	-	Chronic lymphocytic leukemia
+del(22)(q11)	-	-	Diffuse large B-cell lymphoma
+del(22)(q11)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(22)(q11)	-	-	Multiple myeloma
+del(22)(q11)	-	-	Peripheral T-cell lymphoma, unspecified
+del(22)(q11)	-	-	Plasma cell leukemia
+del(22)(q11q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(22)(q11q13)	-	-	Multiple myeloma
+del(22)(q11)	-	-	Refractory anemia with excess blasts-1
+del(22)(q11)	-	-	Refractory anemia with excess of blasts (FAB)
+del(22)(q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(22)(q12)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+del(22)(q12)	-	-	Acute myeloid leukemia, NOS
+del(22)(q12)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+del(22)(q12)	-	-	Diffuse large B-cell lymphoma
+del(22)(q12)	-	-	Follicular lymphoma
+del(22)(q12)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(22)(q12)	-	-	Multiple myeloma
+del(22)(q13)	-	-	Chronic lymphocytic leukemia
+del(22)(q13)	-	-	Diffuse large B-cell lymphoma
+del(22)(q13)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+del(22)(q13)	-	-	Multiple myeloma
+del(22q)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+del(22q)	-	-	Multiple myeloma
+ider(1)(q10)del(1)(q42)	-	-	Multiple myeloma
+der(5)del(5)(q33)t(5;7)(q33;q33)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(7)del(7)(p11)del(7)(q11)	-	-	Refractory cytopenia with multilineage dysplasia
+der(7)del(7)(p21)del(7)(q22q33)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+der(8)del(8)(p21)del(8)(q23)	-	-	Diffuse large B-cell lymphoma
+der(9)del(9)(p12)t(9;20)(p12;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(9)del(9)(p12)t(9;22)(q34;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(9)del(9)(p13)t(9;22)(q34;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(9)del(9)(p21)t(9;22)(q34;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(9)del(9)(p22)t(9;22)(q34;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(12)del(12)(p11)t(1;12)(q44;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(16)del(16)(p11)del(16)(q12)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+der(17)del(17)(p11)del(17)(q11)	-	-	Chronic lymphocytic leukemia
+der(17)del(17)(p13)inv(17)(p13q11)	-	-	Chronic lymphocytic leukemia
+der(18)del(18)(p11)del(18)(q21)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+der(19)del(19)(p13)del(19)(q11)	-	-	Follicular lymphoma
+der(20;20)dic(20;20)(p11;p11)del(20)(q11q13)del(20)	-	-	Refractory cytopenia with multilineage dysplasia
+der(20;20)dic(20;20)(p11;p11)del(20)(q11q13)del(20)	-	-	Refractory cytopenia with multilineage dysplasia and ringed sideroblasts
+der(20)del(20)(q11q13)t(20;21)(q11;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+ider(20)(q10)del(20)(q11q13)	-	-	Refractory anemia
+ider(20)(q10)del(20)(q11)	-	-	Refractory anemia
+der(20;20)dic(20;20)(p11;p11)del(20)(q11q13)del(20)	-	-	Refractory cytopenia with multilineage dysplasia
+der(20;20)dic(20;20)(p11;p11)del(20)(q11q13)del(20)	-	-	Refractory cytopenia with multilineage dysplasia and ringed sideroblasts
+der(17)del(17)(p13)inv(17)(p13q11)	-	-	Chronic lymphocytic leukemia

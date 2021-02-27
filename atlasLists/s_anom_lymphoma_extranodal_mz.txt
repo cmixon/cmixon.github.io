@@ -1,0 +1,15 @@
+t(X;14)(p11;q32)	-	-	Extranodal marginal zone B-cell lymphoma
+t(X;14)(p11;q32)	-	Lung	Extranodal marginal zone B-cell lymphoma
+t(1;14)(p22;q32)	-	Lung	Extranodal marginal zone B-cell lymphoma
+t(1;14)(p22;q32)	-	Unknown site	Extranodal marginal zone B-cell lymphoma
+t(8;14)(q24;q32)	-	Stomach	Extranodal marginal zone B-cell lymphoma
+t(11;18)(q21;q21)	-	Large intestine	Extranodal marginal zone B-cell lymphoma
+t(11;18)(q21;q21)	-	Lung	Extranodal marginal zone B-cell lymphoma
+t(11;18)(q21;q21)	-	Stomach	Extranodal marginal zone B-cell lymphoma
+t(11;18)(q21;q21)	-	Unknown site	Extranodal marginal zone B-cell lymphoma
+t(14;18)(q32;q21)	-	Eye	Extranodal marginal zone B-cell lymphoma
+del(7)(q22)	-	Stomach	Extranodal marginal zone B-cell lymphoma
+der(14)(q32)	?IGH?	Eye	Extranodal marginal zone B-cell lymphoma
+der(14)(q32)	?IGH?	Salivary gland	Extranodal marginal zone B-cell lymphoma
+der(14)(q32)	?IGH?	Small intestine	Extranodal marginal zone B-cell lymphoma
+der(14)(q32)	?IGH?	Stomach	Extranodal marginal zone B-cell lymphoma

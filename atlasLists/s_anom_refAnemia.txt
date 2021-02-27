@@ -1,0 +1,161 @@
+t(1;15)(q11;p11)	-	-	Refractory anemia
+t(1;15)(q12;p11)	-	-	Refractory anemia with ringed sideroblasts
+t(1;19)(p13;p13)	-	-	Refractory anemia with ringed sideroblasts
+t(1;3)(p36;q21)	-	-	Refractory anemia with ringed sideroblasts
+t(1;3)(p36;q21)	-	-	Refractory cytopenia with multilineage dysplasia
+t(1;7)(p11;p11)	-	-	Refractory anemia
+t(1;7)(p11;p11)	-	-	Refractory anemia with ringed sideroblasts
+t(2;11)(p21;q23)	-	-	Refractory anemia
+t(2;11)(p21;q23)	-	-	Refractory cytopenia with multilineage dysplasia
+t(3;12)(q21;p13)	-	-	Refractory anemia
+t(9;11)(p22;q23)	-	-	Refractory anemia
+t(9;22)(q34;q11)	-	-	Refractory anemia
+t(11;21)(q24;q11)	-	-	Refractory anemia
+t(18;22)(p11;q11)	-	-	Refractory anemia
+del(1)(p13)	-	-	Refractory anemia
+del(5)(q12q31)	-	-	Refractory anemia
+del(5)(q12q32)	-	-	Refractory anemia
+del(5)(q12q33)	-	-	Refractory anemia
+del(5)(q12q34)	-	-	Refractory anemia
+del(5)(q12)	-	-	Refractory anemia
+del(5)(q13q22)	-	-	Refractory anemia
+del(5)(q13q23)	-	-	Refractory anemia
+del(5)(q13q31)	-	-	Refractory anemia
+del(5)(q13q31)	-	-	Refractory anemia with ringed sideroblasts
+del(5)(q13q33)	-	-	Refractory anemia
+del(5)(q13q33)	-	-	Refractory anemia with ringed sideroblasts
+del(5)(q13q33)	-	-	Refractory cytopenia with multilineage dysplasia
+del(5)(q13q34)	-	-	Refractory anemia
+del(5)(q13q35)	-	-	Refractory anemia
+del(5)(q13q35)	-	-	Refractory anemia with ringed sideroblasts
+del(5)(q13)	-	-	Refractory anemia
+del(5)(q14q32)	-	-	Refractory anemia
+del(5)(q14q32)	-	-	Refractory anemia with ringed sideroblasts
+del(5)(q14q33)	-	-	Refractory anemia
+del(5)(q14q33)	-	-	Refractory anemia with ringed sideroblasts
+del(5)(q14q34)	-	-	Refractory anemia
+del(5)(q14q34)	-	-	Refractory cytopenia with multilineage dysplasia
+del(5)(q14)	-	-	Refractory anemia
+del(5)(q15q31)	-	-	Refractory anemia
+del(5)(q15q33)	-	-	Refractory anemia
+del(5)(q15q33)	-	-	Refractory anemia with ringed sideroblasts
+del(5)(q21q33)	-	-	Refractory anemia
+del(5)(q21q35)	-	-	Refractory anemia
+del(5)(q21)	-	-	Refractory anemia
+del(5)(q22q33)	-	-	Refractory anemia
+del(5)(q22q33)	-	-	Refractory anemia with ringed sideroblasts
+del(5)(q22q35)	-	-	Refractory anemia
+del(5)(q23q32)	-	-	Refractory anemia
+del(5)(q23q33)	-	-	Refractory anemia
+del(5)(q23q34)	-	-	Refractory anemia
+del(5)(q31q33)	-	-	Refractory anemia
+del(5)(q31q34)	-	-	Refractory cytopenia with multilineage dysplasia
+del(5)(q31q35)	-	-	Refractory anemia
+del(5)(q31)	-	-	Refractory anemia
+del(5)(q31)	-	-	Refractory anemia with ringed sideroblasts
+del(5q)	-	-	Refractory anemia
+del(5q)	-	-	Refractory anemia with ringed sideroblasts
+del(5q)	-	-	Refractory cytopenia with multilineage dysplasia
+del(6)(p22)	-	-	Refractory cytopenia with multilineage dysplasia
+del(6)(q15q27)	-	-	Refractory anemia
+del(6)(q21)	-	-	Refractory anemia
+del(6q)	-	-	Refractory anemia
+del(7)(q11)	-	-	Refractory anemia
+del(7)(q11)	-	-	Refractory cytopenia with multilineage dysplasia
+del(7)(q21q31)	-	-	Refractory anemia with ringed sideroblasts
+del(7)(q22q32)		-	Myelodysplasia Syndrome,refractory Anemia with Ring Sideroblast
+del(7)(q22q32)	-	-	Refractory anemia
+del(7)(q22q34)	-	-	Refractory anemia
+del(7)(q22q34)	-	-	Refractory cytopenia with multilineage dysplasia
+del(7)(q22)	-	-	Refractory anemia
+del(7)(q22)	-	-	Refractory anemia with ringed sideroblasts
+del(7)(q22)	-	-	Refractory cytopenia with multilineage dysplasia
+del(7)(q31q33)	-	-	Refractory anemia
+del(7)(q31q34)	-	-	Refractory anemia
+del(7)(q31q36)	-	-	Refractory anemia
+del(7)(q31)	-	-	Refractory anemia
+del(7)(q32)	-	-	Refractory anemia
+del(7)(q32)	-	-	Refractory anemia with ringed sideroblasts
+del(7q)	-	-	Refractory anemia
+del(7q)	-	-	Refractory anemia with ringed sideroblasts
+del(7q)	-	-	Refractory cytopenia with multilineage dysplasia
+der(7)del(7)(p11)del(7)(q11)	-	-	Refractory cytopenia with multilineage dysplasia
+del(9)(q11q22)	-	-	Refractory anemia
+del(9)(q12q22)	-	-	Refractory anemia
+del(9)(q22)	-	-	Refractory cytopenia with multilineage dysplasia
+del(9q)	-	-	Refractory anemia
+del(11)(q13q23)	-	-	Refractory anemia
+del(11)(q13q24)	-	-	Refractory anemia with ringed sideroblasts
+del(11)(q14q23)	-	-	Refractory anemia
+del(11)(q14q23)	-	-	Refractory anemia with ringed sideroblasts
+del(11)(q14)	-	-	Refractory anemia
+del(11)(q14)	-	-	Refractory anemia with ringed sideroblasts
+del(11)(q21q23)	-	-	Refractory anemia
+del(11)(q21)	-	-	Refractory anemia with ringed sideroblasts
+del(11)(q22)	-	-	Refractory anemia with ringed sideroblasts
+del(11)(q23)	-	-	Refractory anemia
+del(11)(q23)	-	-	Refractory anemia with ringed sideroblasts
+del(11)(q23)	-	-	Refractory cytopenia with multilineage dysplasia
+del(11q)	-	-	Refractory anemia
+del(11q)	-	-	Refractory anemia with ringed sideroblasts
+del(12)(p11p12)	-	-	Refractory anemia
+del(12)(p11)	-	-	Refractory anemia
+del(12)(p11)	-	-	Refractory anemia with ringed sideroblasts
+del(12)(p12)	-	-	Refractory anemia
+del(12)(p12)	-	-	Refractory anemia with ringed sideroblasts
+del(12p)	-	-	Refractory anemia
+del(12)(q21q23)	-	-	Refractory anemia
+del(12q)	-	-	Refractory anemia
+del(13)(q12q14)	-	-	Refractory anemia
+del(13)(q12q14)	-	-	Refractory anemia with ringed sideroblasts
+del(13)(q13q21)	-	-	Refractory anemia with ringed sideroblasts
+del(13)(q13q21)	-	-	Refractory cytopenia with multilineage dysplasia
+del(13)(q13q22)	-	-	Refractory anemia
+del(13q)	-	-	Refractory anemia
+del(13q)	-	-	Refractory anemia with ringed sideroblasts
+del(13q)	-	-	Refractory cytopenia with multilineage dysplasia
+del(16)(q22)	-	-	Refractory anemia
+del(17)(p11p13)	-	-	Refractory anemia
+del(17)(p11)	-	-	Refractory anemia
+del(17)(p12)	-	-	Refractory anemia
+del(17p)	-	-	Refractory anemia
+del(20)(q11q13)	-	-	Refractory anemia
+del(20)(q11q13)	-	-	Refractory anemia with ringed sideroblasts
+del(20)(q11q13)	-	-	Refractory cytopenia with multilineage dysplasia
+del(20)(q11)	-	-	Refractory anemia
+del(20)(q11)	-	-	Refractory anemia with ringed sideroblasts
+del(20)(q11)	-	-	Refractory cytopenia with multilineage dysplasia
+del(20)(q12q13)	-	-	Refractory anemia
+del(20)(q12q13)	-	-	Refractory anemia with ringed sideroblasts
+del(20)(q12)	-	-	Refractory anemia
+del(20)(q12)	-	-	Refractory anemia with ringed sideroblasts
+del(20)(q12)	-	-	Refractory cytopenia with multilineage dysplasia
+del(20q)	-	-	Refractory anemia
+del(20q)	-	-	Refractory anemia with ringed sideroblasts
+del(20q)	-	-	Refractory cytopenia with multilineage dysplasia
+del(20q)	-	-	Refractory cytopenia with multilineage dysplasia and ringed sideroblasts
+der(20;20)dic(20;20)(p11;p11)del(20)(q11q13)del(20)	-	-	Refractory cytopenia with multilineage dysplasia
+der(20;20)dic(20;20)(p11;p11)del(20)(q11q13)del(20)	-	-	Refractory cytopenia with multilineage dysplasia and ringed sideroblasts
+ider(20)(q10)del(20)(q11q13)	-	-	Refractory anemia
+ider(20)(q10)del(20)(q11)	-	-	Refractory anemia
+der(1)t(1;19)(p13;p13)	-	-	Refractory anemia with ringed sideroblasts
+der(1)t(1;7)(p11;p11)	-	-	Refractory anemia
+der(1)t(1;7)(p11;p11)	-	-	Refractory anemia with ringed sideroblasts
+der(7)del(7)(p11)del(7)(q11)	-	-	Refractory cytopenia with multilineage dysplasia
+der(11)t(11;21)(q24;q11)	-	-	Refractory anemia
+der(15)t(1;15)(q11;p11)	-	-	Refractory anemia
+der(15)t(1;15)(q12;p11)	-	-	Refractory anemia with ringed sideroblasts
+der(20;20)dic(20;20)(p11;p11)del(20)(q11q13)del(20)	-	-	Refractory cytopenia with multilineage dysplasia
+der(20;20)dic(20;20)(p11;p11)del(20)(q11q13)del(20)	-	-	Refractory cytopenia with multilineage dysplasia and ringed sideroblasts
+ider(20)(q10)del(20)(q11q13)	-	-	Refractory anemia
+ider(20)(q10)del(20)(q11)	-	-	Refractory anemia
+idic(X)(q13)	-	-	Refractory anemia
+idic(X)(q13)	-	-	Refractory anemia with ringed sideroblasts
+dic(1;7)(p11;q11)	-	-	Refractory anemia
+idic(5)(q11)	-	-	Refractory anemia
+der(20;20)dic(20;20)(p11;p11)del(20)(q11q13)del(20)	-	-	Refractory cytopenia with multilineage dysplasia
+der(20;20)dic(20;20)(p11;p11)del(20)(q11q13)del(20)	-	-	Refractory cytopenia with multilineage dysplasia and ringed sideroblasts
+dup(1)(q21q42)	-	-	Refractory anemia
+inv(3)(q21q26)	-	-	Refractory anemia
+inv(12)(q15q24)	-	-	Refractory anemia
+inv(16)(p13q22)	-	-	Refractory anemia with ringed sideroblasts
