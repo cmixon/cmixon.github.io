@@ -1,0 +1,572 @@
+﻿==COMPLETE LIST OF ISCN (2020) EXAMPLES==
+
+'''This file contains all of the ISCN (2020) examples from the cytogenetics and in situ hybridization chapters.  The Example Numbers in parentheses are for reference to this file and are not official ISCN numbers, and the examples are not strictly in the same order as in the printed text, although most of them are.
+	Extraction by Christopher Mixon, M.D. August 2021. '''
+	
+==KARYOTYPE DESIGNATION (CHAPTER 4)==
+
+(Ex.1)	46,XX
+(Ex.2)	46,XY
+(Ex.3)	46,X?
+(Ex.4)	46,XX,inv(2)(p21q31)
+(Ex.5)	46,XX,inv(2)(p23p13)
+(Ex.6)	46,XX,inv(2)(q11.2q32)
+(Ex.7)	46,XY,t(12;16)(q13;p11.1)
+(Ex.8)	46,X,t(X;18)(p11.1;q11.1)
+(Ex.9)	46,X,ins(5;X)(p14;q21q25)
+(Ex.10)	46,XY,ins(5;2)(p14;q22q32)
+(Ex.11)	46,XX,ins(2)(q13p13p23)
+(Ex.12)	46,XX,ins(2)(q13p23p13)
+(Ex.13)	46,XX,t(9;22;17)(q34;q11.2;q22)
+(Ex.14)	46,Y,t(X;15;18)(p11.1;p11.1;q11.1)
+(Ex.15)	46,XX,t(3;9;22;21)(p13;q34;q11.2;q21)
+(Ex.16)	46,XY,t(5;6)(q13q23;q15q23)
+
+==ORDER OF CHROMOSOME ABNORMALITIES (CHAPTER 6)==
+
+(Ex.17)	50,X,+X,–Y,+10,+14,+17,+21[5]/46,XY[15]
+(Ex.18)	47,X,t(X;13)(q27;q12),inv(10)(p13q22),+21
+(Ex.19)	48,X,t(Y;12)(q11.2;p12),del(6)(q11),+8,t(9;22)(q34;q11.2),+17,–21,+22
+(Ex.20)	49,X,inv(X)(p21q26),+3,inv(3)(q21q26.2),+7,+10,–20,del(20)(q11.2),+21
+(Ex.21)	49,X,inv(X)(p21q26),+inv(3)(q21q26.2),+7,+10,–20,del(20)(q11.2),+21
+(Ex.22)	50,XX,+1,+del(1)(p13),+dup(1)(q21q32),+inv(1)(p31q41),+8,r(10)(p12q25),–21
+(Ex.23)	46,XX,der(8)ins(8;?)(p23;?)del(8)(q22)
+(Ex.24)	52,XX,…,+r,+mar,12∼20dmin</p>
+(Ex.25)	52,XX,…,+der(?)t(?;6)(?;q16),+r,+mar,5∼9dmin
+(Ex.26)	47,Y,t(X;13)(q27;q12),inv(10)(p13q22),+21
+
+==NUMERICAL (CHAPTER 7)==
+
+(Ex.27)	26,X,+4,+6,+21
+(Ex.28)	71,XXX,+8,+10
+(Ex.29)	89,XXYY,–1,–3,–5,+8,–21
+(Ex.30)	76∼102<4n>,XXXX,…
+(Ex.31)	58<2n>,XY,+X,+4,+6,+8,+10,+11,+14,+14,+17,+18,+21,+21[10]
+(Ex.32)	45,X
+(Ex.33)	47,XXY
+(Ex.34)	47,XXX
+(Ex.35)	47,XYY
+(Ex.36)	48,XXXY
+(Ex.37)	45,X[15]/47,XXY[15]
+(Ex.38)	47,XX,+X
+(Ex.39)	45,X,–X
+(Ex.40)	45,X,–Y
+(Ex.41)	48,XY,+X,+Y
+(Ex.42)	48,XXYc,+X
+(Ex.43)	46,Xc,+X
+(Ex.44)	46,XXYc,–X
+(Ex.45)	44,Xc,–X
+(Ex.46)	46,Xc,+21
+(Ex.47)	47,XXX?c
+(Ex.48)	48,XXY,+marc
+(Ex.49)	47,XX,+21
+(Ex.50)	48,XX,+13,+21
+(Ex.51)	45,XX,–22
+(Ex.52)	46,XX,+8,–21
+(Ex.53)	48,XY,+21c,+21
+(Ex.54)	46,XY,+21c,–21
+(Ex.55)	45,Y,–X
+
+==STRUCTURAL (CHAPTER 9)==
+
+(Ex.56)	69,XXX,del(7)(p11.2)
+(Ex.57)	69,XXY,del(7)(q22),inv(7)(p13q22),t(7;14)(p15;q11.1)
+(Ex.58)	70,XXX,+del(7)(p11.2)
+(Ex.59)	92,XXYY,del(7)(p11.2),t(7;14)(p15;q11.1)
+(Ex.60)	92,XXYY,del(7)(p11.2),del(7)(q22),del(7)(q34)
+(Ex.61)	46,XX,inv(3)(q21q26.2)
+(Ex.62)	45,XX,dic(13;15)(q22;q24)
+(Ex.63)	46,XY,der(1)t(1;3)(p22;q13.1)
+(Ex.64)	46,XX,der(1)ins(1;?)(p22;?)
+(Ex.65)	45,XY,–10,der(10)t(10;17)(q22;p12)
+(Ex.66)	46,XX,add(19)(p13.3)
+(Ex.67)	46,XX,add(19)(?::p13.3→qter)
+(Ex.68)	46,XY,add(12)(q13)
+(Ex.69)	46,XY,add(12)(pter→q13::?)
+(Ex.70)	46,XX,der(5)add(5)(p15.3)add(5)(q23)
+(Ex.71)	46,XX,der(5)(?::p15.3→q23::?)
+(Ex.72)	46,XX,der(5)ins(5;?)(q13;?)
+(Ex.73)	46,XX,der(5)ins(5;?)(pter→q13::?::q13→qter)
+(Ex.74)	46,XX,del(5)(q13)
+(Ex.75)	46,XX,del(5)(pter→q13:)
+(Ex.76)	46,XX,del(4)(p15.2)
+(Ex.77)	46,XX,del(4)(:p15.2→qter)
+(Ex.78)	46,XX,del(5)(q13q33)
+(Ex.79)	46,XX,del(5)(pter→q13::q33→qter)
+(Ex.80)	46,XX,del(5)(q13q13)
+(Ex.81)	46,XX,del(5)(pter→q13::q13→qter)
+(Ex.82)	46,XY,del(5)(q?)
+(Ex.83)	46,XY,del(20)(q11.2–13.1q13.3)
+(Ex.84)	46,XX,der(6)(pter→q25.2::p22.2→pter)
+(Ex.85)	46,XX,rec(6)dup(6p)inv(6)(p22.2q25.2)dmat
+(Ex.86)	46,XX,rec(6)(pter→q25.2::p22.2→pter)dmat
+(Ex.87)	46,XX,rec(21)del(21)ins(21)(p13q22.2q22.3)dpat
+(Ex.88)	46,XY,rec(1)dup(5q)ins(1;5)(q32;q11.2q22)dinh,rec(5)del(1q)ins(1;5)dinh
+(Ex.89)	46,XY,der(9)del(9)(p12)del(9)(q31)
+(Ex.90)	46,XY,der(9)(:p12→q31:)
+(Ex.91)	46,XY,der(9)inv(9)(p23p13)del(9)(q22q33)
+(Ex.92)	46,XY,der(9)(pter→p23::p13→p23::p13→q22::q33→qter)
+(Ex.93)	46,XX,der(7)add(7)(p22)add(7)(q22)
+(Ex.94)	46,XX,der(7)(?::p22→q22::?)
+(Ex.95)	46,XX,der(5)add(5)(p15.1)del(5)(q13)
+(Ex.96)	46,XX,der(5)(?::p15.1→q13:)
+(Ex.97)	46,XX,der(1)t(1;3)(p22;q13.1)
+(Ex.98)	46,XX,der(1)(3qter→3q13.1::1p22→1qter)
+(Ex.99)	45,XY,der(1)t(1;3)(p22;q13.1),–3
+(Ex.100)	47,XX,+7,der(7)t(1;7)(q12;p22)×2
+(Ex.101)	47,XY,+der(4)t(4;11)(q21;q23),t(4;11)(q21;q23)
+(Ex.102)	46,XX,der(1)t(1;3)(p32;q21)t(1;11)(q25;q13)
+(Ex.103)	46,XX,der(1)(3qter→3q21::1p32→1q25::11q13→11qter)
+(Ex.104)	46,XY,der(1)(7qter→7q11.2::3q28→3q21::1p32→1qter)
+(Ex.105)	46,XY,der(1)(3qter→3q21::1p32→1q42::1q25→1qter)
+(Ex.106)	46,XY,der(9)del(9)(p12)t(9;13)(q34;q11)
+(Ex.107)	46,XY,der(9)(:9p12→9q34::13q11→13qter)
+(Ex.108)	46,XX,der(1)t(1;11)(p32;q13)t(1;3)(q25;q21)
+(Ex.109)	46,XX,der(1)(11qter→11q13::1p32→1q25::3q21→3qter)
+(Ex.110)	47,XY,+der(8)r(1;8;17)(p36.3p35;p12q13;q25q25)
+(Ex.111)	47,XY,+der(8)r(1;8;17)(::1p36.3→1p35::8p12→8q13::17q25→17q25::)
+(Ex.112)	46,XX,der(1)del(1)(p34p22)ins(1;17)(p34;q25q11)
+(Ex.113)	46,XX,der(1)(1pter→1p34::17q25→17q11::1p22→1qter)
+(Ex.114)	46,XY,der(7)t(2;7)(q21;q22)ins(7;?)(q22;?)
+(Ex.115)	46,XY,der(7)(7pter→7q22::?::2q21→2qter)
+(Ex.116)	47,XX,t(9;22;6)(q34;q11.2;p21),+der(22)t(9;22;6)
+(Ex.117)	47,XX,t(6;9;22)(p21;q34;q11.2),+der(22)t(6;9;22)
+(Ex.118)	46,XX,der(8)t(8;17)(p23;q21)inv(8)(p22q13)t(8;22)(q22;q12)
+(Ex.119)	46,XX,der(8)(22qter→22q12::8q22→8q13::8p22→8q13::8p22→8p23::17q21→17qter)
+(Ex.120)	46,XX,ider(22)(q10)t(9;22)(q34;q11.2)
+(Ex.121)	46,XX,ider(22)(9qter→9q34::22q11.2→22q10::22q10→22q11.2::9q34→9qter)
+(Ex.122)	46,XY,ider(9)(p10)ins(9;12)(p13;q22q13)
+(Ex.123)	46,XY,ider(9)(9pter→9p13::12q22→12q13::9p13→9p10::9p10→9p13::12q13→12q22::9p13→9pter)
+(Ex.124)	45,XX,der(5;7)t(5;7)(q22;p13)t(3;7)(q21;q21)
+(Ex.125)	45,XX,der(5;7)(5pter→5q22::7p13→7q21::3q21→3qter)
+(Ex.126)	45,XY,der(5;7)t(3;5)(q21;q22)t(3;7)(q29;p13)
+(Ex.127)	45,XY,der(5;7)(5pter→5q22::3q21→3q29::7p13→7qter)
+(Ex.128)	45,XY,der(5;7)t(3;5)(q21;q22)t(3;7)(q29;p13)del(7)(q32)
+(Ex.129)	45,XY,der(5;7)(5pter→5q22::3q21→3q29::7p13→7q32:)
+(Ex.130)	45,XX,der(8;8)(q10;q10)del(8)(q22)t(8;9)(q24.1;q12)
+(Ex.131)	45,XX,der(8;8)(:8q22→8q10::8q10→8q24.1::9q12→9qter)
+(Ex.132)	46,XY,der(9)t(9;22)(q34;q11),+22,der(22;22)(22pter→22q11::9q34→9qter::9qter→9q34::22q11→22pter)
+(Ex.133)	47,XY,+der(?)t(?;9)(?;q22)
+(Ex.134)	47,XY,+der(?)(?→?cen→?::9q22→9qter)
+(Ex.135)	47,XX,+der(?)t(?;9)(?;p13)ins(?;7)(?;q11.2q32)
+(Ex.136)	47,XX,+der(?)(9pter→9p13::?→cen→?::7q11.2→7q32::?)
+(Ex.137)	47,XX,+der(?)t(?;9)(?;p13)hsr(?)
+(Ex.138)	47,XX,+der(?)(9pter→9p13::?→cen→?::hsr→?)
+(Ex.139)	46,XX,der(9)del(9)(p12)t(9;22)(q34;q11.2),der(9)t(9;12)(p13;q22)inv(9)(q13q22)
+(Ex.140)	46,XX,der(1)t(1;3)(p34.3;q21),der(<u>1</u>)t(<u>1</u>;3)(p34.3;q21)
+(Ex.141)	46,XX,der(1)t(1;3)(p34.3;q21)[20]/46,XX,der(<u>1</u>)t(<u>1</u>;3)(p34.3;q21)[10]
+(Ex.142)	46,XX,der(<u>1</u>)t(1;<u>1</u>)(p31;q32)
+(Ex.143)	46,XX,der(1)t(1;<u>1</u>)(p31;q32)
+(Ex.144)	47,XX,t(9;22)(q34;q11.2),+der(22)t(9;22)
+(Ex.145)	46,XX,der(1)t(1;3)(p32;q21)inv(1)(p22q21)t(1;11)(q25;q13),der(3)t(1;3),der(11)t(1;11)
+(Ex.146)	45,XX,dic(13;13)(q14;q32)
+(Ex.147)	45,XX,dic(13;13)(13pter→13q14::13q32→13pter)
+(Ex.148)	45,XX,dic(13;15)(q22;q24)
+(Ex.149)	45,XX,dic(13;15)(13pter→13q22::15q24→15pter)
+(Ex.150)	46,XX,+13,dic(13;15)(q22;q24)
+(Ex.151)	45,XY,dic(14;21)(p11.2;p11.2)
+(Ex.152)	45,XY,dic(14;21)(14qter→14p11.2::21p11.2→21qter)
+(Ex.153)	47,XY,+dic(17;?)(q22;?)
+(Ex.154)	47,XY,+dic(17;?)(17pter→17q22::?)
+(Ex.155)	46,...,idic(Y)(q12)
+(Ex.156)	46,...,idic(Y)(pter→q12::q12→pter)
+(Ex.157)	46,XX,idic(21)(q22.3)
+(Ex.158)	46,XX,idic(21)(pter→q22.3::q22.3→pter)
+(Ex.159)	47,XX,+idic(13)(q22)
+(Ex.160)	47,XX,+idic(13)(pter→q22::q22→pter)
+(Ex.161)	47,XY,+idic(15)(q12)
+(Ex.162)	47,XY,+dic(15;15)(q12;q12)
+(Ex.163)	47,XY,+dic(15;15)(pter→q12::q12→pter)
+(Ex.164)	45,XX,psudic(15;13)(q12;q12)
+(Ex.165)	45,XX,psudic(15;13)(15pter→15q12::13q12→13pter)
+(Ex.166)	46,XX,psuidic(20)(q11.2)
+(Ex.167)	46,XX,psuidic(20)(pter→q11.2::q11.2→pter)
+(Ex.168)	46,XX,dup(1)(p34p31)
+(Ex.169)	46,XX,dup(1)(pter→p31::p34→qter)
+(Ex.170)	46,XX,dup(1)(p31p34)
+(Ex.171)	46,XX,dup(1)(pter→p31::p31→p34::p31→qter)ordup(1)(pter→p34::p31→p34::p31→pter)
+(Ex.172)	46,XX,dup(1)(pter→p31::p31→p34::p31→qter)ordup(1)(pter→p34::p31→p34::p34→qter)
+(Ex.173)	46,XX,dup(1)(q22q25)
+(Ex.174)	46,XX,dup(1)(pter→q25::q22→qter)
+(Ex.175)	46,XY,dup(1)(q25q22)
+(Ex.176)	46,XY,dup(1)(pter→q25::q25→q22::q25→qter)ordup(1)(pter→q22::q25→q22::q22→qter)
+(Ex.177)	47,XY,–10,+fis(10)(p10),+fis(10)(q10)
+(Ex.178)	47,XY,–10,+fis(10)(pter→p10:),+fis(10)(qter→q10:)
+(Ex.179)	46,...,fra(X)(q27.3)
+(Ex.180)	47,XY,fra(X)(q27.3)
+(Ex.181)	46,XX,hsr(1)(p22)
+(Ex.182)	46,XX,hsr(1)(pter→p22::hsr::p22→qter)
+(Ex.183)	46,XY,hsr(21)(q22)
+(Ex.184)	46,XY,hsr(21)(pter→q22::hsr::q22→qter)
+(Ex.185)	46,XX,der(1)hsr(1)(p22)hsr(1)(q31)
+(Ex.186)	46,XX,der(1)(pter→p22::hsr::p22→q31::hsr::q31→qter)
+(Ex.187)	46,XY,der(1)del(1)(p33p21)hsr(1)(p21)
+(Ex.188)	46,XY,der(1)(pter→p33::hsr::p21→qter)
+(Ex.189)	46,XX,der(1)ins(1;7)(q21;p21p11.2)hsr(1;7)(q21;p11.2)
+(Ex.190)	46,XX,der(1)(1pter→1q21::hsr::7p11.2→7p21::1q21→1qter)
+(Ex.191)	46,XX,der(1)ins(1;7)(q21;p21p11.2)hsr(1;7)(q21;p21)
+(Ex.192)	46,XX,der(1)(1pter→1q21::7p11.2→7p21::hsr::1q21→1qter)
+(Ex.193)	46,XX,ins(2)(p13q31q21)
+(Ex.194)	46,XX,ins(2)(pter→p13::q31→q21::p13→q21::q31→qter)
+(Ex.195)	46,XY,ins(2)(p13q21q31)
+(Ex.196)	46,XY,ins(2)(pter→p13::q21→q31::p13→q21::q31→qter)
+(Ex.197)	46,XX,ins(5;2)(p14;q32q22)
+(Ex.198)	46,XX,ins(5;2)(5pter→5p14::2q32→2q22::5p14→5qter;2pter→2q22::2q32→2qter)
+(Ex.199)	46,XY,ins(5;2)(p14;q22q32)
+(Ex.200)	46,XY,ins(5;2)(5pter→5p14::2q22→2q32::5p14→5qter;2pter→2q22::2q32→2qter)
+(Ex.201)	46,XX,ins(5;2)(q31;p13p23)
+(Ex.202)	46,XX,ins(5;2)(5pter→5q31::2p13→2p23::5q31→5qter;2pter→2p23::2p13→2qter)
+(Ex.203)	46,XX,ins(5;2)(q31;p23p13)
+(Ex.204)	46,XX,ins(5;2)(5pter→5q31::2p23→2p13::5q31→5qter;2pter→2p23::2p13→2qter)
+(Ex.205)	46,XY,der(5)ins(5;2)(q31;p23p13)dmat
+(Ex.206)	46,...,der(X)ins(X;7)(p21;q22q21)
+(Ex.207)	46,XX,inv(2)(p23p13)
+(Ex.208)	46,XX,inv(3)(q21q26.2)
+(Ex.209)	46,XX,inv(3)(pter→q21::q26.2→q21::q26.2→qter)
+(Ex.210)	46,XY,inv(3)(p13q21)
+(Ex.211)	46,XY,inv(3)(pter→p13::q21→p13::q21→qter)
+(Ex.212)	46,XX,i(17)(q10)
+(Ex.213)	46,XX,i(17)(qter→q10::q10→qter)
+(Ex.214)	46,...,i(X)(q10)
+(Ex.215)	46,...,i(X)(qter→q10::q10→qter)
+(Ex.216)	47,XY,i(X)(q10)
+(Ex.217)	46,XX,idic(17)(p11.2)
+(Ex.218)	46,XX,idic(17)(qter→p11.2::p11.2→qter)
+(Ex.219)	46,XX,i(21)(q10)
+(Ex.220)	45,XX,–21,i(21)(q10)
+(Ex.221)	47,XX,+mar
+(Ex.222)	47,XX,t(12;16)(q13;p11.2),+mar
+(Ex.223)	48,...,t(X;18)(p11.2;q11.2),+2mar
+(Ex.224)	47∼51,XY,t(11;22)(q24;q12),+1∼5mar[cp10]
+(Ex.225)	48,XX,i(17)(q10),+mar1,+mar2[17]/51,XX,i(17)(q10),+mar1×3,+mar2,+mar3[13]
+(Ex.226)	47,XX,+der(?)t(?;15)(?;q22)
+(Ex.227)	49,XX,...,+3mar,1dmin
+(Ex.228)	49,XY,...,+3mar,∼14dmin
+(Ex.229)	49,XX,...,+3mar,9∼>50dmin
+(Ex.230)	47,XX,+der(3)(qter→q28:)
+(Ex.231)	47,XX,+neo(3)(qter→q28:).Also,thelocationoftheneocentromerecould
+(Ex.232)	47,XX,der(3)(:p11→q11:),+neo(3)(pter→p11::q11→q26→neo→q26→qter)
+(Ex.233)	47,XX,+dup(10)(qter→q25::q25→qter)
+(Ex.234)	47,XX,+dup(10)(qter→q25::q25→q26→neo→q26→qter)
+(Ex.235)	46,XX,qdp(1)(q23q32)
+(Ex.236)	46,XX,qdp(1)(pter→q32::q23→q32::q23→q32::q23→qter)
+(Ex.237)	46,XX,r(7)(p15q31)
+(Ex.238)	46,XX,r(7)(::p15→q31::)
+(Ex.239)	46,XX,r(20)(p13q13.3)
+(Ex.240)	46,XX,r(20)(::p13→q13.3::)
+(Ex.241)	46,XX,der(1)r(1;3)(p36.1q23;q21q27)
+(Ex.242)	46,XX,der(1)(::1p36.1→1q23::3q21→3q27::)
+(Ex.243)	46,XX,der(1)r(1;3)(p36.1q23;q27q21)
+(Ex.244)	46,XX,der(1)(::1p36.1→1q23::3q27→3q21::)
+(Ex.245)	46,XX,der(1)r(1;?)(p36.1q23;?)
+(Ex.246)	46,XX,der(1)(::1p36.1→1q23::?::)
+(Ex.247)	47,XX,+der(?)r(?;3;5)(?;q21q26.2;q13q33)
+(Ex.248)	47,XX,+der(?)(::?→cen→?::3q21→3q26.2::5q13→5q33::)
+(Ex.249)	47,XX,+dicr(1;3)(p36.1q32;p24q26.2)
+(Ex.250)	47,XX,+dicr(1;3)(::1p36.1→1q32::3p24→3q26.2::)
+(Ex.251)	47,XX,+trcr(1;3;12)(p36.1q32;q26.3p24;p12q23)
+(Ex.252)	47,XX,+trcr(1;3;12)(::1p36.1→1q32::3q26.3→3p24::12p12→12q23::)
+(Ex.253)	50,XX,+1,+3,+8,+r
+(Ex.254)	51,XY,+1,+3,+8,+r,+mar
+(Ex.255)	53,XX,...,+r1,+r2
+(Ex.256)	53,XY,...,+5r
+(Ex.257)	46,XX,tas(12;13)(q24.3;q34)
+(Ex.258)	46,XX,tas(12;13)(12pter→12qter→13qter→13pter)
+(Ex.259)	46,...,tas(1;X;12;7)(p36.3;q28p22.3;p13q24.3;p22)
+(Ex.260)	46,...,tas(1;X;12;7)(1qter→1pter→Xqter→Xpter→12pter→12qter→7pter→7qter)
+(Ex.261)	46,XY,t(2;5)(q21;q31)
+(Ex.262)	46,XY,t(2;5)(2pter→2q21::5q31→5qter;5pter→5q31::2q21→2qter)
+(Ex.263)	46,XY,t(2;5)(p12;q31)
+(Ex.264)	46,XY,t(2;5)(5qter→5q31::2p12→2qter;5pter→5q31::2p12→2pter)
+(Ex.265)	46,...,t(X;13)(q27;q12)
+(Ex.266)	46,...,t(X;13)(Xpter→Xq27::13q12→13qter;13pter→13q12::Xq27→Xqter)
+(Ex.267)	46,XX,t(2;7;5)(p21;q22;q23)
+(Ex.268)	46,XX,t(2;7;5)(5qter→5q23::2p21→2qter;7pter→7q22::2p21→2pter;5pter→5q23::7q22→7qter)
+(Ex.269)	46,...,t(X;22;1)(q24;q11.2;p33)
+(Ex.270)	46,...,t(X;22;1)(Xpter→Xq24::1p33→1pter;22pter→22q11.2::Xq24→Xqter;22qter→22q11.2::1p33→1qter)
+(Ex.271)	46,XX,t(2;7;<u>7</u>)(q21;q22;p13)
+(Ex.272)	46,XX,t(2;7;<u>7</u>)(2pter→2q21::<u>7</u>p13→<u>7</u>pter;7pter→7q22::2q21→2qter;7qter→7q22::<u>7</u>p13→<u>7</u>qter)
+(Ex.273)	46,XX,t(3;9;22;21)(p13;q34;q11.2;q21)
+(Ex.274)	46,XX,t(3;9;22;21)(21qter→21q21::3p13→3qter;9pter→9q34::3p13→3pter;22pter→22q11.2::9q34→9qter;21pter→21q21::22q11.2→22qter)
+(Ex.275)	46,XX,t(3;9;<u>9</u>;22)(p13;q22;q34;q11.2)
+(Ex.276)	46,XX,t(3;9;<u>9</u>;22)(22qter→22q11.2::3p13→3qter;9pter→9q22::3p13→3pter;<u>9</u>pter→<u>9</u>q34::9q22→9qter;22pter→22q11.2::<u>9</u>q34→<u>9</u>qter)
+(Ex.277)	46,XY,t(5;6)(q13q23;q15q23)
+(Ex.278)	46,XY,t(5;6)(5pter→5q13::6q15→6q23::5q23→5qter;6pter→6q15::5q13→5q23::6q23→6qter)
+(Ex.279)	46,XX,t(5;14;9)(q13q23;q24q21;p12p23)
+(Ex.280)	46,XX,t(5;14;9)(5pter→5q13::9p12→9p23::5q23→5qter;14pter→14q21::5q13→5q23::14q24→14qter;9pter→9p23::14q21→14q24::9p12→9qter)
+(Ex.281)	46,XY,t(1;3)(p10;q10)
+(Ex.282)	46,XY,t(1;3)(1pter→1p10::3q10→3qter;3pter→3p10::1q10→1qter)
+(Ex.283)	46,XY,t(1;3)(p10;p10)
+(Ex.284)	46,XY,t(1;3)(1pter→1p10::3p10→3pter;1qter→1q10::3q10→3qter)
+(Ex.285)	45,XX,der(1;3)(p10;q10)
+(Ex.286)	45,XX,der(1;3)(1pter→1p10::3q10→3qter)
+(Ex.287)	46,XX,+1,der(1;3)(p10;q10)
+(Ex.288)	46,XX,der(1;3)(p10;q10),+3
+(Ex.289)	47,XX,+der(1;3)(p10;q10)
+(Ex.290)	44,XY,–1,der(1;3)(p10;q10)
+(Ex.291)	45,XX,der(13;21)(q10;q10)
+(Ex.292)	46,XX,der(13;21)(q10;q10),+21
+(Ex.293)	46,XX,+13,der(13;21)(q10;q10)
+(Ex.294)	46,XX,+21,der(21;21)(q10;q10)
+(Ex.295)	46,XX,t(4;7)(q35;q11.2)[6]/46,XX,t(1;7)(p36.3;q11.2)[4]/46,XX,t(7;9)(q11.2;p24)[3]
+(Ex.296)	44,XX,trc(4;12;9)(q31.2;q22p13;q34)
+(Ex.297)	44,XX,trc(4;12;9)(4pter→4q31.2::12q22→12p13::9q34→9pter)
+(Ex.298)	46,XX,trp(1)(q21q32)
+(Ex.299)	46,XX,trp(1)(pter→q32::q21→q32::q21→qter)
+(Ex.300)	46,XX,trp(1)(q32q21)
+(Ex.301)	46,XX,trp(1)(pter→q32::q32→q21::q21→qter)
+(Ex.302)	46,XX,del(6)(q13q23)×2
+(Ex.303)	48,XY,+del(6)(q13q23)×2
+(Ex.304)	47,XX,del(6)(q13q23)×2,+del(6)(q13q23)
+(Ex.305)	48,XX,del(6)(q13q23)×2,+7,+7
+(Ex.306)	48,XX,t(8;14)(q24.1;q32),+der(14)t(8;14)×2
+(Ex.307)	92,XXXX,t(8;14)(q24.1;q32)×2
+(Ex.308)	94,XXYY,t(8;14)(q24.1;q32)×2,+der(14)t(8;14)×2
+(Ex.309)	93,XXXX,t(8;14)(q24.1;q32)×2,der(14)t(8;14)×2,+der(14)t(8;14)
+(Ex.310)	94,XXYY,t(8;14)(q24.1;q32)×2,+14,der(14)t(8;14)×2,+der(14)t(8;14)
+(Ex.311)	47,XX,+8,i(8)(q10)×2
+(Ex.312)	47,XX,i(8)(q10),+i(8)(q10)
+(Ex.313)	46,Y,t(X;8)(p22.3;q24.1)
+(Ex.314)	46,Y,del(X)(p21p11.4)
+(Ex.315)	46,Y,der(X)t(X;8)(p22.3;q24.1)
+(Ex.316)	46,Y,fra(X)(q27.3)
+(Ex.317)	46,Y,tas(X;12;3)(q28;p13q24.3;q29)
+(Ex.318)	46,Y,tas(X;12;3)(Xpter→Xqter→12pter→12qter→3qter→3pter)
+
+==NEOPLASIA (CHAPTER 11)==
+
+(Ex.319)	46,XY,del(5)(q13q33),–7,+8[2]/46,XY[18]
+(Ex.320)	46,XX,t(6;11)(q27;q23)[16]/45,...,–X,t(6;11)(q27;q23)[2]/46,XX[1]
+(Ex.321)	46,XX[20]
+(Ex.322)	46,XX,t(8;21)(q22;q22)[23]
+(Ex.323)	46,XX,t(9;22)(q34;q11.2)[18]/45,XX,der(7;9)(q10;q10)t(9;22),der(22)t(9;22)[2]
+(Ex.324)	46,XY,t(8;21)(q22;q22)[26]/47,XY,t(8;21),+21[7]
+(Ex.325)	46,XY,t(8;21)(q22;q22)[26]/47,idem,+21[7]
+(Ex.326)	46,XY,t(8;21)(q22;q22)[26]/47,sl,+21[7]
+(Ex.327)	46,XX,t(9;22)(q34;q11.2)[3]/47,XX,+8,t(9;22)[17]
+(Ex.328)	46,XX,t(9;22)(q34;q11.2)[3]/47,sl,+8[17]
+(Ex.329)	46,XX,t(9;22)(q34;q11.2)[3]/47,idem,+8[17]
+(Ex.330)	46,XX,der(2)t(2;5)(p23;q35)[10]/47,XX,+2,der(2)t(2;5)[16]
+(Ex.331)	46,XX,der(2)t(2;5)(p23;q35)[10]/47,sl,+2[16]
+(Ex.332)	46,XX,der(2)t(2;5)(p23;q35)[10]/47,idem,+2[16]
+(Ex.333)	46,XX,t(9;22)(q34;q11.2)[3]/47,sl,+8[17]/48,sdl1,+9[3]/49,sdl2,+11[12]
+(Ex.334)	46,XX,t(9;22)(q34;q11.2)[3]/47,idem,+8[17]/48,idem,+8,+9[3]/49,idem,+8,+9,+11[12]
+(Ex.335)	46,XX,t(8;21)(q22;q22)[12]/45,sl,–X[19]/46,sdl1,+8[5]/47,sdl2,+9[8]
+(Ex.336)	46,XX,t(8;21)(q22;q22)[12]/45,idem,–X[19]/46,idem,–X,+8[5]/47,idem,–X,+8,+9[8]
+(Ex.337)	48,XX,t(12;16)(q13;p11.1),…[23]/49,sl,+6[8]/50,sdl,+7,–8,+9[4]
+(Ex.338)	48,XX,t(12;16)(q13;p11.1),…[23]/49,idem,+6[8]/50,idem,+6,+7,–8,+9[4]
+(Ex.339)	26,...,+4,+6,+21[3]/52,idem×2[13]
+(Ex.340)	46,XY,t(9;22)(q34;q11.2)[3]/92,sl×2[5]/93,sdl,+8[2]
+(Ex.341)	46,XY,t(9;22)(q34;q11.2)[3]/92,idem×2[5]/93,idem×2,+8[2]
+(Ex.342)	46,XY,t(9;22)(q34;q11.2)[3]/47,sl,+8[10]/48,sdl,+der(22)t(9;22)[4]/47,sl,+19[3]
+(Ex.343)	46,XY,t(9;22)(q34;q11.2)[3]/47,idem,+8[10]/48,idem,+8,+der(22)t(9;22)[4]/47,idem,+19[3]
+(Ex.344)	45,XY,–7[5]/46,sl,+8[6]/46,XY,t(9;22)(q34;q11.2)[3]/92,sl2×2[5]/93,sl2×2,+8[2]
+(Ex.345)	45,XY,–7[5]/46,idem,+8[6]/46,XY,t(9;22)(q34;q11.2)[3]/92,XXYY,t(9;22)×2[5]/93,XXYY,t(9;22)×2,+8[2]
+(Ex.346)	48,XX,t(12;16)(q13;p11.1),+17,+20[31]/96,sl×2[6]
+(Ex.347)	48,XX,t(12;16)(q13;p11.1),+17,+20[31]/96,idem×2[6]
+(Ex.348)	48,XX,t(12;16)(q13;p11.1),+17,+20[27]/97,sl×2,+8[3]
+(Ex.349)	48,XY,t(12;16)(q13;p11.1),+17,+20[27]/97,idem×2,+8[3]
+(Ex.350)	48,XX,t(12;16)(q13;p11.1),+17,+20[7]/96,sl×2,inv(3)(q21q27),t(3;6)(p25;q21)[19]
+(Ex.351)	48,XX,t(12;16)(q13;p11.1),+17,+20[7]/96,idem×2,inv(3)(q21q27),t(3;6)(p25;q21)[19]
+(Ex.352)	48,XX,t(12;16)(q13;p11.1),t(14;19)(q23;p11),+17,–19,+20,+21[32]/49,sl,+6[17]
+(Ex.353)	48,XX,t(12;16)(q13;p11.1),t(14;19)(q23;p11),+17,–19,+20,+21[32]/49,idem,+6[17]
+(Ex.354)	53,XY,+1,+12,+14,t(14;18)(q32;q21),+15,+16,+18,+20[21]/53,sl,del(7)(q21)[9]
+(Ex.355)	53,XY,+1,+12,+14,t(14;18)(q32;q21),+15,+16,+18,+20[21]/53,idem,del(7)(q21)[9]
+(Ex.356)	45,XY,t(1;6)(p34;q22),–3[13]/49,sl,+3,+del(7)(q11.2),+8,+9[22]
+(Ex.357)	45,XY,t(1;6)(p34;q22),–3[13]/49,idem,+3,+del(7)(q11.2),+8,+9[22]
+(Ex.358)	47,XX,inv(6)(p21q25),+12[17]/50,sl,–inv(6),+7,+8,+9,+mar[11]
+(Ex.359)	47,XX,inv(6)(p21q25),+12[17]/50,idem,–inv(6),+7,+8,+9,+mar[11]
+(Ex.360)	47∼55,XX,del(3)(p12),+i(6)(p10),del(7)(q11.2),+8,dup(11)(q13q25),+16,+17,der(18)t(18;20)(q23;11.1),+21,+21,+22[cp24]
+(Ex.361)	45∼48,XX,del(3)(p12)[2],–5[4],+8[2],+11[3][cp7]
+(Ex.362)	48,XX,+7,+9
+(Ex.363)	48,XX,+7,+11
+(Ex.364)	48,XX,+9,+11
+(Ex.365)	48,XX,+9,+13
+(Ex.366)	48,XX,+13,+21
+(Ex.367)	48,XX,+7,+9,+11,+13[cp5]
+(Ex.368)	45,XX,–15,del(17)(q11.1)
+(Ex.369)	46,XX,+7,–15,del(17)(q11.1)
+(Ex.370)	46,XX,+12,–15
+(Ex.371)	47,XX,+7
+(Ex.372)	47,XX,+15,del(17)(q11.1)
+(Ex.373)	48,XX,+12,+15
+(Ex.374)	45∼48,XX,+7,+12,+15,–15,del(17)(q11.1)[cp6]
+(Ex.375)	42,XX,–2,–16,–21,–22
+(Ex.376)	44,XX,–1,–7,+8,–11
+(Ex.377)	44,XX,–7,+8,–12,–13
+(Ex.378)	43,XX,–7,–18,–20
+(Ex.379)	46,XX,–7,+8
+(Ex.380)	43∼46,XX,–7,+8[cp4]
+(Ex.381)	51,XY,+1,–7,+8,t(9;22)(q34;q11.2),+11,+13,+19,+der(22)t(9;22)
+(Ex.382)	51,XY,+1,+5,–7,+8,t(9;22)(q34;q11.2),+11,+19,+der(22)t(9;22)
+(Ex.383)	51,XY,+1,+5,–7,+8,t(9;22)(q34;q11.2),+13,+19,+der(22)t(9;22)
+(Ex.384)	52,XY,+1,+5,–7,+8,t(9;22)(q34;q11.2),+11,+13,+19,+der(22)t(9;22)
+(Ex.385)	46,XY,t(9;22)(q34;q11.2)[5]
+(Ex.386)	46,XY,t(9;22)(q34;q11.2)[5]/51∼52,sl,+1,+5,–7,+8,+11,+13,+19,+der(22)t(9;22)[cp4]
+(Ex.387)	46,XY,t(9;22)(q34;q11.2)[5]/51∼52,idem,+1,+5,–7,+8,+11,+13,+19,+der(22)t(9;22)[cp4]
+(Ex.388)	46,XX,t(3;9)(p13;p13)[14]/48,XX,+3,+9[11]/46,XX,t(1;6)(p11;p12)[9]/47,XX,t(6;10)(q12;p15),+7[6]/46,XX,inv(6)(p22q23)[3]/46,XX[7]
+(Ex.389)	50,XX,t(2;6)(p22;q16),+5,+5,+8,+11[19]/51,sl,+8[7]/52,sdl1,+9[12]/46,XX,del(3)(q13)[11]/47,XX,+7[6]/46,XX,t(1;3)(p22;p14)[4]
+(Ex.390)	50,XX,t(2;6)(p22;q16),+5,+5,+8,+11[19]/51,idem,+8[7]/52,idem,+8,+9[12]/46,XX,del(3)(q13)[11]/47,XX,+7[6]/46,XX,t(1;3)(p22;p14)[4]
+(Ex.391)	81<3n>,XXX,+X,+X,+X,+X,+X,+1,+1,+3,+3,+14,+14,+14,–15,+21
+(Ex.392)	68<3n>,XY,–X[10]
+(Ex.393)	47,XXYc[5]/46,XY[15]or47,XY,+X[5]/46,XY[15]
+(Ex.394)	48,XX,+8,+21c[20]
+(Ex.395)	47,...,t(X;18)(p11.1;q11.1),+21c[20]
+(Ex.396)	47,XXYc,t(9;22)(q34;q11.2)[20]
+(Ex.397)	48,XY,+8,inv(10)(p12q22)mat,+21[20]
+(Ex.398)	47,XX,del(5)(q15),+marc[20]
+(Ex.399)	48,XY,+8,+21c[3]/49,idem,+9[5]/47,XY,+21c[12]
+(Ex.400)	49,XX,t(2;13)(q37;q14),+18c,+18,+mar[3]/47,XX,+18c[17]/46,XX[8]
+(Ex.401)	46,XX,+21c,–21[20]
+(Ex.402)	45,Xc,t(X;18)(p11.1;q11.1)[20]
+(Ex.403)	46,XX,der(9)t(9;11)(p22;q23)t(11;12)(p13;q22)c,der(11)t(9;11)t(11;12)c,der(12)t(11;12)c[20]
+
+==FISH (CHAPTER 13)==
+
+(Ex.404)	46,XX.ish X(DXZ1×2,SRY×0)
+(Ex.405)	46,XY.ish 4p16.3(D4F26,D4S96)×2
+(Ex.406)	46,XY.ish 17p11.2(RAI1×2)
+(Ex.407)	46,XX.ish 17p11.2(RAI1×2),21q21.3(D21S259/D21S341/D21S342×2)
+(Ex.408)	46,XY.ish 22q11.2(D22S75×2)
+(Ex.409)	46,XX.ish der(X)t(X;Y)(p22.3;p11.3)(SRY+)
+(Ex.410)	46,XX,ins(2)(p13q21q31).ish ins(2)(wcp2+)
+(Ex.411)	46,XY,ins(5;2)(p14;q32q22).ish ins(5;2)(wcp2+)
+(Ex.412)	46,XX,t(2;17)(q32;q24)[20].ish t(2;17)(AC005181+;AC005181+)[20]
+(Ex.413)	46,XX.ish del(7)(q11.23q11.23)(ELN–)
+(Ex.414)	47,XY,+mar.ish der(8)(D8Z1+)
+(Ex.415)	46,XY.ish dup(17)(p11.2p11.2)(RAI1++)
+(Ex.416)	46,XX[20].ish inv(21)(q11.2q22.1)(q11.2)(RUNX1+)(q22.1)(RUNX1–)[5]
+(Ex.417)	46,XX.ish del(22)(q11.2q11.2)(D22S75–)
+(Ex.418)	ish del(22)(q11.2q11.2)(D22S75–)
+(Ex.419)	ish del(22)(q11.2q11.2)(D22S75–),del(<u>22</u>)(q11.2q11.2)(D22S75–)
+(Ex.420)	ish del(22)(q13.3q13.3)(ARSA–)
+(Ex.421)	46,X,r(X).ish r(X)(p22.3q21)(KAL+,DXZ1+,XIST+,DXZ4–)
+(Ex.422)	46,X,+r.ish r(X)(p21q21)(wcpX+,DXZ1+)
+(Ex.423)	46,XX.ish X(DXZ1×2),der(7)(q3?)(SRY+)
+(Ex.424)	46,X,?i(Y)(p10).ish idic(Y)(q11)(DYZ3+,DYZ1–,DYZ3+)
+(Ex.425)	46,XX,t(2;17)(q32;q24)[20].ish t(2;17)(CTD-3115L8+;RP11-959M22+,CTD-3115L8–)[20]
+(Ex.426)	46,XX,add(4)(p16.3).ish dup(4)(p16.3p15.2)(wcp4+,RP11-1076P8+,WHS+,RP11-1076P8+,WHS+)
+(Ex.427)	46,XX,add(4)(p16.3).ish dup(4)(p15.2p16.3)(wcp4+,RP11-1076P8+,WHS+,WHS+,RP11-1076P8+)
+(Ex.428)	46,XX,add(4)(q31).ish der(4)dup(4)(q31q34)(wcp4+)add(4)(q34)(wcp4–)
+(Ex.429)	46,XX.ish t(4;11)(p16.3;p15)(wcp11+,D4F26–,D4S96+,D4Z1+;D4F26+,wcp11+)
+(Ex.430)	46,XX.ish der(4)t(4;11)(p16.3;p15)(wcp11+,D4F26–,D4S96+,D4Z1+)dmat
+(Ex.431)	47,XY,+der(4)t(4;11)(p34;q13),t(4;11)[20].ish der(4)(3′KMT2A+),t(4;11)(3′KMT2A+;5′KMT2A+,3′KMT2A–)[5]
+(Ex.432)	46,XY,t(9;22)(q34;q11.2)[20].ish t(9;22)(ABL1–;BCR+,ABL1+)[5]
+(Ex.433)	47,XY,t(9;22)(q34;q11.2),+der(22)t(9;22)[20].ish t(9;22)(ABL1–;BCR+,ABL1+),der(22)(BCR+,ABL1+)[5]
+(Ex.434)	46,XX,t(9;22)(q34;q11.2)[10].ish t(9;22)(ABL1+,BCR+;BCR+,ABL1+)[5]
+(Ex.435)	46,XX,t(9;22)(q34;q11.2)[20].ish der(9)t(9;22)del(9)(q34q34)(ABL1–,BCR+),der(22)t(9;22)(BCR+,ABL1+)[5]
+(Ex.436)	46,XX,t(9;22)(q34;q11.2)[20].ish der(9)t(9;22)del(9)(q34q34)(ASS1–,ABL1–,BCR+),der(22)t(9;22)(BCR+,ABL1+)[5] 
+(Ex.437)	46,XX,t(9;22;10)(q34;q11.2;q22)[21].ish der(9)t(9;22;10)del(9)(q34q34)(wcp9+,ABL1–,wcp10+),der(10)t(9;22;10)del(22)(q11.2q11.2)(wcp10+,BCR–,wcp22+),der(22)t(9;22;10)(wcp22+,BCR+,ABL1+)[10] 
+(Ex.438)	47,XX,t(9;22;10)(q34;q11.2;q22),+der(22)t(9;22;10)[20].ish der(9)t(9;22;10)del(9)(q34q34)(ABL1–),der(10)t(9;22;10)del(22)(q11.2q11.2)(BCR–),der(22)t(9;22;10)(BCR+,ABL1+)[5] 
+(Ex.439)	46,XX[20].ish t(12;21)(p13;q22)(ETV6+,RUNX1+;RUNX1+,ETV6+)[5]
+(Ex.440)	45,XY,der(14;21)(q10;q10).ishdic(14;21)(p11.2;p11.2)(D14Z1/D22Z1+;D13Z1/D21Z1+)
+(Ex.441)	46,XX,del(15)(q11.2q13).ish del(15)(SNRPN–,D15S10–)
+(Ex.442)	46,XY.ish del(15)(q11.2q11.2)(SNRPN–,D15S10–)
+(Ex.443)	46,XY.ish del(15)(q11.2q12)(D15S11+,SNRPN–,D15S10–,GABRB3+)
+(Ex.444)	47,XY,+dic(15;15)(q11.1;q11.1).ish dic(15;15)(D15Z1+,D15Z4+,SNRPN–;SNRPN–,D15Z4+,D15Z1+)
+(Ex.445)	46,XX[20].ish ins(15;17)(q22;q21q21)(PML+,RARA+;RARA+)[5]
+(Ex.446)	46,XX,inv(16)(p13.1q22)[20].ish inv(16)(p13.1)(5′CBFB+)(q22)(3′CBFB+)[5]
+(Ex.447)	46,XX,inv(16)(p13.1q22)[20].ish inv(16)(p13.1)(RP11-620P11+)(q22)(RP11-620P11+)[5]
+(Ex.448)	46,XX,inv(16)(p13.1q22)[20].ish inv(16)(p13.1)(MYH11+,CBFB+)(q22)(MYH11+,CBFB+)[5]
+(Ex.449)	46,XX,t(16;16)(p13.1;q22)[20].ish t(16;16)(3′CBFB+;3′CBFB–)[5]
+(Ex.450)	47,XX,+mar.ish add(16)(porq)(wcp16+,D16Z1+)
+(Ex.451)	47,XY,+mar.ish der(17)(wcp17+,D17Z1+)
+(Ex.452)	47,XY,+mar.ish add(17)(p12)(wcp17+,CMT1A+,D17Z1+)
+(Ex.453)	47,XX,+mar.ish der(18)t(18;19)(wcp18+,D18Z1+,wcp19+)
+(Ex.454)	mos46,X,+r[15]/45,X[10].ish r(X)(wcpX+,DXZ1+)
+(Ex.455)	46,X,+r.ish r(X)(wcpX+,DXZ1+)[15]/r(X)(wcpX+,DXZ1++)[10]
+(Ex.456)	mos45,X[3]/46,XY[12].ishX(DXZ1×1,SRY×0)[32]/X(DXZ1×1),Y(SRY×1)[68]
+(Ex.457)	ish chiX(DXZ1×2)[5]/X(DXZ1×1),Y(SRY×1)[5]
+(Ex.458)	47,XX,+12[20].ish del(17)(p13p13)(TP53–)[7]/17p13(TP53×2)[13]
+(Ex.459)	ish del(14)(q21.2q21.2)(RP11-453F20–)dn[6]/14q21.2(RP11-453F20×2)[4]
+(Ex.460)	ish del(14)(q21.2q21.2)(RP11-453F20–)dn[16]/dup(14)(q21.2q21.2)(RP11-453F20++)mat[4]
+(Ex.461)	47,XX,+mar[10]/46,XX[20].ish der(15)(:p11.2→q11.2:)(D15S11+,SNRPN+,D15S10–,GABRB3–)[20]/15q11.2q12(D15S11,SNRPN,D15S10,GABRB3)×2[10]
+(Ex.462)	ish 21q21.3(D21S259/D21S341/D21S342×3)[20]/21q21.3(D21S259/D21S341/D21S342×2)[30]
+(Ex.463)	ish dmin(MYCN×20∼50)[20]
+(Ex.464)	ish ider(21)(q10)dup(21)(q22q22)(RUNX1×4)[5]
+(Ex.465)	ish ider(21)(q10)add(21)(q11.2)(RUNX1 amp )[3]
+(Ex.466)	ish der(21)(RUNX1 amp )[4]
+(Ex.467)	46,Y,del(X)(p11.4p11.2).ish del(X)(RP11-265P11dim,RP1-112K5dim)
+(Ex.468)	46,XX.ish 17p11.2(RAI1enh)
+(Ex.469)	ish subtel(41×2)
+(Ex.470)	ish der(13)t(13;20)(q34–,p13+)(RP11-63L17–,RP5-1103G7+)
+(Ex.471)	ish t(13;20)(q34–,p13+;p13–,q34+)(RP11-63L17–,RP5-1103G7+;RP5-1103G7–,RP11-63L17+)
+(Ex.472)	nuc ish(KAL1,D21S65)×2
+(Ex.473)	nuc ish(ABL1,BCR)×2[200]
+(Ex.474)	nuc ish 9q34(ABL1×2),22q11.2(BCR×2)[200]
+(Ex.475)	46,XY[20].ish 9q34(ABL1×2),22q11.2(BCR×2)[20].nuc ish(TP53×2)[200]
+(Ex.476)	nuc ish(ATM,D12Z3,D13S319,LAMP1,TP53)×2[200]
+(Ex.477)	nuc ish(ATM,TP53)×2[250],(D12Z3,D13S319,LAMP1)×2[200]
+(Ex.478)	46,XY[20].nuc ish(TP53×2)[200]
+(Ex.479)	nuc ish(D17Z1,ERBB2)×2[100]
+(Ex.480)	nuc ish(D21S65×2)
+(Ex.481)	nuc ish21q22(D21S65×2)
+(Ex.482)	nuc ish(KAL1,GK,DMD)×1
+(Ex.483)	nuc ish(DXZ1×3,SRY×0)
+(Ex.484)	nuc ish(DXZ1×2,DYZ3×1,D18Z1×3),(RB1,D21S259/D21S341/D21S342)×3
+(Ex.485)	nuc ish(DXZ1,DYZ3)×1[34/50]/(DXZ1×1,DYZ3×0)[12/50]/(DXZ1×1,DYZ3×2)[6/50]
+(Ex.486)	nuc ish(DXZ1,DYZ3)×1[32/50]/(DXZ1×1,DYZ3×0)[12/50]/(DXZ1×1,DYZ3×2)[6/50]
+(Ex.487)	nuc ish(TP73×1,ANGPTL×2)[107/200],(ZNF443×2,GLTSCR×1)[105/200]
+(Ex.488)	nuc ish(CDKN2C×2,CKS1B×3)[90/100],(FGFR3×2,IGH×3)[93/100],(MYC×2)[100],(CCND1×2,IGH×3)[85/100],(ATM,TP53)×2[100],(IGH×2)(3′IGH sep 5′IGH×1)[95/100],(IGH,MAF)×3(IGH con MAF×2)[87/100],(IGH×3,MAFB×2)[91/100] 
+(Ex.489)	nuc ish(ATM,TP53)×2[100],(D12Z3×3,D13S319×2,LAMP1×2)[50/100]
+(Ex.490)	nuc ish(ATM×1,TP53×2)[100/200],(D12Z3×3,D13S319×2,LAMP1×2)[50/200]
+(Ex.491)	nuc ish(D13S319×0)[50/200]
+(Ex.492)	nuc ish(D13S319×0)[100/200]/(D13S319×1)[50/200]
+(Ex.493)	nuc ish(D13S319×0,LAMP1×2)[100/200]/(D13S319×1,LAMP1×2)[50/200]
+(Ex.494)	nuc ish(MYCN×12∼>50)[200]
+(Ex.495)	nuc ish(MYCN amp)[200]
+(Ex.496)	nuc ish(D17Z1,ERBB2)×4∼5[100/200]
+(Ex.497)	nuc ish(D17Z1×2,ERBB2×10∼20)[100/200]
+(Ex.498)	nuc ish(D17Z1×2∼3,ERBB2 amp)[100/200]/(D17Z1,ERBB2)×3[20/200]
+(Ex.499)	nuc ish(D20Z1×2,D20S108×1)[100/200]
+(Ex.500)	nuc ish(D21S65×3)
+(Ex.501)	nuc ish21q22(D21S65×3)
+(Ex.502)	nuc ish(D21S65,D21S64)×3
+(Ex.503)	nuc ish(DXZ1×2)[400]//
+(Ex.504)	//nuc ish(DXZ1,DYZ3)×1[400]
+(Ex.505)	nuc ish(DXZ1×2)[50]//(DXZ1,DYZ3)×1[350]
+(Ex.506)	nuc ish(DXZ1×2)[50]//(DXZ1,DYZ3)×1[300]/(DXZ1×1)[10]or
+(Ex.507)	nuc ish(DXZ1×2)[50]/(DXZ1×1)[10]//(DXZ1,DYZ3)×1[300]
+(Ex.508)	nuc ish(ABL1,BCR)×2[100]
+(Ex.509)	nuc ish(ABL1,BCR)×2(ABL1 con BCR×1)[100]
+(Ex.510)	nuc ish(ABL1,BCR)×3(ABL1 con BCR×2)[100]
+(Ex.511)	nuc ish(ABL1,BCR)×3(ABL1 con BCR×1)(ABL1 con BCR con ABL1×1)[100]
+(Ex.512)	nuc ish(ABL1,BCR)×2(ABL1 con BCR×1)[100]
+(Ex.513)	nuc ish(ABL1×2,BCR×3)(ABL1 con BCR×1)[100]
+(Ex.514)	nuc ish(ABL1,BCR)×4(ABL1 con BCR×3)[198]
+(Ex.515)	nuc ish(KAL1,STS)×2
+(Ex.516)	nuc ish(KAL1,STS)×2(KAL1 sep STS×1)
+(Ex.517)	nuc ish(IGH×3,BCL2×2,BCL2 amp)(IGH con BCL2×1)(IGH con BCL2 amp×1)[200]
+(Ex.518)	nuc ish(IGH×3,BCL2×2,BCL2 amp)(IGH con BCL2×2)[180]
+(Ex.519)	nuc ish(PAX7×1,PAX7 amp,FOXO1×1,FOXO1 amp)(PAX7 con FOXO1 amp)[100] 
+(Ex.520)	nuc ish(ABL1,BCR)×2(ABL1 con BCR×1)[100]
+(Ex.521)	nuc ish(ETV6×2,RUNX1×3)(ETV6 con RUNX1×1)[103/200]
+(Ex.522)	nuc ish(ETV6×1,RUNX1×3)(ETV6 con RUNX1×1)[110/200]
+(Ex.523)	nuc ish(ABL1,BCR)×3(ABL1 con BCR×2)[200]
+(Ex.524)	nuc ish(D8Z1×2,MYC×3,IGH×3)(MYC con IGH×2)[100/200],(IGH×3,BCL2×2)[100/200]
+(Ex.525)	nuc ish(MYH11,CBFB)×3(MYH11 con CBFB×2)[100/200]
+(Ex.526)	nuc ish(MLL×2)[200]
+(Ex.527)	nuc ish(5′MLL,3′MLL)×2(5′MLL con 3′MLL×2)[200]
+(Ex.528)	nuc ish(CBFB×2)[200]
+(Ex.529)	nuc ish(5′CBFB,3′CBFB)×2(5′CBFB con 3′CBFB×2)[200]
+(Ex.530)	nuc ish(MLL×2)(5′MLL sep 3′MLL×1)[200]
+(Ex.531)	nuc ish(5′MLL×2,3′MLL×1)(5′MLL con 3′MLL×1)[213]
+(Ex.532)	nuc ish(3′DDIT3×2,5′DDIT3×1,5′DDIT3 amp)(3′DDIT3 con 5′DDIT3×1)(3′DDIT3 con 5′DDIT3 amp×1)[192/200] 
+(Ex.533)	nuc ish(3′IGH×2,5′IGH×3)(3′IGH con 5′IGH×1)[210/237]
+(Ex.534)	nuc ish(CBFB×2)(5′CBFB sep 3′CBFB×1)[198]
+(Ex.535)	nuc ish(GOLIM4×1,MECOM×2,MYNN×2)[55/200]
+(Ex.536)	nuc ish(GOLIM4×2,MECOM×3,MYNN×2)(GOLIM4 con MECOM sep MECOM con MYNN×1)[35/100]
+(Ex.537)	nuc ish(D4S1036,CHIC2,D4S956)×2[200]
+(Ex.538)	nuc ish(D4S1036,CHIC2,D4S956)×2(D4S1036 con CHIC2 con D4S956×2)[200]
+(Ex.539)	nuc ish(D4S1036×2,CHIC2×1,D4S956×2)(D4S1036 con D4S956×1)[150/200]
+(Ex.540)	nuc ish(D4S1036,CHIC2,D4S956)×2(D4S1036 sep CHIC2 con D4S956×1) or (D4S1036 con CHIC2 sep D4S956×1)[150/200] 
+(Ex.541)	fib ish 15q11.2(D15S11+,SNRPN+,GABRB3+)
+(Ex.542)	46,XY,add(5)(p15).rev ish der(5)t(5;10)(p15;q22)
+(Ex.543)	47,XX,+mar.rev ish 15q
+(Ex.544)	46,XX,?dup(18)(p11.3p11.2).ish dup(18)(pcp18p11.2+)
+(Ex.545)	46,XY,inv(8)(p21q13).ish inv(8)(pcp8p++)
+
+'''Statement of method.  
+To downloaded text file (or html) (input_file.txt):
+sed 's/ //g' input_file.txt | grep '^[0-9][0-9],' | awk '{print "(Ex." NR ")" "\t" $1}' > output_file.txt
+'''

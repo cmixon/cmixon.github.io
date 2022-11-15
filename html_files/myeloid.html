@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+    <script type="text/javascript" src="./data/myeloid_smart.js"></script> 
+    <link rel="report builder icon" href="../img/favicon.png" >
+    <title>Myeloid FISH</title>
+    <style>
+        .btn{
+            background-color: #786;
+            color: #ffe3ad;
+            font-size: medium;
+            padding-top: 1em;
+            
+        }
+        .btn:hover{
+            border-radius: 8px;
+            background-color: green;
+        }
+        .btnCopy{
+            background-color: #4a718c;
+            color: white;
+            font-size: medium;
+        }
+        .btnCopy:hover{
+            border-radius: 8px;
+        }
+        .btnUndo {
+            background-color: darkorange;
+            color: black;
+            font-size: medium;
+        }
+        .btnUndo:hover{
+            border-radius: 8px;
+        }
+         [contenteditable] {
+            outline: 0px solid transparent;
+        }
+
+    </style>
+</head>
+<body>
+    <h4>Myeloid FISH Panels Interpretation Builder</h4>
+
+    <fieldset><legend>Abnormalities Detected</legend> <div id="abnormalities">
+    <button class="btn" onclick="detectedAbnormality(ntp.inv3, references.inv3)">inv(3q)</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.chr5, references.chr5)">5q del</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.mono5, references.mono5)">-5&emsp;</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.del5q7q, references.del5q7q)">del5q+7q&emsp;</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.tr69, references.tr69)">t(6;9);</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.chr7, references.chr7)">7q-</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.mono7, references.mono7)">-7&emsp;</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.chr8, references.chr8)">+8&emsp;</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.RUNX1, references.RUNX1)">t(8;21)</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.RUNX1T1gain, references.RUNX1T1gain)">RUNX1T1 (3R)</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.chr11del, references.chr11del)">KMT2A del</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.chr11delPartial, references.chr11delPartial)">KMT2A del partial (1R1F)</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.chr11gain, references.chr11gain)">KMT2A gain</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.chr11amp, references.chr11amp)">KMT2A amp</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.chr11rearr, references.chr11rearr)">KMT2A rearranged</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.ETV6del, references.ETV6del)">12p/ETV6 deletion</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.ETV6rearr, references.ETV6rearr)">12p/ETV6 rearr</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.RARA, references.RARA)">t(15;17)</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.RARA3G, references.RARA3G)">Gain of RARA (2R3G)</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.RARAbreak, references.RARAbreak)">RARA-ba</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.inv16, references.inv16)">inv(16)</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.del16q, references.del16q)">del(16q)</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.TP53, references.TP53)">17p deletion</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.iso17q, references.iso17q)">i(17q)</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.tri19, references.tri19)">trisomy 19</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.tet19, references.tri19)">tetrasomy 19</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.chr20, references.chr20)">20q-</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.chr20, references.chr20)">-20</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.RUNX1gain, references.RUNX1gain)">RUNX1 (3G)</button>
+    <!-- <button class="btn" onclick="atypicalPattern(sum.atypical)">Atypical Pattern</button> -->
+
+    <button class="btn" onclick="detectedAbnormality(ntp.complex, references.complex)">Complex</button>
+    <!--<button class="btn" onclick="$('<span>'+ ntp.complex + '&nbsp' + '</span>').appendTo('#allntp')">Complex</button>-->
+    <button class="btn" onclick="detectedAbnormality(ntp.multipleGains, references.multipleGains)">Multiple Gains</button>
+    <button class="btn" onclick="$('<span>'+ ntp.congruent + '<br>' + '</span>').appendTo('#allntp')">Congruent</button>
+    <button class="btn" onclick="$('<span>'+ ntp.correlate + '<br>' + '</span>').appendTo('#allntp')">Correlate</button>
+    <button class="btn" onclick="$('<span>'+ ntp.whomds + '<br' + '</span>').appendTo('#allntp')">WHO-MDS</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.noTargeted, references.noTargeted)">No targeted rearr</button><br /><br />
+
+    <button class="btnCopy" onclick="copyToClipboard()">Copy to Clipboard</button>
+    <button class="btnCopy" onclick="copyInterpToClipboard()">Copy Interpretation to Clipboard</button>
+    <button class="btnCopy" onclick="copyRefsToClipboard()">Copy Refs to Clipboard</button>
+    <!-- <button class="btnUndo" onclick="$('<span>'+ 'and'+ '&nbsp' + '</span>').appendTo('#test')">"and"</button> -->
+    <button class="btnUndo" onclick="window.location.reload()">Reset</button>
+</div>
+    </fieldset>
+
+    <div id="reportText">
+        
+          <span id="allntp" contenteditable="true"></span>
+          <br/><br/></div>
+
+    <div id="allReferences" contenteditable="true">
+          <span>References:</span>
+    <br/>
+<div id="references">
+</div></div>
+    
+
+</body>
+</html>

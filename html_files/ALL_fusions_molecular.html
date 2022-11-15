@@ -1,0 +1,286 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ALL Fusions Profile</title>
+  <style>
+    body {font: 14px Arial; line-height: 19.6px; padding: 0 15px;}
+    a, a:visited {text-decoration: none;}
+    a:hover {text-decoration: underline;}
+    a, a:hover, a:visited, a:active {color: #0366d6;}
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/ideogram@1.28.0/dist/js/ideogram.min.js"></script>
+<link rel="icon" type="image/x-icon" href="img/ideogram_favicon.ico">
+</head>
+<body>
+  <h1 style="text-align: center">ALL Fusions Profile</h1>
+  <!-- <h2 style="text-align: center">Data Visualization with IdeogramJS by Prof. Eric Weitz</h2> -->
+  <p><span style="color:blue">BLUE</span> = FISH probe available | Rectangle = rearranged in <a target="_blank" href="https://ashpublications.org/hematology/article/2016/1/561/20981/Ph-like-acute-lymphoblastic-leukemia">Ph-like ALL</a></p>
+  <div id="container"></div>
+  <script type="text/javascript">
+
+  /**
+  * This function gets genomic coordinate data for ACMG genes from NCBI EUtils.
+  * EUtils docs: https://www.ncbi.nlm.nih.gov/books/NBK25500/
+  * Ideogram.js then draws those genes as annotations on chromosomes.
+  */
+
+  function getAndDrawAcmgGenes() {
+
+    var acmgGenes, i, annots, geneClause, geneID, geneIDs, topWeight,
+        eutils, esearch, esummary, url, defaultParams, centromeres, anonymous
+        ideo = this;
+
+    ideo.annotDescriptions = {annots: {}}
+
+    geneIDs = [];
+    annots = [];
+
+    // EUtils is a web API to access NCBI data
+    eutils = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/';
+    defaultParams = '?db=gene&retmode=json&retmax=100';
+
+    // Use ESearch to get NCBI Gene ID for gene name, e.g. BRCA1 -> 672
+    esearch = eutils + 'esearch.fcgi' + defaultParams;
+
+    // Use ESummary to get genomic coordinates for given gene IDs
+    esummary = eutils + 'esummary.fcgi' + defaultParams;
+
+    acmgGenes = [
+    'ABL1','ABL2','BCR','CRLF2','CSF1R','ETV6','IL2RB','IL3','JAK2','KMT2A','MEF2D','MLLT10','NUP98','PAX5','PDGFRB','PTK2B','RUNX1 ,TAL1','TCF3','TLX1','TLX3','TYK2','ZNF384','EPOR','DUX4','KMT2A','TSLP','TYK2',
+    ];
+// console.log(acmgGenes.length);
+
+    // Batch request all ACMG genes
+    geneClause = '(' + acmgGenes.join('[symbol] OR ') + '[symbol])';
+
+    topWeight = 0;
+    weights = [];
+
+    url = esearch + '&term=Homo-sapiens[Organism] AND ' + geneClause;
+    d3.json(url).then(function(data) {
+      geneIDs = data.esearchresult.idlist;
+// console.log(geneIDs);
+
+      // Batch request genomic coordinates for all ACMG genes
+      url = esummary + '&id=' + geneIDs.join(',');
+      d3.json(url).then(function(data) {
+        var result, gene, chr, loc, start, stop, weight;
+        for (i = 0; i < geneIDs.length; i++) {
+          geneID = geneIDs[i];
+          result = data.result[geneID];
+
+          console.log(result);
+
+        if (result.chromosome === "X, Y") {
+          result.chromosome = "X"
+          result.summary = '<em>' + "PSEUDOAUTOSOMAL"+ '</em>' + '  ' + result.summary
+        };
+            
+        if (result.currentid !== '' || acmgGenes.indexOf(result.name) === -1 ) {
+            // currentid case occurs when one gene symbol in a taxon maps to
+            // multiple gene.  It seems to be annotation-run noise.
+            // result.name case occurs when gene has a non-canonical alias
+            // matching the gene symbol.
+            // Ignore both.
+            continue;
+          }
+          gene = result.name;
+          chr = result.chromosome;
+          loc = result.locationhist[0]; // better than 'genomicinfo'
+          start = loc.chrstart;
+          stop = loc.chrstop;
+          // weight = result.geneweight;
+          summary = result.summary;
+          mapLoc = result.maplocation;
+          
+          // This is the annotations API
+          ////
+          annots.push({
+            name: gene, // required
+            chr: chr, // required
+            start: start, // required
+            stop: stop, // required
+            // weight: weight,  //optional
+            summary: summary,
+            mapLoc: mapLoc
+          });       
+
+          var clinvarText = 'GeneCards';
+          var clinvarBase = 'https://www.ncbi.nlm.nih.gov/clinvar';
+
+          var clinvarUrl =
+            'https://www.genecards.org/cgi-bin/carddisp.pl' +
+            '?gene=' + gene; 
+          var clinvarLink =
+            '<a target="_blank" href="' + clinvarUrl + '">' + clinvarText + '</a>';
+          var vysisUrl = 'https://www.molecular.abbott/us/en/chromosome/';
+          var metasystemsUrl = 'https://www.metasystems-probes.com/en/probes/?c=' + chr;
+          var cytocellUrl = 'https://www.cytocell-us.com/chromosome-search/chromosome:' + chr;
+          var empireUrl = 'https://www.empiregenomics.com/fish-probes/loci-fish-probes/' + chr;
+          var atlasUrl = 'http://atlasgeneticsoncology.org/Indexbychrom/idxa_' + chr + '.html';
+          var omimUrl = 'https://omim.org/search?index=entry&start=1&limit=10&sort=score+desc%2C+prefix_sort+desc&search=' + gene;
+          var neoUrl = 'https://neogenomics.com/test-menu?search=' + gene + '&methodology=All&diseases=All';
+          var vysisLink = '<a target="_blank" href= "'+vysisUrl + ''+ chr +'">Vysis</a>';
+          var metasystemsLink = '<a target="_blank" href="' + metasystemsUrl +'">Metasystems</a';
+          var cytocellLink = '<a target="_blank" href="' + cytocellUrl +'">CytoCell</a>';
+          var empireLink = '<a target="_blank" href="' + empireUrl + '">EmpireGenomics</a>';
+          var atlasLink = '<a target="_blank" href="' + atlasUrl + '">Atlas</a>';
+          var omimLink = '<a target="_blank" href="' + omimUrl + '">OMIM</a>';
+          var neoLink = '<a target="_blank" style="color: #009933; font-size: 14px" href="' + neoUrl + '">NeoTests</a>';
+          var fullName = result.description;
+          var geneSummary = result.summary;
+          var bandLoc = mapLoc;
+          var clinInfo = '<a target="_blank" href="/Users/neosignout/Atlas/Legacy_myeloid_molecular.txt">Clinical Significance</a>'
+          var dataNCCN = {"ABL1": "Ph-like activating kinase mutation, unfavorable risk.",
+"BCR":"Ph-like activating kinase mutation, unfavorable risk.",
+"ABL2":"Ph-like activating kinase mutation, unfavorable risk.",
+"PDGFRA":"Ph-like activating kinase mutation, unfavorable risk.",
+"PDGFRB":"Ph-like activating kinase mutation, unfavorable risk.",
+"FGFR":"Ph-like activating kinase mutation, unfavorable risk.",
+"CRLF2":"JAK-STAT class, Ph-like, unfavorable risk.   Common in Down syndrome–associated and Ph-like ALL(approximately 50%); associated with IKZF1 deletion and/or mutation and JAK1/2 mutation and poor prognosis in non–Down syndrome–associated ALL",
+"EPOR":"JAK-STAT class, Ph-like, unfavorable risk.",
+"JAK1":"JAK-STAT class, Ph-like, unfavorable risk.",
+"JAK2":"JAK-STAT class, Ph-like, unfavorable risk.",
+"JAK3":"JAK-STAT class, Ph-like, unfavorable risk.",
+"TYK2":"JAK-STAT class, Ph-like, unfavorable risk.",
+"SH2B3":"JAK-STAT class, Ph-like, unfavorable risk.",
+"IL7R":"JAK-STAT class, Ph-like, unfavorable risk.",
+"FLT3":"Unfavorable risk.",
+"NTRK":"Unfavorable risk.",
+"LYN":"Unfavorable prognosis.",
+"PTL2B":"Unfavorable risk.",
+"TCF3":"The translocation t(17;19)(q22;p13), resulting in the fusion gene TCF3-HLF, defines a rare subtype of pediatric ALL (<1%) and is associated with poor outcomes.59,60 Conversely, another translocation t(1;19) that results in the fusion gene TCF3-PBX1 occurs in approximately 5% of pediatric ALL cases, and is associated with intermediate outcomes.59,61", "RUNX1":" Occurring in approximately 2% of children with ALL, B-ALL with iAMP21 is associated with adverse prognosis when treated with low intensity regimens; favorable risk when ETV6 fusion.  Increased incidence in African Americans; generally excellent prognosis; association with CNS relapse",
+"IKZF1":"IKZF1 mutations are seen in approximately 15% to 20% of patients with pediatric B-ALL67,68 and at a higher frequency of greater than 75% in patients who are also BCR-ABL1 positive.67,69 In many studies, IKZF1 mutations are associated with a unfavorable risk and a greater incidence of relapse.69,70 An analysis of the MRD- dependent prognostic impact of IKZF1 deletions with co-occurring deletions in CDKN2A, CDKN2B, PAX5, or PAR1 in the absence of ERG deletion conferred poor outcomes in pediatric patients with B-ALL.71 Emerging data suggests that an intragenic ERG deletion is associated with favorable outcomes in pediatric B-ALL, and in this context, co- occurring IKZF1 deletions do not affect prognosis.72,73", 
+"ETV6":"ETV6- RUNX1 subtype (also within the B-cell lineage) resulting from chromosomal translocation t(12;21) is also among the most commonly occurring subtypes in childhood ALL (25%) compared to adults (2%).27,46 Both hyperdiploidy and ETV6-RUNX1 subtypes are associated with favorable outcomes in pediatric ALL,",
+"KMT2A":"KMT2A gene, previously referred to as the human mixed lineage leukemia (MLL), occur in approximately 5% of pediatric ALL cases, with a higher incidence in infants (~70%–80%).54-57 These KMT2A rearrangements, including cases with t(4;11) translocation, are associated with poor outcomes, especially in infants.30,58. Low number of additional somatic mutations, commonly in kinase-PI3K-RAS signaling pathway.  In T-ALL,  multiple partners; disruption of HOX gene expression and ofself-renewing; poor outcome.",
+"ERG":"Emerging data suggests that an intragenic ERG deletion is associated with favorable outcomes in pediatric B-ALL.",
+"CSF1R":"",
+"TLX1":"T-ALL is characterized by activating mutations of NOTCH1, and rearrangements of transcription factors TLX1 (HOX11), TLX3 (HOX11L2), LYL1, TAL1, and KMT2A.75,82  t(10;14)(q24;q11) and t(7;10)(q35;q24) translocations; good prognosis.",
+"TLX3":"T-ALL is characterized by activating mutations of NOTCH1, and rearrangements of transcription factors TLX1 (HOX11), TLX3 (HOX11L2), LYL1, TAL1, and KMT2A.75,82  t(5;14)(q35;q32) translocation; commonly fused to BCL11B, also a target of deletion and/or mutation; poor prognosis T-ALL.",
+"LYL1":"T-ALL is characterized by activating mutations of NOTCH1, and rearrangements of transcription factors TLX1 (HOX11), TLX3 (HOX11L2), LYL1, TAL1, and KMT2A.75,82 Over 50% of T-ALL cases have activating NOTCH1 mutations, and approximately 10% to 15% of T-ALL cases have mutations in the NOTCH1-targeting E3 ligase FBXW7, which leads to prolonged NOTCH1 activation.83-85 In patients with T-ALL, NOTCH1 and FBXW7 mutations have generally been associated with favorable prognosis and lower MRD levels.8",
+"TAL1":"T-ALL is characterized by activating mutations of NOTCH1, and rearrangements of transcription factors TLX1 (HOX11), TLX3 (HOX11L2), LYL1, TAL1, and KMT2A.75,82  t(1;7)(p32;q35) and t(1;14)(p32;q11) translocations and interstitial 1p32 deletion; generally favorable outcome.",
+"NOTCH1":"Over 50% of T-ALL cases have activating NOTCH1 mutations, and approximately 10% to 15% of T-ALL cases have mutations in the NOTCH1-targeting E3 ligase FBXW7, which leads to prolonged NOTCH1 activation.83-85 In patients with T-ALL, NOTCH1 and FBXW7 mutations have generally been associated with favorable prognosis and lower MRD levels.8",
+"FBXW7":"Over 50% of T-ALL cases have activating NOTCH1 mutations, and approximately 10% to 15% of T-ALL cases have mutations in the NOTCH1-targeting E3 ligase FBXW7, which leads to prolonged NOTCH1 activation.83-85 In patients with T-ALL, NOTCH1 and FBXW7 mutations have generally been associated with favorable prognosis and lower MRD levels.8",
+"DUX4":" Distinct gene expression profile; majority have focal ERG deletions and favorable outcome despite IKZF1 alterations.",
+"MEF2D":" Distinct gene expression profile and aberrant immunophenotype (CD10 negative, CD38 positive); sensitivity to HDAC inhibitors.",
+"ZNF384":" Fusions are associated with early pro-B-ALL, expression of myeloid markers, and activation of the JAK-STAT pathway.",
+"PAX5":" Multiple partners, commonly from dic(7;9), dic(9;12), and dic(9;20),",
+"LMO2":"(11;14)(p15;q11) translocation and 59 LMO2 deletion, T-ALL; generally favorable outcome",
+"NUP214":" Amenable to tyrosine kinase inhibitors, also identified in highrisk B-ALL; other kinase fusions identified in T-ALL include EML1-ABL1, ETV6-JAK2, and ETV6-ABL1.",
+"FBXW7":" Impairment of differentiation and proliferation; usually evaluated in combination with NOTCH1."
+};
+
+ var clinSignificance = dataNCCN[gene];
+          var displaySignificance = '<span style="color:firebrick">Clinical Significance (NCCN; J Clin Oncol 35:975-983, 2107):' + ' ' + clinSignificance + '</span>'
+
+          if (clinSignificance === undefined){
+            displaySignificance = '<span style="color:firebrick">Clinical Significance (NCCN; J Clin Oncol 35:975-383, 2017): No entry </span>'
+          }
+
+
+
+          // Add properties like fullName or clinvarLink for later use in hyperlinkGene
+          ideo.annotDescriptions.annots[gene] = {
+            fullName,
+            clinvarLink,
+            atlasLink,
+            omimLink,
+            geneSummary,
+            // vysisLink,
+            // metasystemsLink,
+            // cytocellLink,
+            // empireLink,
+            displaySignificance,
+            // clinInfo,
+            neoLink,
+            bandLoc
+          
+          }
+
+        }
+    let totalFISH = ['ABL1', 'ASS1','BCR','ACP5','BLVRB','ALK','API2','MALT1','ATM','BCL2','BCL6','CBFB','CCND1','IGH','CKDN2A','CDKN2C','CKS1B','MYC','CRLF2','LAMP1','DEK','NUP214','DLEU1','DUSP22','IRF45','IRF43','EPOR','ETV6','RUNX1','FGFR1','FGFR3','FIP1L1','CHIC2','PDGFRA','TERT','EGR1','RPS14','MAF','MAFB','JAK2','KMT2A','NUP98','PBX1','TCF3','PDGFRB','PML','RARA','RPN1','MECOM','RUNX1T1','SEC63','MYB','SMAD6','TBL1XR1','TP63','TCL1','TNFRSF14','TP53','NF1','CDKN2A', 'ALK', 'ROS1', 'DDIT3', 'EWSR1', 'MDM2', 'MYC','PDGFB', 'SS18', 'NTRK1', 'NTRK2', 'NTRK3', 'MET', 'RET', 'PTEN', 'FIP1L1', 'TPRG1L', 'ABL2', 'GLTSCR2', 'ZNF443', 'BRAF', 'EGFR', 'FGFR2', 'MYCN', 'RREB1', 'CCND1', 'EPOR', 'ERBB2', 'CRLF2','TOP2A','SRY',  'BIRC3', 'TCL1A', 'NOP53', 'TCF7L1', 'TPRG1L',]
+
+    let phLike = ['ABL1', 'ABL2', 'PDGFRB', 'CSF1R', 'JAK2', 'EPOR', 'TSLP', 'IL2RB', 'TYK2', 'NTRK3', 'PTK2B', 'DGKNH'];
+        // This block highlights the 10 most important ACMG genes.
+        for (i = 0; i < annots.length; i++) {
+          color = (i < annots.length) ? 'red' : 'blue';
+          annots[i].shape = 'triangle';
+          annots[i].color = color;
+
+        let x = annots[i].name;
+
+        if (totalFISH.includes (x)){
+          annots[i].shape = 'rectangle';
+          annots[i].color = 'blue';
+        }
+
+        if (phLike.includes(x)){
+          annots[i].shape = 'rectangle';
+        }
+
+       };
+
+          // BRCA1 is the most widely-recognized gene name.  Make it stand out.
+          // if (annots[i].name === 'CEN1') {
+          //   annots[i].shape = 'triangle';
+          //   annots[i].color = '#F00';
+          // }
+        // }
+        
+        ideogram.drawAnnots(annots);
+
+      });
+    });
+  }
+
+
+  function enhanceTooltipContent(annots) {
+    var term = '(' + annots.name + '[gene])+AND+(Homo+sapiens[orgn])';
+    var url = 'https://ncbi.nlm.nih.gov/gene/?term=' + term;
+    var description = this.annotDescriptions.annots[annots.name];
+
+    // Necessary if-else since the centromeres and anonymous sequence probes are not NCBI coordinates and return undefined description variable
+    // Link to Abbott molecular since most of these are Abbott probes
+
+    if(description === undefined){    
+    description = annots.name,
+    term = annots.name,
+    chr = annots.chr,
+    URL = 'https://www.molecular.abbott/us/en/chromosome/' + chr,
+    annots.displayName = '<a target="_blank" href="' + URL + '" <strong style="color:red">' + annots.name + '</strong></a>',
+    description.fullName = annots.name
+    }  else  {
+      annots.displayName =
+      '<a target="_blank" href="' + url + '">' + annots.name + '</a><br/>'+  '<span style="color:green">' + description.bandLoc + '</span>' +'<br/>'+
+      description.fullName + '<br/>' + 
+      description.clinvarLink + '<br/>'+
+      description.atlasLink + '  ' + description.omimLink + '<br/>' +
+      description.geneSummary + '<hr/>' + description.displaySignificance + '<hr/>' +
+      // description.vysisLink + '    ' + description.metasystemsLink + '<br/>' + '  ' + description.cytocellLink + '<br/>' + '    ' +
+      // description.empireLink + '    ' + '<br/>' +
+      description.neoLink + '<br/>';
+}
+    return annots
+  }
+
+  
+
+  var d3 = Ideogram.d3;
+
+  var config = {
+    organism: 'human',
+    resolution: 850,
+    // showBandLabels : true,
+    chrHeight: 600,
+    annotationHeight: 5,
+    onLoad: getAndDrawAcmgGenes,
+    onWillShowAnnotTooltip: enhanceTooltipContent
+  
+  };
+
+  var ideogram = new Ideogram(config);
+
+  </script>
+</body>
+</html>

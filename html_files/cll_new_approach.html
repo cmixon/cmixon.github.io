@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+<!-- Corrects reference error that wrote over Ref1 dif with 14rearr button -->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+<title>CLL Interpretation Worksheet v.4</title>
+</head>
+<style>
+      /*#btnControl {*/
+    /*display: none;*/
+/*}
+*/
+
+.flex-container-anomalies{
+    display: flex;
+    flex-flow:  row wrap;
+  }
+
+.flex-container-probe-summary{
+    display: flex;
+    flex-flow:  row wrap;
+  }
+
+.flex-container-interpretation{
+    display: flex;
+    flex-flow:  row wrap;
+  }
+
+.probeList{
+  background-color:#ceec9d;
+  height: 1.8em;
+  cursor: pointer;
+}
+
+.probeList:hover{
+  background-color: #759d34;
+  color: white;
+}
+
+.btnReset{
+  background-color: #8d2f5d;
+  color: white;
+}
+
+.btn {
+    width: 100px;
+    height: 1.8em;
+    background-color: White;
+    border: 2px solid #4CAF50;
+    /* padding: 1px 3px; */
+    /*box-shadow: 1px 1px 1px #000;*/
+    display: inline-flexbox;
+    text-align: center;
+    /*background-image: linear-gradient(to bottom, #f4f5f5, #dfdddd);*/
+    font-family: arial;
+    font-size: 12px;
+    line-height:12px;
+}
+
+.btn:hover {
+    background-image: linear-gradient(to bottom, #c3e3fa, #a5defb);
+}
+
+
+.btn:active {
+    margin-left: 1px 1px 0;
+    box-shadow: -1px -1px 1px #000;
+    outline: 1px solid black;
+    -moz-outline-radius: 5px;
+    background-image: linear-gradient(to top, #f4f5f5, #dfdddd);
+}
+
+      </style>
+<body>
+<h3 style="text-align: center;"> CLL Interpretations Worksheet, v. 4</h3>
+<!-- HERE IS THE FORMAT FOR ADDING DETECTED/NOT DETECTED LIST
+WRAPPING THE INPUT TAG INSIDE THE LABEL TAG MAKES THE TEXT CLICKABLE AS WELL AS CHECKBOX ; WILL NEED TO UPDATE CLIPBOARD FUNCTION TO INCLUDE '#probeList' element-->
+
+<button class="btnReset" style="width:200px" onClick="window.location.reload()">Reset Worksheet</button>
+<button id="btnCopy" onclick="copyToClipboard()">Copy to Clipboard</button>
+
+<div class="flex-container-anomalies">
+<fieldset><legend>Targeted anomalies</legend>
+<label><input type="checkbox" onclick="$('#del6q').text('Del(6q): DETECTED')">6q- detected</label>
+<label><input type="checkbox" onclick="$('#del11q').text('Del(11q)(ATM):  DETECTED')">11q- detected</label>
+<label><input type="checkbox" onclick="$('#tri12').text('Trisomy 12:  DETECTED')">+12</label>
+<label><input type="checkbox" onclick="$('#del13q').text('Del(13q)/-13:  DETECTED')">13q/-13 detected</label>
+<label><input type="checkbox" onclick="$('#tr1114').text('t(11;14):  DETECTED')">t(11;14) detected</label>
+<label><input type="checkbox" onclick="$('#del17p').text('Del(17p)(TP53):  DETECTED')">17p- detected</label>
+</fieldset>
+<fieldset><legend>Other anomalies</legend>
+<label><input type="checkbox" onclick="$('#del6q').text('Del(6q):  See below')">6q- See below</label>
+<label><input type="checkbox" onclick="$('#del11q').text('Del(11q)(ATM):  See below')">11q- See below</label>
+<label><input type="checkbox" onclick="$('#tri12').text('Trisomy 12:  See below')">+12 see below</label>
+<label><input type="checkbox" onclick="$('#del13q').text('Del(13q)/-13:  See below')">13q-/-13 see below</label>
+<label><input type="checkbox" onclick="$('#tr1114').text('t(11;14):  See below')">t(11;14) see below</label>
+<label><input type="checkbox" onclick="$('#del17p').text('Del(17p)(TP53):  See below')">17p- See below</label>
+</fieldset>
+</div>
+<span>Probe Summary:</span>
+<div class="flex-container-probe-summary">
+<!-- <fieldset><legend>Probe Summary</legend> -->
+<button class="probeList" onclick="$('#test').append(chr6)">6q-</button>
+<button class="probeList" onclick="$('#test').append(chr11)">11q-</button>
+<button class="probeList" onclick="$('#test').append(chr12)">+12</button>
+<button class="probeList" onclick="$('#test').append(chr13)">13q-/-13</button>
+<button class="probeList" onclick="$('#test').append(chr14)">14rearr</button>
+<button class="probeList" onclick="$('#test').append(trCCND1)">t(11;14)</button>
+<button class="probeList" onclick="$('#test').append(chr17)">17p-</button>
+<button class="probeList" onclick="$('#test').append('and' + '&nbsp')">"and"</button>
+<button class="probeList" onclick="$('#test').append(allOthers)">all others</button>
+<button onClick="clearSection('test')" class="btnReset" style="width:100px">Clear</button>
+<!-- </fieldset> -->
+</div>
+<hr>
+<span>Interpretation:</span>
+<div class="flex-container-interpretation">
+<!-- <fieldset><legend>Interpretation</legend> -->
+  <button onClick="postFunction(chr17Above20, chr17Above20ref)" class="btn">del(17p)>20%</button>
+	<button onClick="postFunction(chr17Below20, chr17Below20ref)" class="btn">del(17p)<20%</button>
+	<button onClick="postFunction(chr11q, chr11qref)" class="btn">Deletion 11q</button>
+  <button onClick="postFunction(chr6q, chr6qref)" class="btn">Deletion 6q</button>
+	<button onClick="postFunction(chr12primary, chr12primaryref)" class="btn">Trisomy 12</button>
+	<button onClick="postFunction(chr12second)" class="btn">+12 w/others</button>
+	<button onClick="postFunction(chr13primary, chr13primaryref)" class="btn">del(13q)</button>
+	<button onClick="postFunction(chr13second, chr13secondref)" class="btn">13q w/others</button>
+  <button onClick="postFunction(chr13q34)" class="btn">13q34 del</button>
+	<button onClick="postFunction(chr11CCND1, chr11CCND1ref)" class="btn">t(11;14)</button>
+  <button onClick="postFunction(chrIGH, chrIGHref)" class="btn">14rearr</button>
+  <button onClick="clearSection('interpretation', 'references')" class="btnReset" style="width:100px">Clear</button>
+<!-- </fieldset> -->
+</div>
+<hr>
+
+<div id="reportText" contenteditable="true">
+    <div id="del6q">Del6q:  Not detected</div>
+    <div id="del11q">Del(11q)(ATM):  Not detected</div>
+    <div id="tri12">Trisomy 12:  Not detected</div>
+    <div id="del13q">Del(13q)/-13:  Not detected</div>
+    <div id="tr1114">t(11;14):  Not detected</div>
+    <div id="del17p">Del(17p)(TP53):  Not detected</div>
+
+<p>Fluorescence in situ hybridization (FISH) analysis was performed using probes to detect cytogenetic anomalies of diagnostic and prognostic significance in chronic lymphocytic leukemia/small lymphocytic lymphoma (CLL/SLL). </p>
+
+<p>This study revealed aberrations involving:
+
+<span contenteditable="true" id="test"></span>
+<div id="interpretation" contenteditable="true"></div>
+<span>Please correlate with other clinical and laboratory information.</span>
+<p>References:</p>
+<div id="references" contenteditable="true"></div>
+
+</div>
+
+<script>
+
+let chr6 = "chromosome 6 (SEC63 deletion, 2R1G, xxx%, normal < 6.3%, MYB deletion, 1R2G, xxx%, normal < 5.7%, 6q21q23 deletion, 1R1G, xxx%, normal < 4.4%), ";
+let chr11 = "chromosome 11 (ATM deletion, 1G, xxx%, normal < 6.8%), ";
+let chr12 = "chromosome 12 (+12, 3G, xxx%, normal < 3.8%), ";
+let chr13 = "chromosome 13 (13q14 deletion, 1R2A, xxx%, normal < 4.4%), biallelic 13q14 deletion, 0R2A, xxx%, normal < 2.3%, and monosomy 13, 1R1A, xxx%, normal < 5.1%), ";
+let chr14 = "chromosome 14 (3G, xxx%, normal < 5.0%) consistent with trisomy 14/14q or an IGH gene rearrangement with an unidentified chromosomal locus other than CCND1 on chromosome 11, ";
+let trCCND1 = "translocation t(11;14) (1R1G2F, xxx%, normal < 1.5%), ";
+let chr17 = "chromosome 17 (TP53 deletion, 1R, xxx%, normal < 9.0%).";
+let allOthers = "  Counts for all other probes were within the normal reference range. These findings represent an ABNORMAL result.";
+let chr17Above20 = "Detection of 17p deletion (17p- or TP53 gene deletion) by FISH (especially if involving at least 20% of cells) is associated with the poorest outcome in CLL and lack of response to standard therapy. In the original Dohner hierarchical classification dataset, patents with this deletion had a time to first treatment of 9 months.";
+let chr17Above20ref = "Dohner H et al. Genomic Aberrations and Survival in Chronic Lymphocytic Leukemia. NEJM 2000; 343:1910-1916."
+let chr17Below20 = "Detection of 17p deletion (17p- or TP53 gene deletion) by FISH (especially if involving at least 20% of cells) is an unfavorable prognostic sign.  In the present case, this finding should be interpreted with caution since the percentage of abnormal cells is only marginally above cutoff and less than 20%.  In their review of the Dohner prognostic classification, Van Dyke et al. found that patients with a 17p deletion in less than 20% of interphases had a time to first treatment similar to those patients with a 13q deletion.";
+let chr17Below20ref = "Van Dyke DL, Werner L, Rassenti LZ, et al. The Dohner fluorescence in situ hybridization prognostic classification of chronic lymphocytic leukaemia (CLL): the CLL Research Consortium experience. Br J Haematol. 2016;173(1):105-13. PMID: 26848054.";
+let chr11q = "The 11q deletion (ATM gene deletion) is considered an unfavorable prognostic indicator with survival between that of TP53 gene deletion (17p-) and normal karyotype among CLL patients.  In the original Dohner hierarchical classification dataset, patients with this deletion had a time to first treatment of 13 months and an estimated median survival of  79 months.";
+let chr11qref = "Dohner H et al.  Genomic Aberrations and Survival in Chronic Lymphocytic Leukemia.  NEJM 2000; 343:1910-1916.";
+let chr6q = "Deletion of 6q is associated with an intermediate risk in CLL when present as a sole anomaly. Deletion 6q has also been reported in multiple myeloma, lymphoblastic leukemia and other lymphoid neoplasms, including 43% of lymphoplasmacytic lymphoma/Waldenstrom macroglobulinemia cases. It is also frequently seen as a secondary anomaly in more complex karyotypes.";
+let chr6qref = " Naderi N and Yang DT. Lymphoplasmacytic Lymphoma and Waldenstrom Macroglobulinemia. Arch Pathol Lab Med. 2013;137:580–585.";
+let chr12primary = "Trisomy 12 is the most common cytogenetic anomaly identified in CLL by banded cytogenetic analysis, accounting for approximately one-third of all cytogenetically abnormal cases.  From interphase FISH studies, the overall frequency of trisomy 12 in CLL is on the order of 15% of cases.  Recent molecular genetic studies have shown that patients with trisomy 12 may have low-risk disease in the absence of certain molecular mutations (especially NOTCH1).  In the original Dohner hierarchical classification, the overall survival of patients with trisomy 12 was similar to those without a FISH abnormality although the time to first treatment was lower at 33 months, compared to 49 months for those without.  If clinically indicated, molecular analysis with the NeoType CLL Prognostic Profile should be considered.";
+let chr12primaryref = "Autore F et al. Morphological, immunophenotypic, and genetic features of chronic lymphocytic leukemia with trisomy 12: a comprehensive review. Haematologica 2018; 103:931-938.";
+let chr12second = "Trisomy 12 is the most common cytogenetic anomaly identified in CLL by banded cytogenetic analysis, accounting for approximately one-third of all cytogenetically abnormal cases.  From interphase FISH studies, the overall frequency of trisomy 12 in CLL is on the order of 15% of cases.";
+let chr12secondref 
+let chr13primary = "Deletion of 13q14 is the most common deletion in CLL being reported in 10-20% of cases by conventional cytogenetics and up to 64% of cases by FISH analysis.  Approximately one third of 13q14 deletions are biallelic. Either form of 13q14 deletion, as a sole abnormality, is associated with a favorable prognosis and a median survival longer than CLL patients with a normal karyotype.  In the original Dohner hierarchical classification dataset, patient with this deletion had a time to first treatment of 92 months.";
+let chr13primaryref = "Dohner H et al.  Genomic Aberrations and Survival in Chronic Lymphocytic Leukemia.  NEJM 2000; 343:1910-1916.";
+let chr13second = "Deletion of 13q14 is the most common deletion in CLL being reported in 10-20% of cases by conventional cytogenetics and up to 64% of cases by FISH analysis.  Approximately one third of 13q14 deletions are biallelic.";
+let chr13secondref = "Dewald GW et al.  Chromosome anomalies detected by interphase fluorescence in situ hybridization: correlation with significant biological features of B-cell chronic lymphocytic leukaemia.  Br J Haemat 2003; 121:287-295";
+let chr13q34 = "The LAMP1 gene probe is used in this assay with DLEU1&2 to detect monosomy 13 in patients with CLL.  Deletion of 13q34 alone without 13q14 deletion is unusual in CLL. Hence this finding is indicative of an abnormal clone but is not otherwise disease specific.";
+let chr11CCND1 = "Translocation t(11;14) is a nonrandom abnormality observed most characteristically in mantle cell leukemia/lymphoma.  Deletion of ATM is observed in approximately one-third of cases of mantle cell lymphoma and is without prognostic significance.  Deletion of 6q is a frequent secondary change in mantle cell lymphoma without established prognostic significance.  Deletion of 13q is a frequent secondary change in mantle cell lymphoma and in some studies has been associated with an inferior prognosis but not in others.";
+let chr11CCND1ref = "Salaverria I et al.  Specific Secondary Genetic Alterations in Mantle Cell Lymphoma Provide Prognostic Information Independent of the Gene Expression-Based Proliferation Signature.  J Clin Oncol 2007; 25:1216-1222.";
+let chrIGH = "Translocations involving IGH are common in some lymphoid malignancies and occur less frequently in CLL. The prognostic value depends on the translocation partner. The possibility of a lymphoid disorder other than CLL cannot be ruled out by this study. If clinically indicated, further analysis with the NHL FISH panel should be considered.";
+let chrIGHref = "deBraekeleer M et al.  Immunoglobulin gene translocations in CLL:  A report of 35 patients and review of the literature.  Mol Clin Oncol 2016:4:682-694."
+
+function postFunction(anomaly, references) {
+  $('#interpretation').append(anomaly + '<br>' + '<br>');
+  if(references !== undefined){
+  $('#references').append(references + '<br>');
+  }
+}
+
+function clearSection(id,id2=null){
+  var x = document.getElementById(id);
+  var y = document.getElementById(id2);
+  if (x.innerHTML !== "") {
+    x.innerHTML = ""
+  }
+  if (y.innerHTML !=="") {
+    y.innerHTML = ""
+  }
+}
+
+function copyToClipboard() {
+     var copyText = document.getElementById("reportText").innerText;
+     navigator.clipboard.writeText(copyText);
+     console.log('Text copied');
+   }
+
+</script>
+
+</body>
+</html>
+

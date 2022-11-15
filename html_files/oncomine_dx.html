@@ -1,0 +1,239 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>OncomineDX</title>
+  <style>
+    body {font: 14px Arial; line-height: 19.6px; padding: 0 15px;}
+    a, a:visited {text-decoration: none;}
+    a:hover {text-decoration: underline;}
+    a, a:hover, a:visited, a:active {color: #0366d6;}
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/ideogram@1.28.0/dist/js/ideogram.min.js"></script>
+<link rel="icon" type="image/x-icon" href="img/ideogram_favicon.ico">
+</head>
+<body>
+  <h1 style="text-align: center"><a target = "_blank" href = "https://www.thermofisher.com/us/en/home/clinical/diagnostic-testing/condition-disease-diagnostics/oncology-diagnostics/oncomine-dx-target-test/oncomine-dx-target-test-us-only.html">OncomineDX</a> Profile</h1>
+  <!-- <h2 style="text-align: center">Data Visualization with IdeogramJS by Prof. Eric Weitz</h2> -->
+  <p><strong>Legend: </strong><span style="color:blue">BRAF {Rx Tafinlar(dabrafenib)+Mekinist(trametinib)}</span> | <span style="color:magenta">ROS1 {Rx Xalkori(crizotinib)}</span> | <span style="color:green">EGFR {Rx Iressa(gefitinib)}</span> | <span style="color:firebrick">RET {Rx Gavreto(pralsetinib)}</span>
+ </p>
+  <div id="container"></div>
+  <script type="text/javascript">
+
+  /**
+  * This function gets genomic coordinate data for ACMG genes from NCBI EUtils.
+  * EUtils docs: https://www.ncbi.nlm.nih.gov/books/NBK25500/
+  * Ideogram.js then draws those genes as annotations on chromosomes.
+  */
+  
+  function getAndDrawAcmgGenes() {
+
+    var acmgGenes, i, annots, geneClause, geneID, geneIDs, topWeight,
+        eutils, esearch, esummary, url, defaultParams, centromeres, anonymous
+        ideo = this;
+
+    ideo.annotDescriptions = {annots: {}}
+
+    geneIDs = [];
+    annots = [];
+
+    // EUtils is a web API to access NCBI data
+    eutils = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/';
+    defaultParams = '?db=gene&retmode=json&retmax=100';
+
+    // Use ESearch to get NCBI Gene ID for gene name, e.g. BRCA1 -> 672
+    esearch = eutils + 'esearch.fcgi' + defaultParams;
+
+    // Use ESummary to get genomic coordinates for given gene IDs
+    esummary = eutils + 'esummary.fcgi' + defaultParams;
+
+    acmgGenes = [
+    'AKT1','ALK','BRAF','CDK4','DDR2','EGFR','ERBB2','ERBB3','FGFR2','FGFR3','HRAS','KIT','KRAS','MAP2K1','MAP2K2','MET','MTOR','NRAS','PDGFRA','PIK3CA','RAF1','RET','ROS1'
+    ];
+console.log(acmgGenes.length);
+
+    // Batch request all ACMG genes
+    geneClause = '(' + acmgGenes.join('[symbol] OR ') + '[symbol])';
+
+    topWeight = 0;
+    weights = [];
+
+    url = esearch + '&term=Homo-sapiens[Organism] AND ' + geneClause;
+    d3.json(url).then(function(data) {
+      geneIDs = data.esearchresult.idlist;
+// console.log(geneIDs);
+
+      // Batch request genomic coordinates for all ACMG genes
+      url = esummary + '&id=' + geneIDs.join(',');
+      d3.json(url).then(function(data) {
+        var result, gene, chr, loc, start, stop, weight;
+        for (i = 0; i < geneIDs.length; i++) {
+          geneID = geneIDs[i];
+          result = data.result[geneID];
+
+          console.log(result);
+
+        if (result.chromosome === "X, Y") {
+          result.chromosome = "X"
+          result.summary = '<em>' + "PSEUDOAUTOSOMAL" + '</em>' + '  ' + result.summary
+        };
+            
+        if (result.currentid !== '' || acmgGenes.indexOf(result.name) === -1 ) {
+            // currentid case occurs when one gene symbol in a taxon maps to
+            // multiple gene.  It seems to be annotation-run noise.
+            // result.name case occurs when gene has a non-canonical alias
+            // matching the gene symbol.
+            // Ignore both.
+            continue;
+          }
+          gene = result.name;
+          chr = result.chromosome;
+          loc = result.locationhist[0]; // better than 'genomicinfo'
+          start = loc.chrstart;
+          stop = loc.chrstop;
+          // weight = result.geneweight;
+          summary = result.summary;
+          mapLoc = result.maplocation;
+
+          
+          // This is the annotations API
+          ////
+          annots.push({
+            name: gene, // required
+            chr: chr, // required
+            start: start, // required
+            stop: stop, // required
+            // weight: weight,  //optional
+            summary: summary,
+            mapLoc: mapLoc
+          });       
+
+          var CDX = {"name":"BRAF", "text":"some text"};
+          var clinvarText = 'GeneCards';
+          var clinvarBase = 'https://www.ncbi.nlm.nih.gov/clinvar';
+
+          var clinvarUrl =
+            'https://www.genecards.org/cgi-bin/carddisp.pl' +
+            '?gene=' + gene; 
+          var clinvarLink =
+            '<a target="_blank" href="' + clinvarUrl + '">' + clinvarText + '</a>';
+          var vysisUrl = 'https://www.molecular.abbott/us/en/chromosome/';
+          var metasystemsUrl = 'https://www.metasystems-probes.com/en/probes/?c=' + chr;
+          var cytocellUrl = 'https://www.cytocell-us.com/chromosome-search/chromosome:' + chr;
+          var empireUrl = 'https://www.empiregenomics.com/fish-probes/loci-fish-probes/' + chr;
+          var atlasUrl = 'http://atlasgeneticsoncology.org/Indexbychrom/idxa_' + chr + '.html';
+          var omimUrl = 'https://omim.org/search?index=entry&start=1&limit=10&sort=score+desc%2C+prefix_sort+desc&search=' + gene;
+          var neoUrl = 'https://neogenomics.com/test-menu?search=' + gene + '&methodology=All&diseases=All';
+          var vysisLink = '<a target="_blank" href= "'+vysisUrl + ''+ chr +'">Vysis</a>';
+          var metasystemsLink = '<a target="_blank" href="' + metasystemsUrl +'">Metasystems</a';
+          var cytocellLink = '<a target="_blank" href="' + cytocellUrl +'">CytoCell</a>';
+          var empireLink = '<a target="_blank" href="' + empireUrl + '">EmpireGenomics</a>';
+          var atlasLink = '<a target="_blank" href="' + atlasUrl + '">Atlas</a>';
+          var omimLink = '<a target="_blank" href="' + omimUrl + '">OMIM</a>';
+          var neoLink = '<a target="_blank" style="color: #009933; font-size: 14px" href="' + neoUrl + '">NeoTests</a>';
+          var fullName = result.description;
+          var geneSummary = result.summary;
+          var clinInfo = '<a target="_blank" href="https://www.accessdata.fda.gov/cdrh_docs/pdf16/p160045d.pdf">FDA Test Information.</a>'
+          var bandLoc = mapLoc;
+          var clinFDA = 
+{"EGFR": "EGFR exon 19 deletions and L858R mutation are found in approximately 10% of Caucasian patients with NSCLC and up to 50% of Asian NSCLC patients. 4 These mutations result in activation of the tyrosine kinase domain, and are associated with sensitivity to small molecule tyrosine kinase inhibitors (TKIs), such as erlotinib, gefitinib, and afatinib. 5 Data show that erlotinib, gefitinib, or afatinib (instead of standard first-line chemotherapy) should be used in patients with EGFR exon 19 deletions and L858R mutation.",
+"ALK":"It is estimated that 2-7% of patients with NSCLC have an ALK gene rearrangement.12 Crizotinib is approved by FDA to treat people with non-small cell lung cancer (NSCLC) that has spread to other partsof the body and is caused by either ALK fusion or ROS1 fusion. Molecular diagnostic testing using FISHand immunohistochemistry (IHC) which are the standard methods for ALK in NSCLC have been approved by FDA for detecting ALK fusion and ALK expression, respectively.13, 14 While next generation sequencingcan also be used to assess presence of ALK fusion, the OncomineTM Dx Target Test does not detect ALK fusions. To date, two ALK companion diagnostic tests have been approved by FDA for use with crizotinib, including Vysis ALK Break Apart FISH Probe kit by Abbott, and ALK (D5F3) CDx assay by Ventana.", 
+"ROS1":"It is estimated that ROS1 fusions occur in about 1-2% of patients with NSCLC. 15 ROS1 is very similar to ALK and both are members of the insulin receptor family. Crizotinib is very effective for NSCLC patients with ROS1 rearrangements. 16 The only FDA approved companion diagnostic test which includes detection of the ROS1 fusion is the OncomineTM Dx Target Test by Thermo Fisher Scientific.",
+"BRAF":"It is estimated that BRAF mutations occur in about 2% of patients with NSCLC. 15 Dabrafenib in combination with Trametinib is approved by FDA to treat NSCLC patients with a BRAF V600E mutation. The only FDA approved companion diagnostic test for detection of BRAF V600E in NSCLC is the OncomineTM Dx Target Test by Thermo Fisher Scientific. There are other FDA approved companion diagnostic tests for BRAF V600E for other indications.",
+"KRAS":"Estimated prevalence in NSCLC is 25%.",
+"MET":"Estimated prevalence in NSCLC is 3%."}
+
+
+          // Add properties like fullName or clinvarLink for later use in hyperlinkGene
+          ideo.annotDescriptions.annots[gene] = {
+            fullName,
+            clinvarLink,
+            atlasLink,
+            omimLink,
+            geneSummary,
+            // vysisLink,
+            // metasystemsLink,
+            // cytocellLink,
+            // empireLink,
+            clinInfo,
+            neoLink,
+            bandLoc,
+            clinFDA
+          
+          }
+
+        }
+
+        // This block highlights the 10 most important ACMG genes.
+        for (i = 0; i < annots.length; i++) {
+ 
+          if (annots[i].name === 'BRAF'){annots[i].color = 'blue'};
+          if (annots[i].name === 'ROS1'){annots[i].color = 'magenta'};
+          if (annots[i].name === 'EGFR'){annots[i].color = 'green'};
+          if (annots[i].name === 'RET'){annots[i].color = 'firebrick'};
+       };
+
+          // BRCA1 is the most widely-recognized gene name.  Make it stand out.
+        //   if (annots[i].name === 'CEN1') {
+        //     annots[i].shape = 'triangle';
+        //     annots[i].color = '#F00';
+        //   }
+        // }
+        
+        ideogram.drawAnnots(annots);
+
+      });
+    });
+  }
+
+
+  function enhanceTooltipContent(annots) {
+    var term = '(' + annots.name + '[gene])+AND+(Homo+sapiens[orgn])';
+    var url = 'https://ncbi.nlm.nih.gov/gene/?term=' + term;
+    var description = this.annotDescriptions.annots[annots.name];
+
+    // Necessary if-else since the centromeres and anonymous sequence probes are not NCBI coordinates and return undefined description variable
+    // Link to Abbott molecular since most of these are Abbott probes
+
+    if(description === undefined){    
+    description = annots.name,
+    term = annots.name,
+    chr = annots.chr,
+    URL = 'https://www.molecular.abbott/us/en/chromosome/' + chr,
+    annots.displayName = '<a target="_blank" href="' + URL + '" <strong style="color:red">' + annots.name + '</strong></a>',
+    description.fullName = annots.name
+    }  else  {
+      if (description.clinFDA[annots.name] === undefined){ description.clinFDA[annots.name] = '';}
+      annots.displayName =
+      '<a target="_blank" href="' + url + '">' + annots.name + '</a><br/>'+ '<span style="color:green">' + description.bandLoc + '</span>' +'<br/>'+
+      description.fullName + '<br/>' +
+      description.clinvarLink + '<br/>'+
+      description.atlasLink + '  ' + description.omimLink + '<br/>' + 
+      description.geneSummary + '<br/>' + description.clinInfo + ' ' + description.clinFDA[annots.name] + '<br/>' +
+      // description.vysisLink + '    ' + description.metasystemsLink + '<br/>' + '  ' + description.cytocellLink + '<br/>' + '    ' +
+      // description.empireLink + '    ' + '<br/>' +
+      description.neoLink;
+}
+    return annots
+  }
+
+  
+
+  var d3 = Ideogram.d3;
+
+  var config = {
+    organism: 'human',
+    resolution: 850,
+    // showBandLabels : true,
+    chrHeight: 600,
+    annotationHeight: 6,
+    onLoad: getAndDrawAcmgGenes,
+    onWillShowAnnotTooltip: enhanceTooltipContent
+  
+  };
+
+  var ideogram = new Ideogram(config);
+
+  </script>
+</body>
+</html>

@@ -1,0 +1,306 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Myeloid Disorders Profile</title>
+  <style>
+    body {font: 14px Arial; line-height: 19.6px; padding: 0 15px;}
+    a, a:visited {text-decoration: none;}
+    a:hover {text-decoration: underline;}
+    a, a:hover, a:visited, a:active {color: #0366d6;}
+    hr.dashed{
+      border-top: 1px dashed navy;
+    }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/ideogram@1.28.0/dist/js/ideogram.min.js"></script>
+<link rel="icon" type="image/x-icon" href="img/ideogram_favicon.ico">
+<script type="text/javascript" src="./data/apvx_comments_json_format.js"></script>
+</head>
+<body>
+  <h1 style="text-align: center">Myeloid Disorders Profile and Derivatives</h1>
+  <!-- <h2 style="text-align: center">Data Visualization with IdeogramJS by Prof. Eric Weitz</h2> -->
+<!-- 
+ <div class="search-container">
+    <form action="/action_page.php">
+      <input type="text" placeholder="Search.." name="search">
+      <button type="submit"><i class="fa fa-search"></i>Search</button>
+    </form> -->
+  
+ </p>
+  <div id="container"> <span style="color:red">Red</span> = Myeloid Disorders Profile Only | <span style="color:blue">Blue</span> = Also in MDS/CMML profile | Rectangle (or grey) =  Also in AML Prognostic Profile | <span style="color:lawngreen">Bright green</span> = Actionable AML mutations per <a target = "_blank" href="https://www.nccn.org/professionals/physician_gls/default.aspx">NCCN Guidelines</a><br>CBFB/inv(16) is not included and must be <a target = "_blank" href="https://neogenomics.com/test-menu/inv16-cbfb-myh11-translocation">ordered separately</a></div>
+  <script type="text/javascript">
+
+  /**
+  * This function gets genomic coordinate data for ACMG genes from NCBI EUtils.
+  * EUtils docs: https://www.ncbi.nlm.nih.gov/books/NBK25500/
+  * Ideogram.js then draws those genes as annotations on chromosomes.
+  */
+  
+  function getAndDrawAcmgGenes() {
+
+    var acmgGenes, i, annots, geneClause, geneID, geneIDs, topWeight,
+        eutils, esearch, esummary, url, defaultParams, centromeres, anonymous
+        ideo = this;
+
+    ideo.annotDescriptions = {annots: {}}
+
+    geneIDs = [];
+    annots = [];
+
+    // EUtils is a web API to access NCBI data
+    eutils = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/';
+    defaultParams = '?db=gene&retmode=json&retmax=100';
+
+    // Use ESearch to get NCBI Gene ID for gene name, e.g. BRCA1 -> 672
+    esearch = eutils + 'esearch.fcgi' + defaultParams;
+
+    // Use ESummary to get genomic coordinates for given gene IDs
+    esummary = eutils + 'esummary.fcgi' + defaultParams;
+
+    acmgGenes = [
+    'ABL1','ASXL1','ATRX','BCOR','BCORL1','BRAF','CALR','CBL','CBLB','CBLC','CDKN2A','CEBPA','CSF3R','CUX1','DNMT3A','DDX41','ETNK1','ETV6','EZH2','FBXW7','FLT3','GATA1','GATA2','GNAS','GNB1','HRAS','IDH1','IDH2','IKZF1','JAK2','JAK3','KDM6A','KIT','KRAS','MLL','MPL','MYD88','NF1','NOTCH1','NPM1','NRAS','PDGFRA','PHF6','PML','PPM1D','PTEN','PTPN11','RAD21','RUNX1','SETBP1','SF3B1','SH2B3','SMC1A','SMC3','SRSF2','STAG2','STAT3','STAT5B','TET2','TP53','U2AF1','WT1','ZRSR2','CALR','FLT3'
+
+    ];
+console.log(acmgGenes.length);
+
+    // Batch request all ACMG genes
+    geneClause = '(' + acmgGenes.join('[symbol] OR ') + '[symbol])';
+
+    topWeight = 0;
+    weights = [];
+
+    url = esearch + '&term=Homo-sapiens[Organism] AND ' + geneClause;
+    d3.json(url).then(function(data) {
+      geneIDs = data.esearchresult.idlist;
+// console.log(geneIDs);
+
+      // Batch request genomic coordinates for all ACMG genes
+      url = esummary + '&id=' + geneIDs.join(',');
+      d3.json(url).then(function(data) {
+        var result, gene, chr, loc, start, stop, weight;
+        for (i = 0; i < geneIDs.length; i++) {
+          geneID = geneIDs[i];
+          result = data.result[geneID];
+
+          // console.log(result);
+
+        if (result.chromosome === "X, Y") {
+          result.chromosome = "X"
+          result.summary = '<em>' + "PSEUDOAUTOSOMAL" + '</em>' + '  ' + result.summary
+        };
+            
+        if (result.currentid !== '' || acmgGenes.indexOf(result.name) === -1 ) {
+            // currentid case occurs when one gene symbol in a taxon maps to
+            // multiple gene.  It seems to be annotation-run noise.
+            // result.name case occurs when gene has a non-canonical alias
+            // matching the gene symbol.
+            // Ignore both.
+            continue;
+          }
+          gene = result.name;
+          chr = result.chromosome;
+          loc = result.locationhist[0]; // better than 'genomicinfo'
+          start = loc.chrstart;
+          stop = loc.chrstop;
+          // weight = result.geneweight;
+          summary = result.summary;
+          mapLoc = result.maplocation;
+
+          
+          // This is the annotations API
+          ////
+          annots.push({
+            name: gene, // required
+            chr: chr, // required
+            start: start, // required
+            stop: stop, // required
+            // weight: weight,  //optional
+            summary: summary,
+            mapLoc: mapLoc
+          });       
+
+          var clinvarText = 'GeneCards';
+          var clinvarBase = 'https://www.ncbi.nlm.nih.gov/clinvar';
+
+          var clinvarUrl =
+            'https://www.genecards.org/cgi-bin/carddisp.pl' +
+            '?gene=' + gene; 
+          var clinvarLink =
+            '<a target="_blank" href="' + clinvarUrl + '">' + clinvarText + '</a>';
+          var vysisUrl = 'https://www.molecular.abbott/us/en/chromosome/';
+          var metasystemsUrl = 'https://www.metasystems-probes.com/en/probes/?c=' + chr;
+          var cytocellUrl = 'https://www.cytocell-us.com/chromosome-search/chromosome:' + chr;
+          var empireUrl = 'https://www.empiregenomics.com/fish-probes/loci-fish-probes/' + chr;
+          var atlasUrl = 'http://atlasgeneticsoncology.org/Indexbychrom/idxa_' + chr + '.html';
+          var omimUrl = 'https://omim.org/search?index=entry&start=1&limit=10&sort=score+desc%2C+prefix_sort+desc&search=' + gene;
+          var neoUrl = 'https://neogenomics.com/test-menu?search=' + gene + '&methodology=All&diseases=All';
+          var vysisLink = '<a target="_blank" href= "'+vysisUrl + ''+ chr +'">Vysis</a>';
+          var metasystemsLink = '<a target="_blank" href="' + metasystemsUrl +'">Metasystems</a';
+          var cytocellLink = '<a target="_blank" href="' + cytocellUrl +'">CytoCell</a>';
+          var empireLink = '<a target="_blank" href="' + empireUrl + '">EmpireGenomics</a>';
+          var atlasLink = '<a target="_blank" href="' + atlasUrl + '">Atlas</a>';
+          var omimLink = '<a target="_blank" href="' + omimUrl + '">OMIM</a>';
+          var neoLink = '<a target="_blank" style="color: red; font-size: 14px" href="' + neoUrl + '">NeoTests</a>';
+          var fullName = result.description;
+          var geneSummary = result.summary;
+          var bandLoc = mapLoc;
+          var dataNCCN = {
+  "NPM1": "The NPM1 gene encodes a shuttle protein within the nucleolus of cells. Mutations in this gene occur in 28% to 35% of AML cases.43,46,47 The NPM1 mutation has been shown to be associated with NK-AML with a reported frequency of 48% to 53%. Isolated NPM1 mutation, which localizes to the cytoplasm, confers a higher complete response (CR) rate and improved event-free survival (EFS) and OS compared with patients who are NK-AML and wild-type NPM1, resulting in outcomes similar to patients with favorable cytogenetics (eg, CBF AML). NPM1 mutation confers favorable prognosis only in the absence of FLT3-ITD.  Associated with poor prognosis in MDS (W288fs*12).",
+  "FLT3": "The FLT3 gene encodes a receptor tyrosine kinase involved in hematopoiesis. Two major classes of activating FLT3 mutations have been identified in patients with AML, which include the internal tandem duplications (ITD) and tyrosine kinase domain (TKD) point mutations.49-54 FLT3-ITD mutations occur in approximately 30% of cases and are more common than FLT3-TKD mutations, which occur in approximately 10% of patients. Numerous studies have shown the negative prognostic influence of FLT3-ITD in patients with AML, resulting in shorter remission durations (eg, decreased disease-free survival [DFS] in patients with a CR) and poorer survival outcomes compared with patients who have wild-type FLT3. Among patients with FLT3-ITD and NK-AML, median OS from the time of diagnosis ranged from 6 to 12 months. There is a high frequency of FLT3 mutations in APL. In a systematic review including 11 studies, FLT3-ITD frequency in APL occurred in about 12% to 38% of cases and FLT3-TKD occurred in 2% to 20% of cases.The clinical significance of FLT3 mutations in patients with APL remains controversial.",
+  "IDH1": "Mutations in IDH1 have been reported in 6% to 9% of AML cases, with a higher frequency among patients with NK-AML (8%–16%). IDH1 mutations were found to occur concurrently with NK-AML and NPM1 mutations. Additionally, these mutations have been associated with wild-type CEBPA and the absence of FLT3 abnormalities. Findings from published reports on the prognostic effects of IDH1 mutations have been inconsistent. Although some studies showed no prognostic effect of IDH1 mutations on OS when considering all IDH mutations (IDH1 and IDH2 combined) or in the overall patient population, IDH1 mutations correlated with significantly worse outcomes in the subgroup of NK-AML patients with favorable- or intermediate-risk disease. In the subgroup of patients younger than 60 years with favorable-risk AML (NPM1 mutation without FLT3-ITD), IDH1 mutations were associated with a significantly decreased 5-year DFS rate (42% vs. 59%; P = .046) and a trend for decreased OS rate (50% vs. 63%) compared with patients who had wild-type IDH. In another study, IDH mutations (IDH1 and IDH2 combined) were associated with significantly inferior 5-year RFS rates (37% vs. 67%; P = .02) and OS rates (41% vs. 65%; P = .03) in the subgroup of patients with favorable-risk AML (NK-AML with NPM1 mutation without FLT3-ITD). This prognostic significance was observed when IDH1 and IDH2 mutations were separately analyzed, although patient numbers were small for each subgroup and statistical significance was reached only for the RFS analysis. IDH1 mutations were also associated with worse EFS and OS outcomes among the subgroup of patients with intermediate-risk NK-AML (wild-type NPM1 without FLT3-ITD).",
+  "IDH2": "Mutations in IDH2 have been reported in 8% to 12% of patients with AML, with a higher frequency of 19% among those with NK-AML. The presence of IDH2 mutations was mutually exclusive with IDH1 mutation in nearly all cases. Mutations have been identified in R172 and R140 of the IDH2 gene, with the R140 mutation occurring more frequently. Interestingly, the IDH2-R172 mutation seemed to be mutually exclusive with NPM1 mutations and FLT3-ITD. Reports on the prognostic effect of IDH2 mutations have also been inconsistent. Some studies have reported the lack of prognostic value of IDH2 mutations, whereas others have reported favorable outcomes with IDH2 mutations.",
+  "DNMT3A": "The DNMT3A mutations have been reported in 18% to 22% of patients with AML, with a frequency of 29% to 34% in those with NK-AML. R882 is the most commonly mutated residue. This mutation has also been observed in conjunction with NPM1 mutations and FLT3 mutations. Data concerning the prognostic significance of DNMT3A mutations have thus far been conflicting. Some studies in the overall AML population and in patients with intermediate risk reported no significant effect of DNMT3A mutations on survival outcomes,47,75 whereas other studies have shown a negative prognostic effect in the overall population or specific subgroups. Studies have shown significantly decreased OS outcomes among patients with DNMT3A mutations compared with patients who have the wild-type gene (median OS, 12–21 months vs. 40– 41 months). Significantly decreased OS with DNMT3A mutations has also been reported in the subgroup of patients with NK-AML who have wild-type NPM1 with or without FLT3-ITD, or NPM1 mutation in the presence of FLT3-ITD, but not in the favorable subgroup with NPM1 mutation without FLT3-ITD.",
+  "KIT": "KIT mutations have been reported in approximately 20% of patients with CBF AML. Studies have shown that KIT mutations are associated with decreased remission duration (eg, EFS and RFS) and decreased OS in patients with t(8;21). However, the association of KIT mutations on CBF AML with inv(16) is less clear than the data for t(8;21), with several studies showing no association. Secondary chromosomal abnormalities are found in 39% of patients, with the most common abnormalities being trisomy 22 (18%), trisomy 8 (16%), and 7q deletion (5%). Secondary genetic lesions are found in 84% of patients, including mutations in RAS (53%; NRAS in 45%; KRAS in 13%), KIT (37%), and FLT3 (17%; FLT3-TKD in 14%; FLT3-ITD in 5%; both mutations present in 2%). In addition, 25% of patients have more than one of these mutations. Mutations in KIT and RAS are less likely to occur concurrently, whereas mutations in KIT and FLT3 occur concurrently in 6% of patients. Of these secondary genetic lesions, KIT mutation and trisomy 22 are significant independent factors predictive of RFS in multivariable analysis; FLT3 mutations, trisomy 22, and trisomy 8 are significant independent predictors for OS.",
+  "CEBPA": "Mutations in CEBPA have been reported in 7% to 11% of patients with AML (or 13%–15% of those with NK-AML) and have been associated with a favorable outcome (similar to patients with CBF translocations) with regard to increased remission duration and OS outcome compared with wild-type. One caveat identified was that the OS benefit with CEBPA was observed for patients with double mutations of CEBPA but not for those with a single mutation of the gene. The benefit in OS outcomes seen with CEBPA mutations seems to be lost in the presence of concurrent FLT3-ITD.  5%–10% of CEBPA double-mutant AML cases harbor germline mutations.",
+  "KMT2A": "In one series of 1897 AML cases, the incidence of 11q23/MLL (KMT2A) rearrangements was 2.8%, and they were significantly higher in therapy-related AML than in de novo AML (9.4% vs. 2.6%, P < .0001).84 The frequency of MLL rearrangements was also significantly higher in patients younger than 60 years (5.3% vs. 0.8%, P < .0001). Depending on the fusion partner, the 11q23/MLL rearrangement is associated with intermediate to poor prognosis. NK- AML can be characterized by partial tandem duplication in the MLL gene (MLL-PTD), and MLL-PTD is associated with reduced OS.",
+  "RUNX1": "The runt-related transcription factor 1 (RUNX1) gene, encoding a myeloid transcription factor, is mutated in approximately 10% of de novo AML cases and associated with adverse prognoses.91-93 In a study of adult patients with newly diagnosed AML (n = 2439), RUNX1 mutations were associated with older age, male gender, more immature morphology, and secondary AML evolving from MDS. RUNX1 mutations frequently co-occurred with epigenetic modifiers ASXL1, IDH2, KMT2A, and EZH2. In a study examining the impact of multiple RUNX1 mutations and loss of wild-type RUNX1 in AML, both loss of wild-type RUNX1 (OS, 5 months) and having ≥1 RUNX1 mutation (14 months) had an adverse impact on prognosis compared to 1 RUNX1 mutation (22 months; P < .002 and .048, respectively).  Independently associated with a poor prognosis in MDS.",
+  "ASXL1": "ASXL1 mutations have been reported in approximately 5% to 36% of de novo AML cases and are associated with poor outcomes. In an analysis of peripheral blood samples from adult patients with AML (n = 423), ASXL1 mutations were observed to be more common in older adult patients (≥60 years) compared to patients younger than 60 years (16.2% vs. 3.2%, respectively; P < .001). In older patients, ASXL1 mutations were significantly associated with wild-type NPM1, FLT3-ITD mutations, mutated CEBPA, and lower survival. A large series analyzing younger adult patients with AML (range, 18–61 years) also observed that ASXL1 mutations were associated with older age(P = .0001) and decreased EFS and OS. In this study, ASXL1 mutations were also significantly associated with RUNX1 (P = .0001).101 In another study analyzing biological and prognostic subgroups based on mutations in ASXL1, RUNX1, DNMT3A, NPM1, FLT3, and TP53 in patients with AML with myelodysplasia-related changes (n = 125), ASXL1 (n = 26; 21%) and TP53 (n = 28; 22%) were independently associated with shorter OS (HR, 2.53; 95% CI, 1.40–4.6; P = .002). Independently associated with a poor prognosis in MDS and CMML. More frequent in CMML (40%– 50%). Common in CHIP and CCUS.",
+  "TP53": "TP53 mutations have been reported in approximately 12%–13% of AML cases, and are associated with unfavorable risk and poor outcomes. TP53 mutations are also most common in AML with complex karyotype.103 However, in therapy-related AML, TP53 mutations are more frequently associated with monosomal karyotype, and with abnormalities in chromosomes 5 and 7. In therapy-related AML, the frequency of TP53 mutations is approximately 23%. In a large analysis of different hematologic malignancies including 858 AML cases, TP53 mutations or deletions were observed in 7% and 1%, respectively, of the AML cases, and both TP53 mutations and deletions were observed in 5% of the cases. TP53 mutations were significantly more frequently seen in older adult patients (≥60 years) when compared to patients <60 years of age (9% vs. 2%, P < .001). Interestingly, compared to TP53 deletions, TP53 mutations negatively impacted survival in AML (36 months vs. 9 months, respectively; P < .001), suggesting the importance of evaluating both TP53 mutation and deletion status. Independently associated with a poor prognosis. More frequent with complex karyotypes (50%) and del(5q) (15%–20%). May predict resistance or relapse to lenalidomide.",
+  "TET2":"Associated with normal karyotypes. More frequent in CMML (40%–60%).Common in clonal hematopoiesis of indeterminate potential (CHIP) and clonal cytopenia of undetermined significance (CCUS).",
+  "EZH2":"Independently associated with a poor prognosis in MDS and MDS/MPN. More frequent in CMML (12%).",
+  "SF3B1":"Strongly associated with ring sideroblasts and more frequent in MDS-RS (80%). Independently associated with a more favorable prognosis.",
+  "SRSF2":"More frequent in CMML (40%) and associated with a poor prognosis.",
+  "U2AF1":"Associated with a poor prognosis.",
+  "ZRSR2":"Associated with a poor prognosis.",
+  "STAG2":"Associated with a poor prognosis.",
+  "NRAS":"Associated with a poor prognosis, particularly in patients predicted to have lower-risk MDS. More frequent in CMML and JMML (~15%).",
+  "CBL":"More frequent in CMML (10%–20%) and JMML (15%).",
+  "NF1":"More frequent in CMML (5%–10%) and in JMML (30%) where it is often germline.",
+  "JAK2":"More frequent in MDS/MPN-RS-T (50%); can occur in conjunction with SF3B1. Overall incidence <5%.",
+  "CALR":"Observed in MDS/MPN-RS&T where it can occur in conjunction with SF3B1 mutations.  Overall incidence <5%.",
+  "MPL":"Observed in MDS/MPN-RS&T where it can occur in conjunction with SF3B1 mutations.",
+  "ETV6":"Independently associated with a poor prognosis.",
+  "GATA2":"Associated with a poor prognosis.",
+  "SETBP1":"Associated with disease progression. More frequent in CMML (5%–10%) and JMML (7%).",
+  "PHF6":"More frequent in cases with excess blasts, but no association with survival.  Overall incidence <5%.",
+  "BCOR":"Associated with a poor prognosis. More frequent in CMML (5%–10%).",
+  "WT1":"Associated with a poor prognosis.",
+  "STAT3":"Occurs in large granular lymphocyte leukemia (LGL) associated with MDS; associated with immune bone marrow failure.",
+  "PPM1D":"Associated with therapy-related MDS, but not associated with adverse prognosis independent of TP53. Common in CHIP and CCUS."
+};
+          var dataAPVX = dataApvx
+          var clinSignificance = dataNCCN[gene];
+          var apvxComment = dataAPVX[gene];
+          var displaySignificance = '<span style="color:navy"><strong>Clinical Significance (NCCN):</strong>' + ' ' + clinSignificance + '</span>'
+          var displayAPVX = '<span style="color:green"><strong>APVX Comments:</strong>' + ' ' + apvxComment + '</span>'
+          if (clinSignificance === undefined){
+            displaySignificance = '<span style="color:navy">Clinical Significance (NCCN): No entry </span>'
+          }
+          if (apvxComment === undefined){
+            displayAPVX= '<span style="color:green">APVX Comment: No entry </span>'
+          }
+
+
+          // Add properties like fullName or clinvarLink for later use in hyperlinkGene
+          ideo.annotDescriptions.annots[gene] = {
+            fullName,
+            clinvarLink,
+            atlasLink,
+            omimLink,
+            geneSummary,
+            // vysisLink,
+            // metasystemsLink,
+            // cytocellLink,
+            // empireLink,
+            displaySignificance,
+            displayAPVX,
+            neoLink,
+            bandLoc
+          
+          }
+
+        }
+      let mdsCMML = ['ASXL1','BCOR','BCORL1','BRAF','CALR','CBL','CEBPA','CUX1','DDX41','DNMT3A','ETV6','EZH2','FLT3','GATA2','HRAS','IDH1','IDH2','JAK2','KIT','KRAS','MPL','NF1','NPM1','NRAS','PDGFRA','PHF6','PPM1D','PTEN','PTPN11','RUNX1','SETBP1','SF3B1','SRSF2','STAG2','STAT3','TET2','TP53','U2AF1','WT1','ZRSR2'];
+
+      let amlPrognostic = ['ASXL1','BCOR','BRAF','CEBPA','CSF3R','DNMT3A','ETV6','EZH2','FLT3','HRAS','IDH1','IDH2','JAK2','KIT','KMT2A','KRAS','NPM1','NRAS','PDGFRA','PHF6','PML','PTPN11','RUNX1','SETBP1','STAG2','TET2','TP53','WT1', 'CSF3R'];
+
+      
+
+       for (i=0; i < annots.length; i++){
+           var x = annots[i].name;
+       if (mdsCMML.includes(x)){
+        annots[i].color = "blue";
+       }
+
+       if (amlPrognostic.includes(x)){
+        annots[i].shape = "rectangle";
+      }
+      if (x === 'IDH1'){annots[i].color = 'lawngreen'};
+      if (x === 'IDH2'){annots[i].color = 'lawngreen'};
+      if (x === 'NPM1'){annots[i].color = 'lawngreen'};
+      if (x === 'FLT3'){annots[i].color = 'lawngreen'};
+      if (x === 'KIT'){annots[i].color = 'lawngreen'};
+      if (x === 'CEBPA'){annots[i].color = 'lawngreen'};
+      if (x === 'ASXL1'){annots[i].color = 'lawngreen'};
+      if (x === 'TP53'){annots[i].color = 'lawngreen'};
+        // // This block highlights the 10 most important ACMG genes.
+        // for (i = 0; i < annots.length; i++) {
+        //   color = (i > 84) ? 'red' : 'blue';
+        //   annots[i].shape = 'triangle';
+        //   annots[i].color = color;
+       };
+
+          // BRCA1 is the most widely-recognized gene name.  Make it stand out.
+          // if (annots[i].name === 'CEN1') {
+          //   annots[i].shape = 'triangle';
+          //   annots[i].color = '#F00';
+          // }
+        // }
+        
+        ideogram.drawAnnots(annots);
+
+      });
+    });
+  }
+
+
+  function enhanceTooltipContent(annots) {
+    var term = '(' + annots.name + '[gene])+AND+(Homo+sapiens[orgn])';
+    var url = 'https://ncbi.nlm.nih.gov/gene/?term=' + term;
+    var description = this.annotDescriptions.annots[annots.name];
+
+    // Necessary if-else since the centromeres and anonymous sequence probes are not NCBI coordinates and return undefined description variable
+    // Link to Abbott molecular since most of these are Abbott probes
+
+    if(description === undefined){    
+    description = annots.name,
+    term = annots.name,
+    chr = annots.chr,
+    URL = 'https://www.molecular.abbott/us/en/chromosome/' + chr,
+    annots.displayName = '<a target="_blank" href="' + URL + '" <strong style="color:red">' + annots.name + '</strong></a>',
+    description.fullName = annots.name
+    }  else  {
+      annots.displayName =
+      '<a target="_blank" href="' + url + '">' + annots.name + '</a><br/>'+  '<span style="color:green">' + description.bandLoc + '</span>' +'<br/>'+
+      description.fullName + '<br/>' +
+      description.clinvarLink + ' '+ ' ' +
+      description.atlasLink + '  ' + ' ' + description.omimLink + '<br/>' +
+      description.geneSummary + '<hr/>' + description.displaySignificance + '<hr class="dashed">' + description.displayAPVX + '<hr> ' +
+      // description.vysisLink + '    ' + description.metasystemsLink + '<br/>' + '  ' + description.cytocellLink + '<br/>' + '    ' +
+      // description.empireLink + '    ' + '<br/>' +
+      description.neoLink + '<br/>';
+}
+    return annots
+  }
+
+  
+
+  var d3 = Ideogram.d3;
+
+  var config = {
+    organism: 'human',
+    resolution: 850,
+    // showBandLabels : true,
+    chrHeight: 600,
+    annotationHeight: 6,
+    onLoad: getAndDrawAcmgGenes,
+    onWillShowAnnotTooltip: enhanceTooltipContent
+  
+  };
+
+  var ideogram = new Ideogram(config);
+
+
+  </script>
+</body>
+</html>

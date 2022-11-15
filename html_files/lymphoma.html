@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--template for html file; must have companion js file for interpretations and reference-->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+    <script src="./data/lymphoma.js"></script>
+    <link rel="report builder icon" href="../img/favicon.png" >
+    <title>Lymphoma FISH</title>
+
+    <!--Insert title-->
+    <title>Lymphoma FISH</title>  
+    <style>
+   
+        .btn{
+            background-color:#28a1e8;
+            color: #fbfbfb;
+            font-size: medium;
+            padding-top: 0.5em;
+            
+        }
+        .btn:hover{
+            border-radius: 8px;
+            background-color: #eb2424;
+        }
+        .btnCopy{
+            background-color: #4a718c;
+            color: white;
+            font-size: medium;
+        }
+            .btnCopy:hover {
+                border-radius: 8px;
+                background-color: #eb2424;
+            }
+        .btnUndo {
+            background-color: darkorange;
+            color: black;
+            font-size: medium;
+        }
+        .btnUndo:hover{
+            border-radius: 8px;
+        }
+        [contenteditable] {
+            outline: 0px solid transparent;
+        }
+    </style>
+</head>
+<body>
+
+  <!--INSERT TITLE-->
+    <h4>Lymphoma Panels FISH Report Builder</h4>
+
+    <fieldset>
+        <legend>Abnormalities Detected by Panel</legend> <div id="abnormalities">
+    <span><strong>CLL panel</strong></span>&nbsp
+    <!--<button class="btn" onclick="detectedAbnormality(ntp.key, references.key)"></button>-->
+    <button class="btn" onclick="detectedAbnormality(ntp.chr17Above20, references.chr17Above20)">del(17p)>20%</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.chr17Below20, references.chr17Below20)">del(17p)<20%</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.chr11q, references.chr11q)">Deletion 11q</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.chr6q, references.chr6q)">Deletion 6q</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.chr12primary, references.chr12primary)">+12 primary</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.chr12NeoTypePending, references.chr12primary)">+12 w/ NeoType</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.chr12second, references.chr12second)">+12 with others</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.chr13primary, references.chr13primary)">del(13q) primary</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.chr13second, references.chr13second)">del(13q) with others</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.chr11CCND1, references.chr11CCND1)">t(11;14)</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.chrIGH, references.chrIGH)">other IGH rearrangement</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.recommendationCLL, references.noTargeted)">Recommendations</button><br /><br />
+    <span><strong>LOW grade panel</strong></span>&nbsp
+    <button class="btn" onclick="detectedAbnormality(ntp.BCL6rearr, references.BCL6rearr)">BCL6 rearrangement</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.BCL61R1F, references.BCL61R1F)">BCL6 (1R1F)</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.BCL61G1F, references.BCL1G1F)">BCL6 (1G1F)</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.BCL6IGH3, references.BCL6IGH3)">BCL6+IGH rearrangements</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.BCL6gain, references.BCL6gain)">BCL6 gain</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.CCND1, references.CCND1)">CCND1 rearrangement</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.CCND12r3g, references.CCND12r3g)">CCND1 2R3G</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.BCL2, references.BCL2)">BCL2 rearrangement</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.BCL23f, references.BCL23f)">BCL2 3F</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.BCL22r3g, references.BCL22r3g)">IGH/BCL2 2R3G</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.BCL23r2g, references.BCL23r2g)">IGH/BCL2 3R2G</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.MALT1, references.MALT1)">MALT1 rearrangement</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.MALT13f, references.MATL13f)">MALT1 3F</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.MALT2r3g, references.MALT2r3g)">IGH/MALT1 2R3G</button><br /><br />
+    <span><strong>HIGH grade panel</strong></span>&nbsp
+    <button class="btn" onclick="detectedAbnormality(ntp.hgBCL2, references.BCL2)">BCL2 rearranged</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.hgBCL23f, references.BCL23f)">BCL2 3F</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.hgMYC, references.hgMYC)">MYC rearrangement</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.hgMYC34f, references.hgMYC34f)">MYC 3-4F</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.hgMYCabove4f, references.hgMYCabove4f)">MYC >4F</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.hgMYCandBCL2, references.hgMYCandBCL2)">MYC+BCL2 rearranged</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.hgMYCandBCL6, references.hgMYCandBCL6)">MYC+BCL6 rearranged</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.hgMYCandBCL6andBCL2, references.hgMYCandBCL6andBCL2)">MYC+BCL6+BCL2 rearranged</button>
+    <button class="btn" onclick="detectedAbnormality(ntp.possTetraploidy, references.possTetraploidy)">possible near-tetraploidy</button><br /><br />
+
+    <span>other comments &nbsp</span><button class="btn" onclick="detectedAbnormality(ntp.noTargeted, references.noTargeted)">No targeted rearrangements</button>
+
+    <button class="btn" onclick="detectedAbnormality(ntp.possDHL, references.possDHL)">DHL not excluded</button>
+
+    <!--do not change anything below this line-->
+    <br /><br />
+    <button class="btnCopy" onclick="copyToClipboard()">Copy to Clipboard</button>
+    <button class="btnCopy" onclick="copyInterpToClipboard()">Copy Interpretation to Clipboard</button>
+    <button class="btnCopy" onclick="copyRefsToClipboard()">Copy Refs to Clipboard</button>
+
+    <button class="btnUndo" onclick="window.location.reload()">Reset</button>
+</div>
+    </fieldset>
+    <hr />
+        <div id="reportText">
+    <span id="allntp" contenteditable="true"></span>
+    <!--a div element puts an additonal blank line between the above and the following element when copied to clipboard fn used-->
+    <span>Please correlate with other clinical and laboratory information.</span>
+
+<br />
+<br />
+</div>
+
+    <div id="allReferences">
+    <span>References:</span>
+      <br/>
+ <div id="references"></div></div>
+
+</body>
+</html>

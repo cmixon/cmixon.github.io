@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Includes nonPCE as well as PCE cutoffs -->
+  <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+  <title>Multiple Myeloma FISH Worksheet</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+</head>
+<style>
+  b {
+    margin: 0;
+  }
+  #div {
+    margin: 0;
+  }
+  .flex-containerResetButton{
+    display: flex;
+    justify-content: center;
+    align-items: right;
+  }
+  .flex-container-PCE, .flex-container-anomalies {
+    display: flex;
+    flex-flow:  row wrap;
+  }
+
+  .flex-container-interp{
+    display: flex;
+    flex-flow: row wrap;
+  }
+
+  .btnPanel{
+    background-color: #7887ab;
+    color: #ffe3aa;
+  }
+  .btnPCE, .btnInterp, .btn{
+    margin: 5px;
+    background-color:#afc18d;
+  }
+  .btnNPCE{
+    background-color:#4a718c;
+    color: white;
+  }
+  .btnReset{
+    background-color: #ffd1aa;
+  }
+
+  /*.btnInterp, .btn{
+    margin: 5px;
+    background-color: #afc18d;
+  }*/
+  .copy{
+    background-color: #804515;
+    color: #ffd1aa;
+  }
+  #ch1 {
+    background-color:#dce9c5;
+
+  }
+  #trisomy, #interpPloidy{
+    background-color:#8ba163;
+  }
+  #ch13, #interpChr13{
+    background-color:#6b8044;
+  }
+  #IGH, #interpOtherIGH{
+    background-color:#dce9c5;
+  }
+  #deletions, #interpHighRisk{
+    background-color:#afc18d;
+  }
+  #miscellaneous, #interpOther{
+    background-color:#dce9c5;
+  }
+
+
+</style>
+<body>
+  <h4 style="text-align: center;">Multiple Myeloma FISH Panels Interpretation Worksheet, Version 5.2</h3>
+  <!-- <h4 style="text-align: center;"> Version 4.1</h4> -->
+<!-- 
+<button id="show" onclick="viewItem('enrichment'); $('<span>' + sumPCE + '</span>').appendTo('#PCE')">PCE Done</button>
+<button id="show" onclick="viewItem('noEnrichment'); $('<span>' + sumPCEnot + '</span>').appendTo('#PCE');">No PCE Done</button>
+-->
+<span style="text-align: left"><strong>Probe Summary and PCE Status</strong>
+  <button class="btnPanel" onclick="viewItem('probeListPanel')">Myeloma Panel</button>
+  <button class="btnPanel" onclick="viewItem('probeListPrognostic')">Prognostic Panel</button>
+  <button class="btnPanel" onclick="viewItem('probeListHRIg'); $('<span>' + sumHRIg + '</span>').appendTo('#PCE')"">Reflex IGH</button>
+  <button class= "btnPCE" onclick="viewItem('enrichment'); $('<span>' + sumPCE + '</span>').appendTo('#PCE')">PCE</button>
+  <button class = "btnNPCE" onclick="viewItem('noEnrichment'); $('<span>' + sumPCEnot + '</span>').appendTo('#PCE')">no PCE</button>
+  <button class="btnReset" onclick="window.location.reload()">Reset</button>
+  <button onclick="copyToClipboard()" class="copy">Copy to Clipboard</button></span>
+
+  <div class="flex-container-anomalies">
+<fieldset style="width:750px"><legend>Detected</legend>
+<label><input type="checkbox" onclick="$('.del13q').text('Del(13q)/-13:  DETECTED')">13q/-13</label>
+<label><input type="checkbox" onclick="$('.del1p').text('Del(1p): DETECTED')">Del1p</label>
+<label><input type="checkbox" onclick="$('.dup1q').text('Dup(1q):  DETECTED')">Dup1q</label>
+<label><input type="checkbox" onclick="$('#gains').text('Gains (5,9,15):  DETECTED')">Gains 5,9,15</label>
+<label><input type="checkbox" onclick="$('.del17p').text('Del(17p)(TP53):  DETECTED')">17p-</label>
+<label><input type="checkbox" onclick="$('#IGBA').text('IGH (Rearrangement):  DETECTED')">IGH</label>
+<label><input type="checkbox" onclick="$('.t1114').text('t(11;14):  DETECTED')">t(11;14)</label>
+<label><input type="checkbox" onclick="$('.t414').text('t(4;14):  DETECTED')">t(4;14)</label>
+<label><input type="checkbox" onclick="$('.t1416').text('t(14;16):  DETECTED')">t(14;16)</label>
+<label><input type="checkbox" onclick="$('.t1420').text('t(14;20):  DETECTED')">t(14;20)</label>
+</fieldset>
+
+<fieldset style="width:750px"><legend>See below</legend>
+<label><input type="checkbox" onclick="$('.del13q').text('Del(13q)/-13:  See below')">13q/-13</label>
+<label><input type="checkbox" onclick="$('.del1p').text('Del(1p): See below')">Del1p</label>
+<label><input type="checkbox" onclick="$('.dup1q').text('Dup(1q):  See below')">Dup1q</label>
+<label><input type="checkbox" onclick="$('#gains').text('Gains (5,9,15):  See below')">Gains 5,9,15</label>
+<label><input type="checkbox" onclick="$('.del17p').text('Del(17p)(TP53):  See below')">17p-</label>
+<label><input type="checkbox" onclick="$('#IGBA').text('IGH (Rearrangement):  See below')">IGH </label>
+<label><input type="checkbox" onclick="$('.t1114').text('t(11;14):  See below')">t(11;14)</label>
+<label><input type="checkbox" onclick="$('.t414').text('t(4;14):  See below')">t(4;14)</label>
+<label><input type="checkbox" onclick="$('.t1416').text('t(14;16):  See below')">t(14;16)</label>
+<label><input type="checkbox" onclick="$('.t1420').text('t(14;20):  See below')">t(14;20)</label>
+</fieldset>
+</div>
+
+      <div id="enrichment" style="display:none">
+        <div class="flex-container-interp">
+
+          <fieldset> <legend>Chromosome 1</legend><div id="ch1">
+            <button class="btnInterp" onclick="$('<span>'+ sumDel1p + '&nbsp' + '</span>').appendTo('#test')">del(1p)</button>
+            <button class="btnInterp" onclick="$('<span>'+ sumGain1q + '</span>').appendTo('#test')">+1q</button>
+          </div>
+        </fieldset>
+        <fieldset><legend>Ploidy index</legend> <div id="trisomy">
+          <button class="btnInterp" onclick="$('<span>'+ sumGain5 + '</span>').appendTo('#test')">+5</button>
+          <button class="btnInterp" onclick="$('<span>'+ sumGain9 + '</span>').appendTo('#test')">+9</button>
+          <button class="btnInterp" onclick="$('<span>'+ sumGain15 + '</span>').appendTo('#test')">+15</button>
+        </div>
+      </fieldset>
+      <fieldset> <legend> Chromosome 13</legend><div id="ch13">
+        <button class="btnInterp" onclick="$('<span>'+ sumDel13q14 + '&nbsp' + '</span>').appendTo('#test')">del13q14</button>
+        <button class="btnInterp" onclick="$('#test').append(sumMono13)">mono13</button>
+        <button class="btnInterp" onclick="$('#test').append(sumDel13q34)">del13q34</button>
+      </div>
+    </fieldset>
+    <fieldset><legend>Miscellaneous</legend>
+    <div id="miscellaneous">
+      <button class="btnInterp" onclick="$('#test').append('and ')">and</button>
+      <button class="btnInterp" onclick="$('<span>'+ sumAtypical + '</span>').appendTo('#test')">atypical</button>
+      <button class="btnInterp" onclick="$('<span>'+ sumMAF1R + '</span>').appendTo('#test')">mono16</button>
+      <button class="btnInterp" onclick="$('#test').append(sumDel20q)">del20q</button>
+      <button class="btnInterp" onclick="$('#test').append(sumIGH1G)">mono14</button>
+      <button class="btnInterp" onclick="$('#test').append(sumConclude)">all others normal</button>
+    </div>
+  </fieldset>
+    <fieldset><legend>IGH anomalies</legend> <div id="IGH">
+      <button class="btnInterp" onclick="$('<span>'+ sumFGFR3+ '</span>').appendTo('#test')">FGFR3t(4;14)</button>
+      <button class="btnInterp" onclick="$('<span>'+ sumCCND1 + '</span>').appendTo('#test')">CCND1t(11;14)</button>
+      <button class="btnInterp" onclick="$('<span>'+ sumCCND1gain + '</span>').appendTo('#test')">CCND1gain</button>
+      <button class="btnInterp" onclick="$('<span>'+ sumMAF + '</span>').appendTo('#test')">MAFt(14;16)</button>
+      <button class="btnInterp" onclick="$('<span>'+ sumMAFB + '</span>').appendTo('#test')">MAFBt(14;20)</button>
+      <button class="btnInterp" onclick="$('<span>'+ sumIGHBA + '</span>').appendTo('#test')">IGHBreakApart</button>
+      <button class="btnInterp" onclick="$('<span>'+ sumIGHdel5 + '</span>').appendTo('#test')">IGHPartialDeletion5'</button>
+      <button class="btnInterp" onclick="$('<span>'+ sumIGHdel3 + '</span>').appendTo('#test')">IGHPartialDeletion3'</button>
+      <button class="btnInterp" onclick="$('<span>'+ sumIGH3G + '</span>').appendTo('#test')">IGHx3</button> 
+      <button class="btnInterp" onclick="$('<span>'+ sumIGHrearr + '</span>').appendTo('#test')">IGHconfirm</button>
+    </div>
+  </fieldset>
+  <fieldset><legend>Chromosome 17</legend>
+    <div id="deletions">
+      <button class="btnInterp" onclick="$('<span>'+ sumDel17p + '</span>').appendTo('#test')">del17p</button>
+      <button class="btnInterp" onclick="$('<span>'+ sumDel17NF1 + '</span>').appendTo('#test')">del17p&NF1</button>
+     <button class="btnInterp" onclick="$('<span>'+ sumRelDel17p + '</span>').appendTo('#test')">relative del17p</button>
+    </div>
+  </fieldset>
+  
+</div>
+</div>
+
+<div id="noEnrichment" style="display:none">
+
+  <div class="flex-container-interp">
+
+<fieldset> <legend>Chromosome 1</legend><div id="ch1">
+  <button class="btnNPCE" onclick="$('<span>'+ sumNDel1p + '&nbsp' + '</span>').appendTo('#test')">del(1p)</button>
+  <button class="btnNPCE" onclick="$('<span>'+ sumNGain1q + '</span>').appendTo('#test')">+1q</button>
+</div>
+</fieldset>
+<fieldset><legend>Ploidy index</legend> <div id="trisomy">
+  <button class="btnNPCE" onclick="$('<span>'+ sumNGain5 + '</span>').appendTo('#test')">+5</button>
+  <button class="btnNPCE" onclick="$('<span>'+ sumNGain9 + '</span>').appendTo('#test')">+9</button>
+  <button class="btnNPCE" onclick="$('<span>'+ sumNGain15 + '</span>').appendTo('#test')">+15</button>
+</div>
+</fieldset>
+<fieldset> <legend> Chromosome 13</legend><div id="ch13">
+  <button class="btnNPCE" onclick="$('<span>'+ sumNDel13q14 + '&nbsp' + '</span>').appendTo('#test')">del13q14</button>
+  <button class="btnNPCE" onclick="$('#test').append(sumNMono13)">mono13</button>
+  <button class="btnNPCE" onclick="$('#test').append(sumNDel13q34)">del13q34</button>
+</div>
+</fieldset>
+<fieldset><legend>Miscellaneous</legend>
+  <div id="miscellaneous">
+    <button class="btnNPCE" onclick="$('#test').append('and ')">and</button>
+    <button class="btnNPCE" onclick="$('<span>'+ sumAtypical + '</span>').appendTo('#test')">atypical</button>
+    <button class="btnNPCE" onclick="$('<span>'+ sumNMAF1R + '</span>').appendTo('#test')">mono16</button>
+    <button class="btnNPCE" onclick="$('#test').append(sumNDel20q)">del20q</button>
+    <button class="btnNPCE" onclick="$('#test').append(sumNIGH1G)">mono14</button>
+    <button class="btnNPCE" onclick="$('#test').append(sumConclude)">all others normal</button>
+  </div>
+</fieldset>
+<fieldset><legend>IGH anomalies</legend> <div id="IGH">
+  <button class="btnNPCE" onclick="$('<span>'+ sumNFGFR3+ '</span>').appendTo('#test')">FGFR3t(4;14)</button>
+  <button class="btnNPCE" onclick="$('<span>'+ sumNCCND1 + '</span>').appendTo('#test')">CCND1t(11;14)</button>
+  <button class="btnNPCE" onclick="$('<span>'+ sumNCCND1gain + '</span>').appendTo('#test')">CCND1gain</button>
+  <button class="btnNPCE" onclick="$('<span>'+ sumNMAF + '</span>').appendTo('#test')">MAFt(14;16)</button>
+  <button class="btnNPCE" onclick="$('<span>'+ sumNMAFB + '</span>').appendTo('#test')">MAFBt(14;20)</button>
+  <button class="btnNPCE" onclick="$('<span>'+ sumNIGHBA + '</span>').appendTo('#test')">IGHBreakApart</button>
+  <button class="btnNPCE" onclick="$('<span>'+ sumIGHdel5 + '</span>').appendTo('#test')">IGHPartialDeletion5'</button>
+  <button class="btnNPCE" onclick="$('<span>'+ sumIGHdel3 + '</span>').appendTo('#test')">IGHPartialDeletion3'</button>
+  <button class="btnNPCE" onclick="$('<span>'+ sumNIGH3G + '</span>').appendTo('#test')">IGHx3</button>
+  <button class="btnNPCE" onclick="$('<span>'+ sumIGHrearr + '</span>').appendTo('#test')">IGHconfirm</button>
+</div>
+</fieldset>
+<fieldset><legend>Chromosome 17</legend>
+  <div id="deletions">
+    <button class="btnNPCE" onclick="$('<span>'+ sumNDel17p + '</span>').appendTo('#test')">del17p</button>
+    <button class="btnNPCE" onclick="$('<span>'+ sumNDel17NF1 + '</span>').appendTo('#test')">del17p&NF1</button>
+    <button class="btnNPCE" onclick="$('<span>'+ sumRelDel17p + '</span>').appendTo('#test')">relative del17p</button>
+
+  </div>
+</fieldset>
+
+</div>
+</div>
+<hr>
+
+<span style="text-align:left"><strong>Interpretation</strong><button class="btnReset"  onclick="window.location.reload()">Reset</button> <button onclick="copyToClipboard()" class="copy">Copy to Clipboard</button></span>
+<div class="flex-container-interp">
+  <fieldset><legend>
+    <strong> Ploidy:</strong>>=2 of (5,9,15) trisomic</legend>
+    <div id="interpPloidy"> 
+      <button onclick="postFunctionP(hyperdiploid, Wuilleme)" class="btn">Hyperdiploid</button>
+      <button onclick="postFunctionP(hyperdiploidHr, Chretien)" class="btn">Hyperdiploid+hr</button>
+      <button onclick="postFunctionP(tetraploid, Sidana)" class="btn">Tetraploid</button><br>
+      <button onclick="postFunctionP(indeterminate, none)" class="btn">Indeterminate</button><br>
+    </div>
+  </fieldset>
+  <fieldset><legend>
+    <strong>High-risk</strong> (multiple allowed)</legend>
+    <div id="interpHighRisk">
+      <button onclick="postFunctionHR(TP53, Sonneveld)" class="btn">TP53</button>
+      <button onclick="postFunctionHR(TP53Tri5, SonnChre)" class="btn">TP53 +5</button>
+      <button onclick="postFunctionHR(relTP53, Lakshman)" class="btn">relative 17p deletion</button>
+      <button onclick="postFunctionHR(gain1q, Giri)" class="btn">+1q</button>
+      <button onclick="postFunctionHR(del1p, Hebraud)" class="btn">del(1p)</button>
+      <button onclick="postFunctionHR(FGFR3, SonnRaj20)" class="btn">t(4:14)FGFR3</button>
+      <button onclick="postFunctionHR(MAF, Rajkumar2020)" class="btn">MAF or MAFB</button>
+      <button onclick="postFunctionHR(three, Sonneveld)" class="btn">3 or more</button>
+      <button onclick="clearEntryHR()" class="btn" style="background-color:#fffdaa">CLEAR</button>
+    </div>
+  </fieldset>
+  <fieldset><legend>
+    <strong>Other IGH:</strong></legend>
+    <div id="interpOtherIGH">
+      <button onclick="postFunctionOtherIGH(breakapart, none)" class="btn">IGH breakapart</button>
+      <button onclick="postFunctionOtherIGH(IGHother, Walker)" class="btn">IGH rearr not hr</button>
+      <button onclick="postFunctionOtherIGH(IGHdel, Wlodarska)" class="btn">IGH partial del</button>
+      <button onclick="postFunctionOtherIGH(CCND1, SonnRaj16)" class="btn">t(11;14)CCND1</button>
+      <button onclick="postFunctionOtherIGH(CCND1hr, Leiba)" class="btn">t(11;14) plus hr</button><br>
+      <button class="btn" onclick="$('<span>' + sumIGHrearr + '</span>').appendTo('#allInterp')">IGHconfirm</button>
+    </div>
+  </fieldset>
+  <fieldset><legend><strong>13q/-13:</strong></legend>
+    <div id="interpChr13">
+      <button onclick="postFunctionCh13(mono13, Chiecchio)" class="btn">monosomy 13</button>
+      <button onclick="postFunctionCh13(ch13q14, ChieccBinder)" class="btn">del(13)(q14)</button>
+      <button onclick="postFunctionCh13(ch13q34, none)" class="btn">del(13)(q34)</button><br>
+    </div>
+  </fieldset>
+  <fieldset><legend><strong>Other</strong> (multiple allowed)</legend>
+    <div id="interpOther">
+      <button onclick="postFunctionOther(trisomies, Wuilleme)" class="btn">Other trisomies</button>
+      <button onclick="postFunctionOther(CCND1gain, Manier)" class="btn">gain of CCND1</button>
+      <button onclick="postFunctionOther(insufficient, Wuilleme)" class="btn">Single trisomy</button>
+      <button onclick="postFunctionOther(mono14, none)" class="btn">Monosomy 14</button>
+      <button onclick="postFunctionOther(mono16, none)" class="btn">Monosomy 16</button>
+      <button onclick="postFunctionOther(del20q, Nilsson)" class="btn">del(20q)</button>
+      <button onclick="clearEntryOther()" class="btn" style="background-color:#fffdaa">CLEAR</button>
+    </div>
+  </fieldset>
+</div>
+<hr>
+
+<div id="reportText">
+<div id=probeDetects contenteditable="true"> 
+<div id="probeListPanel" contenteditable="true" style="display:none">
+    <div class="del1p">Del1p:  Not detected</div>
+    <div class="dup1q">Dup1q:  Not detected</div>
+    <div id="gains">Gains (5,9,15):  Not detected</div>
+    <div class="del13q">Del13q:  Not detected</div>
+    <div class="del17p">Del(17p)(TP53):  Not detected</div>
+    <div id="IGBA">IGH (Rearrangement):  Not detected</div><br></div>
+
+    <div id="probeListPrognostic" contenteditable="true" style="display:none">
+    <div class="del1p">Del1p:  Not detected</div>
+    <div class="dup1q">Dup1q:  Not detected</div>
+    <div class="del13q">Del13q:  Not detected</div>
+    <div class="t414">t(4;14):  Not detected</div>
+    <div class="t1114">t(11;14):  Not detected</div>
+    <div class="t1416">t(14;16):  Not detected</div>
+    <div class="t1420">t(14;20):  Not detected</div>
+    <div class="del17p">Del(17p)(TP53):  Not detected</div><br></div>
+
+<div id="probeListHRIg" contenteditable="true" style="display:none">
+    <div class="t414">t(4;14):  Not detected</div>
+    <div class="t1114">t(11;14):  Not detected</div>
+    <div class="t1416">t(14;16):  Not detected</div>
+    <div class="t1420">t(14;20):  Not detected</div><br /></div>
+    </div>
+
+<p id="PCE"></p>
+
+<p contenteditable="true" id="test">This study revealed </p>
+<!-- <p>Click a button to add a comment. Click a second time to remove a comment.<br>The "High-Risk" and "Other" groups allow mutliple comments to be chosen and must be cleared by their own "Clear" button.  The "Reset" button clears everything. -->
+
+  <div id="allInterp" contenteditable="true"></div><br>
+  <span>Please correlate with other clinical and laboratory information.</span>
+<p>References:</p>
+ <div id="references"></div>
+  </div>
+
+  
+  <script>
+// Comments go here, assigned to "interpretation" variable.
+let hyperdiploid = "These results are consistent with hyperdiploid multiple myeloma, a standard risk prognostic sign which may be modified during the course of disease by the acquisition of high-risk abnormalities.  The published false negative rate for this probe set in determining ploidy in multiple myeloma is 9%; the false positive rate is 2%.";
+let hyperdiploidHr = "These results are consistent with hyperdiploid multiple myeloma.  Hyperdiploidy per se does not ameliorate the prognostic impact of the high-risk anomalies present in this case, but the presence of trisomy 5 specifically has been associated with clinical amelioration of high-risk abnormalities.";
+      let tetraploid = "The gain in chromosome counts is indicative of near-tetraploidy, an unfavorable risk group in multiple myeloma independent of the presence of additional high-risk abnormalities.";
+      let indeterminate = "These results are consistent with an elevated ploidy level but do not distinguish between hyperdiploidy (standard risk) and near-tetraploidy (unfavorable). ";
+      let TP53 = "TP53 gene deletion is a high-risk prognostic sign and is associated with shortest survival curves in multiple myeloma.";
+      let relTP53 = "Relative deletion of TP53 has been shown to have the same high-risk prognosis as simple deletion 17p in multiple myeloma in a recent large study.";
+let TP53Tri5 = "TP53 gene deletion is a high-risk prognostic sign and is associated with shortest survival curves in multiple myeloma. There is evidence that the presence of trisomy 5 ameliorates the poor prognosis associated with this deletion somewhat.";
+let gain1q = "Gain of 1q in multiple myeloma is considered a secondary aberration associated with tumor progression and advanced disease. It is a high-risk prognostic sign.";
+let del1p = "Deletion of 1p (CDKN2C) in plasma cell myeloma is considered a high-risk prognostic marker with adverse prognosis and short survival.";
+let FGFR3 = "FGFR3/ IGH fusion is associated with an unfavorable prognosis in plasma cell myeloma (PCM) and is a high-risk prognostic sign. The t(4;14) translocation has been shown to decrease the event-free and overall survival of MM patients due to its implications in the design of risk-adapted treatment strategies. However, complete response, progression-free survival, and overall survival in multiple myeloma patients with t(4;14) may be improved with bortezomib- or carfilzomib-based treatment protocols.";
+let MAF = "The demonstration of a t(14;16) or t(14;20) translocation is a high-risk prognostic sign in multiple myeloma but standard-risk in smoldering myeloma.";
+let three = "The presence of 3 or more high-risk cytogenetic abnormalities identified in this panel is evidence for ultra-high risk disease with shortened survival.";
+let breakapart = "IGH gene rearrangement may be an unfavorable prognostic indicator if it is associated with t(4;14), and in some groups, t(14;16) or t(14;20). The IGH Complex FISH panel will be performed separately unless otherwise requested. Please refer to the reflexed panel results for information regarding the IGH translocation partner.";
+let IGHother = "Rearrangements of IGH occur in up to 72% of plasma cell myeloma and plasma cell leukemia cases. The prognostic value of an IGH rearrangement depends on the translocation partner, but it is usually not favorable except when it involves CCND1 [t(11;14) translocation]. Other IGH translocations in multiple myeloma include t(6;14) and rarely t(7;14), t(8;14), and t(14;18).   If clinically indicated, additional FISH analysis for MYC rearrangement should be considered; there is an association of MYC rearrangement with higher stage/more aggressive disease.";
+let IGHdel = "Deletions of the IGH region have been reported to occur as physiological events accompanying somatic V-D-J assembly in B cells and may not be oncogenic.  Rearrangements, including translocations, are sometimes accompanied by deletions at the breakpoints. The possibility of a clinically significant unbalanced rearrangement involving IGH cannot be ruled out by these results.  The prognostic significance of IGH rearrangement in plasma cell neoplasia depends on the fusion partner. The IGH Complex FISH panel will be performed separately unless otherwise requested. Please refer to the reflexed panel results for information regarding the IGH translocation partner.";
+let CCND1 = "CCND1/IGH fusion is associated with standard risk in plasma cell myeloma. Clinical trials suggest that multiple myeloma with t(11;14) may respond to BCL2 inhibitors.  The t(11;14) translocation is also observed in patients with mantle cell lymphoma (MCL).";
+let CCND1hr = "CCND1/IGH fusion [t(11;14)] is associated with standard risk in plasma cell myeloma.  However, patients with unfavorable risk genetics have the inferior prognosis associated with these anomalies although the higher risk associated with gain of 1q seems to be related to gains above one additional copy.  Clinical trials suggest that multiple myeloma with t(11;14) may respond to BCL2 inhibitors.";
+let CCND1gain="Gain of CCND1 is a common secondary change in multiple myeloma and is seen in up to 15% of cases.";
+let mono13 = "Deletion of 13q34 typically accompanies 13q14.3 deletion indicating monosomy 13 or subtotal deletion of the entire long arm of chromosome 13. Deletion of 13q/monosomy 13 is a frequent finding in plasma cell neoplasia by interphase FISH analysis and although it was previously considered an adverse prognostic marker, based on more recent data and due to evolving therapy, it is now considered to be of adverse prognostic significance only when detected by karyotyping, in which case it predicts impaired progression-free survival and overall survival.";
+let ch13q14 = "Deletion of 13q is a frequent finding in plasma cell neoplasia by interphase FISH analysis and although it was previously considered an adverse prognostic marker, based on more recent data and due to evolving therapy, it is now considered to be of adverse prognostic significance only when detected by karyotyping, in which case it predicts impaired progression-free survival and overall survival.  There is evolving evidence that this deletion, when detected by FISH, may in fact be neutral or even protective when accompanied by a high-risk anomaly.";
+let ch13q34 = "Deletion of 13q34 without 13q14.3 deletion is unusual and was not evaluated in previously published clinical studies. The prognostic value of this deletion is therefore uncertain but is likely to be standard risk.";
+let trisomies = "In patients with multiple myeloma, trisomies, particularly of the odd numbered chromosomes, are common.  If clinically indicated, further evaluation of the ploidy status with the 5/9/15 probe set should be considered.";
+let mono14 = "Monosomy 14 is a frequent monosomy in multiple myeloma and is without prognostic significance.";
+let mono16 = "Monosomy 16 is a frequent monosomy in multiple myeloma and is without prognostic significance.";
+let del20q = "Experimental evidence suggests that a 20q deletion may occur as a multipotent stem-cell lesion and be found concurrently in lymphoid and myeloid descendants.  According to current WHO Classification of Tumors of Haematopoietic and Lymphoid Tissues (4th ed.), this anomaly is not considered definitive evidence for myelodysplasia in the absence of morphologic criteria.  It has no established significance in multiple myeloma.";
+let insufficient = "The isolated gain of one chromosome in the 5/9/15 probe set is insufficient to establish hyperdiploidy."
+
+// References go here, assigned to "reference" variable.
+let Sonneveld = "Sonneveld P, et al. Treatment of multiple myeloma with high-risk cytogenetics: a consensus of the International Myeloma Working Group. Blood. 2016;127(24):2955-2962.";
+let Chretien = "Chretien M-L et al.  Understanding the role of hyperdiploidy in myeloma prognosis:  which trisomies really matter.  Blood 2015; 126:2713-2719.";
+let Rajkumar2020 = "Rajkumar, SV.  Multiple myeloma:  2020 update on diagnosis, risk-stratification and management.  Am J Hematol 2020; 95:548-567.";
+let Rajkumar2016 = "Rajkumar SV. Updated Diagnostic Criteria and Staging System for Multiple Myeloma. Am Soc Clin Oncol Educ Book. 2016;35:e418-23.";
+let Giri = "Giri S, et al.  Chromosome 1 abnormalities and survival of patients with multiple myeloma in the era of novel agents.  Blood Advances 2020; 4(10):2245-2253.";
+let Hebraud = "Hebraud B, Leleu X, Lauwers-Cances V, et al. Deletion of the 1p32 region is a major independent prognostic factor in young patients with myeloma: the IFM experience on 1195 patients. Leukemia. 2014;28(3):675-9.";
+let Leiba = "Leiba, M et al.  Translocation t(11;14) in newly diagnosed patients with multiple myeloma:  Is it always favorable? Genes Chromosomes Ca 2016; 55:710-718.";
+let Manier = "Manier S et al.  Genomic complexity of multiple myeloma and its clinical implications.  Nature Reviews Clinical Oncology 2016.122.";
+let Walker = "Walker BA et al.  Translocations at 8q24 juxtapose MYC with genes that harbor super enhances resulting in over expression and poor prognosis in myeloma patients.  Blood Ca J 2014; 4:e191";
+let Wlodarska = "Wlodarska I et al. Telomeric IGH losses detectable by fluorescence in situ hybridization in chronic lymphocytic leukemia reflect somatic VH recombination events. J Mol Diagn. 2007 Feb; 9(1):47-54.";
+let Chiecchio = "Chiecchio L, Protheroe RK, Ibrahim AH, et al. Deletion of chromosome 13 detected by conventional cytogenetics is a critical prognostic factor in myeloma. Leukemia. 2006;20(9):1610-1617.";
+let Binder = "Binder M et al.  Prognostic implications of abnormalities of chromosome 13 and the presence of multiple cytogenetic high-risk abnormalities in newly diagnosed multiple myeloma.  Blood Ca Journal 2017; 7:e660.";
+let Wuilleme = "Wuilleme S et al.  Ploidy, as detected by fluorescence in situ hybridization, defines different subgroups in multiple myeloma.  Leukemia 2005; 19:275-278.";
+let Sidana = "Sidana, S et al.  Tetraploidy is associated with poor prognosis at diagnosis in multiple myeloma. Am J Hematol 2019:e117-e120.";
+      let Nilsson = "Nilsson T, et al.  Genes, Chromosomes, and Cancer 2004; 41:223-231.";
+      let Lakshman = "Lakshman et al.  Natural history of multiple myeloma with de novo del(17p).  Blood Ca J 2019; 9:32."
+let none = "";
+//Combinations of references go here, assigned to another variable.
+let SonnChre = Sonneveld + "<br>" + Chretien
+let SonnRaj20 = Sonneveld + "<br>" + Rajkumar2020
+let SonnRaj16 = Sonneveld + "<br>" + Rajkumar2016
+let ChieccBinder = Chiecchio + "<br>" + Binder
+
+//For probe summary section
+
+let sumPCE = "Fluorescent in situ hybridization was performed with probes to detect cytogenetic anomalies of prognostic significance in plasma cell myeloma. Plasma cell enrichment was performed.";
+let sumPCEnot = " Fluorescent in situ hybridization was performed with probes to detect cytogenetic anomalies of prognostic significance in plasma cell myeloma.  Plasma cell enrichment was not performed owing to the age or quality of the specimen.";
+let sumHRIg = "Fluorescence in situ hybridization (FISH) analysis was performed with a Plasma Cell Myeloma IGH Complex probe panel to further define an IGH gene abnormality. Plasma cell enrichment was performed.";
+let sumIGHrearr = " The concurrent IGH probes confirmed the IGH gene rearrangement. ";
+let sumConclude =" All other probe signals were within normal reference ranges.  These findings represent an ABNORMAL result.";
+
+//For probe summary section with PCE
+let sumDel1p ="a deletion in chromosome 1p (CDKN2C) (>/=2R1G, xxx%,  normal < 9.8 %),";
+let sumDel13q14 = "a 13q14 deletion (1R2G, xxx%, normal < 11.9%), ";
+let sumMono13= "13q deletion/monosomy 13 (1R1G, xxx%, normal < 9.8%), ";
+let sumDel13q34="a 13q34 deletion (2R1G, xxx%, normal < 9.8%), ";
+let sumGain1q ="gain in chromosome 1q (CKS1B) (3R2G, xxx%, normal < 8.6% and >3R>/=2G, xxx%, normal < 7.4%), ";
+let sumFGFR3="fusion of FGFR3/IGH detected with the t(4;14) probe set (1R1G2F, xxx%, normal < 3.0%), ";
+let sumCCND1 = "fusion of CCND1/ IGH detected with the t(11;14) probe set (1R1G2F, xxx%, normal < 3.0%), ";
+let sumMAF = "fusion of IGH /MAF detected with the t(14;16) probe set (1R1G2F, xxx%, normal < 4.6%), ";
+let sumMAFB = "fusion of IGH /MAFB detected with the t(14;20) probe set (1R1G2F, xxx%, normal < 3.0%), ";
+let sumIGHBA = "rearrangement of the IGH locus (1R1G1F, xxx%, normal 11.9%), ";
+let sumIGH3G = "an abnormal signal pattern in the IGH probe set (3G, xxx~xxx%, normal < 10.0%) suggestive of IGH rearrangement to a  locus other than FGFR3, CCND1, MAF, or MAFB, duplication of the IGH locus, or trisomy 14, ";
+let sumMAF1R = "loss of the MAF locus or monosomy 16/16q (1R, xxx%, normal <20%), ";
+let sumIGH1G = "loss of the IGH locus or monosomy 14/14q (1G, xxx%, normal <20%), ";
+let sumIGHdel5 = "deletion of the 5'IGH locus (1R1F, %, not seen in validation studies), ";
+let sumIGHdel3 = "deletion of the 3'IGH locus (1G1F, %, not seen in validation studies), ";
+
+let sumDel17p ="and 17p13 deletion (TP53) (1R2G, xxx%, normal < 14.0%). "; 
+let sumDel17NF1 = "and loss of both TP53 and NF1 loci, suggestive of monosomy of chromosome 17 (1R1G, xxx%, normal < 8.6%). ";
+let sumRelDel17p = "and gain of NF1 (2R3G, xxx%, not seen in validation studies), suggestive of trisomy 17 with relative loss of 17p. ";
+let sumGain5 = "gain of chromosome 5 (3G, xxx%, normal < 7.4%), ";
+let sumGain9 = "gain of chromosome 9 (3A, xxx%, normal < 7.4%), ";
+let sumGain15= "gain of chromosome 15 (3R, xxx%, normal < 7.4%), ";
+let sumAtypical = "an atypical pattern with the xxx probe set (-  ), ";
+let sumCCND1gain = "gain of signal with the CCND1 probe (3R, xxx%, normal < 10.0%), ";
+let sumDel20q = "loss of signal with the MAFB locus (1R, xxx%, normal <20%), consistent with deletion of chromosome 20q, ";
+
+//For probe summary section no PCE
+
+let sumNDel1p ="a deletion in chromosome 1p (CDKN2C) (>/=2R1G, xxx%, normal < 5.1 %),";
+let sumNDel13q14 = "a 13q14 deletion (1R2G, xxx%, normal < 6.3%), ";
+let sumNMono13= "13q deletion/monosomy 13 (1R1G, xxx%, normal < 5.1%), ";
+let sumNDel13q34="a 13q34 deletion (2R1G, xxx%, normal < 5.1%), ";
+let sumNGain1q ="gain in chromosome 1q (CKS1B) (3R2G, xxx%, normal < 4.4% and >3R>/=2G, xxx%, normal < 3.8%), ";
+let sumNFGFR3="fusion of FGFR3/IGH detected with the t(4;14) probe set (1R1G2F, xxx%, normal < 1.5%), ";
+let sumNCCND1 = "fusion of CCND1/ IGH detected with the t(11;14) probe set (1R1G2F, xxx%, normal < 1.5%), ";
+let sumNMAF = "fusion of IGH /MAF detected with the t(14;16) probe set (1R1G2F, xxx%, normal < 2.3%), ";
+let sumNMAFB = "fusion of IGH /MAFB detected with the t(14;20) probe set (1R1G2F, xxx%, normal < 1.5%), ";
+let sumNIGH3G = "an abnormal signal pattern in the IGH probe set (3G, xxx~xxx%, normal < 5.0%) suggestive of IGH rearrangement to a  locus other than FGFR3, CCND1, MAF, or MAFB, duplication of the IGH locus, or trisomy 14, ";
+let sumNMAF1R = "loss of the MAF locus or monosomy 16/16q (1R, xxx%, normal <10.0%), ";
+let sumNIGH1G = "loss of the IGH locus or monosomy 14/14q (1G, xxx%, normal < 10.0%), ";
+let sumNCCND1gain = "gain of signal with the CCND1 probe (3R, xxx%, normal < 5.0%), ";
+let sumNDel20q = "loss of signal with the MAFB locus (1R, xxx%, normal <10.0%), consistent with deletion of chromosome 20q, ";
+let sumNIGHBA = "rearrangement of the IGH locus (1R1G1F, xxx%, normal 6.3%), ";
+let sumNDel17p ="and 17p13 deletion (TP53) (1R2G, xxx%, normal < 7.4%). "; 
+let sumNDel17NF1 = "and loss of both TP53 and NF1 loci, suggestive of monosomy of chromosome 17 (1R1G, xxx%, normal < 4.4%). " ;
+let sumNGain5 = "gain of chromosome 5 (3G, xxx%, normal < 3.8% and 4R, xxx%, normal < 5.1%), ";
+let sumNGain9 = "gain of chromosome 9 (3A, xxx%, normal < 3.8% and 4A, xxx%, normal < 4.4%), ";
+let sumNGain15= "gain of chromosome 15 (3R, xxx%, normal < 4.4% and 4G, xxx%, normal < 4.4%), ";
+let sumNAtypical = "an atypical pattern with the xxx probe set (-  ), ";
+
+
+function postFunctionHR(interpretation, reference) {
+  $('<p>' + interpretation + '</p>').appendTo('#allInterp');
+  $('<span>' + reference + '</span>'+'<br>').appendTo('#references');
+}
+
+function clearEntryHR(){
+  var x = document.querySelector('#allInterp');
+  var y = document.querySelector('#references');
+  x.lastChild.remove();
+  y.lastChild.remove();
+  }
+
+
+  function postFunctionP(interpretation,reference) {
+    $('<p>' + interpretation + '</p>').appendTo('#allInterp');
+    $('<span>' + reference + '</span>'+'<br>').appendTo('#references');
+    }
+    
+
+  function postFunctionOtherIGH(interpretation, reference) {
+    $('<span>' + interpretation + '</span>').appendTo('#allInterp');
+    $('<span>' + reference + '</span>'+'<br>').appendTo('#references');
+    }
+   
+
+  function postFunctionCh13(interpretation, reference) {
+    $('<p>' + interpretation + '</p>').appendTo('#allInterp');
+    $('<span>' + reference + '</span>'+'<br>').appendTo('#references');
+    }
+   
+
+  function postFunctionOther(interpretation, reference) {
+    $('<p>' + interpretation + '</p>').appendTo('#allInterp');
+    $('<span>' + reference + '</span>'+'<br>').appendTo('#references');
+ 
+  }
+  function clearEntryOther(){
+    var x = document.querySelector('#allInterp');
+    var y = document.querySelector('#references');
+    x.lastChild.remove();
+    y.lastChild.remove();
+    
+    }
+    function copyToClipboard() {
+     var copyText = document.getElementById("reportText").innerText;
+     navigator.clipboard.writeText(copyText);
+     console.log('Text copied');
+   }
+   function viewItem(div) {
+    var x = document.getElementById(div);
+    if (x.style.display === "none") {
+      x.style.display = "block";
+    } else {
+      x.style.display = "none";
+    }
+
+
+  };
+  </script>
+
+</body>
+</html>
+

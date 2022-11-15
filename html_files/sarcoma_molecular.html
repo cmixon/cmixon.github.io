@@ -1,0 +1,271 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sarcoma Comprehensive</title>
+  <style>
+    body {font: 14px Arial; line-height: 19.6px; padding: 0 15px;}
+    a, a:visited {text-decoration: none;}
+    a:hover {text-decoration: underline;}
+    a, a:hover, a:visited, a:active {color: #0366d6;}
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/ideogram@1.28.0/dist/js/ideogram.min.js"></script>
+<link rel="icon" type="image/x-icon" href="img/ideogram_favicon.ico">
+</head>
+<body>
+  <h1 style="text-align: center">NGS Comprehensive Sarcoma Fusion Profile</h1>
+  <!-- <h2 style="text-align: center">Data Visualization with IdeogramJS by Prof. Eric Weitz</h2> -->
+  
+ </p>
+ <p> <strong>Legend: </strong><span style="color:red">RED</span> = Comprehensive panel only | <span style="color:blue">BLUE </span>= also in GIST/soft tissue panel | <span style="color:hotpink">Pink</span> = Pediatric | <span style="color:gold">YELLOW</span> = Liposarcoma | <span style="color:springgreen">GREEN</span>= also in Pediatric and Liposarcoma | <span style="color:peru">BROWN</span> = also in GIST profile | Rectangle = included in Pediatric and GIST panels | Circle = FISH probe
+  <div id="container"></div>
+  <script type="text/javascript">
+
+  /**
+  * This function gets genomic coordinate data for ACMG genes from NCBI EUtils.
+  * EUtils docs: https://www.ncbi.nlm.nih.gov/books/NBK25500/
+  * Ideogram.js then draws those genes as annotations on chromosomes.
+  */
+
+  function getAndDrawAcmgGenes() {
+
+    var acmgGenes, i, annots, geneClause, geneID, geneIDs, topWeight,
+        eutils, esearch, esummary, url, defaultParams, centromeres, anonymous
+        ideo = this;
+
+    ideo.annotDescriptions = {annots: {}}
+
+    geneIDs = [];
+    annots = [];
+
+    // EUtils is a web API to access NCBI data
+    eutils = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/';
+    defaultParams = '?db=gene&retmode=json&retmax=100';
+
+    // Use ESearch to get NCBI Gene ID for gene name, e.g. BRCA1 -> 672
+    esearch = eutils + 'esearch.fcgi' + defaultParams;
+
+    // Use ESummary to get genomic coordinates for given gene IDs
+    esummary = eutils + 'esummary.fcgi' + defaultParams;
+
+    acmgGenes = ['USP6','ACTB','AHRR','ALK','ASPCR1','ATF1','ATIC','BCOR','BRAF','C11orf95','CAMTA1','CARS1','CCNB3','CDH11','CIC','CLTC','CNBP','COLLA1','COLLA2','CREB1','CREB3L1','CREB3L2','CSF1','CTNNB1','DDIT3','DUX4','EML4','EPC1','ERG','ETV1','ETV4','ETV6','EWSR1','FEV','FLI1','FOXO1','FRK','FUS','GLI1','HAS2','HEY1','HMGA2','IL2RB','ITK','JAZF1','LMNA','LPP','MEAF6','MRTFB','MYH9','MYLK','NAB2','NCOA1','NCOA2','NFATC2','NFIB','NR4A3','NTRK1','NTRK2','NTRK3','NUTM2A','NUTM2B','OMD','PAX3','PATZ1','PAX7','PBX1','PDGFB','PDGFRB','PHF1','PLAG1','POU5F1','RAD51B','RANBP2','ROS1','SEC31A','SRF','SS18','SSX1','SSX2','SSX4B','STAT6','SUZ12','SYK','TAF15','TCF12','TEAD1','TFE3','TFG','THRAP3','TPM3','TPM4','WT1','WWTR1','YAP1','YWHAE','ZNF444','MDM2','MET', 'PTEN'
+    ];
+// console.log(acmgGenes.length);
+
+    // Batch request all ACMG genes
+    geneClause = '(' + acmgGenes.join('[symbol] OR ') + '[symbol])';
+
+    topWeight = 0;
+    weights = [];
+
+    url = esearch + '&term=Homo-sapiens[Organism] AND ' + geneClause;
+
+    // console.log(url);
+
+    d3.json(url).then(function(data) {
+      geneIDs = data.esearchresult.idlist;
+// console.log(geneIDs);
+
+      // Batch request genomic coordinates for all ACMG genes
+      url = esummary + '&id=' + geneIDs.join(',');
+      // console.log(url);
+      
+      d3.json(url).then(function(data) {
+        var result, gene, chr, loc, start, stop, weight;
+        for (i = 0; i < geneIDs.length; i++) {
+          geneID = geneIDs[i];
+          result = data.result[geneID];
+
+          // console.log(result);
+
+        if (result.chromosome === "X, Y") {
+          result.chromosome = "X"
+          result.summary = '<em>' + "PSEUDOAUTOSOMAL"+ '</em>' + '  ' + result.summary
+        };
+            
+        if (result.currentid !== '' || acmgGenes.indexOf(result.name) === -1 ) {
+            // currentid case occurs when one gene symbol in a taxon maps to
+            // multiple gene.  It seems to be annotation-run noise.
+            // result.name case occurs when gene has a non-canonical alias
+            // matching the gene symbol.
+            // Ignore both.
+            continue;
+          }
+          gene = result.name;
+          chr = result.chromosome;
+          loc = result.locationhist[0]; // better than 'genomicinfo'
+          start = loc.chrstart;
+          stop = loc.chrstop;
+          // weight = result.geneweight;
+          summary = result.summary;
+          mapLoc = result.maplocation;
+
+          console.log(gene, mapLoc);
+          
+          // This is the annotations API
+          ////
+          annots.push({
+            name: gene, // required
+            chr: chr, // required
+            start: start, // required
+            stop: stop, // required
+            // weight: weight,  //optional
+            summary: summary,
+            mapLoc: mapLoc
+          });       
+
+          var clinvarText = 'GeneCards';
+          var clinvarBase = 'https://www.ncbi.nlm.nih.gov/clinvar';
+
+          var clinvarUrl =
+            'https://www.genecards.org/cgi-bin/carddisp.pl' +
+            '?gene=' + gene; 
+          var clinvarLink =
+            '<a target="_blank" href="' + clinvarUrl + '">' + clinvarText + '</a>';
+          var vysisUrl = 'https://www.molecular.abbott/us/en/chromosome/';
+          var metasystemsUrl = 'https://www.metasystems-probes.com/en/probes/?c=' + chr;
+          var cytocellUrl = 'https://www.cytocell-us.com/chromosome-search/chromosome:' + chr;
+          var empireUrl = 'https://www.empiregenomics.com/fish-probes/loci-fish-probes/' + chr;
+          var atlasUrl = 'http://atlasgeneticsoncology.org/Indexbychrom/idxa_' + chr + '.html';
+          var omimUrl = 'https://omim.org/search?index=entry&start=1&limit=10&sort=score+desc%2C+prefix_sort+desc&search=' + gene;
+          var neoUrl = 'https://neogenomics.com/test-menu?search=' + gene + '&methodology=All&diseases=All';
+          var vysisLink = '<a target="_blank" href= "'+vysisUrl + ''+ chr +'">Vysis</a>';
+          var metasystemsLink = '<a target="_blank" href="' + metasystemsUrl +'">Metasystems</a';
+          var cytocellLink = '<a target="_blank" href="' + cytocellUrl +'">CytoCell</a>';
+          var empireLink = '<a target="_blank" href="' + empireUrl + '">EmpireGenomics</a>';
+          var atlasLink = '<a target="_blank" href="' + atlasUrl + '">Atlas</a>';
+          var omimLink = '<a target="_blank" href="' + omimUrl + '">OMIM</a>';
+          var neoLink = '<a target="_blank" style="color: #009933; font-size: 14px" href="' + neoUrl + '">NeoTests</a>';
+          var fullName = result.description;
+          var geneSummary = result.summary;
+          var bandLoc = mapLoc;
+          var clinInfo = '<a target="_blank" href="/Users/neosignout/Atlas/Legacy_myeloid_molecular.txt">Clinical Significance</a>'
+          
+
+          // var clinSignificance = dataNCCN[gene];
+          // var displaySignificance = '<span style="color:firebrick">Clinical Significance (NCCN; J Clin Oncol 35:975-983, 2107):' + ' ' + clinSignificance + '</span>'
+
+          // if (clinSignificance === undefined){
+          //   displaySignificance = '<span style="color:firebrick">Clinical Significance (NCCN; J Clin Oncol 35:975-383, 2017): No entry </span>'
+          // }
+
+
+
+          // Add properties like fullName or clinvarLink for later use in hyperlinkGene
+          ideo.annotDescriptions.annots[gene] = {
+            fullName,
+            clinvarLink,
+            atlasLink,
+            omimLink,
+            geneSummary,
+            bandLoc,
+            neoLink,
+          
+          }
+        }
+
+       //  // This block highlights the 10 most important ACMG genes.
+       //  for (i = 0; i < annots.length; i++) {
+       //    color = (i > 84) ? 'red' : 'blue';
+       //    annots[i].shape = 'triangle';
+       //    annots[i].color = color;
+       // };
+       let lipoSarc = ['EWSR1', 'FUS', 'HMGA2', 'PLAG1'];
+       let pediatricSarc = ['ALK', 'EWSR1', 'FUS', 'GLI1', 'NTRK3', 'USP6'];
+       let rhabdoSarc = ['FOXO1', 'NCOA2', 'TFE3'];
+       let gistSarc = ['AKT1','AKT2','AKT3','ARID1A','ATM','BRAF','CDKN2A','CTNNB1','ERBB2','ERBB4','FGFR1','FGFR2','FGFR3','GNAS','HRAS','KIT','KRAS','MAP2K1','MET','NF1','NRAS','NTRK1','NTRK2','NTRK3','PDGFRA','PIK3CA','PTEN','PTPN11','RB1','SDHA','SDHB','SDHC','SDHD','SMAD4','SMO','SRC','TERT','TP53'];
+       let fish1 = ['MET', 'PTEN'];
+       let fish2 = ['MDM2'];
+
+   for (i=0; i<annots.length; i++){
+       let x = annots[i].name;
+/*This block changes default color for according to panel; there is not much overlap but the
+code block does manage to display the overlaps and differences*/
+/*Although triangle is default shape, it had to be included to get the rectangle shape
+to show reliably*/
+
+        if (pediatricSarc.includes(x)){
+          annots[i].color = "hotpink";
+          annots[i].shape = "triangle";
+        }
+        if (rhabdoSarc.includes(x)){
+          annots[i].color = "springgreen";
+          annots[i].shape = "triangle";
+        }
+          if (lipoSarc.includes(x)){
+            annots[i].color = "gold";
+            annots[i].shape = "triangle";
+          }
+
+          if (lipoSarc.includes(x) && pediatricSarc.includes(x)){
+          annots[i].color = "gold";
+          annots[i].shape = "rectangle";
+
+        }
+        if (gistSarc.includes(x)){
+          annots[i].color = "peru";
+          annots[i].shape = "triangle";
+        }
+        if (fish1.includes(x)){
+          annots[i].color = "peru";
+          annots[i].shape = "circle";
+        }
+        if (fish2.includes(x)){
+          annots[i].color = "gold";
+          annots[i].shape = "circle";
+        }
+      //   if(x === "BRAF"){annots[i].color = "blue"};
+      //   if(x === "CTNNB1"){annots[i].color = "blue"};
+      // }
+
+        }
+        ideogram.drawAnnots(annots);
+
+      });
+    });
+  }
+
+
+  function enhanceTooltipContent(annots) {
+    var term = '(' + annots.name + '[gene])+AND+(Homo+sapiens[orgn])';
+    var url = 'https://ncbi.nlm.nih.gov/gene/?term=' + term;
+    var description = this.annotDescriptions.annots[annots.name];
+
+    if(description === undefined){    
+    description = annots.name,
+    term = annots.name,
+    chr = annots.chr,
+    URL = 'https://www.molecular.abbott/us/en/chromosome/' + chr,
+    annots.displayName = '<a target="_blank" href="' + URL + '" <strong style="color:red">' + annots.name + '</strong></a>',
+    description.fullName = annots.name
+    }  else  {
+      annots.displayName =
+      '<a target="_blank" href="' + url + '">' + annots.name + '</a><br/>'+
+      description.fullName + '<br/>' + '<span style="color:green">' + description.bandLoc + '</span>' + '<br/>' +
+      description.clinvarLink + '&nbsp&nbsp&nbsp ' +
+      description.atlasLink + '&nbsp&nbsp&nbsp ' + description.omimLink + '<br/>' +
+      description.geneSummary + '<br/>' + description.neoLink + '<br/>';
+}
+    return annots
+  }
+
+  
+
+  var d3 = Ideogram.d3;
+
+  var config = {
+    organism: 'human',
+    resolution: 850,
+    // showBandLabels : true,
+    chrHeight: 600,
+    annotationHeight: 6,
+    onLoad: getAndDrawAcmgGenes,
+    onWillShowAnnotTooltip: enhanceTooltipContent
+  
+  };
+
+  var ideogram = new Ideogram(config);
+
+  </script>
+</body>
+</html>

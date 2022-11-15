@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Includes nonPCE as well as PCE cutoffs -->
+  <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+  <title>Plasma Cell Myeloma FISH</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+  <script type="text/javascript" src="./data/myeloma.js"></script>
+  <link rel="report builder icon" href="favicon.png" >
+  <title>Myeloma FISH</title>
+</head>
+<style>
+  b {
+    margin: 0;
+  }
+  #div {
+    margin: 0;
+  }
+  .flex-containerResetButton{
+    display: flex;
+    justify-content: center;
+    align-items: right;
+  }
+  .flex-container-interp{
+    display: flex;
+    flex-flow: row wrap;
+  }
+
+  .btn{
+    margin: 5px;
+    background-color:white;
+    color:black;
+    font-weight:600;
+  }
+
+  .btn:hover{
+    background-color:lightgreen;
+    border-radius: 8px;
+  }
+
+  .btnReset{
+    background-color: #ffd1aa;
+  }
+
+  .btnReset:hover{
+    border-radius: 8px;
+  }
+
+  .btnCopy{
+    background-color:forestgreen;
+    color: white;
+  }
+
+  .btnCopy:hover{
+    border-radius: 8px;
+  }
+  #ch1 {
+    background-color:#dce9c5;
+
+  }
+  #trisomy, #interpPloidy{
+    background-color:honeydew;
+  }
+  #ch13, #interpChr13{
+    background-color:honeydew;
+  }
+  #IGH, #interpOtherIGH{
+    background-color:honeydew;
+  }
+  #deletions, #interpHighRisk{
+    background-color:honeydew;
+  }
+  #miscellaneous, #interpOther{
+    background-color:honeydew;
+  }
+  /*remove border around content editable text in span elements */
+  [contenteditable] {                       
+        outline: 0px solid transparent;
+    }
+
+</style>
+<body>
+  <h4 style="text-align: center;">Plasma Cell Myeloma FISH Panels Interpretation Builder</h3>
+
+<button class="btnReset"  onclick="window.location.reload()">Reset</button> 
+<button onclick="copyToClipboard()" class="btnCopy">Copy to Clipboard</button>
+<button onclick="copyInterpToClipboard()" class="btnCopy">Copy Interpretation to Clipboard</button>
+<button onclick="copyRefsToClipboard()" class="btnCopy">Copy References to Clipboard</button><br>
+<br><div class="flex-container-interp">
+  <fieldset><legend>
+    <strong> Ploidy:</strong>>=2 of (5,9,15) trisomic</legend>
+    <div id="interpPloidy"> 
+      <button onclick="detectedAbnormality(ntp.hyperdiploid, references.hyperdiploid)" class="btn">Hyperdiploid</button>
+      <button onclick="detectedAbnormality(ntp.hyperdiploidHr,references.hyperdiploidHR)" class="btn">Hyperdiploid+hr</button>
+      <button onclick="detectedAbnormality(ntp.tetraploid, references.tetraploid)" class="btn">Tetraploid</button><br>
+      <button onclick="detectedAbnormality(ntp.indeterminate, references.indeterminate)" class="btn">Indeterminate</button>
+     <button onclick="detectedAbnormality(ntp.possibleTetraploid, references.possibleTetraploid)" class="btn">Possible Tetraploid</button><br>
+    </div>
+  </fieldset>
+  <fieldset><legend>
+    <strong>High-risk</strong> (multiple allowed)</legend>
+    <div id="interpHighRisk">
+      <button onclick="detectedAbnormality(ntp.del17p, references.del17p)" class="btn">TP53</button>
+      <button onclick="detectedAbnormality(ntp.TP53Tri5, references.TP53Tri5)" class="btn">TP53 +5</button>
+      <button onclick="detectedAbnormality(ntp.relTP53, references.relTP53)" class="btn">relative 17p deletion</button>
+      <button onclick="detectedAbnormality(ntp.gain1q, references.gain1q)" class="btn">+1q</button>
+      <button onclick="detectedAbnormality(ntp.del1p, references.del1p)" class="btn">del(1p)</button>
+      <button onclick="detectedAbnormality(ntp.fgfr3, references.fgfr3)" class="btn">t(4:14) FGFR3</button>
+      <button onclick="detectedAbnormality(ntp.maf, references.maf)" class="btn">t(14;16) MAF</button>
+      <button onclick="detectedAbnormality(ntp.mafb, references.mafb)" class="btn">t(14;20) MAFB</button>
+      <button onclick="detectedAbnormality(ntp.three, references.three)" class="btn">3 or more</button>
+      <!-- <button onclick="clearEntryHR()" class="btn" style="background-color:#fffdaa">CLEAR</button> -->
+    </div>
+  </fieldset>
+  <fieldset><legend>
+    <strong>Other IGH:</strong></legend>
+            <div id="interpOtherIGH">
+                <button onclick="detectedAbnormality(ntp.ighba, references.ighba)" class="btn">IGH breakapart</button>
+                <button onclick="detectedAbnormality(ntp.ighrearr, references.ighrearr)" class="btn">IGH rearr not hr</button>
+                <button onclick="detectedAbnormality(ntp.igh5del, references.igh5del)" class="btn">IGH 5'del (1R1F)</button>
+                <button onclick="detectedAbnormality(ntp.igh3del, references.igh3del)" class="btn">IGH 3'del (1G1F)</button>
+                <button onclick="detectedAbnormality(ntp.igh1r1f, references.igh1r1f)" class="btn">Partial del no rearr</button>
+                <button onclick="detectedAbnormality(ntp.ccnd1, references.ccnd1)" class="btn">t(11;14)CCND1</button>
+                <button onclick="detectedAbnormality(ntp.ccnd1hr, references.ccnd1hr)" class="btn">t(11;14) plus hr</button>
+                <button onclick="detectedAbnormality(ntp.ighconfirm, references.ighconfirm)" class="btn">IGHconfirm</button>
+                <button onclick="detectedAbnormality(ntp.noTargeted, references.noTargeted)" class="btn">No targeted rearrangements</button>
+            </div>
+  </fieldset>
+  <fieldset><legend><strong>13q/-13:</strong></legend>
+    <div id="interpChr13">
+      <button onclick="detectedAbnormality(ntp.mono13, references.mono13)" class="btn">monosomy 13</button>
+      <button onclick="detectedAbnormality(ntp.del13q, references.del13q)" class="btn">del(13q)</button>
+      <!-- <button onclick="detectedAbnormality(ch13q34, none)" class="btn">del(13)(q34)</button><br> -->
+    </div>
+  </fieldset>
+  <fieldset><legend><strong>Other</strong> (multiple allowed)</legend>
+            <div id="interpOther">
+                <button onclick="detectedAbnormality(ntp.trisomies, references.trisomies)" class="btn">Other trisomies</button>
+                <button onclick="detectedAbnormality(ntp.gainCCND1, references.gainCCND1)" class="btn">gain of CCND1</button>
+                <button onclick="detectedAbnormality(ntp.gainCCND1pending, references.gainCCND1pending)" class="btn">extra CCND1 ploidy pending</button>
+                <button onclick="detectedAbnormality(ntp.insufficient, references.insufficient)" class="btn">Single trisomy</button>
+                <button onclick="detectedAbnormality(ntp.mono14, references.mono14)" class="btn">Monosomy 14</button>
+                <button onclick="detectedAbnormality(ntp.mono16, references.mono16)" class="btn">Monosomy 16</button>
+                <button onclick="detectedAbnormality(ntp.lossNF1, references.lossNF1)" class="btn">NF1 loss</button>
+                <button onclick="detectedAbnormality(ntp.del20q, references.del20q)" class="btn">del(20q)</button>
+                <button onclick="detectedAbnormality(ntp.marginal, references.marginal)" class="btn">marginal detection</button>
+                <!-- <button onclick="clearEntryOther()" class="btn" style="background-color:#fffdaa">CLEAR</button> -->
+            </div>
+  </fieldset>
+</div>
+<hr>
+
+<div id="reportText">
+    <span id="allntp" contenteditable="true"></span>
+    <!--a div element puts an additonal blank line between the above and the following element when copied to clipboard fn used-->
+    <span>Please correlate with other clinical and laboratory information.</span>
+
+<br />
+<br />
+</div>
+
+    <div id="allReferences">
+    <span>References:</span>
+      <br/>
+ <div id="references"></div></div>
+   
+     
+
+
+
+</body>
+</html>
+

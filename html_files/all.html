@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--template for html file; must have companion js file for interpretations and reference-->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+    <link rel="report builder icon" href="../img/favicon.png" >
+
+    <!--add companion js file--> 
+    <script type="text/javascript" src="../data/ALL.js"></script>
+
+    <!--Insert title-->
+    <title>ALL FISH</title>  
+    <style>
+   
+        .btn{
+            background-color: #d9c83b;
+            color: black;
+            font-size: medium;
+            padding-top: 0.5em;
+            
+        }
+        .btn:hover{
+            border-radius: 8px;
+            background-color: red;
+        }
+        .btnCopy{
+            background-color: black;
+            color: #d9c83b;
+            font-size: medium;
+        }
+        .btnCopy:hover{
+            border-radius: 8px;
+            background-color: red;
+        }
+        .btnUndo {
+            background-color: darkorange;
+            color: black;
+            font-size: medium;
+        }
+        .btnUndo:hover{
+            border-radius: 8px;
+        }
+        [contenteditable] {
+            outline: 0px solid transparent;
+        }
+    </style>
+</head>
+<body>
+
+    <!--INSERT TITLE-->
+    <center><h4>ALL FISH Panels Interpretation Builder</h4></center>
+
+    <fieldset>
+        <legend>Abnormalities Detected</legend> <div id="abnormalities">
+            <button class="btn" onclick="detectedAbnormality(ntp.Phpositive, references.Phpositive)">Ph+</button>
+            <button class="btn" onclick="detectedAbnormality(ntp.Ph2R1G1F, references.Ph2R1G1F)">Ph(2R1G1F)</button>
+            <button class="btn" onclick="detectedAbnormality(ntp.Ph1R2G1F, references.Ph1R2G1F)">Ph(1R2G1F)</button>
+            <button class="btn" onclick="detectedAbnormality(ntp.Ph2R2G1F, references.Ph2R2G1F)">Ph(2R2G1F)</button>
+            <button class="btn" onclick="detectedAbnormality(ntp.Ph1R1G3F, references.Ph1R1G3F)">Ph(1R1G3F)</button>
+            <button class="btn" onclick="detectedAbnormality(ntp.PhHyperdiploid, references.PhHyperdiploid)">Ph+Hyperdiploid</button>
+            <button class="btn" onclick="detectedAbnormality(ntp.Ph3R3A, references.Ph3R3A)">+9</button>
+            <button class="btn" onclick="detectedAbnormality(ntp.CDKN2A1R2G, references.CDKN2A1R2G)">CDKN2A (9p-)</button>
+            <button class="btn" onclick="detectedAbnormality(ntp.CDKN2A1R1G, references.CDKN2A1R1G)">Monosomy 9</button>
+            <button class="btn" onclick="detectedAbnormality(ntp.hyperdiploidy, references.hyperdiploidy)">Hyperdiploidy</button>
+            <button class="btn" onclick="detectedAbnormality(ntp.hyperdiploidyAtypical, references.hyperdiploidyAtypical)">?Hyperdiploidy</button>
+            <button class="btn" onclick="detectedAbnormality(ntp.hyperdiploidyTetraploidy, references.hyperdiploidyTetraploidy)">?Tetraploidy</button>
+            <button class="btn" onclick="detectedAbnormality(ntp.hypodiploidy, references.hypodiploidy)">Hypodiploidy</button>
+            <button class="btn" onclick="detectedAbnormality(ntp.lowHypodiploidy, references.lowHypodiploidy)">Low hypodiploidy</button>
+            <button class="btn" onclick="detectedAbnormality(ntp.nearHaploidy, references.nearHaploidy)">Near haploidy</button>
+            <button class="btn" onclick="detectedAbnormality(ntp.IGH1R1G1F, references.IGH1R1G1F)">IGH rearr</button>
+            <button class="btn" onclick="detectedAbnormality(ntp.KMT2A, references.KMT2A)">KMT2A rearr</button>
+            <button class="btn" onclick="detectedAbnormality(ntp.KMT2A1R1F, references.KMT2A1R1F)">KMT2A(1R1F)</button>
+            <button class="btn" onclick="detectedAbnormality(ntp.KMT2A1F, references.KMT2A1F)">KMT2A(1F)</button>
+            <button class="btn" onclick="detectedAbnormality(ntp.KMT2A3F, references.KMT2A3F)">KMT2A(3F)</button>
+            <button class="btn" onclick="detectedAbnormality(ntp.MYC, references.MYC)">MYC rearr</button>
+            <button class="btn" onclick="detectedAbnormality(ntp.PBX1, references.PBX1)">PBX1 rearr</button>
+            <button class="btn" onclick="detectedAbnormality(ntp.PBX12R1G1F, references.PBX12R1G1F)">PBX1(2R1G1F)</button>
+            <button class="btn" onclick="detectedAbnormality(ntp.TCF31G, references.TCF31G)">TCF3 del</button>
+            <button class="btn" onclick="detectedAbnormality(ntp.other, references.other)">other abnlties</button>
+            <button class="btn" onclick="detectedAbnormality(ntp.conjunction, references.conjunction)">conjunction</button>
+ <br /><br />
+
+            <!--do not change anything below this line-->
+
+            <button class="btnCopy" onclick="copyToClipboard()">Copy to Clipboard</button>
+            <button class="btnCopy" onclick="copyInterpToClipboard()">Copy Interpretation to Clipboard</button>
+            <button class="btnCopy" onclick="copyRefsToClipboard()">Copy Refs to Clipboard</button>
+
+            <button class="btnUndo" onclick="window.location.reload()">Reset</button>
+        </div>
+    </fieldset>
+    <hr />
+    <div id="reportText">
+    <span id="allntp" contenteditable="true"></span>
+    <!--a div element puts an additonal blank line between the above and the following element when copied to clipboard fn used-->
+    <span>Please correlate with other clinical and laboratory information.</span>
+
+<br />
+<br />
+</div>
+
+    <div id="allReferences">
+    <span>References:</span>
+      <br/>
+ <div id="references"></div></div>
+
+</body>
+</html>

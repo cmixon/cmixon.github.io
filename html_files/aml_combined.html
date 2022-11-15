@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+    <script type="text/javascript" src="../data/myeloid.js"></script> 
+    <title>AML FISH Report Builder</title>
+    <style>
+        .btn{
+            background-color: #788;
+            color: #ffe3ad;
+        }
+        .btnUndo{
+            background-color: #4a718c;
+            color: white;
+        }
+
+    </style>
+</head>
+<body>
+    <h4>AML FISH Panels Report Builder, v1.1</h4>
+    <fieldset><legend>Panels</legend>
+    <button class="btn" onclick="viewItem('probeStandard')">AML Standard</button>
+    <button class="btn" onclick="viewItem('probeUnfavorable')">AML Unfavorable</button>
+    <button class="btnUndo" onclick="window.location.reload()">Reset</button>
+    <button class="btnUndo" onclick="copyToClipboard()">Copy to Clipboard</button>
+    </fieldset>
+
+    <fieldset><legend>Abnormalities Detected</legend> <div id="abnormalities">
+        <button class="btn" onclick="detectedAbnormality('.inv3',sum.inv3,ntp.inv3)">inv(3q)</button>  
+        <button class="btn" onclick="detectedAbnormality('.del5q',sum.chr5,ntp.chr5)">5q del</button>  
+        <button class="btn" onclick="detectedAbnormality('.mono5',sum.mono5, ntp.mono5)">-5</button>  
+        <button class="btn" onclick="detectedAbnormality('.tr69',sum.tr69, ntp.tr69)">t(6;9)</button>  
+        <button class="btn" onclick="detectedAbnormality('.del7q',sum.chr7, ntp.chr7)">7q-</button>  
+        <button class="btn" onclick="detectedAbnormality('.mono7',sum.mono7, ntp.mono7)">-7</button>  
+        <button class="btn" onclick="detectedAbnormality('.gain8',sum.chr8, ntp.chr8)">+8</button>  
+        <button class="btn" onclick="detectedAbnormality('.tr821',sum.RUNX1, ntp.RUNX1)">t(8;21)</button>  
+        <button class="btn" onclick="detectedAbnormality('.KMT2A',sum.chr11, ntp.chr11)">KMT2A rearr</button>  
+        <button class="btn" onclick="otherAbnormality('.KMT2A',sum.chr11del, ntp.chr11del)">KMT2A del</button>  
+        <button class="btn" onclick="otherAbnormality('.KMT2A',sum.chr11gain, ntp.chr11gain)">KMT2A gain</button>  
+        <button class="btn" onclick="detectedAbnormality('.ETV6',sum.ETV6, ntp.ETV6)">12p/ETV6 rearr</button>  
+        <button class="btn" onclick="detectedAbnormality('.ETV6del',sum.ETV6del, ntp.ETV6del)">12p/ETV6 del</button>  
+        <button class="btn" onclick="detectedAbnormality('.tr1517',sum.RARA, ntp.RARA)">t(15;17)</button>  
+        <button class="btn" onclick="detectedAbnormality('.del20',sum.chr20, ntp.chr20)">20q-</button>  
+        <button class="btn" onclick="detectedAbnormality('.del20',sum.mono20, ntp.chr20)">-20</button>  
+        <button class="btn" onclick="detectedAbnormality('.inv16',sum.inv16, ntp.inv16)">inv(16)</button>  
+        <button class="btn" onclick="detectedAbnormality('.TP53',sum.TP53, ntp.TP53)">17p deletion</button>
+	<button class="btn" onclick="atypicalPattern(sum.atypical)">Atypical Pattern</button>  
+	<button class="btn" onclick="$('<span>'+ ntp.allothers + '&nbsp' + '</span>').appendTo('#test')">All others normal</button>
+        <button class="btn" onclick="$('<span>'+ ntp.complex + '&nbsp' + '</span>').appendTo('#allntp')">Complex</button>  
+        <button class="btn" onclick="$('<span>'+ ntp.congruent + '<br>' + '</span>').appendTo('#allntp')">Congruent</button> 
+        <button class="btn" onclick="$('<span>'+ ntp.correlate + '<br>' + '</span>').appendTo('#allntp')">Correlate</button> 
+	<button class="btn" onclick="$('<span>'+ ntp.whomds + '<br' + '</span>').appendTo('#allntp')">WHO-MDS</button> 
+	  
+        <button class="btnUndo" onclick="$('<span>'+ 'and'+ '&nbsp' + '</span>').appendTo('#test')">"and"</button>
+        <button class="btnUndo" onclick="window.location.reload()">Reset</button>
+        <button class="btnUndo" onclick="copyToClipboard()">Copy to Clipboard</button>
+          </div>
+    </fieldset>
+
+    <div id="reportText">
+        <div id=probeStandard contenteditable="true" style="display:none"> 
+            <div>Del 5q:<span class="del5q">Not detected</span></div>
+            <div>Monosomy 5: <span class="mono5">Not detected</span></div>
+            <div>Del7q: <span class="del7q">Not detected</span></div>
+            <div>Monosomy 7: <span class="mono7">Not detected</span></div>
+            <div>Trisomy 8: <span class="gain8">Not detected</span></div>
+            <div>t(8;21): <span class="tr821">Not detected</span></div>
+            <div>t(15;17): <span class="tr1517">Not detected</span></div>
+            <div>Del20q/-20: <span class="del20">Not detected</span></div>
+            <div>CBFB rearrangement: <span class="inv16">Not detected</span></div>
+            <div>KMT2A rearrangement: <span class="KMT2A">Not detected</span></div>
+        </div>
+
+        <div id=probeUnfavorable contenteditable="true" style="display:none">
+            <div>inv(3):<span class="inv3">Not detected</span></div>
+            <div>Del 5q:<span class="del5q">Not detected</span></div>
+            <div>Monosomy 5: <span class="mono5">Not detected</span></div>
+            <div>Del7q: <span class="del7q">Not detected</span></div>
+            <div>Monosomy 7: <span class="mono7">Not detected</span></div>
+            <div>Trisomy 8: <span class="gain8">Not detected</span></div>
+            <div>t(6;9): <span class="tr69">Not detected</span></div>
+            <div>ETV6 (12p) rearrangement: <span class="ETV6">Not detected</span></div>
+            <div>ETV6 (12p) deletion: <span class="ETV6del">Not detected</span></div>
+            <div>TP53 (17p) deletion: <span class="TP53">Not detected</span></div>
+            <div>KMT2A rearrangement: <span class="KMT2A">Not detected</span></div>
+        </div>
+        
+        
+        <p>Fluorescent in situ hybridization was performed with probes to detect cytogenetic anomalies of diagnostic or prognostic significance in AML.</p>
+        
+        <p contenteditable="true" id="test">This study revealed </p>
+          <div id="allntp" contenteditable="true"></div><br>
+          <span>Please correlate with other clinical and laboratory information.</span>
+        <p>References:</p>
+        <p>1. Greenberg PL, Tuechler H, Schanz J, et al. Revised international prognostic scoring system for myelodysplastic syndromes. Blood 2012 Sep 20;120(12):2454-65. </p>
+           <p> 2. Grimwade D, Hills RK, Moorman AV, et al. National Cancer Research Institute Adult Leukaemia Working Group. Refinement of cytogenetic classification in acute myeloid leukemia: determination of prognostic significance of rare recurring chromosomal abnormalities among 5876 younger adult patients treated in the United Kingdom Medical Research Council trials. Blood 2010 Jul 22;116(3):354-65.  </p>
+           
+    </div>       
+    
+<script>
+
+var y = document.querySelector("#test");
+var z = document.querySelector("#allntp");
+
+function detectedAbnormality(anomalyClass, sumKey,ntpKey){
+var x = document.querySelector(anomalyClass)
+if (x.innerHTML === "Not detected"){
+$(anomalyClass).text('DETECTED');
+$('<span>'+ sumKey + '&nbsp' + '</span>').appendTo('#test');
+$('<span>' + ntpKey + '<br>' + '<br>' +'</span>').appendTo('#allntp');}
+else {
+
+    $(anomalyClass).text("Not detected");
+    y.lastChild.remove();
+    z.lastChild.remove();
+    }
+}
+
+function otherAbnormality(anomalyClass, sumKey,ntpKey){
+var x = document.querySelector(anomalyClass)
+if (x.innerHTML === "Not detected"){
+$(anomalyClass).text('See below');
+$('<span>'+ sumKey + '&nbsp' + '</span>').appendTo('#test');
+$('<span>' + ntpKey + '<br>' + '<br>' +'</span>').appendTo('#allntp');}
+else {
+
+    $(anomalyClass).text("Not detected");
+    y.lastChild.remove();
+    z.lastChild.remove();
+    }
+}
+
+function atypicalPattern(ntpKey){
+    $('<span>' + ntpKey + '&nbsp' +'</span>').appendTo('#test');
+    $('<span>' + "ATYPICAL INTERPRETATION HERE" + '<br>' + '<br>'+ '</span>').appendTo('#allntp');
+}
+function copyToClipboard() {
+     var copyText = document.getElementById("reportText").innerText;
+     navigator.clipboard.writeText(copyText);
+     console.log('Text copied');
+   }
+
+function viewItem(div) {
+    var x = document.getElementById(div);
+    if (x.style.display === "none") {
+      x.style.display = "block";
+    } else {
+      x.style.display = "none";
+    }
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
