@@ -80,7 +80,7 @@
   }
 
   d3.select('#display-bed').on('click', function() {
-    var bedUrl = "https://neonet.neogenomics.com/NeoGenomics%20Pathologist%20Educational%20Resources/all_chr_fragile_site.bed";
+    var bedUrl = "https://cmixon.github.io/data/all_chr_fragile_site.bed";
     var asm = d3.select('input[name="asm"]:checked').nodes()[0].value;
     d3.select('#ideo-container').nodes()[0].innerHTML = '';
     ideogram = new Ideogram({
