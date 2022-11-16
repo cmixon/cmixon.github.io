@@ -1,0 +1,1282 @@
+-X	-	-	Acute erythroleukemia (FAB type M6)
+-X	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+-X	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+-X	-	-	Acute monoblastic leukemia (FAB type M5)
+-X	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+-X	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+-X	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+-X	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+-X	-	-	Acute myeloid leukemia, NOS
+-X	-	-	Acute myelomonocytic leukemia (FAB type M4)
+-X	-	-	Acute promyelocytic leukemia (FAB type M3)
+-X	-	-	Acute undifferentiated leukemia
+-X	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+-X	-	-	Aggressive NK-cell leukemia
+-X	-	-	Anaplastic large cell lymphoma, systemic type
+-X	-	-	Angioimmunoblastic T-cell lymphoma
+-X	-	-	Bilineage or biphenotypic leukemia
+-X	-	-	B-prolymphocytic leukemia
+-X	-	-	Burkitt lymphoma/leukemia
+-X	-	-	Chronic lymphocytic leukemia
+-X	-	-	Chronic myeloid leukemia, aberrant translocation
+-X	-	-	Chronic myeloid leukemia, t(9;22)
+-X	-	-	Chronic myelomonocytic leukemia
+-X	-	-	Diffuse large B-cell lymphoma
+-X	-	-	Essential thrombocythemia
+-X	-	-	Extranodal NK/T-cell lymphoma
+-X	-	-	Follicular lymphoma
+-X	-	-	Hairy cell leukemia
+-X	-	-	Hepatosplenic T-cell lymphoma
+-X	-	-	Hodgkin disease, lymphocyte depletion
+-X	-	-	Hodgkin disease, lymphocyte predominance
+-X	-	-	Hodgkin disease, mixed cellularity
+-X	-	-	Hodgkin disease, nodular sclerosis
+-X	-	-	Hodgkin disease, NOS
+-X	-	-	Mantle cell lymphoma
+-X	-	-	Mature B-cell neoplasm, NOS
+-X	-	-	Mature T- and NK-cell neoplasm, NOS
+-X	-	-	Multiple myeloma
+-X	-	-	Mycosis fungoides/S&eacute;zary syndrome
+-X	-	-	Myelodysplastic/myeloproliferative disease, NOS
+-X	-	-	Myelodysplastic syndrome, NOS
+-X	-	-	Nodal marginal zone B-cell lymphoma
+-X	-	-	Nonneoplastic hematologic disorder/lesion
+-X	-	-	Peripheral T-cell lymphoma, unspecified
+-X	-	-	Plasma cell leukemia
+-X	-	-	Polycythemia vera
+-X	-	-	Primary effusion lymphoma
+-X	-	-	Refractory anemia
+-X	-	-	Refractory anemia with excess blasts-2
+-X	-	-	Refractory anemia with excess of blasts (FAB)
+-X	-	-	Refractory anemia with ringed sideroblasts
+-X	-	-	Refractory cytopenia with multilineage dysplasia
+-X	-	-	Splenic marginal zone B-cell lymphoma
+-X	-	-	T-prolymphocytic leukemia
+-X	-	-	Waldenstr&ouml;m macroglobulinemia
+-Y	-	-	Acute erythroleukemia (FAB type M6)
+-Y	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+-Y	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+-Y	-	-	Acute monoblastic leukemia (FAB type M5)
+-Y	-	-	Acute monoblastic leukemia with differentiation (FAB type M5b)
+-Y	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+-Y	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+-Y	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+-Y	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+-Y	-	-	Acute myeloid leukemia, NOS
+-Y	-	-	Acute myeloid leukemia, special type
+-Y	-	-	Acute myelomonocytic leukemia (FAB type M4)
+-Y	-	-	Acute promyelocytic leukemia (FAB type M3)
+-Y	-	-	Acute undifferentiated leukemia
+-Y	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+-Y	-	-	Aggressive NK-cell leukemia
+-Y	-	-	Anaplastic large cell lymphoma, cutaneous type
+-Y	-	-	Anaplastic large cell lymphoma, systemic type
+-Y	-	-	Angioimmunoblastic T-cell lymphoma
+-Y	-	-	Atypical chronic myeloid leukemia
+-Y	-	-	Bilineage or biphenotypic leukemia
+-Y	-	-	B-prolymphocytic leukemia
+-Y	-	-	Burkitt lymphoma/leukemia
+-Y	-	-	Chronic eosinophilic leukemia/hypereosinophilic syndrome
+-Y	-	-	Chronic lymphocytic leukemia
+-Y	-	-	Chronic myeloid leukemia, aberrant translocation
+-Y	-	-	Chronic myeloid leukemia, t(9;22)
+-Y	-	-	Chronic myelomonocytic leukemia
+-Y	-	-	Chronic myeloproliferative disorder, NOS
+-Y	-	-	Dendritic cell neoplasm
+-Y	-	-	Diffuse large B-cell lymphoma
+-Y	-	-	Essential thrombocythemia
+-Y	-	-	Extranodal NK/T-cell lymphoma
+-Y	-	-	Follicular lymphoma
+-Y	-	-	Hairy cell leukemia
+-Y	-	-	Hepatosplenic T-cell lymphoma
+-Y	-	-	Hodgkin disease, lymphocyte depletion
+-Y	-	-	Hodgkin disease, lymphocyte predominance
+-Y	-	-	Hodgkin disease, mixed cellularity
+-Y	-	-	Hodgkin disease, nodular sclerosis
+-Y	-	-	Hodgkin disease, NOS
+-Y	-	-	Idiopathic myelofibrosis
+-Y	-	-	Intravascular large B-cell lymphoma
+-Y	-	-	Juvenile myelomonocytic leukemia
+-Y	-	-	Lymphoplasmacytic lymphoma
+-Y	-	-	Mantle cell lymphoma
+-Y	-	-	Mastocytosis
+-Y	-	-	Mature B-cell neoplasm, NOS
+-Y	-	-	Mature B-cell neoplasm, special type
+-Y	-	-	Mature T- and NK-cell neoplasm, NOS
+-Y	-	-	Mediastinal large B-cell lymphoma
+-Y	-	-	Monoclonal gammopathy of undetermined significance
+-Y	-	-	Multiple myeloma
+-Y	-	-	Mycosis fungoides/S&eacute;zary syndrome
+-Y	-	-	Myelodysplastic syndrome, NOS
+-Y	-	-	Nodal marginal zone B-cell lymphoma
+-Y	-	-	Nonneoplastic hematologic disorder/lesion
+-Y	-	-	Peripheral T-cell lymphoma, unspecified
+-Y	-	-	Plasma cell leukemia
+-Y	-	-	Plasma cell neoplasm, NOS
+-Y	-	-	Polycythemia vera
+-Y	-	-	Post-transplant lymphoproliferative disorder
+-Y	-	-	Primary effusion lymphoma
+-Y	-	-	Refractory anemia
+-Y	-	-	Refractory anemia with excess blasts-1
+-Y	-	-	Refractory anemia with excess blasts-2
+-Y	-	-	Refractory anemia with excess of blasts (FAB)
+-Y	-	-	Refractory anemia with ringed sideroblasts
+-Y	-	-	Refractory cytopenia with multilineage dysplasia
+-Y	-	-	Splenic marginal zone B-cell lymphoma
+-Y	-	-	T-cell granular lymphocytic leukemia
+-Y	-	-	T-prolymphocytic leukemia
+-Y	-	-	Waldenstr&ouml;m macroglobulinemia
+-1	-	-	Acute erythroleukemia (FAB type M6)
+-1	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+-1	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+-1	-	-	Acute monoblastic leukemia (FAB type M5)
+-1	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+-1	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+-1	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+-1	-	-	Acute myeloid leukemia, NOS
+-1	-	-	Acute myelomonocytic leukemia (FAB type M4)
+-1	-	-	Acute promyelocytic leukemia (FAB type M3)
+-1	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+-1	-	-	Bilineage or biphenotypic leukemia
+-1	-	-	Burkitt lymphoma/leukemia
+-1	-	-	Chronic lymphocytic leukemia
+-1	-	-	Chronic myeloid leukemia, aberrant translocation
+-1	-	-	Chronic myeloid leukemia, t(9;22)
+-1	-	-	Chronic myelomonocytic leukemia
+-1	-	-	Dendritic cell neoplasm
+-1	-	-	Diffuse large B-cell lymphoma
+-1	-	-	Follicular lymphoma
+-1	-	-	Hodgkin disease, lymphocyte predominance
+-1	-	-	Hodgkin disease, mixed cellularity
+-1	-	-	Hodgkin disease, nodular sclerosis
+-1	-	-	Hodgkin disease, NOS
+-1	-	-	Intravascular large B-cell lymphoma
+-1	-	-	Mantle cell lymphoma
+-1	-	-	Mature B-cell neoplasm, NOS
+-1	-	-	Mature T- and NK-cell neoplasm, NOS
+-1	-	-	Mediastinal large B-cell lymphoma
+-1	-	-	Multiple myeloma
+-1	-	-	Mycosis fungoides/S&eacute;zary syndrome
+-1	-	-	Myelodysplastic syndrome, NOS
+-1	-	-	Nodal marginal zone B-cell lymphoma
+-1	-	-	Peripheral T-cell lymphoma, unspecified
+-1	-	-	Plasma cell leukemia
+-1	-	-	Refractory anemia
+-1	-	-	Refractory anemia with excess of blasts (FAB)
+-1	-	-	Splenic marginal zone B-cell lymphoma
+-1	-	-	T-prolymphocytic leukemia
+-2	-	-	Acute erythroleukemia (FAB type M6)
+-2	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+-2	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+-2	-	-	Acute monoblastic leukemia (FAB type M5)
+-2	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+-2	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+-2	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+-2	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+-2	-	-	Acute myeloid leukemia, NOS
+-2	-	-	Acute myeloid leukemia, special type
+-2	-	-	Acute myelomonocytic leukemia (FAB type M4)
+-2	-	-	Acute promyelocytic leukemia (FAB type M3)
+-2	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+-2	-	-	Anaplastic large cell lymphoma, systemic type
+-2	-	-	Bilineage or biphenotypic leukemia
+-2	-	-	B-prolymphocytic leukemia
+-2	-	-	Burkitt lymphoma/leukemia
+-2	-	-	Chronic lymphocytic leukemia
+-2	-	-	Chronic myeloid leukemia, t(9;22)
+-2	-	-	Diffuse large B-cell lymphoma
+-2	-	-	Extranodal NK/T-cell lymphoma
+-2	-	-	Follicular lymphoma
+-2	-	-	Hairy cell leukemia
+-2	-	-	Hodgkin disease, lymphocyte predominance
+-2	-	-	Hodgkin disease, mixed cellularity
+-2	-	-	Hodgkin disease, nodular sclerosis
+-2	-	-	Mantle cell lymphoma
+-2	-	-	Mastocytosis
+-2	-	-	Mature B-cell neoplasm, NOS
+-2	-	-	Mature T- and NK-cell neoplasm, NOS
+-2	-	-	Multiple myeloma
+-2	-	-	Mycosis fungoides/S&eacute;zary syndrome
+-2	-	-	Myelodysplastic syndrome, NOS
+-2	-	-	Nodal marginal zone B-cell lymphoma
+-2	-	-	Peripheral T-cell lymphoma, unspecified
+-2	-	-	Plasma cell leukemia
+-2	-	-	Primary effusion lymphoma
+-2	-	-	Refractory anemia
+-2	-	-	Refractory anemia with excess blasts-2
+-2	-	-	Refractory anemia with excess of blasts (FAB)
+-2	-	-	Splenic marginal zone B-cell lymphoma
+-2	-	-	T-prolymphocytic leukemia
+-2	-	-	Waldenstr&ouml;m macroglobulinemia
+-3	-	-	Acute erythroleukemia (FAB type M6)
+-3	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+-3	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+-3	-	-	Acute monoblastic leukemia (FAB type M5)
+-3	-	-	Acute monoblastic leukemia with differentiation (FAB type M5b)
+-3	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+-3	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+-3	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+-3	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+-3	-	-	Acute myeloid leukemia, NOS
+-3	-	-	Acute myelomonocytic leukemia (FAB type M4)
+-3	-	-	Acute promyelocytic leukemia (FAB type M3)
+-3	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+-3	-	-	Aggressive NK-cell leukemia
+-3	-	-	Angioimmunoblastic T-cell lymphoma
+-3	-	-	Bilineage or biphenotypic leukemia
+-3	-	-	B-prolymphocytic leukemia
+-3	-	-	Burkitt lymphoma/leukemia
+-3	-	-	Chronic lymphocytic leukemia
+-3	-	-	Chronic myeloid leukemia, aberrant translocation
+-3	-	-	Chronic myeloid leukemia, t(9;22)
+-3	-	-	Chronic myelomonocytic leukemia
+-3	-	-	Diffuse large B-cell lymphoma
+-3	-	-	Essential thrombocythemia
+-3	-	-	Follicular lymphoma
+-3	-	-	Hairy cell leukemia
+-3	-	-	Hodgkin disease, lymphocyte depletion
+-3	-	-	Hodgkin disease, lymphocyte predominance
+-3	-	-	Hodgkin disease, mixed cellularity
+-3	-	-	Hodgkin disease, nodular sclerosis
+-3	-	-	Hodgkin disease, NOS
+-3	-	-	Idiopathic myelofibrosis
+-3	-	-	Mantle cell lymphoma
+-3	-	-	Mastocytosis
+-3	-	-	Mature B-cell neoplasm, NOS
+-3	-	-	Mature T- and NK-cell neoplasm, NOS
+-3	-	-	Multiple myeloma
+-3	-	-	Mycosis fungoides/S&eacute;zary syndrome
+-3	-	-	Myelodysplastic syndrome, NOS
+-3	-	-	Peripheral T-cell lymphoma, unspecified
+-3	-	-	Plasma cell leukemia
+-3	-	-	Polycythemia vera
+-3	-	-	Refractory anemia
+-3	-	-	Refractory anemia with excess blasts-1
+-3	-	-	Refractory anemia with excess blasts-2
+-3	-	-	Refractory anemia with excess of blasts (FAB)
+-3	-	-	Refractory anemia with ringed sideroblasts
+-3	-	-	Refractory cytopenia with multilineage dysplasia
+-3	-	-	T-cell granular lymphocytic leukemia
+-3	-	-	T-prolymphocytic leukemia
+-4	-	-	Acute erythroleukemia (FAB type M6)
+-4	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+-4	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+-4	-	-	Acute monoblastic leukemia (FAB type M5)
+-4	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+-4	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+-4	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+-4	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+-4	-	-	Acute myeloid leukemia, NOS
+-4	-	-	Acute myeloid leukemia, special type
+-4	-	-	Acute myelomonocytic leukemia (FAB type M4)
+-4	-	-	Acute promyelocytic leukemia (FAB type M3)
+-4	-	-	Acute undifferentiated leukemia
+-4	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+-4	-	-	Anaplastic large cell lymphoma, systemic type
+-4	-	-	Angioimmunoblastic T-cell lymphoma
+-4	-	-	Bilineage or biphenotypic leukemia
+-4	-	-	Burkitt lymphoma/leukemia
+-4	-	-	Chronic lymphocytic leukemia
+-4	-	-	Chronic myeloid leukemia, aberrant translocation
+-4	-	-	Chronic myeloid leukemia, t(9;22)
+-4	-	-	Chronic myelomonocytic leukemia
+-4	-	-	Chronic myeloproliferative disorder, NOS
+-4	-	-	Diffuse large B-cell lymphoma
+-4	-	-	Follicular lymphoma
+-4	-	-	Hodgkin disease, lymphocyte depletion
+-4	-	-	Hodgkin disease, lymphocyte predominance
+-4	-	-	Hodgkin disease, mixed cellularity
+-4	-	-	Hodgkin disease, nodular sclerosis
+-4	-	-	Hodgkin disease, NOS
+-4	-	-	Intravascular large B-cell lymphoma
+-4	-	-	Mantle cell lymphoma
+-4	-	-	Mastocytosis
+-4	-	-	Mature B-cell neoplasm, NOS
+-4	-	-	Mature T- and NK-cell neoplasm, NOS
+-4	-	-	Multiple myeloma
+-4	-	-	Mycosis fungoides/S&eacute;zary syndrome
+-4	-	-	Myelodysplastic syndrome, NOS
+-4	-	-	Peripheral T-cell lymphoma, unspecified
+-4	-	-	Plasma cell leukemia
+-4	-	-	Polycythemia vera
+-4	-	-	Refractory anemia
+-4	-	-	Refractory anemia with excess blasts-1
+-4	-	-	Refractory anemia with excess blasts-2
+-4	-	-	Refractory anemia with excess of blasts (FAB)
+-4	-	-	Refractory anemia with ringed sideroblasts
+-4	-	-	Splenic marginal zone B-cell lymphoma
+-4	-	-	T-prolymphocytic leukemia
+-4	-	-	Waldenstr&ouml;m macroglobulinemia
+-5	-	-	Acute erythroleukemia (FAB type M6)
+-5	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+-5	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+-5	-	-	Acute monoblastic leukemia (FAB type M5)
+-5	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+-5	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+-5	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+-5	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+-5	-	-	Acute myeloid leukemia, NOS
+-5	-	-	Acute myelomonocytic leukemia (FAB type M4)
+-5	-	-	Acute promyelocytic leukemia (FAB type M3)
+-5	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+-5	-	-	Aggressive NK-cell leukemia
+-5	-	-	Angioimmunoblastic T-cell lymphoma
+-5	-	-	Bilineage or biphenotypic leukemia
+-5	-	-	Burkitt lymphoma/leukemia
+-5	-	-	Chronic lymphocytic leukemia
+-5	-	-	Chronic myeloid leukemia, aberrant translocation
+-5	-	-	Chronic myeloid leukemia, t(9;22)
+-5	-	-	Chronic myelomonocytic leukemia
+-5	-	-	Chronic myeloproliferative disorder, NOS
+-5	-	-	Dendritic cell neoplasm
+-5	-	-	Diffuse large B-cell lymphoma
+-5	-	-	Essential thrombocythemia
+-5	-	-	Follicular lymphoma
+-5	-	-	Hodgkin disease, lymphocyte predominance
+-5	-	-	Hodgkin disease, mixed cellularity
+-5	-	-	Hodgkin disease, nodular sclerosis
+-5	-	-	Idiopathic myelofibrosis
+-5	-	-	Mantle cell lymphoma
+-5	-	-	Mature B-cell neoplasm, NOS
+-5	-	-	Mature T- and NK-cell neoplasm, NOS
+-5	-	-	Multiple myeloma
+-5	-	-	Mycosis fungoides/S&eacute;zary syndrome
+-5	-	-	Myelodysplastic syndrome, NOS
+-5	-	-	Nonneoplastic hematologic disorder/lesion
+-5	-	-	Peripheral T-cell lymphoma, unspecified
+-5	-	-	Plasma cell leukemia
+-5	-	-	Polycythemia vera
+-5	-	-	Primary effusion lymphoma
+-5	-	-	Refractory anemia
+-5	-	-	Refractory anemia with excess blasts-1
+-5	-	-	Refractory anemia with excess blasts-2
+-5	-	-	Refractory anemia with excess of blasts (FAB)
+-5	-	-	Refractory anemia with ringed sideroblasts
+-5	-	-	Refractory cytopenia with multilineage dysplasia
+-5	-	-	Splenic marginal zone B-cell lymphoma
+-5	-	-	T-prolymphocytic leukemia
+-6	-	-	Acute erythroleukemia (FAB type M6)
+-6	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+-6	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+-6	-	-	Acute monoblastic leukemia (FAB type M5)
+-6	-	-	Acute monoblastic leukemia with differentiation (FAB type M5b)
+-6	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+-6	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+-6	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+-6	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+-6	-	-	Acute myeloid leukemia, NOS
+-6	-	-	Acute myelomonocytic leukemia (FAB type M4)
+-6	-	-	Acute promyelocytic leukemia (FAB type M3)
+-6	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+-6	-	-	Anaplastic large cell lymphoma, systemic type
+-6	-	-	Angioimmunoblastic T-cell lymphoma
+-6	-	-	Astrocytoma, grade I-II
+-6	-	-	Bilineage or biphenotypic leukemia
+-6	-	-	B-prolymphocytic leukemia
+-6	-	-	Burkitt lymphoma/leukemia
+-6	-	-	Chronic lymphocytic leukemia
+-6	-	-	Chronic myeloid leukemia, t(9;22)
+-6	-	-	Chronic myelomonocytic leukemia
+-6	-	-	Chronic myeloproliferative disorder, NOS
+-6	-	-	Dendritic cell neoplasm
+-6	-	-	Diffuse large B-cell lymphoma
+-6	-	-	Follicular lymphoma
+-6	-	-	Hairy cell leukemia
+-6	-	-	Hodgkin disease, lymphocyte depletion
+-6	-	-	Hodgkin disease, mixed cellularity
+-6	-	-	Hodgkin disease, nodular sclerosis
+-6	-	-	Hodgkin disease, NOS
+-6	-	-	Idiopathic myelofibrosis
+-6	-	-	Intravascular large B-cell lymphoma
+-6	-	-	Juvenile myelomonocytic leukemia
+-6	-	-	Lymphoplasmacytic lymphoma
+-6	-	-	Mantle cell lymphoma
+-6	-	-	Mature B-cell neoplasm, NOS
+-6	-	-	Mature T- and NK-cell neoplasm, NOS
+-6	-	-	Multiple myeloma
+-6	-	-	Mycosis fungoides/S&eacute;zary syndrome
+-6	-	-	Myelodysplastic syndrome, NOS
+-6	-	-	Nodal marginal zone B-cell lymphoma
+-6	-	-	Peripheral T-cell lymphoma, unspecified
+-6	-	-	Plasma cell leukemia
+-6	-	-	Refractory anemia
+-6	-	-	Refractory anemia with excess blasts-1
+-6	-	-	Refractory anemia with excess blasts-2
+-6	-	-	Refractory anemia with excess of blasts (FAB)
+-6	-	-	Refractory cytopenia with multilineage dysplasia
+-6	-	-	Splenic marginal zone B-cell lymphoma
+-6	-	-	T-prolymphocytic leukemia
+-6	-	-	Waldenstr&ouml;m macroglobulinemia
+-7	-	-	Acute basophilic leukemia
+-7	-	-	Acute eosinophilic leukemia
+-7	-	-	Acute erythroleukemia (FAB type M6)
+-7	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+-7	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+-7	-	-	Acute monoblastic leukemia (FAB type M5)
+-7	-	-	Acute monoblastic leukemia with differentiation (FAB type M5b)
+-7	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+-7	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+-7	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+-7	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+-7	-	-	Acute myeloid leukemia, NOS
+-7	-	-	Acute myelomonocytic leukemia (FAB type M4)
+-7	-	-	Acute promyelocytic leukemia (FAB type M3)
+-7	-	-	Acute undifferentiated leukemia
+-7	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+-7	-	-	Aggressive NK-cell leukemia
+-7	-	-	Atypical chronic myeloid leukemia
+-7	-	-	B-cell lymphoma associated with hemophagocytic syndrome
+-7	-	-	Bilineage or biphenotypic leukemia
+-7	-	-	B-prolymphocytic leukemia
+-7	-	-	Burkitt lymphoma/leukemia
+-7	-	-	Chronic eosinophilic leukemia/hypereosinophilic syndrome
+-7	-	-	Chronic lymphocytic leukemia
+-7	-	-	Chronic myeloid leukemia, aberrant translocation
+-7	-	-	Chronic myeloid leukemia, t(9;22)
+-7	-	-	Chronic myelomonocytic leukemia
+-7	-	-	Chronic myeloproliferative disorder, NOS
+-7	-	-	Diffuse large B-cell lymphoma
+-7	-	-	Essential thrombocythemia
+-7	-	-	Follicular lymphoma
+-7	-	-	Hairy cell leukemia
+-7	-	-	Hodgkin disease, lymphocyte depletion
+-7	-	-	Hodgkin disease, lymphocyte predominance
+-7	-	-	Hodgkin disease, mixed cellularity
+-7	-	-	Hodgkin disease, nodular sclerosis
+-7	-	-	Hodgkin disease, NOS
+-7	-	-	Idiopathic myelofibrosis
+-7	-	-	Juvenile myelomonocytic leukemia
+-7	-	-	Mantle cell lymphoma
+-7	-	-	Mastocytosis
+-7	-	-	Mature B-cell neoplasm, NOS
+-7	-	-	Mature T- and NK-cell neoplasm, NOS
+-7	-	-	Multiple myeloma
+-7	-	-	Mycosis fungoides/S&eacute;zary syndrome
+-7	-	-	Myelodysplastic/myeloproliferative disease, NOS
+-7	-	-	Myelodysplastic syndrome, NOS
+-7	-	-	Nodal marginal zone B-cell lymphoma
+-7	-	-	Nonneoplastic hematologic disorder/lesion
+-7	-	-	Peripheral T-cell lymphoma, unspecified
+-7	-	-	Plasma cell leukemia
+-7	-	-	Polycythemia vera
+-7	-	-	Primary amyloidosis
+-7	-	-	Refractory anemia
+-7	-	-	Refractory anemia with excess blasts-1
+-7	-	-	Refractory anemia with excess blasts-2
+-7	-	-	Refractory anemia with excess of blasts (FAB)
+-7	-	-	Refractory anemia with ringed sideroblasts
+-7	-	-	Refractory cytopenia with multilineage dysplasia
+-7	-	-	Refractory cytopenia with multilineage dysplasia and ringed sideroblasts
+-7	-	-	Splenic marginal zone B-cell lymphoma
+-7	-	-	T-cell granular lymphocytic leukemia
+-7	-	-	T-prolymphocytic leukemia
+-7	-	-	Waldenstr&ouml;m macroglobulinemia
+-8	-	-	Acute erythroleukemia (FAB type M6)
+-8	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+-8	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+-8	-	-	Acute monoblastic leukemia (FAB type M5)
+-8	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+-8	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+-8	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+-8	-	-	Acute myeloid leukemia, NOS
+-8	-	-	Acute myeloid leukemia, special type
+-8	-	-	Acute myelomonocytic leukemia (FAB type M4)
+-8	-	-	Acute promyelocytic leukemia (FAB type M3)
+-8	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+-8	-	-	Anaplastic large cell lymphoma, systemic type
+-8	-	-	Angioimmunoblastic T-cell lymphoma
+-8	-	-	B-cell lymphoma associated with hemophagocytic syndrome
+-8	-	-	Bilineage or biphenotypic leukemia
+-8	-	-	B-prolymphocytic leukemia
+-8	-	-	Burkitt lymphoma/leukemia
+-8	-	-	Chronic lymphocytic leukemia
+-8	-	-	Chronic myeloid leukemia, t(9;22)
+-8	-	-	Chronic myelomonocytic leukemia
+-8	-	-	Chronic myeloproliferative disorder, NOS
+-8	-	-	Diffuse large B-cell lymphoma
+-8	-	-	Follicular lymphoma
+-8	-	-	Hairy cell leukemia
+-8	-	-	Hodgkin disease, lymphocyte depletion
+-8	-	-	Hodgkin disease, mixed cellularity
+-8	-	-	Hodgkin disease, nodular sclerosis
+-8	-	-	Hodgkin disease, NOS
+-8	-	-	Idiopathic myelofibrosis
+-8	-	-	Intravascular large B-cell lymphoma
+-8	-	-	Juvenile myelomonocytic leukemia
+-8	-	-	Lymphoplasmacytic lymphoma
+-8	-	-	Mantle cell lymphoma
+-8	-	-	Mature B-cell neoplasm, NOS
+-8	-	-	Mature T- and NK-cell neoplasm, NOS
+-8	-	-	Monoclonal gammopathy of undetermined significance
+-8	-	-	Multiple myeloma
+-8	-	-	Mycosis fungoides/S&eacute;zary syndrome
+-8	-	-	Myelodysplastic syndrome, NOS
+-8	-	-	Peripheral T-cell lymphoma, unspecified
+-8	-	-	Plasma cell leukemia
+-8	-	-	Refractory anemia
+-8	-	-	Refractory anemia with excess blasts-1
+-8	-	-	Refractory anemia with excess blasts-2
+-8	-	-	Refractory anemia with excess of blasts (FAB)
+-8	-	-	Refractory anemia with ringed sideroblasts
+-8	-	-	Splenic marginal zone B-cell lymphoma
+-8	-	-	T-cell granular lymphocytic leukemia
+-8	-	-	T-prolymphocytic leukemia
+-8	-	-	Waldenstr&ouml;m macroglobulinemia
+-9	-	-	Acute erythroleukemia (FAB type M6)
+-9	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+-9	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+-9	-	-	Acute monoblastic leukemia (FAB type M5)
+-9	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+-9	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+-9	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+-9	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+-9	-	-	Acute myeloid leukemia, NOS
+-9	-	-	Acute myeloid leukemia, special type
+-9	-	-	Acute myelomonocytic leukemia (FAB type M4)
+-9	-	-	Acute promyelocytic leukemia (FAB type M3)
+-9	-	-	Acute undifferentiated leukemia
+-9	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+-9	-	-	Anaplastic large cell lymphoma, systemic type
+-9	-	-	Angioimmunoblastic T-cell lymphoma
+-9	-	-	Bilineage or biphenotypic leukemia
+-9	-	-	B-prolymphocytic leukemia
+-9	-	-	Burkitt lymphoma/leukemia
+-9	-	-	Chronic lymphocytic leukemia
+-9	-	-	Chronic myeloid leukemia, aberrant translocation
+-9	-	-	Chronic myeloid leukemia, t(9;22)
+-9	-	-	Dendritic cell neoplasm
+-9	-	-	Diffuse large B-cell lymphoma
+-9	-	-	Follicular lymphoma
+-9	-	-	Hodgkin disease, lymphocyte depletion
+-9	-	-	Hodgkin disease, lymphocyte predominance
+-9	-	-	Hodgkin disease, mixed cellularity
+-9	-	-	Hodgkin disease, nodular sclerosis
+-9	-	-	Hodgkin disease, NOS
+-9	-	-	Idiopathic myelofibrosis
+-9	-	-	Intravascular large B-cell lymphoma
+-9	-	-	Juvenile myelomonocytic leukemia
+-9	-	-	Mantle cell lymphoma
+-9	-	-	Mastocytosis
+-9	-	-	Mature B-cell neoplasm, NOS
+-9	-	-	Mature T- and NK-cell neoplasm, NOS
+-9	-	-	Mediastinal large B-cell lymphoma
+-9	-	-	Multiple myeloma
+-9	-	-	Mycosis fungoides/S&eacute;zary syndrome
+-9	-	-	Myelodysplastic syndrome, NOS
+-9	-	-	Nodal marginal zone B-cell lymphoma
+-9	-	-	Peripheral T-cell lymphoma, unspecified
+-9	-	-	Plasma cell leukemia
+-9	-	-	Polycythemia vera
+-9	-	-	Primary effusion lymphoma
+-9	-	-	Refractory anemia
+-9	-	-	Refractory anemia with excess blasts-1
+-9	-	-	Refractory anemia with excess blasts-2
+-9	-	-	Refractory anemia with excess of blasts (FAB)
+-9	-	-	Refractory anemia with ringed sideroblasts
+-9	-	-	Splenic marginal zone B-cell lymphoma
+-9	-	-	T-prolymphocytic leukemia
+-9	-	-	Waldenstr&ouml;m macroglobulinemia
+-10	-	-	Acute erythroleukemia (FAB type M6)
+-10	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+-10	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+-10	-	-	Acute monoblastic leukemia (FAB type M5)
+-10	-	-	Acute monoblastic leukemia with differentiation (FAB type M5b)
+-10	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+-10	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+-10	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+-10	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+-10	-	-	Acute myeloid leukemia, NOS
+-10	-	-	Acute myeloid leukemia, special type
+-10	-	-	Acute myelomonocytic leukemia (FAB type M4)
+-10	-	-	Acute promyelocytic leukemia (FAB type M3)
+-10	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+-10	-	-	Aggressive NK-cell leukemia
+-10	-	-	Anaplastic large cell lymphoma, systemic type
+-10	-	-	Angioimmunoblastic T-cell lymphoma
+-10	-	-	Bilineage or biphenotypic leukemia
+-10	-	-	B-prolymphocytic leukemia
+-10	-	-	Burkitt lymphoma/leukemia
+-10	-	-	Chronic eosinophilic leukemia/hypereosinophilic syndrome
+-10	-	-	Chronic lymphocytic leukemia
+-10	-	-	Chronic myeloid leukemia, aberrant translocation
+-10	-	-	Chronic myeloid leukemia, t(9;22)
+-10	-	-	Chronic myelomonocytic leukemia
+-10	-	-	Chronic myeloproliferative disorder, NOS
+-10	-	-	Dendritic cell neoplasm
+-10	-	-	Diffuse large B-cell lymphoma
+-10	-	-	Essential thrombocythemia
+-10	-	-	Extranodal NK/T-cell lymphoma
+-10	-	-	Follicular lymphoma
+-10	-	-	Hairy cell leukemia
+-10	-	-	Hodgkin disease, lymphocyte depletion
+-10	-	-	Hodgkin disease, lymphocyte predominance
+-10	-	-	Hodgkin disease, mixed cellularity
+-10	-	-	Hodgkin disease, nodular sclerosis
+-10	-	-	Hodgkin disease, NOS
+-10	-	-	Idiopathic myelofibrosis
+-10	-	-	Intravascular large B-cell lymphoma
+-10	-	-	Lymphoplasmacytic lymphoma
+-10	-	-	Mantle cell lymphoma
+-10	-	-	Mature B-cell neoplasm, NOS
+-10	-	-	Mature T- and NK-cell neoplasm, NOS
+-10	-	-	Multiple myeloma
+-10	-	-	Mycosis fungoides/S&eacute;zary syndrome
+-10	-	-	Myelodysplastic syndrome, NOS
+-10	-	-	Nonneoplastic hematologic disorder/lesion
+-10	-	-	Peripheral T-cell lymphoma, unspecified
+-10	-	-	Plasma cell leukemia
+-10	-	-	Polycythemia vera
+-10	-	-	Primary effusion lymphoma
+-10	-	-	Refractory anemia
+-10	-	-	Refractory anemia with excess blasts-1
+-10	-	-	Refractory anemia with excess blasts-2
+-10	-	-	Refractory anemia with excess of blasts (FAB)
+-10	-	-	Refractory anemia with ringed sideroblasts
+-10	-	-	Splenic marginal zone B-cell lymphoma
+-10	-	-	T-cell granular lymphocytic leukemia
+-10	-	-	T-prolymphocytic leukemia
+-10	-	-	Waldenstr&ouml;m macroglobulinemia
+-11	-	-	Acute erythroleukemia (FAB type M6)
+-11	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+-11	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+-11	-	-	Acute monoblastic leukemia (FAB type M5)
+-11	-	-	Acute monoblastic leukemia with differentiation (FAB type M5b)
+-11	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+-11	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+-11	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+-11	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+-11	-	-	Acute myeloid leukemia, NOS
+-11	-	-	Acute myeloid leukemia, special type
+-11	-	-	Acute myelomonocytic leukemia (FAB type M4)
+-11	-	-	Acute promyelocytic leukemia (FAB type M3)
+-11	-	-	Acute undifferentiated leukemia
+-11	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+-11	-	-	Anaplastic large cell lymphoma, systemic type
+-11	-	-	Angioimmunoblastic T-cell lymphoma
+-11	-	-	Bilineage or biphenotypic leukemia
+-11	-	-	B-prolymphocytic leukemia
+-11	-	-	Burkitt lymphoma/leukemia
+-11	-	-	Chronic lymphocytic leukemia
+-11	-	-	Chronic myeloid leukemia, t(9;22)
+-11	-	-	Diffuse large B-cell lymphoma
+-11	-	-	Follicular lymphoma
+-11	-	-	Hodgkin disease, mixed cellularity
+-11	-	-	Hodgkin disease, nodular sclerosis
+-11	-	-	Hodgkin disease, NOS
+-11	-	-	Idiopathic myelofibrosis
+-11	-	-	Mantle cell lymphoma
+-11	-	-	Mature B-cell neoplasm, NOS
+-11	-	-	Mature T- and NK-cell neoplasm, NOS
+-11	-	-	Mediastinal large B-cell lymphoma
+-11	-	-	Multiple myeloma
+-11	-	-	Mycosis fungoides/S&eacute;zary syndrome
+-11	-	-	Myelodysplastic syndrome, NOS
+-11	-	-	Peripheral T-cell lymphoma, unspecified
+-11	-	-	Plasma cell leukemia
+-11	-	-	Refractory anemia
+-11	-	-	Refractory anemia with excess blasts-1
+-11	-	-	Refractory anemia with excess blasts-2
+-11	-	-	Refractory anemia with excess of blasts (FAB)
+-11	-	-	Splenic marginal zone B-cell lymphoma
+-11	-	-	T-prolymphocytic leukemia
+-11	-	-	Waldenstr&ouml;m macroglobulinemia
+-12	-	-	Acute erythroleukemia (FAB type M6)
+-12	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+-12	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+-12	-	-	Acute monoblastic leukemia (FAB type M5)
+-12	-	-	Acute monoblastic leukemia with differentiation (FAB type M5b)
+-12	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+-12	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+-12	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+-12	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+-12	-	-	Acute myeloid leukemia, NOS
+-12	-	-	Acute myeloid leukemia, special type
+-12	-	-	Acute myelomonocytic leukemia (FAB type M4)
+-12	-	-	Acute promyelocytic leukemia (FAB type M3)
+-12	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+-12	-	-	Angioimmunoblastic T-cell lymphoma
+-12	-	-	Bilineage or biphenotypic leukemia
+-12	-	-	B-prolymphocytic leukemia
+-12	-	-	Burkitt lymphoma/leukemia
+-12	-	-	Chronic lymphocytic leukemia
+-12	-	-	Chronic myeloid leukemia, aberrant translocation
+-12	-	-	Chronic myeloid leukemia, t(9;22)
+-12	-	-	Chronic myelomonocytic leukemia
+-12	-	-	Chronic myeloproliferative disorder, NOS
+-12	-	-	Dendritic cell neoplasm
+-12	-	-	Diffuse large B-cell lymphoma
+-12	-	-	Essential thrombocythemia
+-12	-	-	Follicular lymphoma
+-12	-	-	Hairy cell leukemia
+-12	-	-	Hodgkin disease, mixed cellularity
+-12	-	-	Hodgkin disease, nodular sclerosis
+-12	-	-	Idiopathic myelofibrosis
+-12	-	-	Mantle cell lymphoma
+-12	-	-	Mature B-cell neoplasm, NOS
+-12	-	-	Mature T- and NK-cell neoplasm, NOS
+-12	-	-	Multiple myeloma
+-12	-	-	Mycosis fungoides/S&eacute;zary syndrome
+-12	-	-	Myelodysplastic syndrome, NOS
+-12	-	-	Peripheral T-cell lymphoma, unspecified
+-12	-	-	Plasma cell leukemia
+-12	-	-	Polycythemia vera
+-12	-	-	Primary effusion lymphoma
+-12	-	-	Refractory anemia
+-12	-	-	Refractory anemia with excess blasts-1
+-12	-	-	Refractory anemia with excess blasts-2
+-12	-	-	Refractory anemia with excess of blasts (FAB)
+-12	-	-	Refractory anemia with ringed sideroblasts
+-12	-	-	Refractory cytopenia with multilineage dysplasia
+-12	-	-	Splenic marginal zone B-cell lymphoma
+-12	-	-	T-cell granular lymphocytic leukemia
+-12	-	-	T-prolymphocytic leukemia
+-12	-	-	Waldenstr&ouml;m macroglobulinemia
+-13	-	-	Acute basophilic leukemia
+-13	-	-	Acute erythroleukemia (FAB type M6)
+-13	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+-13	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+-13	-	-	Acute monoblastic leukemia (FAB type M5)
+-13	-	-	Acute monoblastic leukemia with differentiation (FAB type M5b)
+-13	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+-13	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+-13	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+-13	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+-13	-	-	Acute myeloid leukemia, NOS
+-13	-	-	Acute myelomonocytic leukemia (FAB type M4)
+-13	-	-	Acute promyelocytic leukemia (FAB type M3)
+-13	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+-13	-	-	Aggressive NK-cell leukemia
+-13	-	-	Anaplastic large cell lymphoma, systemic type
+-13	-	-	Bilineage or biphenotypic leukemia
+-13	-	-	B-prolymphocytic leukemia
+-13	-	-	Burkitt lymphoma/leukemia
+-13	-	-	Chronic eosinophilic leukemia/hypereosinophilic syndrome
+-13	-	-	Chronic lymphocytic leukemia
+-13	-	-	Chronic myeloid leukemia, t(9;22)
+-13	-	-	Chronic myelomonocytic leukemia
+-13	-	-	Dendritic cell neoplasm
+-13	-	-	Diffuse large B-cell lymphoma
+-13	-	-	Extranodal NK/T-cell lymphoma
+-13	-	-	Follicular lymphoma
+-13	-	-	Hairy cell leukemia
+-13	-	-	Hodgkin disease, lymphocyte depletion
+-13	-	-	Hodgkin disease, lymphocyte predominance
+-13	-	-	Hodgkin disease, mixed cellularity
+-13	-	-	Hodgkin disease, nodular sclerosis
+-13	-	-	Hodgkin disease, NOS
+-13	-	-	Idiopathic myelofibrosis
+-13	-	-	Mantle cell lymphoma
+-13	-	-	Mature B-cell neoplasm, NOS
+-13	-	-	Mature T- and NK-cell neoplasm, NOS
+-13	-	-	Multiple myeloma
+-13	-	-	Mycosis fungoides/S&eacute;zary syndrome
+-13	-	-	Myelodysplastic syndrome, NOS
+-13	-	-	Nodal marginal zone B-cell lymphoma
+-13	-	-	Peripheral T-cell lymphoma, unspecified
+-13	-	-	Plasma cell leukemia
+-13	-	-	Polycythemia vera
+-13	-	-	Primary effusion lymphoma
+-13	-	-	Refractory anemia
+-13	-	-	Refractory anemia with excess blasts-1
+-13	-	-	Refractory anemia with excess blasts-2
+-13	-	-	Refractory anemia with excess of blasts (FAB)
+-13	-	-	Refractory anemia with ringed sideroblasts
+-13	-	-	Refractory cytopenia with multilineage dysplasia
+-13	-	-	Splenic marginal zone B-cell lymphoma
+-13	-	-	T-cell granular lymphocytic leukemia
+-13	-	-	T-prolymphocytic leukemia
+-13	-	-	Waldenstr&ouml;m macroglobulinemia
+-14	-	-	Acute erythroleukemia (FAB type M6)
+-14	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+-14	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+-14	-	-	Acute monoblastic leukemia (FAB type M5)
+-14	-	-	Acute monoblastic leukemia with differentiation (FAB type M5b)
+-14	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+-14	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+-14	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+-14	-	-	Acute myeloid leukemia, NOS
+-14	-	-	Acute myelomonocytic leukemia (FAB type M4)
+-14	-	-	Acute promyelocytic leukemia (FAB type M3)
+-14	-	-	Acute undifferentiated leukemia
+-14	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+-14	-	-	Aggressive NK-cell leukemia
+-14	-	-	Anaplastic large cell lymphoma, systemic type
+-14	-	-	Bilineage or biphenotypic leukemia
+-14	-	-	B-prolymphocytic leukemia
+-14	-	-	Burkitt lymphoma/leukemia
+-14	-	-	Chronic lymphocytic leukemia
+-14	-	-	Chronic myeloid leukemia, aberrant translocation
+-14	-	-	Chronic myeloid leukemia, t(9;22)
+-14	-	-	Dendritic cell neoplasm
+-14	-	-	Diffuse large B-cell lymphoma
+-14	-	-	Essential thrombocythemia
+-14	-	-	Follicular lymphoma
+-14	-	-	Hodgkin disease, lymphocyte depletion
+-14	-	-	Hodgkin disease, lymphocyte predominance
+-14	-	-	Hodgkin disease, mixed cellularity
+-14	-	-	Hodgkin disease, nodular sclerosis
+-14	-	-	Hodgkin disease, NOS
+-14	-	-	Idiopathic myelofibrosis
+-14	-	-	Mantle cell lymphoma
+-14	-	-	Mature B-cell neoplasm, NOS
+-14	-	-	Mature T- and NK-cell neoplasm, NOS
+-14	-	-	Multiple myeloma
+-14	-	-	Mycosis fungoides/S&eacute;zary syndrome
+-14	-	-	Myelodysplastic syndrome, NOS
+-14	-	-	Peripheral T-cell lymphoma, unspecified
+-14	-	-	Plasma cell leukemia
+-14	-	-	Polycythemia vera
+-14	-	-	Refractory anemia
+-14	-	-	Refractory anemia with excess blasts-1
+-14	-	-	Refractory anemia with excess blasts-2
+-14	-	-	Refractory anemia with excess of blasts (FAB)
+-14	-	-	Refractory anemia with ringed sideroblasts
+-14	-	-	Refractory cytopenia with multilineage dysplasia
+-14	-	-	Splenic marginal zone B-cell lymphoma
+-14	-	-	T-prolymphocytic leukemia
+-14	-	-	Waldenstr&ouml;m macroglobulinemia
+-15	-	-	Acute erythroleukemia (FAB type M6)
+-15	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+-15	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+-15	-	-	Acute monoblastic leukemia (FAB type M5)
+-15	-	-	Acute monoblastic leukemia with differentiation (FAB type M5b)
+-15	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+-15	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+-15	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+-15	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+-15	-	-	Acute myeloid leukemia, NOS
+-15	-	-	Acute myeloid leukemia, special type
+-15	-	-	Acute myelomonocytic leukemia (FAB type M4)
+-15	-	-	Acute promyelocytic leukemia (FAB type M3)
+-15	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+-15	-	-	Aggressive NK-cell leukemia
+-15	-	-	Anaplastic large cell lymphoma, systemic type
+-15	-	-	Angioimmunoblastic T-cell lymphoma
+-15	-	-	Bilineage or biphenotypic leukemia
+-15	-	-	B-prolymphocytic leukemia
+-15	-	-	Burkitt lymphoma/leukemia
+-15	-	-	Chronic lymphocytic leukemia
+-15	-	-	Chronic myeloid leukemia, aberrant translocation
+-15	-	-	Chronic myeloid leukemia, t(9;22)
+-15	-	-	Chronic myelomonocytic leukemia
+-15	-	-	Dendritic cell neoplasm
+-15	-	-	Diffuse large B-cell lymphoma
+-15	-	-	Essential thrombocythemia
+-15	-	-	Follicular lymphoma
+-15	-	-	Hodgkin disease, lymphocyte depletion
+-15	-	-	Hodgkin disease, lymphocyte predominance
+-15	-	-	Hodgkin disease, mixed cellularity
+-15	-	-	Hodgkin disease, nodular sclerosis
+-15	-	-	Hodgkin disease, NOS
+-15	-	-	Idiopathic myelofibrosis
+-15	-	-	Intravascular large B-cell lymphoma
+-15	-	-	Lymphoplasmacytic lymphoma
+-15	-	-	Mantle cell lymphoma
+-15	-	-	Mastocytosis
+-15	-	-	Mature B-cell neoplasm, NOS
+-15	-	-	Mature T- and NK-cell neoplasm, NOS
+-15	-	-	Mediastinal large B-cell lymphoma
+-15	-	-	Multiple myeloma
+-15	-	-	Mycosis fungoides/S&eacute;zary syndrome
+-15	-	-	Myelodysplastic/myeloproliferative disease, NOS
+-15	-	-	Myelodysplastic syndrome, NOS
+-15	-	-	Nodal marginal zone B-cell lymphoma
+-15	-	-	Peripheral T-cell lymphoma, unspecified
+-15	-	-	Plasma cell leukemia
+-15	-	-	Polycythemia vera
+-15	-	-	Post-transplant lymphoproliferative disorder
+-15	-	-	Primary effusion lymphoma
+-15	-	-	Refractory anemia
+-15	-	-	Refractory anemia with excess blasts-1
+-15	-	-	Refractory anemia with excess blasts-2
+-15	-	-	Refractory anemia with excess of blasts (FAB)
+-15	-	-	Refractory anemia with ringed sideroblasts
+-15	-	-	Refractory cytopenia with multilineage dysplasia
+-15	-	-	Splenic marginal zone B-cell lymphoma
+-15	-	-	T-prolymphocytic leukemia
+-16	-	-	Acute erythroleukemia (FAB type M6)
+-16	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+-16	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+-16	-	-	Acute monoblastic leukemia (FAB type M5)
+-16	-	-	Acute monoblastic leukemia with differentiation (FAB type M5b)
+-16	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+-16	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+-16	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+-16	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+-16	-	-	Acute myeloid leukemia, NOS
+-16	-	-	Acute myeloid leukemia, special type
+-16	-	-	Acute myelomonocytic leukemia (FAB type M4)
+-16	-	-	Acute promyelocytic leukemia (FAB type M3)
+-16	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+-16	-	-	Anaplastic large cell lymphoma, systemic type
+-16	-	-	Angioimmunoblastic T-cell lymphoma
+-16	-	-	Bilineage or biphenotypic leukemia
+-16	-	-	Burkitt lymphoma/leukemia
+-16	-	-	Chronic lymphocytic leukemia
+-16	-	-	Chronic myeloid leukemia, aberrant translocation
+-16	-	-	Chronic myeloid leukemia, t(9;22)
+-16	-	-	Chronic myelomonocytic leukemia
+-16	-	-	Chronic myeloproliferative disorder, NOS
+-16	-	-	Diffuse large B-cell lymphoma
+-16	-	-	Follicular lymphoma
+-16	-	-	Hepatosplenic T-cell lymphoma
+-16	-	-	Hodgkin disease, lymphocyte depletion
+-16	-	-	Hodgkin disease, mixed cellularity
+-16	-	-	Hodgkin disease, nodular sclerosis
+-16	-	-	Hodgkin disease, NOS
+-16	-	-	Mantle cell lymphoma
+-16	-	-	Mature B-cell neoplasm, NOS
+-16	-	-	Mature T- and NK-cell neoplasm, NOS
+-16	-	-	Multiple myeloma
+-16	-	-	Mycosis fungoides/S&eacute;zary syndrome
+-16	-	-	Myelodysplastic syndrome, NOS
+-16	-	-	Nodal marginal zone B-cell lymphoma
+-16	-	-	Peripheral T-cell lymphoma, unspecified
+-16	-	-	Plasma cell leukemia
+-16	-	-	Polycythemia vera
+-16	-	-	Refractory anemia
+-16	-	-	Refractory anemia with excess blasts-1
+-16	-	-	Refractory anemia with excess blasts-2
+-16	-	-	Refractory anemia with excess of blasts (FAB)
+-16	-	-	Refractory anemia with ringed sideroblasts
+-16	-	-	Refractory cytopenia with multilineage dysplasia
+-16	-	-	Splenic marginal zone B-cell lymphoma
+-16	-	-	T-prolymphocytic leukemia
+-16	-	-	Waldenstr&ouml;m macroglobulinemia
+-17	-	-	Acute erythroleukemia (FAB type M6)
+-17	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+-17	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+-17	-	-	Acute monoblastic leukemia (FAB type M5)
+-17	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+-17	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+-17	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+-17	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+-17	-	-	Acute myeloid leukemia, NOS
+-17	-	-	Acute myeloid leukemia, special type
+-17	-	-	Acute myelomonocytic leukemia (FAB type M4)
+-17	-	-	Acute promyelocytic leukemia (FAB type M3)
+-17	-	-	Acute undifferentiated leukemia
+-17	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+-17	-	-	Anaplastic large cell lymphoma, systemic type
+-17	-	-	Angioimmunoblastic T-cell lymphoma
+-17	-	-	B-cell lymphoma associated with hemophagocytic syndrome
+-17	-	-	Bilineage or biphenotypic leukemia
+-17	-	-	B-prolymphocytic leukemia
+-17	-	-	Burkitt lymphoma/leukemia
+-17	-	-	Chronic lymphocytic leukemia
+-17	-	-	Chronic myeloid leukemia, aberrant translocation
+-17	-	-	Chronic myeloid leukemia, t(9;22)
+-17	-	-	Chronic myelomonocytic leukemia
+-17	-	-	Chronic myeloproliferative disorder, NOS
+-17	-	-	Dendritic cell neoplasm
+-17	-	-	Diffuse large B-cell lymphoma
+-17	-	-	Essential thrombocythemia
+-17	-	-	Extranodal NK/T-cell lymphoma
+-17	-	-	Follicular lymphoma
+-17	-	-	Hairy cell leukemia
+-17	-	-	Hodgkin disease, lymphocyte depletion
+-17	-	-	Hodgkin disease, lymphocyte predominance
+-17	-	-	Hodgkin disease, mixed cellularity
+-17	-	-	Hodgkin disease, nodular sclerosis
+-17	-	-	Hodgkin disease, NOS
+-17	-	-	Idiopathic myelofibrosis
+-17	-	-	Lymphoplasmacytic lymphoma
+-17	-	-	Mantle cell lymphoma
+-17	-	-	Mastocytosis
+-17	-	-	Mature B-cell neoplasm, NOS
+-17	-	-	Mature T- and NK-cell neoplasm, NOS
+-17	-	-	Multiple myeloma
+-17	-	-	Mycosis fungoides/S&eacute;zary syndrome
+-17	-	-	Myelodysplastic syndrome, NOS
+-17	-	-	Peripheral T-cell lymphoma, unspecified
+-17	-	-	Plasma cell leukemia
+-17	-	-	Polycythemia vera
+-17	-	-	Refractory anemia
+-17	-	-	Refractory anemia with excess blasts-1
+-17	-	-	Refractory anemia with excess blasts-2
+-17	-	-	Refractory anemia with excess of blasts (FAB)
+-17	-	-	Refractory anemia with ringed sideroblasts
+-17	-	-	Refractory cytopenia with multilineage dysplasia
+-17	-	-	Splenic marginal zone B-cell lymphoma
+-17	-	-	T-prolymphocytic leukemia
+-17	-	-	Waldenstr&ouml;m macroglobulinemia
+-18	-	-	Acute erythroleukemia (FAB type M6)
+-18	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+-18	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+-18	-	-	Acute monoblastic leukemia (FAB type M5)
+-18	-	-	Acute monoblastic leukemia with differentiation (FAB type M5b)
+-18	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+-18	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+-18	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+-18	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+-18	-	-	Acute myeloid leukemia, NOS
+-18	-	-	Acute myeloid leukemia, special type
+-18	-	-	Acute myelomonocytic leukemia (FAB type M4)
+-18	-	-	Acute promyelocytic leukemia (FAB type M3)
+-18	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+-18	-	-	Aggressive NK-cell leukemia
+-18	-	-	Anaplastic large cell lymphoma, cutaneous type
+-18	-	-	Anaplastic large cell lymphoma, systemic type
+-18	-	-	Angioimmunoblastic T-cell lymphoma
+-18	-	-	B-cell lymphoma associated with hemophagocytic syndrome
+-18	-	-	Bilineage or biphenotypic leukemia
+-18	-	-	B-prolymphocytic leukemia
+-18	-	-	Burkitt lymphoma/leukemia
+-18	-	-	Chronic lymphocytic leukemia
+-18	-	-	Chronic myeloid leukemia, aberrant translocation
+-18	-	-	Chronic myeloid leukemia, t(9;22)
+-18	-	-	Chronic myelomonocytic leukemia
+-18	-	-	Chronic myeloproliferative disorder, NOS
+-18	-	-	Dendritic cell neoplasm
+-18	-	-	Diffuse large B-cell lymphoma
+-18	-	-	Follicular lymphoma
+-18	-	-	Hairy cell leukemia
+-18	-	-	Hodgkin disease, lymphocyte depletion
+-18	-	-	Hodgkin disease, lymphocyte predominance
+-18	-	-	Hodgkin disease, mixed cellularity
+-18	-	-	Hodgkin disease, nodular sclerosis
+-18	-	-	Hodgkin disease, NOS
+-18	-	-	Mantle cell lymphoma
+-18	-	-	Mature B-cell neoplasm, NOS
+-18	-	-	Mature T- and NK-cell neoplasm, NOS
+-18	-	-	Multiple myeloma
+-18	-	-	Mycosis fungoides/S&eacute;zary syndrome
+-18	-	-	Myelodysplastic syndrome, NOS
+-18	-	-	Nodal marginal zone B-cell lymphoma
+-18	-	-	Nonneoplastic hematologic disorder/lesion
+-18	-	-	Peripheral T-cell lymphoma, unspecified
+-18	-	-	Plasma cell leukemia
+-18	-	-	Polycythemia vera
+-18	-	-	Primary effusion lymphoma
+-18	-	-	Refractory anemia
+-18	-	-	Refractory anemia with excess blasts-1
+-18	-	-	Refractory anemia with excess blasts-2
+-18	-	-	Refractory anemia with excess of blasts (FAB)
+-18	-	-	Refractory anemia with ringed sideroblasts
+-18	-	-	Refractory cytopenia with multilineage dysplasia
+-18	-	-	Splenic marginal zone B-cell lymphoma
+-18	-	-	T-prolymphocytic leukemia
+-18	-	-	Waldenstr&ouml;m macroglobulinemia
+-19	-	-	Acute erythroleukemia (FAB type M6)
+-19	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+-19	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+-19	-	-	Acute monoblastic leukemia (FAB type M5)
+-19	-	-	Acute monoblastic leukemia with differentiation (FAB type M5b)
+-19	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+-19	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+-19	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+-19	-	-	Acute myeloid leukemia, NOS
+-19	-	-	Acute myeloid leukemia, special type
+-19	-	-	Acute myelomonocytic leukemia (FAB type M4)
+-19	-	-	Acute promyelocytic leukemia (FAB type M3)
+-19	-	-	Acute undifferentiated leukemia
+-19	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+-19	-	-	Anaplastic large cell lymphoma, systemic type
+-19	-	-	Angioimmunoblastic T-cell lymphoma
+-19	-	-	B-cell lymphoma associated with hemophagocytic syndrome
+-19	-	-	Bilineage or biphenotypic leukemia
+-19	-	-	B-prolymphocytic leukemia
+-19	-	-	Burkitt lymphoma/leukemia
+-19	-	-	Chronic lymphocytic leukemia
+-19	-	-	Chronic myeloid leukemia, aberrant translocation
+-19	-	-	Chronic myeloid leukemia, t(9;22)
+-19	-	-	Chronic myelomonocytic leukemia
+-19	-	-	Dendritic cell neoplasm
+-19	-	-	Diffuse large B-cell lymphoma
+-19	-	-	Follicular lymphoma
+-19	-	-	Hairy cell leukemia
+-19	-	-	Hodgkin disease, lymphocyte depletion
+-19	-	-	Hodgkin disease, lymphocyte predominance
+-19	-	-	Hodgkin disease, mixed cellularity
+-19	-	-	Hodgkin disease, nodular sclerosis
+-19	-	-	Hodgkin disease, NOS
+-19	-	-	Idiopathic myelofibrosis
+-19	-	-	Intravascular large B-cell lymphoma
+-19	-	-	Lymphoplasmacytic lymphoma
+-19	-	-	Mantle cell lymphoma
+-19	-	-	Mastocytosis
+-19	-	-	Mature B-cell neoplasm, NOS
+-19	-	-	Mature T- and NK-cell neoplasm, NOS
+-19	-	-	Multiple myeloma
+-19	-	-	Mycosis fungoides/S&eacute;zary syndrome
+-19	-	-	Myelodysplastic syndrome, NOS
+-19	-	-	Peripheral T-cell lymphoma, unspecified
+-19	-	-	Plasma cell leukemia
+-19	-	-	Polycythemia vera
+-19	-	-	Refractory anemia
+-19	-	-	Refractory anemia with excess blasts-1
+-19	-	-	Refractory anemia with excess blasts-2
+-19	-	-	Refractory anemia with excess of blasts (FAB)
+-19	-	-	Refractory anemia with ringed sideroblasts
+-19	-	-	Splenic marginal zone B-cell lymphoma
+-19	-	-	T-prolymphocytic leukemia
+-19	-	-	Waldenstr&ouml;m macroglobulinemia
+-20	-	-	Acute erythroleukemia (FAB type M6)
+-20	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+-20	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+-20	-	-	Acute monoblastic leukemia (FAB type M5)
+-20	-	-	Acute monoblastic leukemia with differentiation (FAB type M5b)
+-20	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+-20	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+-20	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+-20	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+-20	-	-	Acute myeloid leukemia, NOS
+-20	-	-	Acute myeloid leukemia, special type
+-20	-	-	Acute myelomonocytic leukemia (FAB type M4)
+-20	-	-	Acute promyelocytic leukemia (FAB type M3)
+-20	-	-	Acute undifferentiated leukemia
+-20	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+-20	-	-	Aggressive NK-cell leukemia
+-20	-	-	Anaplastic large cell lymphoma, cutaneous type
+-20	-	-	Anaplastic large cell lymphoma, systemic type
+-20	-	-	Angioimmunoblastic T-cell lymphoma
+-20	-	-	Bilineage or biphenotypic leukemia
+-20	-	-	B-prolymphocytic leukemia
+-20	-	-	Burkitt lymphoma/leukemia
+-20	-	-	Chronic lymphocytic leukemia
+-20	-	-	Chronic myeloid leukemia, aberrant translocation
+-20	-	-	Chronic myeloid leukemia, t(9;22)
+-20	-	-	Chronic myelomonocytic leukemia
+-20	-	-	Diffuse large B-cell lymphoma
+-20	-	-	Essential thrombocythemia
+-20	-	-	Follicular lymphoma
+-20	-	-	Hodgkin disease, lymphocyte depletion
+-20	-	-	Hodgkin disease, lymphocyte predominance
+-20	-	-	Hodgkin disease, mixed cellularity
+-20	-	-	Hodgkin disease, nodular sclerosis
+-20	-	-	Hodgkin disease, NOS
+-20	-	-	Idiopathic myelofibrosis
+-20	-	-	Mantle cell lymphoma
+-20	-	-	Mature B-cell neoplasm, NOS
+-20	-	-	Mature B-cell neoplasm, special type
+-20	-	-	Mature T- and NK-cell neoplasm, NOS
+-20	-	-	Multiple myeloma
+-20	-	-	Mycosis fungoides/S&eacute;zary syndrome
+-20	-	-	Myelodysplastic syndrome, NOS
+-20	-	-	Nodal marginal zone B-cell lymphoma
+-20	-	-	Peripheral T-cell lymphoma, unspecified
+-20	-	-	Plasma cell leukemia
+-20	-	-	Polycythemia vera
+-20	-	-	Primary effusion lymphoma
+-20	-	-	Refractory anemia
+-20	-	-	Refractory anemia with excess blasts-1
+-20	-	-	Refractory anemia with excess blasts-2
+-20	-	-	Refractory anemia with excess of blasts (FAB)
+-20	-	-	Refractory anemia with ringed sideroblasts
+-20	-	-	Refractory cytopenia with multilineage dysplasia
+-20	-	-	Refractory cytopenia with multilineage dysplasia and ringed sideroblasts
+-20	-	-	Splenic marginal zone B-cell lymphoma
+-20	-	-	T-cell granular lymphocytic leukemia
+-20	-	-	T-prolymphocytic leukemia
+-20	-	-	Waldenstr&ouml;m macroglobulinemia
+-21	-	-	Acute erythroleukemia (FAB type M6)
+-21	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+-21	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+-21	-	-	Acute monoblastic leukemia (FAB type M5)
+-21	-	-	Acute monoblastic leukemia with differentiation (FAB type M5b)
+-21	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+-21	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+-21	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+-21	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+-21	-	-	Acute myeloid leukemia, NOS
+-21	-	-	Acute myelomonocytic leukemia (FAB type M4)
+-21	-	-	Acute promyelocytic leukemia (FAB type M3)
+-21	-	-	Acute undifferentiated leukemia
+-21	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+-21	-	-	Anaplastic large cell lymphoma, systemic type
+-21	-	-	Bilineage or biphenotypic leukemia
+-21	-	-	B-prolymphocytic leukemia
+-21	-	-	Burkitt lymphoma/leukemia
+-21	-	-	Chronic lymphocytic leukemia
+-21	-	-	Chronic myeloid leukemia, aberrant translocation
+-21	-	-	Chronic myeloid leukemia, t(9;22)
+-21	-	-	Chronic myelomonocytic leukemia
+-21	-	-	Dendritic cell neoplasm
+-21	-	-	Diffuse large B-cell lymphoma
+-21	-	-	Essential thrombocythemia
+-21	-	-	Follicular lymphoma
+-21	-	-	Hodgkin disease, lymphocyte depletion
+-21	-	-	Hodgkin disease, lymphocyte predominance
+-21	-	-	Hodgkin disease, mixed cellularity
+-21	-	-	Hodgkin disease, nodular sclerosis
+-21	-	-	Hodgkin disease, NOS
+-21	-	-	Intravascular large B-cell lymphoma
+-21	-	-	Mantle cell lymphoma
+-21	-	-	Mastocytosis
+-21	-	-	Mature B-cell neoplasm, NOS
+-21	-	-	Mature T- and NK-cell neoplasm, NOS
+-21	-	-	Multiple myeloma
+-21	-	-	Mycosis fungoides/S&eacute;zary syndrome
+-21	-	-	Myelodysplastic/myeloproliferative disease, NOS
+-21	-	-	Myelodysplastic syndrome, NOS
+-21	-	-	Nodal marginal zone B-cell lymphoma
+-21	-	-	Nonneoplastic hematologic disorder/lesion
+-21	-	-	Peripheral T-cell lymphoma, unspecified
+-21	-	-	Plasma cell leukemia
+-21	-	-	Polycythemia vera
+-21	-	-	Primary effusion lymphoma
+-21	-	-	Refractory anemia
+-21	-	-	Refractory anemia with excess blasts-1
+-21	-	-	Refractory anemia with excess blasts-2
+-21	-	-	Refractory anemia with excess of blasts (FAB)
+-21	-	-	Refractory anemia with ringed sideroblasts
+-21	-	-	Refractory cytopenia with multilineage dysplasia
+-21	-	-	Splenic marginal zone B-cell lymphoma
+-21	-	-	T-prolymphocytic leukemia
+-21	-	-	Waldenstr&ouml;m macroglobulinemia
+-22	-	-	Acute erythroleukemia (FAB type M6)
+-22	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+-22	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+-22	-	-	Acute monoblastic leukemia (FAB type M5)
+-22	-	-	Acute monoblastic leukemia with differentiation (FAB type M5b)
+-22	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+-22	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+-22	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+-22	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+-22	-	-	Acute myeloid leukemia, NOS
+-22	-	-	Acute myelomonocytic leukemia (FAB type M4)
+-22	-	-	Acute promyelocytic leukemia (FAB type M3)
+-22	-	-	Acute undifferentiated leukemia
+-22	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+-22	-	-	Aggressive NK-cell leukemia
+-22	-	-	Anaplastic large cell lymphoma, systemic type
+-22	-	-	Bilineage or biphenotypic leukemia
+-22	-	-	B-prolymphocytic leukemia
+-22	-	-	Burkitt lymphoma/leukemia
+-22	-	-	Chronic lymphocytic leukemia
+-22	-	-	Chronic myeloid leukemia, aberrant translocation
+-22	-	-	Chronic myeloid leukemia, t(9;22)
+-22	-	-	Chronic myelomonocytic leukemia
+-22	-	-	Chronic myeloproliferative disorder, NOS
+-22	-	-	Dendritic cell neoplasm
+-22	-	-	Diffuse large B-cell lymphoma
+-22	-	-	Extranodal NK/T-cell lymphoma
+-22	-	-	Follicular lymphoma
+-22	-	-	Hairy cell leukemia
+-22	-	-	Hepatosplenic T-cell lymphoma
+-22	-	-	Hodgkin disease, lymphocyte depletion
+-22	-	-	Hodgkin disease, mixed cellularity
+-22	-	-	Hodgkin disease, nodular sclerosis
+-22	-	-	Hodgkin disease, NOS
+-22	-	-	Lymphoplasmacytic lymphoma
+-22	-	-	Mantle cell lymphoma
+-22	-	-	Mastocytosis
+-22	-	-	Mature B-cell neoplasm, NOS
+-22	-	-	Mature T- and NK-cell neoplasm, NOS
+-22	-	-	Multiple myeloma
+-22	-	-	Mycosis fungoides/S&eacute;zary syndrome
+-22	-	-	Myelodysplastic syndrome, NOS
+-22	-	-	Nodal marginal zone B-cell lymphoma
+-22	-	-	Peripheral T-cell lymphoma, unspecified
+-22	-	-	Plasma cell leukemia
+-22	-	-	Post-transplant lymphoproliferative disorder
+-22	-	-	Primary effusion lymphoma
+-22	-	-	Refractory anemia
+-22	-	-	Refractory anemia with excess blasts-1
+-22	-	-	Refractory anemia with excess blasts-2
+-22	-	-	Refractory anemia with excess of blasts (FAB)
+-22	-	-	Refractory anemia with ringed sideroblasts
+-22	-	-	Refractory cytopenia with multilineage dysplasia
+-22	-	-	Splenic marginal zone B-cell lymphoma
+-22	-	-	T-prolymphocytic leukemia
+-22	-	-	Waldenstr&ouml;m macroglobulinemia

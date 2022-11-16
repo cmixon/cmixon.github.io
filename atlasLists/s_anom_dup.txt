@@ -1,0 +1,511 @@
+dup(1)(q11q21)	-	-	Chronic myeloid leukemia, t(9;22)
+dup(1)(q21q44)	-	-	Chronic myeloid leukemia, t(9;22)
+dup(1)(q21q44)	-	-	Chronic myeloid leukemia, t(9;22)
+dup(1)(q23q32)	-	-	Chronic myeloid leukemia, t(9;22)
+dup(1)(q23q32)	-	-	Chronic myeloid leukemia, t(9;22)
+dup(1)(q31q21)	-	-	Chronic myeloid leukemia, t(9;22)
+der(1)trp(1)(q11q32)dup(1)(q41q42)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(1)trp(1)(q11q32)dup(1)(q41q42)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(21)add(21)(p11)add(21)(q22)dup(21)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(21)add(21)(p11)dup(21)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(21)r(21)dup(21)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+ider(21)(q10)dup(21)(q21q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+ider(21)(q10)dup(21)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+ider(21)(q10)dup(21)(q22q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(X)(p11p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(X)(p11p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(X)(p21.2p21.2)	TAB3/MAGEB2	-	
+dup(X)(p21pter)		-	
+dup(X)(p22.11p22.32)		-	
+dup(X)(p22.2)		-	
+dup(X)(q22.1q22)		-	Pelizaeus-Merzbacher Disease
+dup(X)(q22.1q22)		-	Pelizaeus-Merzbacher Disease
+dup(X)(q22.1q22.1)	GLA	-	Fabry Disease
+dup(X)(q22.1q22.2)		-	Pelizaeus-Merzbacher Disease
+dup(X)(q22.1q22.2)		-	Pelizaeus-Merzbacher Disease
+dup(X)(q22.1q22.3)		-	Pelizaeus-Merzbacher Disease
+dup(X)(q22.1q22.3)		-	Pelizaeus-Merzbacher Disease
+dup(X)(q22.2q22.2)		-	Pelizaeus-Merzbacher Disease
+dup(X)(q22.2q22.2)		-	Pelizaeus-Merzbacher Disease
+dup(X)(q22.2q22.2)		-	Pelizaeus-Merzbacher Disease
+dup(X)(q22.2q22.2)		-	Pelizaeus-Merzbacher Disease
+dup(X)(q22.2q22.2)		-	Pelizaeus-Merzbacher Disease
+dup(X)(q22.2q22.2)		-	Pelizaeus-Merzbacher Disease
+dup(X)(q22.2q22.2)		-	Pelizaeus-Merzbacher Disease
+dup(X)(q22.2q22.2)		-	Pelizaeus-Merzbacher Disease
+dup(X)(q22.2q22.2)		-	Pelizaeus-Merzbacher Disease
+dup(X)(q22.2q22.2)	RAB40A	-	Pelizaeus-Merzbacher Disease
+dup(X)(q22.2q22.3)	NM_017416.1	-	Pelizaeus-Merzbacher Disease
+dup(X)(q22q22.2)	RAB40A	-	Pelizaeus-Merzbacher Disease
+dup(X)(q25q28)		-	Acute Lymphoblastic Leukemia
+dup(X)(q25q28)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(X)(q26.1q27.3)		-	
+dup(X)(q26.3)	HPRT1/HPRT1	-	-
+dup(X)(q28)		-	Lubs X-linked Mental Retardation Syndrome
+dup(X)(q28)		-	Lubs X-linked Mental Retardation Syndrome
+dup(X)(q28)		-	Mental Retardation Syndrome
+dup(X)(q28)		-	Mental Retardation Syndrome
+dup(X)(q28)		-	Non-syndromic Mental Retardation
+dup(X)(q28)	ARHGAP4/TEX28	-	-
+dup(X)(q28)	ATP2B3/SLC10A3	-	-
+dup(X)(q28)	BCAP31/TEX28	-	-
+dup(X)(q28)	EXD3/CACNA1B	-	-
+dup(X)(q28)	L1CAM/FLNA	-	-
+dup(X)(q28)	PNCK/TEX28	-	-
+dup(X)(q28q28)		-	
+dup(X)(q28q28)		-	
+dup(X)(q28q28)		-	
+dup(X)(q28q28)		-	
+dup(X)(q28q28)		-	
+dup(X)(q28q28)		-	
+dup(X)(q28q28)	ABCD1/TEX28	-	
+dup(X)(q28q28)	ABCD1/TEX28	-	
+dup(X)(q28q28)	ARHGAP4	-	
+dup(X)(q28q28)	ARHGAP4/TEX28	-	
+dup(X)(q28q28)	ATP2B3/SLC10A3	-	
+dup(X)(q28q28)	AVPR2	-	
+dup(X)(q28q28)	BCAP31/TEX28	-	
+dup(X)(q28q28)	BGN/OPN1LW	-	
+dup(X)(q28q28)	BGN/TEX28	-	
+dup(X)(q28q28)	GABRA3	-	
+dup(X)(q28q28)	HCFC1	-	
+dup(X)(q28q28)	L1CAM	-	
+dup(X)(q28q28)	L1CAM/FLNA	-	
+dup(X)(q28q28)	NM_001586.1	-	
+dup(X)(q28q28)	NM_020061.4	-	
+dup(X)(q28q28)	NM_020061.4	-	
+dup(X)(q28q28)	NSDHL/RPL10	-	
+dup(X)(q28q28)	PDZD4	-	
+dup(X)(q28q28)	PNCK/TEX28	-	
+dup(X)(q28q28)	PNCK/TEX28	-	
+dup(X)(q28q28)	SLC6A8	-	
+dup(X)(q28q28)	ZNF185	-	
+dup(X)(q28q28)	ZNF275/TEX28	-	
+der(1)trp(1)(q11q32)dup(1)(q41q42)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(1)trp(1)(q11q32)dup(1)(q41q42)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(p11p34)		-	Low-grade Follicular Small Cleaved Cell Lymphoma
+dup(1)(p13p32)	-	-	Mature B-cell neoplasm, NOS
+dup(1)(p22p36)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(p22p36)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(p22p36)	-	-	Bilineage or biphenotypic leukemia
+dup(1)(p22p36)	-	-	Bilineage or biphenotypic leukemia
+dup(1)(p22p36)	-	-	Follicular lymphoma
+dup(1)(p22p36)	-	-	Follicular lymphoma
+dup(1)(p34.1p34.3)		-	
+dup(1)(q10q44)	-	-	Multiple myeloma
+dup(1)(q11q21)	-	-	Chronic myeloid leukemia, t(9;22)
+dup(1)(q11q25)	-	-	Multiple myeloma
+dup(1)(q11q25)	-	-	Multiple myeloma
+dup(1)(q11q32)	-	-	Multiple myeloma
+dup(1)(q11q44)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q11q44)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q11q44)	-	-	Burkitt lymphoma/leukemia
+dup(1)(q11q44)	-	-	Burkitt lymphoma/leukemia
+dup(1)(q12q23)	-	-	Follicular lymphoma
+dup(1)(q12q23)	-	-	Follicular lymphoma
+dup(1)(q12q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q12q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q12q25)	-	-	Burkitt lymphoma/leukemia
+dup(1)(q12q25)	-	-	Burkitt lymphoma/leukemia
+dup(1)(q12q25)	-	-	Follicular lymphoma
+dup(1)(q12q25)	-	-	Follicular lymphoma
+dup(1)(q12q25)	-	-	Mature B-cell neoplasm, NOS
+dup(1)(q12q25)	-	-	Mature B-cell neoplasm, NOS
+dup(1)(q12q25)	-	-	Multiple myeloma
+dup(1)(q12q25)	-	-	Multiple myeloma
+dup(1)(q12q31)	-	-	Burkitt lymphoma/leukemia
+dup(1)(q12q31)	-	-	Chronic lymphocytic leukemia
+dup(1)(q12q31)	-	-	Follicular lymphoma
+dup(1)(q12q31)	-	-	Multiple myeloma
+dup(1)(q12q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q12q32)	-	-	Burkitt lymphoma/leukemia
+dup(1)(q12q32)	-	-	Diffuse large B-cell lymphoma
+dup(1)(q12q32)	-	-	Follicular lymphoma
+dup(1)(q12q32)	-	-	Mature B-cell neoplasm, NOS
+dup(1)(q12q32)	-	-	Peripheral T-cell lymphoma, unspecified
+dup(1)(q12q41)	-	-	Multiple myeloma
+dup(1)(q12q42)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q12q42)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q12q42)	-	-	Diffuse large B-cell lymphoma
+dup(1)(q12q42)	-	-	Diffuse large B-cell lymphoma
+dup(1)(q12q42)	-	-	Multiple myeloma
+dup(1)(q12q42)	-	-	Multiple myeloma
+dup(1)(q12q43)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q12q43)	-	-	Multiple myeloma
+dup(1)(q12q44)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q12q44)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q12q44)	-	-	Burkitt lymphoma/leukemia
+dup(1)(q12q44)	-	-	Burkitt lymphoma/leukemia
+dup(1)(q12q44)	-	-	Chronic lymphocytic leukemia
+dup(1)(q12q44)	-	-	Chronic lymphocytic leukemia
+dup(1)(q12q44)	-	-	Multiple myeloma
+dup(1)(q12q44)	-	-	Multiple myeloma
+dup(1)(q21q21)	-	-	Follicular lymphoma
+dup(1)(q21q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q21q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q21q23)	-	-	Follicular lymphoma
+dup(1)(q21q23)	-	-	Follicular lymphoma
+dup(1)(q21q23)	-	-	Mature B-cell neoplasm, NOS
+dup(1)(q21q23)	-	-	Mature B-cell neoplasm, NOS
+dup(1)(q21q24)	-	-	Burkitt lymphoma/leukemia
+dup(1)(q21q24)	-	-	Burkitt lymphoma/leukemia
+dup(1)(q21q25)	-	-	Burkitt lymphoma/leukemia
+dup(1)(q21q25)	-	-	Burkitt lymphoma/leukemia
+dup(1)(q21q25)	-	-	Diffuse large B-cell lymphoma
+dup(1)(q21q25)	-	-	Diffuse large B-cell lymphoma
+dup(1)(q21q25)	-	-	Follicular lymphoma
+dup(1)(q21q25)	-	-	Follicular lymphoma
+dup(1)(q21q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q21q31)	-	-	Burkitt lymphoma/leukemia
+dup(1)(q21q31)	-	-	Chronic lymphocytic leukemia
+dup(1)(q21q31)	-	-	Diffuse large B-cell lymphoma
+dup(1)(q21q31)	-	-	Follicular lymphoma
+dup(1)(q21q31)	-	-	Multiple myeloma
+dup(1)(q21q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q21q32)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+dup(1)(q21q32)	-	-	Acute myeloid leukemia, NOS
+dup(1)(q21q32)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+dup(1)(q21q32)	-	-	Bilineage or biphenotypic leukemia
+dup(1)(q21q32)	-	-	Burkitt lymphoma/leukemia
+dup(1)(q21q32)	-	-	Diffuse large B-cell lymphoma
+dup(1)(q21q32)	-	-	Follicular lymphoma
+dup(1)(q21q32)	-	-	Idiopathic myelofibrosis
+dup(1)(q21q32)	-	-	Mature B-cell neoplasm, NOS
+dup(1)(q21q32)	-	-	Multiple myeloma
+dup(1)(q21q32)	-	-	Myelodysplastic syndrome, NOS
+dup(1)(q21q32)	-	-	Plasma cell leukemia
+dup(1)(q21q41)		-	Lymphoma
+dup(1)(q21q41)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q21q41)	-	-	Burkitt lymphoma/leukemia
+dup(1)(q21q42)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q21q42)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q21q42)	-	-	Acute myeloid leukemia, NOS
+dup(1)(q21q42)	-	-	Acute myeloid leukemia, NOS
+dup(1)(q21q42)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+dup(1)(q21q42)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+dup(1)(q21q42)	-	-	Burkitt lymphoma/leukemia
+dup(1)(q21q42)	-	-	Burkitt lymphoma/leukemia
+dup(1)(q21q42)	-	-	Follicular lymphoma
+dup(1)(q21q42)	-	-	Follicular lymphoma
+dup(1)(q21q42)	-	-	Idiopathic myelofibrosis
+dup(1)(q21q42)	-	-	Idiopathic myelofibrosis
+dup(1)(q21q42)	-	-	Polycythemia vera
+dup(1)(q21q42)	-	-	Polycythemia vera
+dup(1)(q21q42)	-	-	Refractory anemia
+dup(1)(q21q42)	-	-	Refractory anemia
+dup(1)(q21q44)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q21q44)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q21q44)	-	-	Acute myeloid leukemia, NOS
+dup(1)(q21q44)	-	-	Acute myeloid leukemia, NOS
+dup(1)(q21q44)	-	-	Burkitt lymphoma/leukemia
+dup(1)(q21q44)	-	-	Burkitt lymphoma/leukemia
+dup(1)(q21q44)	-	-	Chronic myeloid leukemia, t(9;22)
+dup(1)(q21q44)	-	-	Chronic myeloid leukemia, t(9;22)
+dup(1)(q21q44)	-	-	Diffuse large B-cell lymphoma
+dup(1)(q21q44)	-	-	Diffuse large B-cell lymphoma
+dup(1)(q21q44)	-	-	Follicular lymphoma
+dup(1)(q21q44)	-	-	Follicular lymphoma
+dup(1)(q21q44)	-	-	Mature B-cell neoplasm, NOS
+dup(1)(q21q44)	-	-	Mature B-cell neoplasm, NOS
+dup(1)(q21q44)	-	-	Multiple myeloma
+dup(1)(q21q44)	-	-	Multiple myeloma
+dup(1)(q21q44)	-	-	Polycythemia vera
+dup(1)(q21q44)	-	-	Polycythemia vera
+dup(1)(q22q31)	-	-	Burkitt lymphoma/leukemia
+dup(1)(q22q31)	-	-	Burkitt lymphoma/leukemia
+dup(1)(q22q44)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q22q44)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q22q44)	-	-	Diffuse large B-cell lymphoma
+dup(1)(q22q44)	-	-	Diffuse large B-cell lymphoma
+dup(1)(q23q31)	-	-	Diffuse large B-cell lymphoma
+dup(1)(q23q31)	-	-	Diffuse large B-cell lymphoma
+dup(1)(q23q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q23q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q23q32)	-	-	Burkitt lymphoma/leukemia
+dup(1)(q23q32)	-	-	Burkitt lymphoma/leukemia
+dup(1)(q23q32)	-	-	Chronic myeloid leukemia, t(9;22)
+dup(1)(q23q32)	-	-	Chronic myeloid leukemia, t(9;22)
+dup(1)(q23q32)	-	-	Mature B-cell neoplasm, NOS
+dup(1)(q23q32)	-	-	Mature B-cell neoplasm, NOS
+dup(1)(q23q42)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q23q42)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q23q42)	-	-	Follicular lymphoma
+dup(1)(q23q42)	-	-	Follicular lymphoma
+dup(1)(q23q44)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q23q44)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q23q44)	-	-	Burkitt lymphoma/leukemia
+dup(1)(q23q44)	-	-	Burkitt lymphoma/leukemia
+dup(1)(q23q44)	-	-	Multiple myeloma
+dup(1)(q23q44)	-	-	Multiple myeloma
+dup(1)(q24q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q24q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q25.3)	NCF2	-	Chromosomal Gonadal Dysgenesis
+dup(1)(q25q32)	-	-	Burkitt lymphoma/leukemia
+dup(1)(q25q32)	-	-	Burkitt lymphoma/leukemia
+dup(1)(q25q32)	-	-	Follicular lymphoma
+dup(1)(q25q32)	-	-	Follicular lymphoma
+dup(1)(q25q44)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q25q44)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q25q44)	-	-	Chronic lymphocytic leukemia
+dup(1)(q25q44)	-	-	Chronic lymphocytic leukemia
+dup(1)(q25q44)	-	-	Diffuse large B-cell lymphoma
+dup(1)(q25q44)	-	-	Diffuse large B-cell lymphoma
+dup(1)(q25q44)	-	-	Follicular lymphoma
+dup(1)(q25q44)	-	-	Follicular lymphoma
+dup(1)(q25q44)	-	-	Mantle cell lymphoma
+dup(1)(q25q44)	-	-	Mantle cell lymphoma
+dup(1)(q25q44)	-	-	Mature B-cell neoplasm, NOS
+dup(1)(q25q44)	-	-	Mature B-cell neoplasm, NOS
+dup(1)(q25q44)	-	-	Peripheral T-cell lymphoma, unspecified
+dup(1)(q25q44)	-	-	Peripheral T-cell lymphoma, unspecified
+dup(1)(q31q21)	-	-	Burkitt lymphoma/leukemia
+dup(1)(q31q21)	-	-	Chronic myeloid leukemia, t(9;22)
+dup(1)(q31q41)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q31q44)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q31q44)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q31q44)	-	-	Burkitt lymphoma/leukemia
+dup(1)(q31q44)	-	-	Burkitt lymphoma/leukemia
+dup(1)(q32q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(1)(q32q44)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+dup(1)(q32q44)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+dup(1)(q41q42)	-	-	Diffuse large B-cell lymphoma
+dup(1)(q41q42)	-	-	Diffuse large B-cell lymphoma
+dup(1)(q41q44)	-	-	Diffuse large B-cell lymphoma
+dup(1)(q41q44)	-	-	Diffuse large B-cell lymphoma
+dup(1)(q41qter)		-	
+dup(2)(p11p25)	-	-	Diffuse large B-cell lymphoma
+dup(2)(p13p23)		-	B-Cell Lymphoma
+dup(2)(p16p21)	-	-	Diffuse large B-cell lymphoma
+dup(2)(p16p21)	-	-	Diffuse large B-cell lymphoma
+dup(2)(p25.3p25.1)		-	Mental Retardation Syndrome
+dup(2)(q11q37)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(2)(q31q33)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(2)(q31q37)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(2)(q35q31)	-	-	Acute monoblastic leukemia (FAB type M5)
+dup(2)(q35q31)	-	-	Acute monoblastic leukemia (FAB type M5)
+dup(3)(p12p21)		-	
+dup(3)(p25p25)	SRGAP3/RAF1	-	-
+dup(3)(q11q29)	-	-	Mantle cell lymphoma
+dup(3)(q12q23)		-	
+dup(3)(q21q26)	-	-	Diffuse large B-cell lymphoma
+dup(3)(q21q29)		-	Lymphoplasmacytic Lymphoma
+dup(3)(q21q29)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+dup(3)(q25.33qter)		-	
+dup(3)(q25q27)	-	-	Acute myeloid leukemia, NOS
+dup(3)(q25q27)	-	-	Acute myeloid leukemia, NOS
+dup(3)(q26.31qter)		-	
+dup(4)(p15p16)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(4)(p15p16)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(4)(q21q31)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+dup(4)(q24q28)	-	-	Hodgkin disease, nodular sclerosis
+dup(4)(q24q35)		-	
+dup(4)(q28q35)	-	-	Multiple myeloma
+dup(4)(q31q35)	-	-	Acute myeloid leukemia, NOS
+dup(4)(q35)		-	Facio-scapulo-humeral Type Muscular Dystrophy
+dup(5)(q13q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(5)(q13q31)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(5)(q31q35)		-	B-Cell Lymphomas
+dup(6)(p12p22.1)		-	Acute Myelocytic Leukemia-M1
+dup(6)(p21.1p21.3)		-	Acute Myelocytic Leukemia-M2
+dup(6)(p21.33p21.33)		-	HLA Haplotype
+dup(6)(p25p25)		-	
+dup(7)(p11.2p12)		-	
+dup(7)(p15p22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(7)(q11.1q31.1)		-	Glioblastoma
+dup(7)(q11q22)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+dup(7)(q11q22)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+dup(7)(q11q32)	-	-	Diffuse large B-cell lymphoma
+dup(7)(q11q32)	-	-	Diffuse large B-cell lymphoma
+dup(7)(q11q32)	-	-	Follicular lymphoma
+dup(7)(q11q32)	-	-	Follicular lymphoma
+dup(7)(q11q35)	-	-	Angioimmunoblastic T-cell lymphoma
+dup(7)(q11q35)	-	-	Angioimmunoblastic T-cell lymphoma
+dup(7)(q21q31)	-	-	Angioimmunoblastic T-cell lymphoma
+dup(7)(q21q35)		-	T-Cell Prolymphocytic Leukemia
+dup(7)(q22.1q31.1)		-	Gilles De La Tourette Syndrome
+dup(7)(q22q32)	-	-	Diffuse large B-cell lymphoma
+dup(7)(q22q32)	-	-	Diffuse large B-cell lymphoma
+dup(8)(p23p11.1)		-	
+dup(8)(p23p11.21)		-	
+dup(8)(p23p11.23)		-	
+dup(8)(p23p12)		-	
+dup(8)(p23p12)		-	
+dup(8)(q11q24)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+dup(8)(q11q24)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+dup(8)(q22q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(8)(q22q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(8)(q22qter)		-	San Luis Valley Syndrome
+dup(8)(q23q24)	-	-	Mantle cell lymphoma
+dup(8)(q23q24)	-	-	Mantle cell lymphoma
+dup(9)(p11.2p13.1)		-	
+dup(9)(p11.2p13.1)		-	
+dup(9)(p11.2p13.1)		-	Reproductive Failure
+dup(9)(p13p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(9)(p13p21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(9)(p13p24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(9)(p13p24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(9)(p21.1p23.3)		-	
+dup(9)(p24.1pter)		-	
+dup(9)(p24.1qter)		-	
+dup(9)(q12q34)	-	-	Multiple myeloma
+dup(9)(q12q34)	-	-	Multiple myeloma
+dup(9)(q34.12)		-	Chronic Myeloid Leukemia
+dup(10)(p11p15)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(10)(p15pter)		-	
+dup(10)(q11q26)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(10)(q22q25)	-	-	Follicular lymphoma
+dup(10)(q22q25)	-	-	Follicular lymphoma
+dup(11)(p15.5p15.5)	KCNQ1	-	Beckwith-Wiedemann Syndrome
+dup(11)(q12q13)	-	-	Acute myeloid leukemia, NOS
+dup(11)(q13q13)	-	-	Diffuse large B-cell lymphoma
+dup(11)(q13q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(11)(q13q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(11)(q13q23)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+dup(11)(q13q23)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+dup(11)(q13q23)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+dup(11)(q13q23)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+dup(11)(q13q23)	-	-	Burkitt lymphoma/leukemia
+dup(11)(q13q23)	-	-	Burkitt lymphoma/leukemia
+dup(11)(q13q23)	-	-	Diffuse large B-cell lymphoma
+dup(11)(q13q23)	-	-	Diffuse large B-cell lymphoma
+dup(11)(q13q23)	-	-	Mantle cell lymphoma
+dup(11)(q13q23)	-	-	Mantle cell lymphoma
+dup(11)(q13q23)	-	-	Mature B-cell neoplasm, NOS
+dup(11)(q13q23)	-	-	Mature B-cell neoplasm, NOS
+dup(11)(q13q25)		-	Follicular Lymphoma
+dup(11)(q13q25)	-	-	Diffuse large B-cell lymphoma
+dup(11)(q13q25)	-	-	Diffuse large B-cell lymphoma
+dup(11)(q13q25)	-	-	Follicular lymphoma
+dup(11)(q13q25)	-	-	Follicular lymphoma
+dup(11)(q13q25)	-	-	Mantle cell lymphoma
+dup(11)(q13q25)	-	-	Mantle cell lymphoma
+dup(11)(q13q25)	-	-	Mature B-cell neoplasm, NOS
+dup(11)(q13q25)	-	-	Mature B-cell neoplasm, NOS
+dup(11)(q21q24)	-	-	Diffuse large B-cell lymphoma
+dup(11)(q21q24)	-	-	Diffuse large B-cell lymphoma
+dup(11)(q23q13)	-	-	Diffuse large B-cell lymphoma
+dup(11)(q23q13)	-	-	Diffuse large B-cell lymphoma
+dup(11)(q23q23)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+dup(11)(q23q23)	-	-	Acute myeloid leukemia, NOS
+dup(11)(q23q25)	-	-	Burkitt lymphoma/leukemia
+dup(11)(q23q25)	-	-	Burkitt lymphoma/leukemia
+dup(11)(q23q42)		-	
+dup(12)(p11p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(12)(p11p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(12)(q11q21)	-	-	Follicular lymphoma
+dup(12)(q11q21)	-	-	Follicular lymphoma
+dup(12)(q11q24)	-	-	Follicular lymphoma
+dup(12)(q11q24)	-	-	Follicular lymphoma
+dup(12)(q12q14)	-	-	Follicular lymphoma
+dup(12)(q12q14)	-	-	Follicular lymphoma
+dup(12)(q13q15)	-	-	Diffuse large B-cell lymphoma
+dup(12)(q13q15)	-	-	Diffuse large B-cell lymphoma
+dup(12)(q13q15)	-	-	Follicular lymphoma
+dup(12)(q13q15)	-	-	Follicular lymphoma
+dup(12)(q13q15)	-	-	Mature B-cell neoplasm, NOS
+dup(12)(q13q15)	-	-	Mature B-cell neoplasm, NOS
+dup(12)(q13q21)		-	Follicular Lymphoma
+dup(12)(q13q21)	-	-	Chronic lymphocytic leukemia
+dup(12)(q13q21)	-	-	Chronic lymphocytic leukemia
+dup(12)(q13q21)	-	-	Diffuse large B-cell lymphoma
+dup(12)(q13q21)	-	-	Diffuse large B-cell lymphoma
+dup(12)(q13q21)	-	-	Follicular lymphoma
+dup(12)(q13q21)	-	-	Follicular lymphoma
+dup(12)(q13q21)	-	-	Mature B-cell neoplasm, NOS
+dup(12)(q13q21)	-	-	Mature B-cell neoplasm, NOS
+dup(12)(q13q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(12)(q13q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(12)(q13q22)	-	-	Chronic lymphocytic leukemia
+dup(12)(q13q22)	-	-	Chronic lymphocytic leukemia
+dup(12)(q13q22)	-	-	Follicular lymphoma
+dup(12)(q13q22)	-	-	Follicular lymphoma
+dup(12)(q13q23)	-	-	Diffuse large B-cell lymphoma
+dup(12)(q13q23)	-	-	Diffuse large B-cell lymphoma
+dup(12)(q13q23)	-	-	Follicular lymphoma
+dup(12)(q13q23)	-	-	Follicular lymphoma
+dup(12)(q13q24)	-	-	Chronic lymphocytic leukemia
+dup(12)(q13q24)	-	-	Chronic lymphocytic leukemia
+dup(12)(q13q24)	-	-	Diffuse large B-cell lymphoma
+dup(12)(q13q24)	-	-	Diffuse large B-cell lymphoma
+dup(12)(q13q24)	-	-	Follicular lymphoma
+dup(12)(q13q24)	-	-	Follicular lymphoma
+dup(12)(q13q24)	-	-	Mature B-cell neoplasm, NOS
+dup(12)(q13q24)	-	-	Mature B-cell neoplasm, NOS
+dup(12)(q15q22)	-	-	Mature B-cell neoplasm, NOS
+dup(12)(q15q24)	-	-	Diffuse large B-cell lymphoma
+dup(12)(q15q24)	-	-	Diffuse large B-cell lymphoma
+dup(12)(q15q24)	-	-	Follicular lymphoma
+dup(12)(q15q24)	-	-	Follicular lymphoma
+dup(12)(q21q21)	RAB21/TBC1D15	-	MPD
+dup(12)(q22q24.33)		-	
+dup(12)(q24.13qter)		-	
+dup(12)(q24.32qter)		-	
+dup(12)(q24q24)	VPS33A/MPHOSPH9	-	MPD
+dup(13)(q12q12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(13)(q12q14)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+dup(13)(q12q14)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+dup(13)(q21q14)	-	-	T-prolymphocytic leukemia
+dup(13)(q21q22)	-	-	Burkitt lymphoma/leukemia
+dup(13)(q21q34)	-	-	Follicular lymphoma
+dup(13)(q22q32)		-	Chronic Myeloid Leukemia
+dup(13)(q31q33)	-	-	Burkitt lymphoma/leukemia
+dup(14)(q24.1q24.1)	DNAJA2/NETO2	-	-
+dup(14)(q24q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(14)(q24q32)	-	-	Diffuse large B-cell lymphoma
+dup(14)(q24q32)	-	-	Mature B-cell neoplasm, NOS
+dup(14)(q32q32)	-	-	Diffuse large B-cell lymphoma
+dup(15)(q11q13)		-	Mental Retardation Syndrome
+dup(15)(q11q13)		-	Mental Retardation Syndrome
+dup(15)(q24)		-	
+dup(16)(p11p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(16)(p13.11p13.2)		-	
+dup(16)(p13.3p13.3)	HBA1	-	Alpha Thalassemia
+dup(16)(q11.2q12.1)	CUX1/RET	-	-
+dup(16)(q22.1q22.1)		-	Autism
+dup(16)(q22.2q22.2)	HP	-	Anaphylactic Shock
+dup(16)(q24q24)	USP10/ATP2C2	-	MPD
+dup(17)(p10p12)		-	
+dup(17)(p11.2)		-	
+dup(17)(p11.2)		-	Mental Retardation Syndrome
+dup(17)(p11.2p11.2)		-	Charcot's Arthropathy
+dup(17)(p11.2p12)		-	Charcot-Marie-Tooth Disease
+dup(17)(p11q11)	GIT1/SHMT1	-	MPD
+dup(17)(q11q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(17)(q11q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(17)(q12)		-	
+dup(17)(q12q21)	STAT5B/RARA	-	AML
+dup(17)(q12q25)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+dup(17)(q12q25)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+dup(17)(q21q25)		-	T-Cell Prolymphocytic Leukemia
+dup(17)(q21q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(17)(q21q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(17)(q21q25)	-	-	Diffuse large B-cell lymphoma
+dup(17)(q21q25)	-	-	Diffuse large B-cell lymphoma
+dup(17)(q22q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(17)(q22q25)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(17)(q23q23)	FAM131B/BRAF	-	-
+dup(18)(p11p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(18)(p11p11)	YES1/ENOSF1	-	MPD
+dup(18)(q12.12q22.32)		-	
+dup(18)(q21.2q22.2)		-	
+dup(18)(qterq12.2)		-	Edwards Syndrome
+dup(20)(p11p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(20)(p13p13)	TMC2/PTPRA	-	MPD
+dup(20)(q13.1q13.3)		-	
+der(21)add(21)(p11)add(21)(q22)dup(21)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(21)add(21)(p11)dup(21)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+der(21)r(21)dup(21)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(21)(q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(21)(q11q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(21)(q11q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(21)(q21q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(21)(q21q22)	-	-	Acute myeloid leukemia, NOS
+dup(21)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(21)(q22q22)	-	-	Acute erythroleukemia (FAB type M6)
+dup(21)(q22q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(21q) amplified (RUNX1)		-	B-ALL
+ider(21)(q10)dup(21)(q21q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+ider(21)(q10)dup(21)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+ider(21)(q10)dup(21)(q22q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dup(22)(q11.2)		-	
+dup(22)(q13.2	)	-	

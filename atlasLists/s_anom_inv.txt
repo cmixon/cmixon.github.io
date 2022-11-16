@@ -1,0 +1,186 @@
+inv(11)(p15q23):t(11;11)(p15;q23)	KMT2A/NRIP3	-	MPD
+inv(14)(q11q32):t(14;14)(q11;q32)	IGH/TRA	-	MPD
+inv(7)(p15q34)ort(7;7)(p15;q34)	TRB/HOXA11	-	MPD
+t(5;17)(q35;q21) without RARA involvement in non-M3 AML		-	MDS
+der(17)del(17)(p13)inv(17)(p13q11)	-	-	Chronic lymphocytic leukemia
+ider(2)(q10)inv(2)(p23q35)	-	-	Anaplastic large cell lymphoma, systemic type
+der(8)inv(8)(p21q22)t(8;21)(q22;q22)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+der(17)del(17)(p13)inv(17)(p13q11)	-	-	Chronic lymphocytic leukemia
+inv(X)(p11)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+inv(X)(p21q12)	-	-	Acute erythroleukemia (FAB type M6)
+inv(1)(p13q42)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+inv(1)(p22q21)	-	-	Diffuse large B-cell lymphoma
+inv(1)(p36q21)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+inv(1)(p36q21)	-	-	Multiple myeloma
+inv(1)(q21q32)	-	-	Acute myeloid leukemia, NOS
+inv(1)(q24q31)	-	-	Burkitt lymphoma/leukemia
+inv(1)(q32q42)	ARID4B/RPS6KC1	-	MPD
+ider(2)(q10)inv(2)(p23q35)	-	-	Anaplastic large cell lymphoma, systemic type
+inv(2)(p11q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+inv(2)(p13q33)		-	Anaplastic Large Cell Lymphoma
+inv(2)(p21p23)	EML4/ALK	-	MPD
+inv(2)(p22)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+inv(2)(p23q13)	-	-	Acute myeloid leukemia, NOS
+inv(2)(p23q13)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+inv(2)(p23q35)		-	Anaplastic Large Cell Lymphoma
+inv(2)(p25q21)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+inv(2)(q34)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+inv(2)(q37)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+inv(3)(p12q26)	?/MECOM	-	MPD
+inv(3)(p14q27)		-	Posttransplant B-Cell Lymphoma
+inv(3)(p21q26)	-	-	Acute myeloid leukemia, NOS
+inv(3)(p24p24)	CMC1/SLC4A7	-	MPD
+inv(3)(p24q26)	?/MECOM	-	MDS::AML
+inv(3)(p25q21)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+inv(3)(p25q29)	-	-	Diffuse large B-cell lymphoma
+inv(3)(q12q26)	-	-	Acute myeloid leukemia, NOS
+inv(3)(q12q27)	-	-	Diffuse large B-cell lymphoma
+inv(3)(q13q27)	-	-	Diffuse large B-cell lymphoma
+inv(3)(q21q26)	-	-	Acute erythroleukemia (FAB type M6)
+inv(3)(q21q26)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+inv(3)(q21q26)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+inv(3)(q21q26)	-	-	Acute monoblastic leukemia (FAB type M5)
+inv(3)(q21q26)	-	-	Acute monoblastic leukemia with differentiation (FAB type M5b)
+inv(3)(q21q26)	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+inv(3)(q21q26)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+inv(3)(q21q26)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+inv(3)(q21q26)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+inv(3)(q21q26)		-	Acute Myelocytic Leukemia
+inv(3)(q21q26)	-	-	Acute myeloid leukemia, NOS
+inv(3)(q21q26)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+inv(3)(q21q26)	-	-	Essential thrombocythemia
+inv(3)(q21q26)	-	-	Idiopathic myelofibrosis
+inv(3)(q21q26)	-	-	Multiple myeloma
+inv(3)(q21q26)	-	-	Refractory anemia
+inv(3)(q21q26)	-	-	Refractory anemia with excess blasts-2
+inv(3)(q21q26)	-	-	Refractory anemia with excess of blasts (FAB)
+inv(3)(q21q26)	RPN1/MECOM	-	AML::t-AML::MDS::MPD
+inv(3)(q22q26)	-	-	Acute monoblastic leukemia (FAB type M5)
+inv(3)(q22q26)	-	-	Acute myeloid leukemia, NOS
+inv(3)(q23q26)	?/MECOM	-	MPD
+inv(3)(q26)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+inv(3)(q26q28)	TBL1XR1/TP63	-	MPD
+inv(3)(q26q28)	TP63/TBL1XR1	-	MPD
+inv(4)(q32q32)	FAM198B/TMEM144	-	MPD
+inv(5)(p15q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+inv(5)(q13q35)	-	-	Multiple myeloma
+inv(5)(q14)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+inv(6)(p23q11)	-	-	Mantle cell lymphoma
+inv(6)(p23q12)	-	-	Acute erythroleukemia (FAB type M6)
+inv(6)(p25q13)		-	MDS::AML
+inv(6)(p25q13)		-	MDS::t-AML
+inv(6)(p25q14)	-	-	Acute myeloid leukemia, NOS
+inv(7)(p11q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+inv(7)(p14p22)		-	B-Cell Acute Lymphoblastic Leukemia
+inv(7)(p14q34)	TRB/TRG	-	MPD
+inv(7)(p14q34)	TRG/TRB	-	MPD
+inv(7)(p15.2q35)		-	T-Cell Acute Lymphoblastic Leukemia
+inv(7)(p15p22)	-	-	Multiple myeloma
+inv(7)(p15q32)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+inv(7)(p15q34)ort(7;7)(p15;q34)	TRB/HOXA11	-	MPD
+inv(7)(p15q34)	TRB/HOXA11	-	MPD
+inv(7)(p22q32)	-	-	Chronic lymphocytic leukemia
+inv(7)(q21)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+inv(7)(q22q34)	-	-	Acute myeloid leukemia, NOS
+inv(7)(q31q31)	LAMB1/CAPZA2	-	MPD
+der(8)inv(8)(p21q22)t(8;21)(q22;q22)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+inv(8)(p11q13)		-	Acute Myelocytic Leukemia
+inv(8)(p11q13)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+inv(8)(p11q13)	KAT6A/NCOA2	-	Acute Mixed Lineage Leukemia
+inv(8)(p21q22)	-	-	Acute myeloid leukemia, NOS
+inv(8)(p22q11)	-	-	Multiple myeloma
+inv(9)(p11q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+inv(9)(p11q13)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+inv(9)(p11q13)	-	-	Acute myeloid leukemia, NOS
+inv(9)(p11q13)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+inv(9)(p11q13)	-	-	Chronic lymphocytic leukemia
+inv(9)(p11q13)	-	-	Multiple myeloma
+inv(9)(p12q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+inv(9)(p12q13)	-	-	Acute myeloid leukemia, NOS
+inv(9)(p12q13)	-	-	Chronic lymphocytic leukemia
+inv(9)(p21.3p21.3)		-	T-Cell Acute Lymphoblastic Leukemia
+inv(9)(p21q21)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+inv(9)(p21q22)	-	-	Acute myeloid leukemia, NOS
+inv(9)(q33)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+inv(10)(p15q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+inv(11)(p15q22.3)		-	Acute Lymphoblastic Leukemia
+inv(11)(p15q22)		-	Acute Myelocytic Leukemia
+inv(11)(p15q22)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+inv(11)(p15q22)		-	Non-Hodgkin Lymphoma
+inv(11)(p15q22)	NUP98/DDX10	-	AML::MDS::MPD
+inv(11)(p15q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+inv(11)(p15q23)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+inv(11)(p15q23)	-	-	Acute myeloid leukemia, NOS
+inv(11)(p15q23)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+inv(11)(p15q23)	NUP98/KMT2A	-	MDS::t-AML::AML::B-ALL::NHL
+inv(11)(p15q23):t(11;11)(p15;q23)	KMT2A/NRIP3	-	MPD
+inv(11)(q12q23)		-	Acute Monocytic Leukemia
+inv(11)(q13q23)		-	Acute Myelocytic Leukemia-M5
+inv(11)(q14q23)		-	Acute Myelocytic Leukemia-M5
+inv(11)(q14q23)	PICALM/MLL	-	Acute Myelocytic Leukemia-M5
+inv(11)(q21q23)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+inv(11)(q21q23)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+inv(11)(q21q23)	-	-	Acute myeloid leukemia, NOS
+inv(11)(q21q23) KMT2A/MAML2 in therapy related leukemias	KMT2A/MAML2	-	MDS::t-AML
+inv(12)(p11q11)	-	-	Multiple myeloma
+inv(12)(p11q13)	-	-	Acute myeloid leukemia, NOS
+inv(12)(p13p13)	IQSEC3/KDM5A	-	MPD
+inv(12)(p13q13)	-	-	Chronic lymphocytic leukemia
+inv(12)(p13q15)	ETV6/PTPRR	-	MDS::AML
+inv(12)(p13q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+inv(12)(p13q24)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+inv(12)(p13q24)	-	-	Refractory anemia with excess of blasts (FAB)
+inv(12)(q13q13)	NAB2/STAT6	-	MPD
+inv(12)(q15q24)	-	-	Refractory anemia
+inv(12)(q24q24)	IFT81/HECTD4	-	MPD
+inv(14)(q11.2q32.31)	BCL11B/TRDC	-	MPD
+inv(14)(q11q32)	-	-	Adult T-cell lymphoma/leukemia (HTLV-1+)
+inv(14)(q11q32)	-	-	Angioimmunoblastic T-cell lymphoma
+inv(14)(q11q32)	BCL11B/TRD	-	MPD
+inv(14)(q11q32)	-	-	Chronic lymphocytic leukemia
+inv(14)(q11q32)	IGH/TRD	-	MPD
+inv(14)(q11q32):t(14;14)(q11;q32)	IGH/TRA	-	MPD
+inv(14)(q11q32)	TRA-D/IGH	-	MPD
+inv(14)(q13q24)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+inv(14)(q22q24)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+inv(14)(q32)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+inv(14)(q32q11.2)	BCL11B	-	T-Cell Acute Lymphoblastic Leukemia
+inv(16)(p11q24)	-	-	Acute myeloid leukemia, NOS
+inv(16)(p12q13)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+inv(16)(p13q13)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+inv(16)(p13q22)	-	-	Acute erythroleukemia (FAB type M6)
+inv(16)(p13q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+inv(16)(p13q22)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+inv(16)(p13q22)	-	-	Acute monoblastic leukemia (FAB type M5)
+inv(16)(p13q22)	-	-	Acute monoblastic leukemia with differentiation (FAB type M5b)
+inv(16)(p13q22)	-	-	Acute monoblastic leukemia without differentiation (FAB type M5a)
+inv(16)(p13q22)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+inv(16)(p13q22)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+inv(16)(p13q22)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+inv(16)(p13q22)		-	Acute Myelocytic Leukemia
+inv(16)(p13q22)		-	Acute Myelocytic Leukemia-M2
+inv(16)(p13q22)		-	Acute Myelocytic Leukemia-M4
+inv(16)(p13q22)		-	Acute Myeloid Leukemia
+inv(16)(p13q22)	-	-	Acute myeloid leukemia, NOS
+inv(16)(p13q22)		-	Acute Myeloid Leukemias
+inv(16)(p13q22)		-	Acute Myelomonocytic Leukemia M4Eo
+inv(16)(p13q22)	-	-	Acute promyelocytic leukemia (FAB type M3)
+inv(16)(p13q22)	CBFB/MYH11	-	MPD::MDS::AML::t-AML
+inv(16)(p13q22)	MYH11	-	Acute Myelocytic Leukemia
+inv(16)(p13q22)	MYH11/CBFB	-	Acute Myelocytic Leukemia
+inv(16)(p13q22)	-	-	Refractory anemia with excess blasts-2
+inv(16)(p13q22)	-	-	Refractory anemia with ringed sideroblasts
+inv(16)(p13q24)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+der(17)del(17)(p13)inv(17)(p13q11)	-	-	Chronic lymphocytic leukemia
+inv(17)(p11q25)	-	-	Acute myeloid leukemia, NOS
+inv(18)(p11q21)		-	MDS::NHL
+inv(19)(p13p13)	GNG7/SCAMP4	-	MPD
+inv(19)(p13p13)	SPPL2B/POLR2E	-	MPD
+inv(19)(p13p13)	ZNRF4/AP3D1	-	MPD
+inv(19)(p13q13)		-	Acute Lymphoblastic Leukemia
+inv(19)(q13)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+inv(19)(q13q13)	CACNG6/ZNF320	-	MPD
+inv(20)(p11q13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+inv(20)(p13p12)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+inv(21)(q21)	-	haematopoietic_and_lymphoid_tissue__NS	lymphoid_neoplasm__adult_T_cell_lymphoma-leukaemia
+inv(21)(q22.12q22.12)	RUNX1	-	Acute Lymphoblastic Leukemia

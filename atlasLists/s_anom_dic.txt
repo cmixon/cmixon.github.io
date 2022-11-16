@@ -1,0 +1,97 @@
+der(20;20)dic(20;20)(p11;p11)del(20)(q11q13)del(20)	-	-	Refractory cytopenia with multilineage dysplasia
+der(20;20)dic(20;20)(p11;p11)del(20)(q11q13)del(20)	-	-	Refractory cytopenia with multilineage dysplasia and ringed sideroblasts
+der(20;20)dic(20;20)(p11;p11)del(20)(q11q13)del(20)	-	-	Refractory cytopenia with multilineage dysplasia
+der(20;20)dic(20;20)(p11;p11)del(20)(q11q13)del(20)	-	-	Refractory cytopenia with multilineage dysplasia and ringed sideroblasts
+idic(X)(q13)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+idic(X)(q13)	-	-	Acute myeloid leukemia, NOS
+idic(X)(q13)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+idic(X)(q13)		-	MPD::MDS::AML
+idic(X)(q13)	-	-	Refractory anemia
+idic(X)(q13)	-	-	Refractory anemia with excess blasts-1
+idic(X)(q13)	-	-	Refractory anemia with excess of blasts (FAB)
+idic(X)(q13)	-	-	Refractory anemia with ringed sideroblasts
+dic(1;15)(p11;p11)		-	MPD::MDS::AML
+dic(1;7)(p11;q11)	-	-	Refractory anemia
+dic(1;7)(p11;q11)	-	-	Refractory anemia with excess of blasts (FAB)
+idic(1)(p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(2;18)(q11;p11)	-	-	Chronic lymphocytic leukemia
+dic(4;17)(p11;p11)	-	-	Chronic lymphocytic leukemia
+dic(5;17)(q11;p11)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+dic(5;17)(q11;p11)	-	-	Acute myeloid leukemia, NOS
+dic(5;17)(q13;p11)	-	-	Acute erythroleukemia (FAB type M6)
+dic(5;7)(q13;p22)	-	-	Acute megakaryoblastic leukemia (FAB type M7)
+idic(5)(q11)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+idic(5)(q11)	-	-	Refractory anemia
+dic(7;11)(q11;p11)	-	-	Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+dic(7;12)(p11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(7;12)(p11;p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(7;16)(p11;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(7;16)(q11;p11)	-	-	Refractory anemia with excess of blasts (FAB)
+dic(7;22)(q11;q10)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+dic(7;9)(p11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(7;9)(p11;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(7;9)(p12;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(7;9)(p13;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+idic(7)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+idic(7)(q11)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+idic(7)(q11)	-	-	Acute myeloid leukemia, NOS
+dic(8;12)(p11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(8;17)(p11;p11)	-	-	Chronic lymphocytic leukemia
+dic(8;9)(q24;p24)	-	-	Mantle cell lymphoma
+idic(8)(p11)	-	-	Acute myeloid leukemia, NOS
+dic(9;12)(p11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(9;12)(p11;p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(9;12)(p12;p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(9;12)(p13;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(9;12)(p13;p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(9;12)(p13;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(9;15)(p11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(9;17)(p11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(9;17)(p13;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(9;18)(p13;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(9;20)(p11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(9;20)(p11;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(9;20)(p12;q11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(9;20)(p13;q11)	PAX5/ASXL1	-	MPD
+dic(9;20)(p13;q11)	PAX5/KIF3B	-	MPD
+dic(9;20)(p13;q11)	PAX5/NOL4L	-	MPD
+dic(9;20)(p13;q11)	ZCCHC7/FRG1BP	-	MPD
+dic(9;22)(p11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+idic(9)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+idic(9)(p12)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+idic(9)(p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+idic(9)(q12)	-	-	Diffuse large B-cell lymphoma
+idic(11)(p11)	-	-	Acute myeloblastic leukemia without maturation (FAB type M1)
+idic(11)(p11)	-	-	Acute myeloid leukemia, NOS
+dic(12;13)(p11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(12;13)(p11;p11)	-	-	Acute myeloid leukemia, NOS
+dic(12;15)(p11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(12;16)(p11;p13)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(12;17)(p11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(12;17)(p11;p11)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+dic(12;18)(p11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(15;17)(p11;p11)	-	-	Chronic lymphocytic leukemia
+dic(15;21)(p11;p11)	-	-	Acute myeloid leukemia, NOS
+dic(16;18)(q11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(16;22)(q11;p11)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+dic(17;18)(p11;p11)	-	-	Chronic lymphocytic leukemia
+dic(17;20)(p11.2;q11.2)		-	AML::MDS::t-AML
+dic(17;20)(p11;q11)	-	-	Refractory anemia with excess blasts-2
+idic(17)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+idic(17)(p11)	-	-	Acute myeloid leukemia, NOS
+idic(17)(p11)	-	-	Chronic lymphocytic leukemia
+idic(17)(p11)	-	-	Refractory anemia with excess of blasts (FAB)
+idic(18)(p11)	-	-	Diffuse large B-cell lymphoma
+der(20;20)dic(20;20)(p11;p11)del(20)(q11q13)del(20)	-	-	Refractory cytopenia with multilineage dysplasia
+der(20;20)dic(20;20)(p11;p11)del(20)(q11q13)del(20)	-	-	Refractory cytopenia with multilineage dysplasia and ringed sideroblasts
+dic(21;21)(p11;p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+dic(21;22)(p11;p11)	-	-	Acute myeloid leukemia, NOS
+idic(21)(p11)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+idic(21)(q22)	-	-	Acute lymphoblastic leukemia/lymphoblastic lymphoma
+idic(21)(q22)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+idic(21)(q22)	-	-	Acute myeloid leukemia, NOS
+idic(21)(q22)	-	-	Acute myelomonocytic leukemia (FAB type M4)
+idic(22)(p11)	-	-	Acute erythroleukemia (FAB type M6)
+idic(22)(p11)	-	-	Acute myeloblastic leukemia with maturation (FAB type M2)
+idic(22)(p11)	-	-	Acute myeloid leukemia, NOS
+idic(22)(p11)	-	-	Acute myelomonocytic leukemia (FAB type M4)

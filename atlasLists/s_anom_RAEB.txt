@@ -1,0 +1,173 @@
+t(Y;1)(q12;q21)	-	-	Refractory anemia with excess blasts-2
+t(1;13)(p36;q14)	-	-	Refractory anemia with excess blasts-2
+t(1;3)(p36;p21)	-	-	Refractory anemia with excess of blasts (FAB)
+t(1;3)(p36;q21)	-	-	Refractory anemia with excess blasts-2
+t(1;3)(p36;q21)	-	-	Refractory anemia with excess of blasts (FAB)
+t(1;7)(p11;p11)	-	-	Refractory anemia with excess blasts-1
+t(1;7)(p11;p11)	-	-	Refractory anemia with excess of blasts (FAB)
+t(1;7)(p36;q32)	-	-	Refractory anemia with excess blasts-2
+t(2;11)(p21;q23)	-	-	Refractory anemia with excess blasts-2
+t(2;11)(p21;q23)	-	-	Refractory anemia with excess of blasts (FAB)
+t(2;3)(p22;q26)	-	-	Refractory anemia with excess of blasts (FAB)
+t(3;21)(q26;q22)	-	-	Refractory anemia with excess blasts-1
+t(3;21)(q26;q22)	-	-	Refractory anemia with excess blasts-2
+t(3;21)(q26;q22)	-	-	Refractory anemia with excess of blasts (FAB)
+t(3;3)(q21;q26)	-	-	Refractory anemia with excess blasts-2
+t(3;5)(q25;q35)	-	-	Refractory anemia with excess blasts-2
+t(5;17)(p11;p11)	-	-	Refractory anemia with excess of blasts (FAB)
+t(6;9)(p23;q34)	-	-	Refractory anemia with excess blasts-2
+t(6;9)(p23;q34)	-	-	Refractory anemia with excess of blasts (FAB)
+t(7;17)(p11;p11)	-	-	Refractory anemia with excess of blasts (FAB)
+t(8;21)(q22;q22)	-	-	Refractory anemia with excess blasts-1
+t(8;21)(q22;q22)	-	-	Refractory anemia with excess blasts-2
+t(8;21)(q22;q22)	-	-	Refractory anemia with excess of blasts (FAB)
+t(9;22)(q34;q11)	-	-	Refractory anemia with excess blasts-2
+del(1)(p21)	-	-	Refractory anemia with excess of blasts (FAB)
+del(1)(p22)	-	-	Refractory anemia with excess blasts-2
+del(1)(p22)	-	-	Refractory anemia with excess of blasts (FAB)
+del(1)(q11)	-	-	Refractory anemia with excess of blasts (FAB)
+del(1)(q31)	-	-	Refractory anemia with excess blasts-2
+del(1)(q32)	-	-	Refractory anemia with excess of blasts (FAB)
+del(2)(p14)	-	-	Refractory anemia with excess of blasts (FAB)
+del(2)(p23)	-	-	Refractory anemia with excess of blasts (FAB)
+del(3)(p21)	-	-	Refractory anemia with excess of blasts (FAB)
+del(3)(p22)	-	-	Refractory anemia with excess of blasts (FAB)
+del(3)(q21)	-	-	Refractory anemia with excess of blasts (FAB)
+del(4)(p14)	-	-	Refractory anemia with excess blasts-2
+del(4)(q25)	-	-	Refractory anemia with excess of blasts (FAB)
+del(4)(q26)	-	-	Refractory anemia with excess of blasts (FAB)
+del(4)(q31)	-	-	Refractory anemia with excess blasts-2
+del(5)(q11q31)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q11q33)	-	-	Refractory anemia with excess blasts-1
+del(5)(q11q33)	-	-	Refractory anemia with excess blasts-2
+del(5)(q11q33)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q12q32)	-	-	Refractory anemia with excess blasts-1
+del(5)(q12q32)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q12q33)	-	-	Refractory anemia with excess blasts-2
+del(5)(q12q33)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q12q34)	-	-	Refractory anemia with excess blasts-2
+del(5)(q12q34)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q12)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q13q31)	-	-	Refractory anemia with excess blasts-2
+del(5)(q13q31)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q13q32)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q13q33)	-	-	Refractory anemia with excess blasts-1
+del(5)(q13q33)	-	-	Refractory anemia with excess blasts-2
+del(5)(q13q33)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q13q34)	-	-	Refractory anemia with excess blasts-2
+del(5)(q13q34)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q13q35)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q13)	-	-	Refractory anemia with excess blasts-2
+del(5)(q13)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q14q32)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q14q33)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q14q34)	-	-	Refractory anemia with excess blasts-2
+del(5)(q14q34)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q14)	-	-	Refractory anemia with excess blasts-2
+del(5)(q15q31)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q15q33)	-	-	Refractory anemia with excess blasts-2
+del(5)(q15q33)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q15q35)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q15)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q21q33)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q21q34)	-	-	Refractory anemia with excess blasts-1
+del(5)(q21q34)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q22q33)	-	-	Refractory anemia with excess blasts-1
+del(5)(q22q33)	-	-	Refractory anemia with excess blasts-2
+del(5)(q22q33)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q22)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q23q33)	-	-	Refractory anemia with excess blasts-2
+del(5)(q23q34)	-	-	Refractory anemia with excess blasts-2
+del(5)(q23q34)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q31q34)	-	-	Refractory anemia with excess blasts-2
+del(5)(q31q35)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5)(q31)	-	-	Refractory anemia with excess of blasts (FAB)
+del(5q)	-	-	Refractory anemia with excess blasts-1
+del(5q)	-	-	Refractory anemia with excess blasts-2
+del(5q)	-	-	Refractory anemia with excess of blasts (FAB)
+del(6)(q16q24)	-	-	Refractory anemia with excess of blasts (FAB)
+del(6)(q21)	-	-	Refractory anemia with excess of blasts (FAB)
+del(6)(q22)	-	-	Refractory anemia with excess of blasts (FAB)
+del(6)(q23)	-	-	Refractory anemia with excess of blasts (FAB)
+del(6q)	-	-	Refractory anemia with excess of blasts (FAB)
+del(7)(q11q22)	-	-	Refractory anemia with excess of blasts (FAB)
+del(7)(q11)	-	-	Refractory anemia with excess of blasts (FAB)
+del(7)(q21q31)	-	-	Refractory anemia with excess of blasts (FAB)
+del(7)(q21q33)	-	-	Refractory anemia with excess of blasts (FAB)
+del(7)(q21q34)	-	-	Refractory anemia with excess of blasts (FAB)
+del(7)(q21)	-	-	Refractory anemia with excess blasts-1
+del(7)(q21)	-	-	Refractory anemia with excess blasts-2
+del(7)(q21)	-	-	Refractory anemia with excess of blasts (FAB)
+del(7)(q22q32)	-	-	Refractory anemia with excess of blasts (FAB)
+del(7)(q22q34)	-	-	Refractory anemia with excess of blasts (FAB)
+del(7)(q22q36)	-	-	Refractory anemia with excess of blasts (FAB)
+del(7)(q22)	-	-	Refractory anemia with excess blasts-1
+del(7)(q22)	-	-	Refractory anemia with excess blasts-2
+del(7)(q22)	-	-	Refractory anemia with excess of blasts (FAB)
+del(7)(q31q34)	-	-	Refractory anemia with excess of blasts (FAB)
+del(7)(q32)	-	-	Refractory anemia with excess of blasts (FAB)
+del(7q)	-	-	Refractory anemia with excess of blasts (FAB)
+del(9)(q13q22)	-	-	Refractory anemia with excess of blasts (FAB)
+del(9)(q22q34)	-	-	Refractory anemia with excess of blasts (FAB)
+del(9q)	-	-	Refractory anemia with excess of blasts (FAB)
+del(11)(q13q23)	-	-	Refractory anemia with excess of blasts (FAB)
+del(11)(q14q23)	-	-	Refractory anemia with excess blasts-2
+del(11)(q14)	-	-	Refractory anemia with excess blasts-1
+del(11)(q14)	-	-	Refractory anemia with excess blasts-2
+del(11)(q14)	-	-	Refractory anemia with excess of blasts (FAB)
+del(11)(q21q23)	-	-	Refractory anemia with excess of blasts (FAB)
+del(11)(q21)	-	-	Refractory anemia with excess of blasts (FAB)
+del(11)(q22)	-	-	Refractory anemia with excess of blasts (FAB)
+del(11q)	-	-	Refractory anemia with excess blasts-2
+del(11q)	-	-	Refractory anemia with excess of blasts (FAB)
+del(12)(p11p12)	-	-	Refractory anemia with excess of blasts (FAB)
+del(12)(p11p13)	-	-	Refractory anemia with excess of blasts (FAB)
+del(12)(p11)	-	-	Refractory anemia with excess of blasts (FAB)
+del(12)(p12p13)	-	-	Refractory anemia with excess blasts-2
+del(12)(p12p13)	-	-	Refractory anemia with excess of blasts (FAB)
+del(12)(p12)	-	-	Refractory anemia with excess blasts-2
+del(12)(p12)	-	-	Refractory anemia with excess of blasts (FAB)
+del(12)(p13)	-	-	Refractory anemia with excess blasts-1
+del(12p)	-	-	Refractory anemia with excess blasts-2
+del(12p)	-	-	Refractory anemia with excess of blasts (FAB)
+del(13)(q12q14)	-	-	Refractory anemia with excess of blasts (FAB)
+del(13)(q12q21)	-	-	Refractory anemia with excess of blasts (FAB)
+del(13)(q13q31)	-	-	Refractory anemia with excess of blasts (FAB)
+del(13q)	-	-	Refractory anemia with excess of blasts (FAB)
+del(16)(q13)	-	-	Refractory anemia with excess of blasts (FAB)
+del(16)(q22)	-	-	Refractory anemia with excess of blasts (FAB)
+del(17)(p11)	-	-	Refractory anemia with excess of blasts (FAB)
+del(17)(p12)	-	-	Refractory anemia with excess of blasts (FAB)
+del(17)(p13)	-	-	Refractory anemia with excess blasts-2
+del(18)(q21)	-	-	Refractory anemia with excess blasts-1
+del(18)(q21)	-	-	Refractory anemia with excess of blasts (FAB)
+del(20)(q11q13)	-	-	Refractory anemia with excess blasts-2
+del(20)(q11q13)	-	-	Refractory anemia with excess of blasts (FAB)
+del(20)(q11)	-	-	Refractory anemia with excess blasts-1
+del(20)(q11)	-	-	Refractory anemia with excess blasts-2
+del(20)(q11)	-	-	Refractory anemia with excess of blasts (FAB)
+del(20)(q12q13)	-	-	Refractory anemia with excess of blasts (FAB)
+del(20)(q12)	-	-	Refractory anemia with excess blasts-1
+del(20)(q12)	-	-	Refractory anemia with excess blasts-2
+del(20)(q12)	-	-	Refractory anemia with excess of blasts (FAB)
+del(20)(q13q13)	-	-	Refractory anemia with excess of blasts (FAB)
+del(20q)	-	-	Refractory anemia with excess blasts-2
+del(20q)	-	-	Refractory anemia with excess of blasts (FAB)
+del(21)(q22)	-	-	Refractory anemia with excess of blasts (FAB)
+del(22)(q11)	-	-	Refractory anemia with excess blasts-1
+del(22)(q11)	-	-	Refractory anemia with excess of blasts (FAB)
+der(Y)t(Y;1)(q12;q21)	-	-	Refractory anemia with excess blasts-2
+der(1)t(1;7)(p11;p11)	-	-	Refractory anemia with excess blasts-1
+der(1)t(1;7)(p11;p11)	-	-	Refractory anemia with excess of blasts (FAB)
+der(17)t(5;17)(p11;p11)	-	-	Refractory anemia with excess of blasts (FAB)
+der(17)t(7;17)(p11;p11)	-	-	Refractory anemia with excess of blasts (FAB)
+idic(X)(q13)	-	-	Refractory anemia with excess blasts-1
+idic(X)(q13)	-	-	Refractory anemia with excess of blasts (FAB)
+dic(1;7)(p11;q11)	-	-	Refractory anemia with excess of blasts (FAB)
+dic(7;16)(q11;p11)	-	-	Refractory anemia with excess of blasts (FAB)
+dic(17;20)(p11;q11)	-	-	Refractory anemia with excess blasts-2
+idic(17)(p11)	-	-	Refractory anemia with excess of blasts (FAB)
+inv(3)(q21q26)	-	-	Refractory anemia with excess blasts-2
+inv(3)(q21q26)	-	-	Refractory anemia with excess of blasts (FAB)
+inv(12)(p13q24)	-	-	Refractory anemia with excess of blasts (FAB)
+inv(16)(p13q22)	-	-	Refractory anemia with excess blasts-2
