@@ -45,7 +45,6 @@
       <input type="radio" name="asm" id="GRCh38" value="GRCh38">
       <label for="GRCh38">GRCh38</label>
       <input type="radio" name="asm" id="GRCh37" value="GRCh37" checked>
-      <label for="GRCh37">GRCh37</label><span>https://cmixon.github.io/data/all_chr_fragile_site.bed</span>
     </p>
     <br/>
     <div style="clear: both;">
@@ -80,7 +79,7 @@
   }
 
   d3.select('#display-bed').on('click', function() {
-    var bedUrl = "file:///cmixon.github.io/data/all_chr_fragile_site.bed";
+    var bedUrl = "https://cmixon.github.io/data/all_chr_fragile_site.bed";
     var asm = d3.select('input[name="asm"]:checked').nodes()[0].value;
     d3.select('#ideo-container').nodes()[0].innerHTML = '';
     ideogram = new Ideogram({
