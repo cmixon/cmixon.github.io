@@ -1,0 +1,719 @@
+1p11       12q13      der(1)t(1;12)(p11;q13) Soft tissue Liposarcoma, myxoid/round cell 
+1p11       12q13      t(1;12)(p11;q13) Soft tissue Liposarcoma, myxoid/round cell 
+1p11       16p11      der(1)t(1;16)(p11;p11) Soft tissue Liposarcoma, myxoid/round cell 
+1p11       16p11      t(1;16)(p11;p11) Soft tissue Liposarcoma, myxoid/round cell 
+1p11       del(1)(p11) Skeleton Osteosarcoma, NOS 
+1p11       del(1)(p11) Soft tissue Leiomyosarcoma 
+1p11       del(1)(p11) Soft tissue Undifferentiated pleomorphic sarcoma 
+1p12       14q31      t(1;14)(p12;q31) NOTCH2/CEP128 Soft Tissues: Soft Tissues  
+1p12       del(1)(p12) Soft tissue Leiomyosarcoma 
+1p13       1q21       t(1;1)(p13;q21) CSF1/S100A10 Soft Tissues: Soft Tissues  
+1p13       2q35       t(1;2)(p13;q35) CSF1/COL6A3 Soft Tissues Soft tissue tumor 
+1p13       2q37       t(1;2)(p13;q37) COL6A3/CSF1 Soft Tissues: Soft Tissues  
+1p13       2q37       t(1;2)(p13;q37) Soft tissue Localized giant cell tumor of tendon sheath 
+1p13       del(1)(p13) Skeleton Osteosarcoma, NOS 
+1p13       del(1)(p13) Soft tissue Myxofibrosarcoma 
+1p13       idic(1)(p13) Soft tissue Neuroblastoma 
+1p21       del(1)(p21) Skeleton Ewing sarcoma 
+1p21       del(1)(p21) Soft tissue Malignant peripheral nerve sheath tumor/Triton 
+1p22       10q24      der(10)t(1;10)(p22;q24) Soft tissue Myxoinflammatory fibroblastic sarcoma 
+1p22       10q24      t(1;10)(p22;q24) FGF8 Soft Tissues Myxoinflammatory fibroblastic sarcoma 
+1p22       10q24      t(1;10)(p22;q24) FGF8 Soft Tissues Soft tissue tumor 
+1p22       10q24      t(1;10)(p22;q24)  Myxoinflammatory Fibroblastic Sarcoma 
+1p22       10q24      t(1;10)(p22;q24) Soft tissue Myxoinflammatory fibroblastic sarcoma 
+1p22       1p22       t(1;1)(p22;p22) CTBS/GNG5 Soft Tissues: Soft Tissues  
+1p22       2q31       t(1;2)(p22;q31) Soft tissue Synovial sarcoma 
+1p22       del(1)(p22) Soft tissue Liposarcoma, pleomorphic 
+1p22       del(1)(p22) Soft tissue Neuroblastoma 
+1p22       del(1)(p22) Soft tissue Synovial sarcoma 
+1p31       del(1)(p31) Skeleton Ewing sarcoma 
+1p31       del(1)(p31) Soft tissue Neuroblastoma 
+1p32       12q14      t(1;12)(p32;q14) HMGA2/PLPP3 Soft Tissues: Soft Tissues  
+1p32       12q14      t(1;12)(p32;q14) HMGA2/PPAP2B Soft Tissues Lipoma 
+1p32       12q14      t(1;12)(p32;q14) PPAP2B/HMGA2 Soft Tissues Benign Lipomatous tumor 
+1p32       12q14      t(1;12)(p32;q14) PPAP2B/HMGA2 Soft Tissues Soft tissue tumor 
+1p32       12q15      t(1;12)(p32;q15) Soft tissue Lipoma 
+1p32       6p21       t(1;6)(p32;p21) Soft tissue Lipoma 
+1p32       del(1)(p32) Soft tissue Leiomyosarcoma 
+1p32       del(1)(p32) Soft tissue Lipoma 
+1p32       del(1)(p32) Soft tissue Neuroblastoma 
+1p33       12q14      t(1;12)(p33;q14) Soft tissue Lipoma 
+1p33       12q15      t(1;12)(p33;q15) Soft tissue Lipoma 
+1p33       15q23      t(1;15)(p33;q23)  Embryonal Rhabdomyo Sarcoma 
+1p34       12q15      t(1;12)(p34;q15) Soft tissue Lipoma 
+1p34       15q22      t(1;15)(p34;q22)  Embryonal Rhabdomyo Sarcoma 
+1p34       16p11      t(1;16)(p34;p11) FUS/KLF17 Soft Tissues: Soft Tissues  
+1p34       22q12      t(1;22)(p34;q12) EWSR1/KLF17 Soft Tissues: Soft Tissues  
+1p34       6p21       t(1;6)(p34;p21) MEAF6/PHF1 Soft Tissue  
+1p34       6p21       t(1;6)(p34;p21) MEAF6/PHF1 Soft Tissues: Soft Tissues  
+1p36       13q14      der(1)t(1;13)(p36;q14) Soft tissue Alveolar rhabdomyosarcoma 
+1p36       13q14      t(1;13)(p36;q14) PAX7/FOXO1 Soft Tissues Alveolar rhabdomyosarcoma 
+1p36       13q14      t(1;13)(p36;q14) PAX7/FOXO1 Soft Tissues Rhabdomyosarcoma 
+1p36       13q14      t(1;13)(p36;q14) PAX7/FOXO1 Soft Tissues Soft tissue tumor 
+1p36       13q14      t(1;13)(p36;q14) Soft tissue Alveolar rhabdomyosarcoma 
+1p36       16p11      t(1;16)(p36;p11) Soft tissue Benign fibrous histiocytoma 
+1p36       16p12      t(1;16)(p36;p12) PDPN/PRKCB Soft Tissues: Soft Tissues  
+1p36       22q11      t(1;22)(p36;q11) SMARCB1/WASF2 Soft Tissues Soft tissue tumor 
+1p36       3p21       der(1)t(1;3)(p36;p21) Skeleton Osteosarcoma, NOS 
+1p36       3p21       t(1;3)(p36;p21) Skeleton Osteosarcoma, NOS 
+1p36       3q25       t(1;3)(p36;q25) Soft tissue Epithelioid hemangioendothelioma 
+1p36       3q25       t(1;3)(p36;q25) WWTR1/CAMTA1 Soft Tissues Soft tissue tumor 
+1p36       6q25       t(1;6)(p36;q25) Soft tissue Lipoma 
+1p36       del(1)(p36) Skeleton Ewing sarcoma 
+1p36       der(1)add(1)(p36)del(1)(q12) Soft tissue Myxofibrosarcoma 
+1q11       16q11      der(16)t(1;16)(q11;q11) Skeleton Ewing sarcoma 
+1q11       16q11      t(1;16)(q11;q11) Skeleton Ewing sarcoma 
+1q11       del(1)(q11) Skeleton Osteosarcoma, NOS 
+1q11       del(1)(q11) Soft tissue Leiomyosarcoma 
+1q11       del(1)(q11) Soft tissue Myogenic sarcoma, NOS 
+1q11       del(1)(q11) Soft tissue Myxofibrosarcoma 
+1q11       del(1)(q11) Soft tissue Undifferentiated pleomorphic sarcoma 
+1q11       del(1)(q11) Uterus, corpus Endometrial stromal sarcoma 
+1q12       16q11      der(16)t(1;16)(q12;q11) Skeleton Ewing sarcoma 
+1q12       16q11      t(1;16)(q12;q11) Skeleton Ewing sarcoma 
+1q12       16q12      der(16)t(1;16)(q12;q12) Skeleton Ewing sarcoma 
+1q12       16q12      t(1;16)(q12;q12) Skeleton Ewing sarcoma 
+1q12       del(1)(q12) Skeleton Osteosarcoma, NOS 
+1q12       del(1)(q12) Soft tissue Leiomyosarcoma 
+1q12       del(1)(q12) Soft tissue Myxofibrosarcoma 
+1q21       16q13      der(16)t(1;16)(q21;q13) Skeleton Ewing sarcoma 
+1q21       16q13      der(16)t(1;16)(q21;q13) Soft tissue Alveolar rhabdomyosarcoma 
+1q21       16q13      t(1;16)(q21;q13) Skeleton Ewing sarcoma 
+1q21       16q13      t(1;16)(q21;q13) Skeleton Ewing sarcoma 
+1q21       16q13      t(1;16)(q21;q13) Soft tissue Alveolar rhabdomyosarcoma 
+1q21       16q13      t(1;16)(q21;q13) Soft tissue Alveolar rhabdomyosarcoma 
+1q21       19p13      der(19)t(1;19)(q21;p13) Skeleton Chondrosarcoma, NOS 
+1q21       19p13      t(1;19)(q21;p13) Skeleton Chondrosarcoma, NOS 
+1q21       1q32       t(1;1)(q21;q32) SRGAP2B/SRGAP2 Soft Tissues: Soft Tissues  
+1q21       2p23       t(1;2)(q21;p23) TPM3/ALK Soft Tissues Inflammatory myofibroblastic tumor 
+1q21       del(1)(q21) Skeleton Ewing sarcoma 
+1q21       del(1)(q21) Skeleton Osteosarcoma, NOS 
+1q21       del(1)(q21) Soft tissue Liposarcoma, pleomorphic 
+1q21       del(1)(q21) Soft tissue Malignant peripheral nerve sheath tumor/Triton 
+1q21       del(1)(q21) Soft tissue Myxofibrosarcoma 
+1q21       del(1)(q21) Soft tissue Undifferentiated pleomorphic sarcoma 
+1q22       1q23       t(1;1)(q22;q23) LMNA/NTRK1 Soft Tissues: Soft Tissues  
+1q22       2p23       t(1;2)(q22;p23) LMNA/ALK Soft Tissues: Soft Tissues  
+1q22       del(1)(q22) Skeleton Osteosarcoma, NOS 
+1q23       1q23       t(1;1)(q23;q23) UHMK1/DDR2 Soft Tissues: Soft Tissues  
+1q23       22q12      t(1;22)(q23;q12) EWSR1/PBX1 Soft Tissues Mixed tumor/Myoepithelioma/Parachordoma 
+1q23       22q12      t(1;22)(q23;q12) EWSR1/PBX1 Soft Tissues Myoepithelioma 
+1q23       22q12      t(1;22)(q23;q12) EWSR1/PBX1 Soft Tissues Soft tissue tumor 
+1q23       5q35       t(1;5)(q23;q35) SQSTM1/NTRK1 Soft Tissues: Soft Tissues  
+1q25       2p23       t(1;2)(q25;p23) TPM3/ALK Soft Tissues Inflammatory myofibroblastic tumor 
+1q25       2p23       t(1;2)(q25;p23) TPM3/ALK Soft Tissues Soft tissue tumor 
+1q32       5p13       t(1;5)(q32;p13)  Leiomyosarcoma 
+1q32       del(1)(q32) Skeleton Ewing sarcoma 
+1q32       del(1)(q32) Skeleton Osteosarcoma, NOS 
+1q32       del(1)(q32) Soft tissue Leiomyosarcoma 
+1q32       del(1)(q32) Soft tissue Myxofibrosarcoma 
+1q32       del(1)(q32) Soft tissue Undifferentiated pleomorphic sarcoma 
+1q41       del(1)(q41) Soft tissue Undifferentiated pleomorphic sarcoma 
+1q42       5q32       t(1;5)(q42;q32) IRF2BP2/CDX1 Soft Tissues Soft tissue tumor 
+1q42       del(1)(q42) Skeleton Osteosarcoma, NOS 
+1q42       del(1)(q42) Soft tissue Leiomyosarcoma 
+1q42       del(1)(q42) Soft tissue Myxofibrosarcoma 
+2p11       8q13       der(2)t(2;8)(p11;q13) Skeleton Osteosarcoma, NOS 
+2p11       8q13       t(2;8)(p11;q13) Skeleton Osteosarcoma, NOS 
+2p11       del(2)(p11) Skeleton Osteosarcoma, NOS 
+2p11       del(2)(p11) Soft tissue Leiomyosarcoma 
+2p11       del(2)(p11) Soft tissue Soft tissue tumor, special type 
+2p12       del(2)(p12) Soft tissue Myxofibrosarcoma 
+2p13       2p23       inv(2)(p13p23) Soft tissue Neuroblastoma 
+2p13       del(2)(p13) Soft tissue Undifferentiated pleomorphic sarcoma 
+2p15       del(2)(p15) Soft tissue Undifferentiated pleomorphic sarcoma 
+2p16       del(2)(p16) Soft tissue Liposarcoma, pleomorphic 
+2p16       del(2)(p16) Soft tissue Undifferentiated pleomorphic sarcoma 
+2p21       15q25      t(2;15)(p21;q25) EML4/NTRK3 Soft Tissues: Soft Tissues  
+2p23       11p15      t(2;11)(p23;p15) CARS/ALK Soft Tissues Inflammatory myofibroblastic tumor 
+2p23       12p11      t(2;12)(p23;p11) PPFIBP1/ALK Soft Tissues Inflammatory myofibroblastic tumor 
+2p23       17q23      t(2;17)(p23;q23) CLTC/ALK Soft Tissues Inflammatory myofibroblastic tumor 
+2p23       17q24      t(2;17)(p23;q24) PRKAR1A/ALK Soft Tissues: Soft Tissues  
+2p23       19p13      t(2;19)(p23;p13) TPM4/ALK Soft Tissues Inflammatory myofibroblastic tumor 
+2p23       2q13       t(2;2)(p23;q13) RANBP2/ALK Soft Tissues Inflammatory myofibroblastic tumor 
+2p23       2q35       inv(2)(p23q35) ATIC/ALK Soft Tissues Inflammatory myofibroblastic tumor 
+2p23       2q35       inv(2)(p23q35) ATIC/ALK Soft Tissues Soft tissue tumor 
+2p23       2q35       t(2;2)(p23;q35) FN1/ALK Soft Tissues: Soft Tissues  
+2p23       2q36       t(2;2)(p23;q36) PAX3/NCOA1 Soft Tissues Alveolar rhabdomyosarcoma 
+2p23       2q36       t(2;2)(p23;q36) PAX3/NCOA1 Soft Tissues Rhabdomyosarcoma 
+2q11       12p11      t(2;12)(q11;p11) Soft tissue Atypical lipomatous tumor/atypical lipoma/welldifferentiated liposarcoma 
+2q11       6p21       t(2;6)(q11;p21) AFF3/PHF1 Soft Tissues: Soft Tissues  
+2q11       del(2)(q11) Soft tissue Leiomyosarcoma 
+2q24       6p21.3     t(2;6)(q24;p21.3)  Embryonal Rhabdomyo Sarcoma 
+2q24       6p25       t(2;6)(q24;p25)  Embryonal Rhabdomyo Sarcoma 
+2q31.1     12q13      t(2;12)(q31.1;q13) EWSR1/ATF2 Soft Tissue  
+2q31       22q12      t(2;22)(q31;q12) EWSR1/SP3 Soft Tissues Small round cell tumor 
+2q31       del(2)(q31) Soft tissue Myxofibrosarcoma 
+2q32       8q12.1     t(2;8)(q32;q12.1) COL3A1/PLAG1 Soft Tissues Lipoblastoma 
+2q33       22q12      t(2;22)(q33;q12) CREB1/EWSR1 Soft Tissue  
+2q33       22q12      t(2;22)(q33;q12) Soft tissue Angiomatoid fibrous histiocytoma 
+2q33       del(2)(q33) Soft tissue Malignant peripheral nerve sheath tumor/Triton 
+2q34       22q12      t(2;22)(q34;q12) EWSR1/CREB1 Soft Tissues Angiomatoid fibrous histiocytoma 
+2q34       22q12      t(2;22)(q34;q12) EWSR1/CREB1 Soft Tissues Clear cell sarcoma of the soft tissue 
+2q35       12q15      t(2;12)(q35;q15) Soft tissue Lipoma 
+2q35       13q14.1    t(2;13)(q35;q14.1)  Alveolar Rhabdomyosarcoma 
+2q35       13q14      der(2)t(2;13)(q35;q14) Soft tissue Alveolar rhabdomyosarcoma 
+2q35       13q14      t(2;13)(q35;q14)  Alveolar Rhabdomyosarcoma 
+2q35       13q14      t(2;13)(q35;q14) Intraabdominal Alveolar rhabdomyosarcoma 
+2q35       13q14      t(2;13)(q35;q14) Intraabdominal Alveolar rhabdomyosarcoma 
+2q35       13q14      t(2;13)(q35;q14) Intrathoracal Rhabdomyosarcoma, NOS 
+2q35       13q14      t(2;13)(q35;q14) Intrathoracal Rhabdomyosarcoma, NOS 
+2q35       13q14      t(2;13)(q35;q14) Large intestine Alveolar rhabdomyosarcoma 
+2q35       13q14      t(2;13)(q35;q14) Large intestine Alveolar rhabdomyosarcoma 
+2q35       13q14      t(2;13)(q35;q14) PAX3/FOXO1 Soft Tissues Alveolar rhabdomyosarcoma 
+2q35       13q14      t(2;13)(q35;q14) PAX3/FOXO1 Soft Tissues Rhabdomyosarcoma 
+2q35       13q14      t(2;13)(q35;q14) Soft tissue Alveolar rhabdomyosarcoma 
+2q35       13q14      t(2;13)(q35;q14) Soft tissue Alveolar rhabdomyosarcoma 
+2q35       13q14      t(2;13)(q35;q14) Soft tissue Embryonal rhabdomyosarcoma 
+2q35       13q14      t(2;13)(q35;q14) Soft tissue Embryonal rhabdomyosarcoma 
+2q35       16p11      t(2;16)(q35;p11)  Ewing Sarcoma 
+2q35       16p11      t(2;16)(q35;p11) FUS/FEV Soft Tissues Ewing sarcoma 
+2q35       5q31       t(2;5)(q35;q31) FN1/FGF1 Soft Tissues: Soft Tissues  
+2q35       8p11       t(2;8)(q35;p11) FN1/FGFR1 Soft Tissues: Soft Tissues  
+2q36       12q14      t(2;12)(q36;q14) Soft tissue Lipoma 
+2q36       13q14      der(2)t(2;13)(q36;q14) Soft tissue Alveolar rhabdomyosarcoma 
+2q36       13q14      t(2;13)(q36;q14) Soft tissue Alveolar rhabdomyosarcoma 
+2q36       22q12      t(2;22)(q36;q12) EWSR1/FEV Soft Tissues Ewing sarcoma 
+2q36       8q13       t(2;8)(q36;q13) PAX3/NCOA2 Soft Tissue  
+2q36       8q13       t(2;8)(q36;q13) PAX3/NCOA2 Soft Tissues Alveolar rhabdomyosarcoma 
+2q36       8q13       t(2;8)(q36;q13) PAX3/NCOA2 Soft Tissues Rhabdomyosarcoma 
+2q37       12q13      t(2;12)(q37;q13) Soft tissue Lipoma 
+2q37       12q14      t(2;12)(q37;q14) HMGA2/ACKR3 Soft Tissues Benign Lipomatous tumor 
+2q37       13q14      t(2;13)(q37;q14) Intrathoracal Alveolar rhabdomyosarcoma 
+2q37       13q14      t(2;13)(q37;q14) Intrathoracal Alveolar rhabdomyosarcoma 
+2q37       13q14      t(2;13)(q37;q14) Soft tissue Alveolar rhabdomyosarcoma 
+2q37       13q14      t(2;13)(q37;q14) Soft tissue Alveolar rhabdomyosarcoma 
+3p11       del(3)(p11) Skeleton Osteosarcoma, NOS 
+3p11       del(3)(p11) Soft tissue Leiomyosarcoma 
+3p11       del(3)(p11) Soft tissue Malignant peripheral nerve sheath tumor/Triton 
+3p11       del(3)(p11) Soft tissue Myxoinflammatory fibroblastic sarcoma 
+3p11       del(3)(p11) Soft tissue Undifferentiated pleomorphic sarcoma 
+3p12       del(3)(p12) Soft tissue Myxofibrosarcoma 
+3p12       del(3)(p12) Soft tissue Undifferentiated pleomorphic sarcoma 
+3p13       3p21       t(3;3)(p13;p21) RASSF1/PDZRN3 Soft Tissues: Soft Tissues  
+3p13       del(3)(p13) Soft tissue Leiomyosarcoma 
+3p13       del(3)(p13) Soft tissue Malignant peripheral nerve sheath tumor/Triton 
+3p13       del(3)(p13) Soft tissue Synovial sarcoma 
+3p14.3     15q11.1    t(3;15)(p14.3;q11.1)  Embryonal Rhabdomyo Sarcoma 
+3p21       11q13      t(3;11)(p21;q13) LAMTOR1/PRKCD Soft Tissues: Soft Tissues  
+3p21       11q13      t(3;11)(p21;q13) NUMA1/SFMBT1 Soft Tissues: Soft Tissues  
+3p21       12q13      t(3;12)(p21;q13) RDH5/PRKCD Soft Tissues: Soft Tissues  
+3p21       3p22       del(3)(p21p22) Soft tissue Synovial sarcoma 
+3p21       del(3)(p21) Soft tissue Malignant peripheral nerve sheath tumor/Triton 
+3p21       del(3)(p21) Soft tissue Synovial sarcoma 
+3p23       15q15      t(3;15)(p23;q15) Soft tissue Liposarcoma, myxoid/round cell 
+3p25       del(3)(p25) Soft tissue Liposarcoma, dedifferentiated 
+3q11       del(3)(q11) Soft tissue Leiomyosarcoma 
+3q11       del(3)(q11) Soft tissue Myxofibrosarcoma 
+3q11       del(3)(q11) Soft tissue Undifferentiated pleomorphic sarcoma 
+3q12       15q25      t(3;15)(q12;q25) TFG/NTRK3 Soft Tissues: Soft Tissues  
+3q12       6q22       t(3;6)(q12;q22) TFG/ROS1 Soft Tissues: Soft Tissues  
+3q12       7q31       t(3;7)(q12;q31) TFG/MET Soft Tissues: Soft Tissues  
+3q12       9q22       t(3;9)(q12;q22) TFG/NR4A3 Bones Chondrosarcoma 
+3q12       9q22       t(3;9)(q12;q22) TFG/NR4A3 Soft Tissue  
+3q12       9q22       t(3;9)(q12;q22) TFG/NR4A3 Soft Tissues Extraskeletal myxoid chondrosarcoma 
+3q12       del(3)(q12) Skeleton Osteosarcoma, NOS 
+3q12       del(3)(q12) Soft tissue Leiomyosarcoma 
+3q12       del(3)(q12) Soft tissue Malignant peripheral nerve sheath tumor/Triton 
+3q13       10q21      t(3;10)(q13;q21)  Leiomyosarcoma 
+3q21       del(3)(q21) Skeleton Chondrosarcoma, NOS 
+3q21       del(3)(q21) Skeleton Ewing sarcoma 
+3q25       11q13      t(3;11)(q25;q13) KDM2A/WWTR1 Soft Tissues: Soft Tissues  
+3q25       del(3)(q25) Soft tissue Leiomyosarcoma 
+3q25       del(3)(q25) Soft tissue Malignant peripheral nerve sheath tumor/Triton 
+3q27       12q13      t(3;12)(q27;q13) Soft tissue Lipoma 
+3q27       12q14      t(3;12)(q27;q14) Soft tissue Lipoma 
+3q27       12q15      t(3;12)(q27;q15) HMGA2/LPP Bones Soft tissue chondroma 
+3q27       12q15      t(3;12)(q27;q15) Soft tissue Lipoma 
+3q28       12q14      t(3;12)(q28;q14) HMGA2/LPP Soft Tissue  
+3q28       12q15      t(3;12)(q28;q15) HMGA2/LPP Soft Tissues Benign Lipomatous tumor 
+3q28       12q15      t(3;12)(q28;q15) Soft tissue Lipoma 
+3q29       12q14      t(3;12)(q29;q14) Soft tissue Lipoma 
+3q29       12q15      t(3;12)(q29;q15) Soft tissue Lipoma 
+3q29       6p21.1     t(3;6)(q29;p21.1)  Endometrial Stromal Sarcomas 
+4p14       del(4)(p14) Soft tissue Leiomyosarcoma 
+4p15       del(4)(p15) Skeleton Osteosarcoma, NOS 
+4q22       del(4)(q22) Soft tissue Myxofibrosarcoma 
+4q24       5q31       t(4;5)(q24;q31) P4HA2/TBCK Soft Tissues: Soft Tissues  
+4q24       5q31       t(4;5)(q24;q31) TBCK/P4HA2 Soft Tissues: Soft Tissues  
+4q27       12q15      t(4;12)(q27;q15) Soft tissue Lipoma 
+4q31       22q12      t(4;22)(q31;q12) EWSR1/SMARCA5 Soft Tissues: Soft Tissues  
+4q31       9q34       t(4;9)(q31;q34) GAB1/ABL1 Soft Tissues: Soft Tissues  
+4q31       del(4)(q31) Skeleton Ewing sarcoma 
+4q31       del(4)(q31) Skeleton Osteosarcoma, NOS 
+4q35       19q13      t(4;19)(q35;q13) CIC/DUX4 Soft Tissues Pediatric undifferentiated soft tissue sarcoma 
+4q35       19q13      t(4;19)(q35;q13) Soft tissue Undifferentiated round cell sarcoma 
+4q35       22q12      t(4;22)(q35;q12) EWSR1/DUX4 Soft Tissues Rhabdomyosarcoma 
+5p11       13q14      der(5)t(5;13)(p11;q14) Skeleton Osteosarcoma, NOS 
+5p11       13q14      t(5;13)(p11;q14) Skeleton Osteosarcoma, NOS 
+5p11       del(5)(p11) Soft tissue Leiomyosarcoma 
+5p12       del(5)(p12) Soft tissue Undifferentiated pleomorphic sarcoma 
+5p13       14q32      t(5;14)(p13;q32) RCOR1/WDR70 Soft Tissues: Soft Tissues  
+5p13       del(5)(p13) Soft tissue Myxofibrosarcoma 
+5p13       del(5)(p13) Soft tissue Undifferentiated pleomorphic sarcoma 
+5p14       del(5)(p14) Soft tissue Undifferentiated pleomorphic sarcoma 
+5p15       17q21      t(5;17)(p15;q21) ETV4/AHRR Soft Tissues: Soft Tissues  
+5p15       5p15       t(5;5)(p15;p15) TRIO/TERT Soft Tissues: Soft Tissues  
+5p15       8q13       t(5;8)(p15;q13) AHRR/NCOA2 Soft Tissues Angiofibroma 
+5p15       8q13       t(5;8)(p15;q13) Soft tissue Angiofibroma 
+5q11       del(5)(q11) Skeleton Osteosarcoma, NOS 
+5q11       del(5)(q11) Soft tissue Leiomyosarcoma 
+5q13       del(5)(q13) Skeleton Chondrosarcoma, NOS 
+5q13       del(5)(q13) Soft tissue Synovial sarcoma 
+5q14       19p13      der(19)t(5;19)(q14;p13) Unknown site Ewing sarcoma 
+5q14       19p13      t(5;19)(q14;p13) Unknown site Ewing sarcoma 
+5q15       5q33       del(5)(q15q33) Skeleton Ewing sarcoma 
+5q15       del(5)(q15) Soft tissue Synovial sarcoma 
+5q23.3     14q11.1    t(5;14)(q23.3;q11.1)  Embryonal Rhabdomyo Sarcoma 
+5q31.1     10q11.1    t(5;10)(q31.1;q11.1)  Embryonal Rhabdomyo Sarcoma 
+5q31       14q11      t(5;14)(q31;q11)  Embryonal Rhabdomyo Sarcoma 
+5q32       12q13      t(5;12)(q32;q13) NAB2/PDGFRB Soft Tissues: Soft Tissues  
+5q32       19p13      t(5;19)(q32;p13) MIR143/NOTCH3 Soft Tissues: Soft Tissues  
+5q32       8q24       t(5;8)(q32;q24) HTR4/ST3GAL1 Soft Tissues: Soft Tissues  
+5q32       9q34       t(5;9)(q32;q34) MIR143/NOTCH1 Soft Tissues: Soft Tissues  
+5q33       12q13      t(5;12)(q33;q13) Soft tissue Lipoma 
+5q33       12q14      t(5;12)(q33;q14) EBF1/RPSAP52 Soft Tissues: Soft Tissues  
+5q33       12q14      t(5;12)(q33;q14) HMGA2/EBF1 Soft Tissues Benign Lipomatous tumor 
+5q33       12q15      t(5;12)(q33;q15) Soft tissue Lipoma 
+5q35       21q11      der(5)t(5;21)(q35;q11) Uterus, corpus Endometrial stromal sarcoma 
+5q35       21q11      t(5;21)(q35;q11) Uterus, corpus Endometrial stromal sarcoma 
+6p11       del(6)(p11) Skeleton Osteosarcoma, NOS 
+6p21       10p11      t(6;10)(p21;p11) EPC1/PHF1 Soft Tissue  
+6p21       10p11      t(6;10)(p21;p11) EPC1/PHF1 Soft Tissues: Soft Tissues  
+6p21       11q13      t(6;11)(p21;q13) SRF/RELA Soft Tissues: Soft Tissues  
+6p21       12q24      t(6;12)(p21;q24) EP400/PHF1 Soft Tissue  
+6p21       16p11      t(6;16)(p21;p11) FUS/POU5F1 Soft Tissues: Soft Tissues  
+6p21       22q12      t(6;22)(p21;q12) EWSR1/POU5F1 Soft Tissues Mixed tumor/Myoepithelioma/Parachordoma 
+6p21       22q12      t(6;22)(p21;q12) EWSR1/POU5F1 Soft Tissues Undifferentiated sarcoma 
+6p21       6q21       inv(6)(p21q21) Soft tissue Lipoma 
+6p21       8q13       t(6;8)(p21;q13) SRF/NCOA2 Soft Tissue  
+6p21       8q13       t(6;8)(p21;q13) SRF/NCOA2 Soft Tissues Rhabdomyosarcoma 
+6q11       del(6)(q11) Skeleton Osteosarcoma, NOS 
+6q11       del(6)(q11) Soft tissue Leiomyosarcoma 
+6q11       del(6)(q11) Uterus, corpus Leiomyosarcoma 
+6q12       del(6)(q12) Soft tissue Clear cell sarcoma 
+6q13       del(6)(q13) Skeleton Osteosarcoma, NOS 
+6q13       del(6)(q13) Soft tissue Malignant peripheral nerve sheath tumor/Triton 
+6q14       del(6)(q14) Soft tissue Undifferentiated pleomorphic sarcoma 
+6q15       del(6)(q15) Soft tissue Leiomyosarcoma 
+6q15       del(6)(q15) Soft tissue Malignant peripheral nerve sheath tumor/Triton 
+6q15       del(6)(q15) Soft tissue Synovial sarcoma 
+6q15       del(6)(q15) Soft tissue Undifferentiated pleomorphic sarcoma 
+6q15       del(6)(q15) Uterus, corpus Endometrial stromal sarcoma 
+6q16       del(6)(q16) Skeleton Osteosarcoma, NOS 
+6q21       6q27       del(6)(q21q27)  Leiomyosarcoma 
+6q21       del(6)(q21) Skeleton Osteosarcoma, NOS 
+6q21       del(6)(q21) Soft tissue Leiomyosarcoma 
+6q21       del(6)(q21) Soft tissue Liposarcoma, myxoid/round cell 
+6q21       del(6)(q21) Soft tissue Malignant peripheral nerve sheath tumor/Triton 
+6q21       del(6)(q21) Uterus, corpus Endometrial stromal sarcoma 
+6q22       17p13      t(6;17)(q22;p13) YWHAE/ROS1 Soft Tissues: Soft Tissues  
+6q22       6q22       t(6;6)(q22;q22) CEP85L/ROS1 Soft Tissues: Soft Tissues  
+6q22       6q24       t(6;6)(q22;q24) VGLL2/CITED2 Soft Tissues: Soft Tissues  
+6q22       8q13       t(6;8)(q22;q13) VGLL2/NCOA2 Soft Tissues: Soft Tissues  
+6q22       del(6)(q22) Skeleton Osteosarcoma, NOS 
+6q23       del(6)(q23) Skeleton Ewing sarcoma 
+6q23       del(6)(q23) Skeleton Osteosarcoma, NOS 
+6q23       del(6)(q23) Soft tissue Undifferentiated pleomorphic sarcoma 
+6q24       11q24      t(6;11)(q24;q24) CITED2/PRDM10 Soft Tissues: Soft Tissues  
+6q24       del(6)(q24) Soft tissue Lipoma 
+6q25       12q21      t(6;12)(q25;q21) ZDHHC14/PAWR Soft Tissues: Soft Tissues  
+7p11       del(7)(p11) Soft tissue Leiomyosarcoma 
+7p11       del(7)(p11) Soft tissue Undifferentiated pleomorphic sarcoma 
+7p11       idic(7)(p11) Soft tissue Liposarcoma, myxoid/round cell 
+7p13       7p15       del(7)(p13p15)  Endometrial Stromal Sarcoma 
+7p14       17q12      t(7;17)(p14;q12)  Endometrial Stromal Sarcoma 
+7p14       7q34       t(7;7)(p14;q34) SEPT7/BRAF Soft Tissues: Soft Tissues  
+7p15       17q11      t(7;17)(p15;q11) JAZF1/SUZ12 Soft Tissues: Soft Tissues  
+7p15       17q11      t(7;17)(p15;q11) Uterus, corpus Endometrial stromal sarcoma 
+7p15       17q21      t(7;17)(p15;q21) Uterus, corpus Endometrial stromal sarcoma 
+7p15       del(7)(p15) Skeleton Osteosarcoma, NOS 
+7p15       del(7)(p15) Soft tissue Undifferentiated pleomorphic sarcoma 
+7p22       12q13      t(7;12)(p22;q13) ACTB/GLI1 Soft Tissues Pericytic (Perivascular) tumor 
+7p22       22q12      t(7;22)(p22;q12) Skeleton Ewing sarcoma 
+7p22       8q11       t(7;8)(p22;q11) Soft tissue Lipoblastoma 
+7q11       del(7)(q11) Skeleton Osteosarcoma, NOS 
+7q11       del(7)(q11) Soft tissue Leiomyosarcoma 
+7q11       del(7)(q11) Soft tissue Malignant peripheral nerve sheath tumor/Triton 
+7q22       12q13      t(7;12)(q22;q13) HMGA2 Soft Tissues Deep 'aggressive' angiomyxoma 
+7q22       19q13      t(7;19)(q22;q13) SERPINE1/FOSB Soft Tissues Hemangioendothelioma 
+7q22       22q13      t(7;22)(q22;q13)  Leiomyosarcoma 
+7q22       7q22       t(7;7)(q22;q22) AZGP1/GJC3 Soft Tissues: Soft Tissues  
+7q22       7q34       t(7;7)(q22;q34) CUX1/BRAF Soft Tissues: Soft Tissues  
+7q22       del(7)(q22) Skeleton Chondrosarcoma, NOS 
+7q22       del(7)(q22) Skeleton Osteosarcoma, NOS 
+7q22       del(7)(q22) Soft tissue Leiomyosarcoma 
+7q22       del(7)(q22) Soft tissue Malignant peripheral nerve sheath tumor/Triton 
+7q22       del(7)(q22) Soft tissue Undifferentiated pleomorphic sarcoma 
+7q31       8q12       t(7;8)(q31;q12) COL1A2/PLAG1 Soft Tissue  
+7q31       8q12       t(7;8)(q31;q12) COL1A2/PLAG1 Soft Tissues Lipoblastoma 
+7q31       del(7)(q31) Soft tissue Myxofibrosarcoma 
+7q31       del(7)(q31) Uterus, corpus Leiomyosarcoma 
+7q32       del(7)(q32) Soft tissue Myxofibrosarcoma 
+7q33       16p11      t(7;16)(q33;p11) FUS/CREB3L2 Soft Tissues Low grade fibromyxoid sarcoma 
+7q33       16p11      t(7;16)(q33;p11) Soft tissue Lowgrade fibromyxoid sarcoma 
+7q34       16p11      t(7;16)(q34;p11) Soft tissue Lowgrade fibromyxoid sarcoma 
+7q34       17p11      t(7;17)(q34;p11) TOM1L2/BRAF Soft Tissues: Soft Tissues  
+7q34       22q12      t(7;22)(q34;q12) EWSR1/CREB3L2 Soft Tissues: Soft Tissues  
+8p11       13q14      t(8;13)(p11;q14) FOXO1/FGFR1 Soft Tissue  
+8p11       13q14      t(8;13)(p11;q14) FOXO1/FGFR1 Soft Tissues Alveolar rhabdomyosarcoma 
+8p11       13q14      t(8;13)(p11;q14) FOXO1/FGFR1 Soft Tissues Rhabdomyosarcoma 
+8p12       12q15      t(8;12)(p12;q15) HMGA2 Soft Tissues Deep 'aggressive' angiomyxoma 
+8p21       del(8)(p21) Skeleton Ewing sarcoma 
+8p22       17q21      der(8)t(8;17)(p22;q21) Soft tissue Synovial sarcoma 
+8p22       17q21      t(8;17)(p22;q21) Soft tissue Synovial sarcoma 
+8q11       18q21.3    t(8;18)(q11;q21.3)  Ewing Sarcoma 
+8q12       14q24      t(8;14)(q12;q24) RAD51B/PLAG1 Soft Tissue  
+8q12       8q12       t(8;8)(q12;q12) RAB2A/PLAG1 Soft Tissues Lipoblastoma 
+8q12       8q24       del(8)(q12q24) HAS2/PLAG1 Soft Tissue  
+8q12       8q24       del(8)(q12q24) HAS2/PLAG1 Soft Tissues Lipoblastoma 
+8q12       8q24       del(8)(q12q24) HAS2/PLAG1 Soft Tissues Soft tissue tumor 
+8q13       11p15      t(8;11)(q13;p15) TEAD1/NCOA2 Soft Tissue  
+8q13       11p15      t(8;11)(q13;p15) TEAD1/NCOA2 Soft Tissues Rhabdomyosarcoma 
+8q13       17q21      t(8;17)(q13;q21) NCOA2/ETV4 Soft Tissues: Soft Tissues  
+8q13       8q21       del(8)(q13q21) HEY1/NCOA2 Soft Tissues Soft tissue tumor 
+9p11       del(9)(p11) Soft tissue Malignant peripheral nerve sheath tumor/Triton 
+9p11       der(9)del(9)(p11)del(9)(q12) Uterus, corpus Endometrial stromal sarcoma 
+9p13       del(9)(p13) Skeleton Chondrosarcoma, NOS 
+9p13       del(9)(p13) Soft tissue Malignant peripheral nerve sheath tumor/Triton 
+9p13       del(9)(p13) Soft tissue Myxofibrosarcoma 
+9p21.3     11q23.3    t(9;11)(p21.3;q23.3)  Paratesticular Rhabdomyosarcoma Metastatic to Lungs and Bone 
+9p21       9p21       del(9)(p21p21)  Ewing Sarcoma 
+9p21       9p22       del(9)(p21p22)  Osteosarcoma 
+9p21       del(9)(p21) Skeleton Ewing sarcoma 
+9p22       12q14      t(9;12)(p22;q14) HMGA2/NFIB Soft Tissues Benign Lipomatous tumor 
+9p22       12q15      t(9;12)(p22;q15) Soft tissue Lipoma 
+9q11       del(9)(q11) Skeleton Osteosarcoma, NOS 
+9q12       del(9)(q12) Skeleton Chondrosarcoma, NOS 
+9q22       15q21      t(9;15)(q22;q21) TCF12/NR4A3 Bones Chondrosarcoma 
+9q22       15q21      t(9;15)(q22;q21) TCF12/NR4A3 Soft Tissue  
+9q22       15q21      t(9;15)(q22;q21) TCF12/NR4A3 Soft Tissues Extraskeletal myxoid chondrosarcoma 
+9q22       16p11      t(9;16)(q22;p11) FUS/NR4A3 Soft Tissues Extraskeletal myxoid chondrosarcoma 
+9q22       17q11      t(9;17)(q22;q11) AF15/NR4A3 Bones Chondrosarcoma 
+9q22       17q11      t(9;17)(q22;q11) Soft tissue Chondrosarcoma, myxoid 
+9q22       17q11      t(9;17)(q22;q11) TAF15/NR4A3 Soft Tissue  
+9q22       17q11      t(9;17)(q22;q11) TAF15/NR4A3 Soft Tissues Extraskeletal myxoid chondrosarcoma 
+9q22       22q11      t(9;22)(q22;q11) Soft tissue Chondrosarcoma, myxoid 
+9q22       22q12      t(9;22)(q22;q12) EWSR1/NR4A3 Bones Chondrosarcoma 
+9q22       22q12      t(9;22)(q22;q12) EWSR1/NR4A3 Soft Tissue  
+9q22       22q12      t(9;22)(q22;q12) EWSR1/NR4A3 Soft Tissues Extraskeletal myxoid chondrosarcoma 
+9q22       22q12      t(9;22)(q22;q12)  Extraskeletal Myxoid Chondrosarcoma 
+9q22       22q12      t(9;22)(q22;q12) Soft tissue Chondrosarcoma, myxoid 
+9q22.33    15q21.3    t(9;15)(q22.33;q21.3)  Extraskeletal Myxoid Chondrosarcomas 
+9q22.33    9q32.2     del(9)(q22.33q32.2)  Ewing Sarcoma 
+9q33       12q15      t(9;12)(q33;q15) CNOT2/ASTN2 Soft Tissues: Soft Tissues  
+9q33       12q15      t(9;12)(q33;q15) NUP107/PAPPA Soft Tissues: Soft Tissues  
+9q33       12q21      t(9;12)(q33;q21) NR6A1/TRHDE Soft Tissues: Soft Tissues  
+9q33       22q12      t(9;22)(q33;q12) EWSR1/PBX3 Soft Tissues: Soft Tissues  
+9q34       17p11      t(9;17)(q34;p11)  Embryonal Rhabdomyo Sarcoma 
+9q34.3     17p12      t(9;17)(q34.3;p12)  Embryonal Rhabdomyo Sarcoma 
+10p11      21q11      dic(10;21)(p11;q11) Soft tissue Synovial sarcoma 
+10p11      22q12      t(10;22)(p11;q12) EWSR1/CREM Soft Tissues: Soft Tissues  
+10p11      del(10)(p11) Skeleton Osteosarcoma, NOS 
+10p11      del(10)(p11) Soft tissue Leiomyosarcoma 
+10p12      del(10)(p12) Soft tissue Lipoma 
+10p12      del(10)(p12) Uterus, corpus Leiomyosarcoma 
+10p13      del(10)(p13) Skeleton Osteosarcoma, NOS 
+10p13      del(10)(p13) Soft tissue Undifferentiated pleomorphic sarcoma 
+10q11      16q13      t(10;16)(q11;q13)  Leiomyosarcoma 
+10q11.22   10q11.22   del(10)(q11.22q11.22)  Epithelioid Sarcoma 
+10q11      del(10)(q11) Skeleton Osteosarcoma, NOS 
+10q22      12q15      t(10;12)(q22;q15) Soft tissue Lipoma 
+10q22      17p13      der(17)t(10;17)(q22;p13) Uterus, corpus Endometrial stromal sarcoma 
+10q22      17p13      t(10;17)(q22;p13)  Clear Cell Sarcoma of Kidney 
+10q22      17p13      t(10;17)(q22;p13) Female organs: Uterus Mesenchymal neoplasia: Endometrial stromal tumors: Highgrade endometrial stromal sarcoma 
+10q22      17p13      t(10;17)(q22;p13) Uterus, corpus Endometrial stromal sarcoma 
+10q22      17p13      t(10;17)(q22;p13) YWHAE/NUTM2B Soft Tissues: Soft Tissues  
+10q22      17p13      t(10;17)(q22;p13) YWHAE/NUTM2E Urinary system: Kidney Clear cell sarcoma 
+10q22      21q21      t(10;21)(q22;q21) Soft tissue Synovial sarcoma 
+10q22      del(10)(q22) Soft tissue Malignant peripheral nerve sheath tumor/Triton 
+10q22      del(10)(q22) Uterus, corpus Endometrial stromal sarcoma 
+10q23      19q13      t(10;19)(q23;q13) NUTM2A/CIC Soft Tissues: Soft Tissues  
+10q23      del(10)(q23) Soft tissue Soft tissue tumor, NOS 
+10q24      10q26      t(10;10)(q24;q26) HTRA1/SH3PXD2A Soft Tissues: Soft Tissues  
+10q24      10q26      t(10;10)(q24;q26) SH3PXD2A/HTRA1 Soft Tissues: Soft Tissues  
+10q24      del(10)(q24) Soft tissue Myxofibrosarcoma 
+10q25      10q25      t(10;10)(q25;q25) VWA2/AFAP1L2 Soft Tissues: Soft Tissues  
+10q26      19q13      t(10;19)(q26;q13) CIC/DUX4L10 Soft Tissues: Soft Tissues  
+11p11      11q12      t(11;11)(p11;q12) NUP160/SLC43A3 Soft Tissues: Soft Tissues  
+11p11      16p11      t(11;16)(p11;p11) FUS/CREB3L1 Soft Tissues Low grade fibromyxoid sarcoma 
+11p11      16p11      t(11;16)(p11;p11) FUS/CREB3L1 Soft Tissues Soft tissue tumor 
+11p11      22q12      t(11;22)(p11;q12) EWSR1/CREB3L1 Soft Tissue  
+11p11      22q12      t(11;22)(p11;q12) EWSR1/CREB3L1 Soft Tissues: Soft Tissues  
+11p11      del(11)(p11) Skeleton Osteosarcoma, NOS 
+11p11      del(11)(p11) Soft tissue Myxofibrosarcoma 
+11p11      del(11)(p11) Soft tissue Synovial sarcoma 
+11p11      del(11)(p11) Soft tissue Undifferentiated pleomorphic sarcoma 
+11p12      del(11)(p12) Soft tissue Leiomyosarcoma 
+11p13      22q11      t(11;22)(p13;q11) EWSR1/WT1 Soft Tissues Desmoplastic small round cell tumor 
+11p13      22q11      t(11;22)(p13;q11) EWSR1/WT1 Soft Tissues Soft tissue tumor 
+11p13      del(11)(p13) Soft tissue Myxofibrosarcoma 
+11p15      12q13      der(11)t(11;12)(p15;q13) Soft tissue Synovial sarcoma 
+11p15      12q13      t(11;12)(p15;q13) Soft tissue Synovial sarcoma 
+11p15      12q21      t(11;12)(p15;q21) NELL1/NAV3 Soft Tissues: Soft Tissues  
+11p15      12q21      t(11;12)(p15;q21) NELL1/SYT1 Soft Tissues: Soft Tissues  
+11p15      13p14      t(11;13)(p15;p14)  Endometrial Stromal Sarcoma 
+11p15      del(11)(p15) Skeleton Osteosarcoma, NOS 
+11p15      der(11)add(11)(p15)add(11)(q25) Soft tissue Undifferentiated pleomorphic sarcoma 
+11q11      19q13.4    t(11;19)(q11;q13.4)  Undifferentiated Embryonal Sarcoma (UES) 
+11q11      del(11)(q11) Soft tissue Leiomyosarcoma 
+11q13      11q13      del(11)(q13q13) Soft tissue Hibernoma 
+11q13      11q21      del(11)(q13q21) Soft tissue Synovial sarcoma 
+11q13      12q14      t(11;12)(q13;q14) Soft tissue Lipoma 
+11q13      12q21      t(11;12)(q13;q21) LRTOMT/METTL25 Soft Tissues: Soft Tissues  
+11q13      14q11      der(14)t(11;14)(q13;q11) Soft tissue Hibernoma 
+11q13      14q11      t(11;14)(q13;q11) Soft tissue Hibernoma 
+11q13      16p13      t(11;16)(q13;p13) C11orf95/MKL2 Soft Tissues Chondroid lipoma 
+11q13      16p13      t(11;16)(q13;p13) C11orf95/MKL2 Soft Tissues Soft tissue tumor 
+11q13      16p13      t(11;16)(q13;p13) Soft tissue Chondroid lipoma 
+11q13      17p13      t(11;17)(q13;p13) PPP6R3/USP6 Soft Tissues: Soft Tissues  
+11q14      del(11)(q14) Soft tissue Leiomyosarcoma 
+11q21      del(11)(q21) Skeleton Ewing sarcoma 
+11q21      del(11)(q21) Soft tissue Leiomyosarcoma 
+11q21      del(11)(q21) Soft tissue Synovial sarcoma 
+11q22      del(11)(q22) Soft tissue Undifferentiated pleomorphic sarcoma 
+11q22      del(11)(q22) Uterus, corpus Leiomyosarcoma 
+11q23      11q23      t(11;11)(q23;q23) SIDT2/TAGLN Soft Tissues: Soft Tissues  
+11q23      12q15      t(11;12)(q23;q15) HMGA2 Soft Tissues Deep 'aggressive' angiomyxoma 
+11q23      12q15      t(11;12)(q23;q15) HMGA2 Soft Tissues Soft tissue tumor 
+11q23      22q11      t(11;22)(q23;q11)  Ewing Sarcoma 
+11q23      22q11      t(11;22)(q23;q11) Skeleton Ewing sarcoma 
+11q23      22q11      t(11;22)(q23;q11) Soft tissue Peripheral neuroepithelioma 
+11q23      22q11      t(11;22)(q23;q11) Unknown site Ewing sarcoma 
+11q23      del(11)(q23) Skeleton Chondrosarcoma, NOS 
+11q23      del(11)(q23) Skeleton Ewing sarcoma 
+11q23      del(11)(q23) Soft tissue Leiomyosarcoma 
+11q23      del(11)(q23) Soft tissue Malignant peripheral nerve sheath tumor/Triton 
+11q23      del(11)(q23) Soft tissue Myxofibrosarcoma 
+11q23      del(11)(q23) Soft tissue Undifferentiated pleomorphic sarcoma 
+11q24      11q24      t(11;11)(q24;q24) DCPS/ST3GAL4 Soft Tissues: Soft Tissues  
+11q24      22q11      t(11;22)(q24;q11) Skeleton Ewing sarcoma 
+11q24      22q11      t(11;22)(q24;q11) Skeleton Ewing sarcoma 
+11q24      22q11      t(11;22)(q24;q11) Soft tissue Ewing sarcoma 
+11q24      22q11      t(11;22)(q24;q11) Soft tissue Ewing sarcoma 
+11q24      22q12      der(11)t(11;22)(q24;q12) Skeleton Ewing sarcoma 
+11q24      22q12      t(11;22)(q24;q12) Brain Ewing sarcoma 
+11q24      22q12      t(11;22)(q24;q12)  Ewing Sarcoma 
+11q24      22q12      t(11;22)(q24;q12)  Ewing Sarcoma Family Tumors 
+11q24      22q12      t(11;22)(q24;q12)  Ewing Sarcomas 
+11q24      22q12      t(11;22)(q24;q12) EWSR1/FLI1 Soft Tissues Ewing sarcoma 
+11q24      22q12      t(11;22)(q24;q12) EWSR1/FLI1 Soft Tissues Rhabdomyosarcoma 
+11q24      22q12      t(11;22)(q24;q12) EWSR1/FLI1 Soft Tissues Soft tissue tumor 
+11q24      22q12      t(11;22)(q24;q12) Intraabdominal Ewing sarcoma 
+11q24      22q12      t(11;22)(q24;q12) Intrathoracal Ewing sarcoma 
+11q24      22q12      t(11;22)(q24;q12) Kidney Ewing sarcoma 
+11q24      22q12      t(11;22)(q24;q12) Lung Ewing sarcoma 
+11q24      22q12      t(11;22)(q24;q12) Pancreas Ewing sarcoma 
+11q24      22q12      t(11;22)(q24;q12) Skeleton Ewing sarcoma 
+11q24      22q12      t(11;22)(q24;q12) Soft tissue Peripheral neuroepithelioma 
+11q24      22q13      t(11;22)(q24;q13) Skeleton Ewing sarcoma 
+12p11      12q15      inv(12)(p11q15) Soft tissue Lipoma 
+12p11      del(12)(p11) Soft tissue Epithelioid sarcoma 
+12p11      del(12)(p11) Soft tissue Leiomyosarcoma 
+12p11      del(12)(p11) Soft tissue Malignant peripheral nerve sheath tumor/Triton 
+12p11      del(12)(p11) Soft tissue Myxofibrosarcoma 
+12p11      del(12)(p11) Soft tissue Undifferentiated pleomorphic sarcoma 
+12p12      12q14      inv(12)(p12q14) Soft tissue Lipoma 
+12p12      del(12)(p12) Soft tissue Leiomyosarcoma 
+12p12      del(12)(p12) Soft tissue Liposarcoma, pleomorphic 
+12p12      del(12)(p12) Soft tissue Undifferentiated pleomorphic sarcoma 
+12p13      15q25      t(12;15)(p13;q25) ETV6/NTRK3 Female organs: Breast::Head and Neck: Salivary gland::Lung, Heart, Skin, Other: Skin::Nervous system: Central Nervous system::NeuroEndocrine/Endocrine system: Thyroid::Soft Tissues::Urinary system: Kidney::Digestive organs: ColonRectum  
+12p13      15q25      t(12;15)(p13;q25) Soft tissue Fibroblastic/myofibroblastic tumor, special type 
+12p13      15q26      t(12;15)(p13;q26) ETV6/NTRK3 Soft Tissues Soft tissue tumor 
+12p13      15q26      t(12;15)(p13;q26) Soft tissue Fibrosarcoma 
+12q12      12q14      t(12;12)(q12;q14) USP15/CNTN1 Soft Tissues: Soft Tissues  
+12q13      12q13      inv(12)(q13q13) NAB2/STAT6 Soft Tissue  
+12q13      12q13      inv(12)(q13q13) NAB2/STAT6 Soft Tissues Soft tissue tumor 
+12q13      12q15      t(12;12)(q13;q15) PTGES3/PTPRB Soft Tissues: Soft Tissues  
+12q13      16p11      der(12)t(12;16)(q13;p11) Soft tissue Liposarcoma, myxoid/round cell 
+12q13      16p11      t(12;16)(q13;p11) FUS/ATF1 Soft Tissues Angiomatoid fibrous histiocytoma 
+12q13      16p11      t(12;16)(q13;p11) FUS/ATF1 Soft Tissues Soft tissue tumor 
+12q13      16p11      t(12;16)(q13;p11) FUS/DDIT3 Soft Tissues Liposarcoma 
+12q13      16p11      t(12;16)(q13;p11) FUS/DDIT3 Soft Tissues Myxoid liposarcoma 
+12q13      16p11      t(12;16)(q13;p11) FUS/DDIT3 Soft Tissues Soft tissue tumor 
+12q13      16p11      t(12;16)(q13;p11) Intraabdominal Liposarcoma, myxoid/round cell 
+12q13      16p11      t(12;16)(q13;p11)  Myxoid and Round Cell Liposarcoma 
+12q13      16p11      t(12;16)(q13;p11)  Myxoid Liposarcoma 
+12q13      16p11      t(12;16)(q13;p11) Soft tissue Liposarcoma, myxoid/round cell 
+12q13      16p11      t(12;16)(q13;p11) Soft tissue Liposarcoma, NOS 
+12q13      22q12      t(12;22)(q13;q12)  Clear Cell Sarcoma 
+12q13      22q12      t(12;22)(q13;q12)  Clear Cell Sarcoma of Soft Tissue 
+12q13      22q12      t(12;22)(q13;q12) EWSR1/ATF1 Soft Tissues Angiomatoid fibrous histiocytoma 
+12q13      22q12      t(12;22)(q13;q12) EWSR1/ATF1 Soft Tissues Clear cell sarcoma of the soft tissue 
+12q13      22q12      t(12;22)(q13;q12) EWSR1/ATF1 Soft Tissues Melanoma soft parts 
+12q13      22q12      t(12;22)(q13;q12) EWSR1/DDIT3 Soft Tissues Liposarcoma 
+12q13      22q12      t(12;22)(q13;q12) EWSR1/DDIT3 Soft Tissues Myxoid liposarcoma 
+12q13      22q12      t(12;22)(q13;q12) Small intestine Clear cell sarcoma 
+12q13      22q12      t(12;22)(q13;q12) Soft tissue Clear cell sarcoma 
+12q13      22q13      t(12;22)(q13;q13) Soft tissue Clear cell sarcoma 
+12q13.3    16p11.2    t(12;16)(q13.3;p11.2)  Myxoid Liposarcoma 
+12q13.3    22q12.2    t(12;22)(q13.3;q12.2)  Myxoid Liposarcoma 
+12q13      del(12)(q13) Soft tissue Lipoma 
+12q14      12q14      del(12)(q14q14) Soft tissue Lipoma 
+12q14      12q14      t(12;12)(q14;q14) CTDSP2/FAM19A2 Soft Tissues: Soft Tissues  
+12q14      12q14      t(12;12)(q14;q14) HMGA2/GRIP1 Soft Tissues: Soft Tissues  
+12q14      12q14      t(12;12)(q14;q14) TMBIM4/MSRB3 Soft Tissues: Soft Tissues  
+12q14      12q15      t(12;12)(q14;q15) HMGA2/DYRK2 Soft Tissues: Soft Tissues  
+12q14      12q24      inv(12)(q14q24) Soft tissue Lipoma 
+12q14      13q13      t(12;13)(q14;q13) HMGA2/LHFP Soft Tissues Benign Lipomatous tumor 
+12q14      13q13      t(12;13)(q14;q13) HMGA2/LHFP Soft Tissues Soft tissue tumor 
+12q14      18q12      t(12;18)(q14;q12) HMGA2/SETBP1 Soft Tissues: Soft Tissues  
+12q15      12q21      t(12;12)(q15;q21) NUP107/LGR5 Soft Tissues: Soft Tissues  
+12q15      12q24      inv(12)(q15q24) Soft tissue Lipoma 
+12q15      del(12)(q15) Soft tissue Malignant peripheral nerve sheath tumor/Triton 
+12q21      12q21      t(12;12)(q21;q21) SYT1/METTL25 Soft Tissues: Soft Tissues  
+12q21      12q21      t(12;12)(q21;q21) TBC1D15/METTL25 Soft Tissues: Soft Tissues  
+12q21      12q22      t(12;12)(q21;q22) METTL25/FGD6 Soft Tissues: Soft Tissues  
+12q21      12q22      t(12;12)(q21;q22) SYT1/FGD6 Soft Tissues: Soft Tissues  
+12q21      12q23      t(12;12)(q21;q23) METTL25/AMDHD1 Soft Tissues: Soft Tissues  
+12q21      12q23      t(12;12)(q21;q23) PAWR/AMDHD1 Soft Tissues: Soft Tissues  
+12q22      del(12)(q22) Skeleton Osteosarcoma, NOS 
+12q22      del(12)(q22) Soft tissue Malignant peripheral nerve sheath tumor/Triton 
+12q22      del(12)(q22) Soft tissue Synovial sarcoma 
+12q24      del(12)(q24) Soft tissue Undifferentiated pleomorphic sarcoma 
+13q12      13q22      del(13)(q12q22) Soft tissue Atypical lipomatous tumor/atypical lipoma/welldifferentiated liposarcoma 
+13q12      13q22      del(13)(q12q22) Soft tissue Atypical lipomatous tumor/atypical lipoma/welldifferentiated liposarcoma 
+13q12      13q22      del(13)(q12q22) Soft tissue Lipoma 
+13q12      13q22      del(13)(q12q22) Soft tissue Lipoma 
+13q12      del(13)(q12) Soft tissue Lipoblastoma 
+13q12      del(13)(q12) Soft tissue Spindle cell/pleomorphic lipoma 
+13q13      13q31      del(13)(q13q31) Soft tissue Lipoma 
+13q14      13q14      del(13)(q14q14) Soft tissue Lipoma 
+13q14      13q14      del(13)(q14q14) Soft tissue Spindle cell/pleomorphic lipoma 
+13q14      13q22      del(13)(q14q22) Soft tissue Lipoma 
+13q14      13q22      del(13)(q14q22) Soft tissue Lipoma 
+13q14      13q22      del(13)(q14q22) Soft tissue Spindle cell/pleomorphic lipoma 
+13q14      13q22      del(13)(q14q22) Soft tissue Spindle cell/pleomorphic lipoma 
+13q14      del(13)(q14) Skeleton Osteosarcoma, NOS 
+13q14      del(13)(q14) Soft tissue Alveolar rhabdomyosarcoma 
+13q14      del(13)(q14) Soft tissue Lipoma 
+13q22      del(13)(q22) Soft tissue Leiomyosarcoma 
+13q22      del(13)(q22) Soft tissue Lipoma 
+14p11      der(14)add(14)(p11)add(14)(q32) Soft tissue Leiomyosarcoma 
+14q24.1    14q31.1    del(14)(q24.1q31.1)  Clear Cell Sarcoma of Kidney 
+14q24      del(14)(q24) Soft tissue Embryonal rhabdomyosarcoma 
+14q32      18q21      t(14;18)(q32;q21)  Histiocytic sarcoma/malignant histiocytosis 
+15q22      del(15)(q22) Soft tissue Synovial sarcoma 
+16p11      21q22      t(16;21)(p11;q22) FUS/ERG Soft Tissues Ewing sarcoma 
+16p11      21q22      t(16;21)(p11;q22) Skeleton Ewing sarcoma 
+16p11      del(16)(p11) Soft tissue Malignant peripheral nerve sheath tumor/Triton 
+16p12      del(16)(p12) Soft tissue Malignant peripheral nerve sheath tumor/Triton 
+16p13      16p13      t(16;16)(p13;p13) CIITA/DEXI Soft Tissues: Soft Tissues  
+16q11      del(16)(q11) Skeleton Osteosarcoma, NOS 
+16q13      del(16)(q13) Soft tissue Spindle cell/pleomorphic lipoma 
+16q22      del(16)(q22) Soft tissue Alveolar rhabdomyosarcoma 
+16q22      del(16)(q22) Soft tissue Synovial sarcoma 
+16q22      del(16)(q22) Uterus, corpus Endometrial stromal sarcoma 
+16q24      del(16)(q24) Intraabdominal Liposarcoma, dedifferentiated 
+17p11      del(17)(p11) Skeleton Osteosarcoma, NOS 
+17p11      del(17)(p11) Soft tissue Leiomyosarcoma 
+17p11      del(17)(p11) Soft tissue Malignant peripheral nerve sheath tumor/Triton 
+17p12      del(17)(p12) Skeleton Osteosarcoma, NOS 
+17p12      del(17)(p12) Soft tissue Fibrosarcoma 
+17p12      del(17)(p12) Soft tissue Synovial sarcoma 
+17p13      19q13      t(17;19)(p13;q13) KMT2B/GPS2 Soft Tissues: Soft Tissues  
+17p13      22q12      t(17;22)(p13;q12) MYH9/USP6 Soft Tissues: Soft Tissues  
+17q12      22q12      t(17;22)(q12;q12)  Sarcoma 
+17q21      22q12      t(17;22)(q21;q12) EWSR1/ETV4 Soft Tissues Ewing sarcoma 
+17q21      22q13      der(22)t(17;22)(q21;q13) Soft tissue Dermatofibrosarcoma protuberans/Bednar tumor/giant cell fibroblastoma 
+17q21      22q13      t(17;22)(q21;q13) Soft tissue Dermatofibrosarcoma protuberans/Bednar tumor/giant cell fibroblastoma 
+17q21.31   22q12.2    t(17;22)(q21.31;q12.2)  Ewing Sarcoma 
+17q21.33   22q13.1    t(17;22)(q21.33;q13.1)  Dermatofibrosarcoma Protuberans 
+17q21.33   22q13      t(17;22)(q21.33;q13)  Dermatofibrosarcoma Protuberans 
+17q21      del(17)(q21) Soft tissue Synovial sarcoma 
+17q22      22q13      der(22)t(17;22)(q22;q13) Soft tissue Dermatofibrosarcoma protuberans/Bednar tumor/giant cell fibroblastoma 
+17q22      22q13      t(17;22)(q22;q13) COL1A1/PDGFB Soft Tissue  
+17q22      22q13      t(17;22)(q22;q13) COL1A1/PDGFB Soft Tissues Dermatofibrosarcoma protuberans (Darier Ferrand) 
+17q22      22q13      t(17;22)(q22;q13) Soft tissue Dermatofibrosarcoma protuberans/Bednar tumor/giant cell fibroblastoma 
+18p11      del(18)(p11) Skeleton Osteosarcoma, NOS 
+18q11      22p11.2    t(18;22)(q11;p11.2)  Epithelioid Sarcoma 
+18q11      del(18)(q11) Soft tissue Synovial sarcoma 
+18q21      del(18)(q21) Soft tissue Angiofibroma 
+19p13      19q13      r(19)(p13q13) Soft tissue Undifferentiated pleomorphic sarcoma 
+19p13      22q12      t(19;22)(p13;q12) EWSR1/CREB3L3 Soft Tissues: Soft Tissues  
+19p13      der(19)add(19)(p13)add(19)(q13) Skeleton Osteosarcoma, NOS 
+19p13      der(19)add(19)(p13)add(19)(q13) Soft tissue Leiomyosarcoma 
+19p13      der(19)add(19)(p13)add(19)(q13) Soft tissue Myxofibrosarcoma 
+19q13      19q13      t(19;19)(q13;q13) CIC/LEUTX Soft Tissues: Soft Tissues  
+19q13.2    19p13.3    del(19)(q13.2p13.3)  Embryonal Rhabdomyo Sarcoma 
+19q13      22q12      t(19;22)(q13;q12) EWSR1/ZNF444 Soft Tissues Mixed tumor/Myoepithelioma/Parachordoma 
+19q13      22q12      t(19;22)(q13;q12) EWSR1/ZNF444 Soft Tissues Myoepithelioma 
+19q13      del(19)(q13) Skeleton Osteosarcoma, NOS 
+20p11      21p11      der(21)t(20;21)(p11;p11) Skeleton Osteosarcoma, NOS 
+20p11      21p11      t(20;21)(p11;p11) Skeleton Osteosarcoma, NOS 
+20q11      del(20)(q11) Skeleton Chondrosarcoma, NOS 
+20q13.2    22q12.2    t(20;22)(q13.2;q12.2) EWSR1/NFATC2 Soft Tissues Ewinglike sarcoma 
+20q13      22q12      t(20;22)(q13;q12)  Ewing Sarcoma 
+20q13      22q12      t(20;22)(q13;q12) EWSR1/NFATC2 Soft Tissues Ewing sarcoma 
+20q13      del(20)(q13) Soft tissue Malignant peripheral nerve sheath tumor/Triton 
+21q22      22q12      22q12 ins(21;22)(q22;q12q12) Skeleton Ewing sarcoma 
+22q11      del(22)(q11) Skeleton Ewing sarcoma 
+22q11      del(22)(q11) Soft tissue Malignant peripheral nerve sheath tumor/Triton 
+22q11      del(22)(q11) Unknown site Ewing sarcoma 
+22q12      22q12      inv(22)(q12q12) EWSR1/PATZ1 Soft Tissues Ewing sarcoma 
+22q12      22q12      inv(22)(q12q12) EWSR1/PATZ1 Soft Tissues Soft tissue tumor 
+22q12      del(22)(q12) Skeleton Ewing sarcoma 
+22q12      del(22)(q12) Soft tissue Ewing sarcoma 
+22q13      del(22)(q13) Skeleton Osteosarcoma, NOS 
+22q13      del(22)(q13) Soft tissue Malignant peripheral nerve sheath tumor/Triton 
+Xp11       14q24      t(X;14)(p11;q24) RAD51B/RRAGB Soft Tissues: Soft Tissues  
+Xp11       15q11      der(X)t(X;15)(p11;q11) Soft tissue Synovial sarcoma 
+Xp11       15q11      t(X;15)(p11;q11) Soft tissue Synovial sarcoma 
+Xp11       17p13      t(X;17)(p11;p13) DVL2/TFE3 Soft Tissues: Soft Tissues  
+Xp11       17q23      t(X;17)(p11;q23)  Endometrial Stromal Sarcomas 
+Xp11       17q25      der(17)t(X;17)(p11;q25) Soft tissue Alveolar soft part sarcoma 
+Xp11       17q25      t(X;17)(p11;q25)  Alveolar Soft Part Sarcoma 
+Xp11       17q25      t(X;17)(p11;q25) ASPSCR1/TFE3 Soft Tissues Alveolar soft part sarcoma 
+Xp11       17q25      t(X;17)(p11;q25) Soft tissue Alveolar soft part sarcoma 
+Xp11       18q11      der(18)t(X;18)(p11;q11) Soft tissue Synovial sarcoma 
+Xp11       18q11      der(X)t(X;18)(p11;q11) Soft tissue Synovial sarcoma 
+Xp11       18q11      t(X;18)(p11;q11)  Epithelioid Sarcoma 
+Xp11       18q11      t(X;18)(p11;q11) Intraabdominal Synovial sarcoma 
+Xp11       18q11      t(X;18)(p11;q11) Intrathoracal Synovial sarcoma 
+Xp11       18q11      t(X;18)(p11;q11) Larynx Synovial sarcoma 
+Xp11       18q11      t(X;18)(p11;q11) Larynx Synovial sarcoma 
+Xp11       18q11      t(X;18)(p11;q11) Pleura Synovial sarcoma 
+Xp11       18q11      t(X;18)(p11;q11) Pleura Synovial sarcoma 
+Xp11       18q11      t(X;18)(p11;q11) Soft tissue Synovial sarcoma 
+Xp11       18q11      t(X;18)(p11;q11) Soft tissue Synovial sarcoma 
+Xp11       18q11      t(X;18)(p11;q11) SS18/ Soft Tissues Synovial sarcoma 
+Xp11       18q11      t(X;18)(p11;q11) SS18/SSX4 Soft Tissues: Soft Tissues  
+Xp11       18q11      t(X;18)(p11;q11)  Synovial Sarcoma 
+Xp11       18q11      t(X;18)(p11;q11)  Synovial Sarcomas 
+Xp11       18q11      t(X;18)(p11;q11) Unknown site Synovial sarcoma 
+Xp11       18q11      t(X;18)(p11;q11) Unknown site Synovial sarcoma 
+Xp11       20q13      t(X;20)(p11;q13) SS18L1/SSX1 Soft Tissues Synovial sarcoma 
+Xp11.2     17q21.33   t(X;17)(p11.2;q21.33) MBTD1/CXorf67 Female organs: Uterus Lowgrade endometrial stromal sarcoma 
+Xp11.2     18q11.2    t(X;18)(p11.2;q11.2)  Bifocal Synovial Sarcoma 
+Xp11.2     18q11.2    t(X;18)(p11.2;q11.2)  Synovial Sarcoma 
+Xp11.2     18q11.2    t(X;18)(p11.2;q11.2)  Synovial Sarcoma 
+Xp11.2     18q11.2    t(X;18)(p11.2;q11.2)  Synovial Sarcomas 
+Xp11.2     20q13.3    t(X;20)(p11.2;q13.3)  Synovial Sarcoma 
+Xp11.22    18q11.2    t(X;18)(p11.22;q11.2)  Synovial Sarcoma 
+Xp11       22q13      t(X;22)(p11;q13) ZC3H7B/BCOR Soft Tissue  
+Xp11       22q13      t(X;22)(p11;q13) ZC3H7B/BCOR Soft Tissues: Soft Tissues  
+Xp11.2     Xp11.2     del(X)(p11.2p11.2)  Synovial Sarcoma 
+Xp11       4q31       t(X;4)(p11;q31) BCOR/MAML3 Soft Tissues: Soft Tissues  
+Xp11       Xp11       inv(X)(p11p11) BCOR/CCNB3 Bones Ewing sarcoma / Primitive neurectodermal tumor (PNET) 
+Xp11       Xp11       inv(X)(p11p11) BCOR/CCNB3 Soft Tissues Soft tissue tumor 
+Xp22       2p13       t(X;2)(p22;p13) Soft tissue Synovial sarcoma 
+Xq11.22    18q11.2    t(X;18)(q11.22;q11.2)  Synovial Sarcoma 
+Xq11       del(X)(q11) Skeleton Osteosarcoma, NOS 
+Xq12       14q24      t(X;14)(q12;q24) RAD51B/OPHN1 Soft Tissues: Soft Tissues  
+Xq13       11q24      t(X;11)(q13;q24) MED12/PRDM10 Soft Tissues: Soft Tissues  
+Xq13       19q13.3    t(X;19)(q13;q13.3) CIC/FOXO4 Soft Tissue  
+Xq13       19q13      t(X;19)(q13;q13) CIC/FOXO4 Soft Tissues: Soft Tissues  
+Xq13       2q36       t(X;2)(q13;q36) PAX3/FOXO4 Soft Tissue  
+Xq13       2q36       t(X;2)(q13;q36) PAX3/FOXO4 Soft Tissues Rhabdomyosarcoma 
+Xq22       del(X)(q22) Skeleton Osteosarcoma, NOS 
+Xq22       del(X)(q22) Soft tissue Leiomyosarcoma 
+Xq22       del(X)(q22) Soft tissue Malignant peripheral nerve sheath tumor/Triton 
+Xq22       del(X)(q22) Soft tissue Undifferentiated pleomorphic sarcoma 
+Xq26       16p13      t(X;16)(q26;p13) CREBBP/BCORL1 Soft Tissues: Soft Tissues  
+
+t(10;17;12)(q22;p11;q13) Uterus, corpus Endometrial stromal sarcoma
+t(2;11;22)(q11;q24;q12) Skeleton Ewing sarcoma
+t(2;11;22)(q11;q24;q12) Skeleton Ewing sarcoma
+t(7;8;14)(q11;q13;q31) GTF2I/NCOA2 Soft Tissues: Soft Tissues 
+t(X;15;18)(p11;p11;q11) Soft tissue Synovial sarcoma
+t(X;15;18)(p11;p11;q11) Soft tissue Synovial sarcoma
