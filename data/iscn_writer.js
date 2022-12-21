@@ -100,12 +100,13 @@ function someFunction(red, green, redsig, greensig, fusion) {
     inequalityF = 1;
   }
   sigValues = [sigR, sigG, sigF];
-
+console.log(sigValues);
   //create an array from input variables for signals separated by ~ or -
 
-  let sigR_arr = sigR.split(/[~-]+/);
-  let sigG_arr = sigG.split(/[~-]+/);
-  let sigF_arr = sigF.split(/[~-]+/);
+  let sigR_arr = sigR.split(/[-~>]+/);
+  let sigG_arr = sigG.split(/[-~>]+/);
+  let sigF_arr = sigF.split(/[-~>]+/);
+console.log(sigF_arr);
 
   //convert arrays to number type
   sigR_array = sigR_arr.map(function (x) {
@@ -119,7 +120,6 @@ function someFunction(red, green, redsig, greensig, fusion) {
   let sigF_array = sigF_arr.map(function (x) {
     return parseInt(x);
   });
-
 
   //set low and high signals depending on whether single integer or range
   sigR_low = sigR_array[0] + sigF_array[0];
@@ -261,7 +261,12 @@ function someFunction(red, green, redsig, greensig, fusion) {
 function breakapart_RG() {
     let probeName = probeR.slice(2);
     if (sigRo == sigGo) {
-        if (sigF_high != 0) {
+        if (sigRo == 0 && sigGo == 0){
+            const node = document.createTextNode("(" + probeName + "x" + sigF_write + ")");
+            const element = document.getElementById("ISCN");
+            element.appendChild(node);
+        }else if
+         (sigF_high != 0) {
             const node = document.createTextNode("(" + probeName + "x" + sigR_write + ")(" + probeR + " sep " + probeG + "x" + sigTR + ")");
             const element = document.getElementById("ISCN");
             element.appendChild(node);
@@ -287,12 +292,15 @@ function breakapart_RG() {
     }
 }
 
-//function breakapart green before red
-
 function breakapart_GR() {
     let probeName = probeR.slice(2);
     if (sigRo == sigGo) {
-        if (sigF_high != 0) {
+        if (sigRo == 0 && sigGo == 0){
+            const node = document.createTextNode("(" + probeName + "x" + sigF_write + ")");
+            const element = document.getElementById("ISCN");
+            element.appendChild(node);
+        }else if 
+         (sigF_high != 0) {
             const node = document.createTextNode("(" + probeName + "x" + sigR_write
                 + ")(" + probeG + " sep " + probeR + "x" + sigTR + ")");
             const element = document.getElementById("ISCN");
