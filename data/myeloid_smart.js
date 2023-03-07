@@ -53,7 +53,7 @@ let ntp = {
 
     "congruent": "These results are congruent with the most recent cytogenetic analysis on file (CYG22-",
 
-    "correlate": "Please correlate with other clinical and laboratory information, including the pending cytogenetic analysis (CYG22-",
+    "correlate": "Please correlate with other clinical and laboratory information, including the pending cytogenetic analysis (CYG23-",
 
     "whomds": "In the current WHO guidelines, the demonstration of MDS-defining anomalies in a cytopenic patient in the absence of morphologic dysplasia must be by conventional karyotyping to be diagnostic. ",
 
