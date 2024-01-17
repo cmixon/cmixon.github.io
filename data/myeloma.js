@@ -1,9 +1,9 @@
 let ntp = {
   hyperdiploid:
-        "These results are consistent with hyperdiploidy, a standard risk prognostic sign in multiple myeloma, which may be modified during the course of disease by the acquisition of high-risk abnormalities.",   
+        "The results with the 5/9/15 probe set are consistent with hyperdiploidy, a standard risk prognostic sign in multiple myeloma, which may be modified during the course of disease by the acquisition of high-risk abnormalities.",   
     
     hyperdiploidHr:
-    "These results are consistent with hyperdiploidy. Hyperdiploidy per se does not ameliorate the prognostic impact of the high-risk anomalies present in this case, but the presence of trisomy 5 specifically has been associated with clinical amelioration of high-risk abnormalities.",
+    "The results with the 5/9/15 probe set are consistent with hyperdiploidy. Hyperdiploidy per se does not ameliorate the prognostic impact of the high-risk anomalies present in this case, but the presence of trisomy 5 specifically has been associated with clinical amelioration of high-risk abnormalities.",
 
   tetraploid:
         "The gain in chromosome counts is indicative of near-tetraploidy, an unfavorable risk group in multiple myeloma independent of the presence of additional high-risk abnormalities.",
@@ -24,7 +24,7 @@ let ntp = {
     "Gain of the long arm of chromosome 1 (1q), a frequent finding in plasma cell neoplasia by interphase FISH analysis, is considered high risk in plasma cell myeloma.",
 
   del1p:
-    "Deletion of the short arm of chromosome 1 (1p) is associated with a poor prognosis in plasma cell myeloma except when observed as a sole anomaly.",
+    "Deletion of the short arm of chromosome 1 (1p) is associated with a poor prognosis in plasma cell myeloma.",
 
   amp1q:
     "Gain of 1q is a frequent finding in plasma cell neoplasia by interphase FISH analysis.  It is considered high risk in plasma cell myeloma.  Increased copies of 1q (ie >3R) may be associated with a less favorable prognosis.",
@@ -45,7 +45,7 @@ let ntp = {
       "Loss of NF1 is consistent with a complex karyotype.  It has no established clinical significance in this setting.",
 
   ccnd1:
-    "CCND1/IGH fusion is considered standard risk in plasma cell myeloma. Clinical trials suggest that multiple myeloma with IGH/CCND1 fusion may respond to BCL2 inhibitors. CCND1/IGH fusion is also observed in patients with mantle cell lymphoma (MCL).",
+    "IGH::CCND1 rearrangement is considered standard risk in plasma cell myeloma. Clinical trials suggest that multiple myeloma with CCND1::IGH rearrangement may respond to BCL2 inhibitors. IGH::CCND1 rearrangement is also observed in patients with mantle cell lymphoma (MCL).",
 
   gainCCND1:
     "Gain of chromosome 11 is observed in the group of myeloma cases characterized by hyperdiploidy. However, isolated gain of a single chromosome is insufficient to establish hyperdiploidy.  If clinically indicated, further evaluation of the ploidy status with the 5/9/15 probe set should be considered.  Hyperdiploidy is considered standard risk in plasma cell myeloma.",
@@ -55,14 +55,14 @@ let ntp = {
     "Gain of chromosome 11 is observed in the group of myeloma cases characterized by hyperdiploidy. However, isolated gain of a single chromosome is insufficient to establish hyperdiploidy.  At the time of this report, further evaluation of the ploidy status with the 5/9/15 probe set is pending in the Plasma Cell Myeloma panel.",
 
     ccnd1hr:
-    "CCND1/IGH fusion [t(11;14)] is associated with standard risk in plasma cell myeloma.  However, patients with unfavorable risk genetics have the inferior prognosis associated with these anomalies although the higher risk associated with gain of 1q seems to be related to gains above one additional copy.  Clinical trials suggest that multiple myeloma with t(11;14) may respond to BCL2 inhibitors.",
+    "IGH::CCND1 rearrangement [t(11;14)] is associated with standard risk in plasma cell myeloma.  However, patients with unfavorable risk genetics have the inferior prognosis associated with these anomalies although the higher risk associated with gain of 1q seems to be related to gains above one additional copy.  Clinical trials suggest that multiple myeloma with t(11;14) may respond to BCL2 inhibitors.",
 
   fgfr3:
-    "FGFR3/IGH fusion is considered high risk in plasma cell myeloma.  In one large trial, survival was lower for patients with t(4;14) even after bortezomib-based induction, early ASCT, and bortezomib maintenance.",
+    "IGH::FGFR3 rearrangement is considered high risk in plasma cell myeloma.  In one large trial, survival was lower for patients with t(4;14) even after bortezomib-based induction, early ASCT, and bortezomib maintenance.",
 
-  maf: "IGH/MAF fusion is considered high risk in plasma cell myeloma.  However, in smoldering myeloma it is associated with standard-risk of progression.",
+  maf: "IGH::MAF rearrangement is considered high risk in plasma cell myeloma.  However, in smoldering myeloma it is associated with standard-risk of progression.",
 
-  mafb: "IGH/MAFB fusion is considered high risk in plasma cell myeloma.  However, in smoldering myeloma it is associated with standard-risk of progression.",
+  mafb: "IGH::MAFB rearrangement is considered high risk in plasma cell myeloma.  However, in smoldering myeloma it is associated with standard-risk of progression.",
 
   mono16:
     "Monosomy 16 is frequently observed in plasma cell myeloma and considered standard risk. ",
