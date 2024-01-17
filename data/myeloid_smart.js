@@ -51,9 +51,9 @@ let ntp = {
 
     "complexGT3": "In myelodysplastic syndrome (MDS), complex karyotype with >3 cytogenetic abnormalities is assigned a very poor prognosis according to the Revised International Prognostic Scoring System (IPSS-R) for MDS.",
 
-    "congruent": "These results are congruent with the most recent cytogenetic analysis on file (CYG23-",
+    "congruent": "These results are congruent with the most recent cytogenetic analysis on file (CYG24-",
 
-    "correlate": "Please correlate with other clinical and laboratory information, including the pending cytogenetic analysis (CYG23-",
+    "correlate": "Please correlate with other clinical and laboratory information, including the pending cytogenetic analysis (CYG24-",
 
     "whomds": "In the current WHO guidelines, the demonstration of MDS-defining anomalies in a cytopenic patient in the absence of morphologic dysplasia must be by conventional karyotyping to be diagnostic. ",
 
