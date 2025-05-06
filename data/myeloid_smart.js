@@ -142,7 +142,7 @@ let references = {
     "complex": ["Schanz", "Greenberg", "Dohner"],
 }
 let reference_list = {
-    "Swerdlow": "Swerdlow S, et al. WHO Classification of Tumours of Haematopoietic and Lymphoid Tissue. Rev. 4th ed. Lyon, France: IARC;2017<br>",
+    "Swerdlow": "Khoury JD et al.  The 5th edition of the World Health Organization Classification of Haematolymphoid Tumors:  Myeloid and Histiocytic/Dendritic Neoplasms.  Leukemia 2022. doi.org/10.1038/s41375-022-01613-1<br>",
 
     "Dohner": "Dohner H, et al. Diagnosis and management of AML in adults: 2017 ELN recommendations from an international expert panel. Blood. 2017;129(4):424-447.<br>",
 
