@@ -11,7 +11,7 @@ let ntp = {
     BCL61G1F:
         "The 1G1F signal pattern observed with the BCL6 probe set may be due to rearrangement with deletion of the 5'BCL6 locus or simple deletion without rearrangement.  BCL6 rearrangements are recurring abnormalities in B-cell non-Hodgkin lymphoma (NHL), including 40% of diffuse large cell lymphomas (DLCL), 5-10% of follicular lymphomas, 9% of marginal zone B-cell lymphoma (MZBCL) and rarely mantle cell lymphoma and chronic lymphocytic leukemia.",
     BCL6gain:
-        "Gain of BCL6 signal pattern may be indicative of gain of chromosome 3/3q.  Total or partial trisomy 3 is observed as a primary anomlay in small B-cell lymphoma including marginal zone and lymphplasmacytic lymphoma but may also be seen as a secondary anomaly in other lymphoma subtypes.",
+        "Gain of BCL6 signal pattern may be indicative of gain of chromosome 3/3q.  Total or partial trisomy 3 is observed as a primary anomaly in small B-cell lymphoma including marginal zone and lymphoplasmacytic lymphoma but may also be seen as a secondary anomaly in other lymphoma subtypes.",
 
     CCND1:
         "IGH::CCND1 rearrangement is characteristic of mantle cell lymphoma.   Gain of 3q is associated with more aggressive disease / poorer prognosis in this setting.",
