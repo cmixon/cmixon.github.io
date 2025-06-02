@@ -55,7 +55,7 @@ let ntp = {
 
     hgBCL23f: "Gain of chromosome 18/18q is a frequent primary anomaly in small B-cell lymphoma including marginal zone and lymphoplasmacytic lymphoma but may also be seen as a secondary anomaly in other lymphoma subtypes.  Please correlate with other clinical and laboratory information.",
 
-    hgMYC: "MYC rearrangements are recurring abnormalities in lymphoid disorders. The most common translocations involving MYC (8q24) are t(8;14)(q24;q32) with immunoglobulin heavy chain gene and less commonly t(2;8)(p12;q24) and t(8;22)(q24;q11) with immunoglobulin light chain genes. MYC rearrangement is characteristic for Burkitt lymphoma but is also observed in other high-grade lympohoma subtypes distinguished by morphology and the presence or absence of BCL2 and BCL6 rearrangements. This assay is not designed to identify the rearrangement partner.",
+    hgMYC: "MYC rearrangements are recurring abnormalities in lymphoid disorders. The most common translocations involving MYC (8q24) are t(8;14)(q24;q32) with immunoglobulin heavy chain gene and less commonly t(2;8)(p12;q24) and t(8;22)(q24;q11) with immunoglobulin light chain genes. MYC rearrangement is characteristic for Burkitt lymphoma but is also observed in other high-grade lymphoma subtypes distinguished by morphology and the presence or absence of BCL2 and BCL6 rearrangements. This assay is not designed to identify the rearrangement partner.",
 
     hgMYC34f: "Gain of signal with the MYC breakapart probe is consistent with gain of the MYC locus or of chromosome 8/8q but is not indicative of MYC amplification, which is defined as >4 MYC signals in the absence of rearrangement.",
 
