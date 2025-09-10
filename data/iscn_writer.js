@@ -262,29 +262,29 @@ function breakapart_RG() {
     let probeName = probeR.slice(2);
     if (sigRo == sigGo) {
         if (sigRo == 0 && sigGo == 0){
-            const node = document.createTextNode("(" + probeName + "x" + sigF_write + ")");
+            const node = document.createTextNode("(" + probeName + ")" + "x" + sigF_write);
             const element = document.getElementById("ISCN");
             element.appendChild(node);
         }else if
          (sigF_high != 0) {
-            const node = document.createTextNode("(" + probeName + "x" + sigR_write + ")(" + probeR + " sep " + probeG + "x" + sigTR + ")");
+            const node = document.createTextNode("(" + probeName + ")" + "x" + sigR_write + "(" + probeR + " sep " + probeG + ")" + "x" + sigTR);
             const element = document.getElementById("ISCN");
             element.appendChild(node);
             
         } else {
-            const node = document.createTextNode("(" + probeName + "x" + sigR_write + ")(" + probeR + " sep " + probeG + "x" + sigTR + ")");
+            const node = document.createTextNode("(" + probeName + ")" + "x" + sigR_write + "(" + probeR + " sep " + probeG + ")" + "x" + sigTR);
             const element = document.getElementById("ISCN");
             element.appendChild(node);
             
         }
     } else {
         if (sigF_high != 0) {
-            const node = document.createTextNode("(" + probeR + "x" + sigR_write + "," + probeG + "x" + sigG_write + ")(" + probeR + " con " + probeG + "x" + sigF_write + ")");
+            const node = document.createTextNode("(" + probeR + "x" + sigR_write + "," + probeG + "x" + sigG_write + ")(" + probeR + " con " + probeG + ")" + "x" + sigF_write);
             const element = document.getElementById("ISCN");
             element.appendChild(node);
             
         } else {
-            const node = document.createTextNode("(" + probeR + "x" + sigR_write + "," + probeG + "x" + sigG_write + ")(" + probeR + " con " + probeG + "x" + sigF_write + ")");
+            const node = document.createTextNode("(" + probeR + "x" + sigR_write + "," + probeG + "x" + sigG_write + ")(" + probeR + " con " + probeG + ")" + "x" + sigF_write);
             const element = document.getElementById("ISCN");
             element.appendChild(node);
             
@@ -296,18 +296,18 @@ function breakapart_GR() {
     let probeName = probeR.slice(2);
     if (sigRo == sigGo) {
         if (sigRo == 0 && sigGo == 0){
-            const node = document.createTextNode("(" + probeName + "x" + sigF_write + ")");
+            const node = document.createTextNode("(" + probeName + ")" + "x" + sigF_write);
             const element = document.getElementById("ISCN");
             element.appendChild(node);
         }else if 
          (sigF_high != 0) {
-            const node = document.createTextNode("(" + probeName + "x" + sigR_write
-                + ")(" + probeG + " sep " + probeR + "x" + sigTR + ")");
+            const node = document.createTextNode("(" + probeName + ")" + "x" + sigR_write
+                +"(" + probeG + " sep " + probeR + ")" + "x" + sigTR);
             const element = document.getElementById("ISCN");
             element.appendChild(node);
         } else {
-            const node = document.createTextNode("(" + probeName + "x" + sigR_write
-                + ")(" + probeG + " sep " + probeR + "x" + sigTR + ")");
+            const node = document.createTextNode("(" + probeName + ")" + "x" + sigR_write
+                + "(" + probeG + " sep " + probeR + ")" + "x" + sigTR);
             const element = document.getElementById("ISCN");
             element.appendChild(node);
         }
@@ -315,12 +315,12 @@ function breakapart_GR() {
     } else {
         if (sigF_high != 0) {
             const node = document.createTextNode("(" + probeG + "x" + sigG_write
-                + "," + probeR + "x" + sigR_write + ")(" + probeG + " con " + probeR + "x" + sigF_write + ")");
+                + "," + probeR + "x" + sigR_write + ")(" + probeG + " con " + probeR + ")" +  "x" + sigF_write);
             const element = document.getElementById("ISCN");
             element.appendChild(node);
         } else {
             const node = document.createTextNode("(" + probeG + "x" + sigG_write
-                + "," + probeR + "x" + sigR_write + ")(" + probeG + " con " + probeR + "x" + sigF_write + ")");
+                + "," + probeR + "x" + sigR_write + ")(" + probeG + " con " + probeR + ")" + "x" + sigF_write);
             const element = document.getElementById("ISCN");
             element.appendChild(node);
         }
@@ -332,7 +332,7 @@ function dualFusion_RG() {
     if (sigRo == sigGo) {
         if (sigF_high != 0) {
             const node = document.createTextNode("(" + probeR + "," + probeG + ")x"
-                + sigR_write + "(" + probeR + " con " + probeG + "x" + sigF_write + ")");
+                + sigR_write + "(" + probeR + " con " + probeG + ")" +  "x" + sigF_write);
             const element = document.getElementById("ISCN");
             element.appendChild(node);
         } else {
@@ -341,15 +341,15 @@ function dualFusion_RG() {
                 const element = document.getElementById("ISCN");
                 element.appendChild(node);
             } else {
-                const node = document.createTextNode("(" + probeR + "," + probeG + ")x" + sigR_write + "(" + probeR + " con " + probeG + "x" + sigF_write + ")");
+                const node = document.createTextNode("(" + probeR + "," + probeG + ")x" + sigR_write + "(" + probeR + " con " + probeG + ")" + "x" + sigF_write);
                 const element = document.getElementById("ISCN");
                 element.appendChild(node);
             }
         }
     } else {
         if (sigF_high != 0) {
-            const node = document.createTextNode("(" + probeR + "x" + sigR_write + "," + probeG + "x" + sigG_write + ")" + "(" + probeR + " con " + probeG + "x"
-                + sigF_write + ")");
+            const node = document.createTextNode("(" + probeR + "x" + sigR_write + "," + probeG + "x" + sigG_write + ")" + "(" + probeR + " con " + probeG + ")" + "x"
+                + sigF_write);
             const element = document.getElementById("ISCN");
             element.appendChild(node);
         } else {
@@ -358,7 +358,7 @@ function dualFusion_RG() {
                 const element = document.getElementById("ISCN");
                 element.appendChild(node);
             } else {
-                const node = document.createTextNode("(" + probeR + "x" + sigR_write + "," + probeG + "x" + sigG_write + ")" + "(" + probeR + " con " + probeG + "x" + sigF_write + ")");
+                const node = document.createTextNode("(" + probeR + "x" + sigR_write + "," + probeG + "x" + sigG_write + ")" + "(" + probeR + " con " + probeG + ")" + "x" + sigF_write);
                 const element = document.getElementById("ISCN");
                 element.appendChild(node);
             }
@@ -370,7 +370,7 @@ function dualFusion_RG() {
 function dualFusion_GR() {
     if (sigRo == sigGo) {
         if (sigF_high != 0) {
-            const node = document.createTextNode("(" + probeG + "," + probeR + ")x" + sigG_write + "(" + probeG + " con " + probeR + "x" + sigF_write + ")");
+            const node = document.createTextNode("(" + probeG + "," + probeR + ")x" + sigG_write + "(" + probeG + " con " + probeR + ")" +  "x" + sigF_write);
             const element = document.getElementById("ISCN");
             element.appendChild(node);
         } else {
@@ -379,15 +379,15 @@ function dualFusion_GR() {
                 const element = document.getElementById("ISCN");
                 element.appendChild(node);
             } else {
-                const node = document.createTextNode("(" + probeG + "," + probeR + ")x" + sigG_write + "(" + probeG + " con " + probeR + "x" + sigF_write + ")");
+                const node = document.createTextNode("(" + probeG + "," + probeR + ")x" + sigG_write + "(" + probeG + " con " + probeR +  ")" + "x" + sigF_write);
                 const element = document.getElementById("ISCN");
                 element.appendChild(node);
             }
         }
     } else {
         if (sigF_high != 0) {
-            const node = document.createTextNode("(" + probeG + "x" + sigG_write + "," + probeR + "x" + sigR_write + ")" + "(" + probeG + " con " + probeR + "x"
-                + sigF_write + ")");
+            const node = document.createTextNode("(" + probeG + "x" + sigG_write + "," + probeR + "x" + sigR_write + ")" + "(" + probeG + " con " + probeR + ")" + "x"
+                + sigF_write);
             const element = document.getElementById("ISCN");
             element.appendChild(node);
         } else {
@@ -396,7 +396,7 @@ function dualFusion_GR() {
                 const element = document.getElementById("ISCN");
                 element.appendChild(node);
             } else {
-                const node = document.createTextNode("(" + probeG + "x" + sigG_write + "," + probeR + "x" + sigR_write + ")" + "(" + probeG + " con " + probeR + "x" + sigF_write + ")");
+                const node = document.createTextNode("(" + probeG + "x" + sigG_write + "," + probeR + "x" + sigR_write + ")" + "(" + probeG + " con " + probeR + ")" + "x" + sigF_write);
                 const element = document.getElementById("ISCN");
                 element.appendChild(node);
             }
