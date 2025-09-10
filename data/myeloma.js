@@ -21,10 +21,9 @@ let ntp = {
     " There is some evidence that monosomy 13/whole-arm deletion of 13q as identified in this case may confer an adverse effect on overall survival while proximal del(13q) may confer a protective effect on overall survival; however, both are considered standard risk in plasma cell myeloma.  When detected by karyotyping, monosomy 13 predicts impaired progression-free survival and overall survival.",
 
   gain1q:
-    "Gain of the long arm of chromosome 1 (1q), a frequent finding in plasma cell neoplasia by interphase FISH analysis, is considered high risk in plasma cell myeloma.",
-
+    "Current high-risk myeloma guidelines are rapidly evolving in light of new therapeutic regimens.  Gain of the long arm of chromosome 1 (1q), a frequent finding in plasma cell neoplasia by interphase FISH analysis, is considered high risk in plasma cell myeloma when present with additional high-risk abnormalities in the current NCCN guidelines, or when present with a 1p deletion or a high-risk IGH rearrangement in the current mSMART 4.0 guidelines. In relapsed multiple myeloma, gain of 1q alone is considered high risk in both NCCN and mSMART 4.0 guidelines.",
   del1p:
-    "Deletion of the short arm of chromosome 1 (1p) is associated with a poor prognosis in plasma cell myeloma.",
+    "Current high-risk myeloma guidelines are rapidly evolving in light of new therapeutic regimens.  The deletion in chromosome 1p detected by this probe set is considered high-risk in the current NCCN guidelines but is high-risk in the current mSMART 4.0 guidelines only when bi-allelic (present in both copies of chromosome 1p) or in conjunction with gain of 1q or a high-risk IGH rearrangement.  In relapsed multiple myeloma, loss of 1p alone is considered high risk in both NCCN and mSMART 4.0 guidelines.",
 
   amp1q:
     "Gain of 1q is a frequent finding in plasma cell neoplasia by interphase FISH analysis.  It is considered high risk in plasma cell myeloma.  Increased copies of 1q (ie >3R) may be associated with a less favorable prognosis.",
@@ -45,7 +44,7 @@ let ntp = {
       "Loss of NF1 is consistent with a complex karyotype.  It has no established clinical significance in this setting.",
 
   ccnd1:
-    "IGH::CCND1 rearrangement is considered standard risk in plasma cell myeloma. Clinical trials suggest that multiple myeloma with CCND1::IGH rearrangement may respond to BCL2 inhibitors. IGH::CCND1 rearrangement is also observed in patients with mantle cell lymphoma (MCL).",
+    "IGH::CCND1 rearrangement is considered standard risk in plasma cell myeloma in the NCCN and mSMART 4.0 guidelines.",
 
   gainCCND1:
     "Gain of chromosome 11 is observed in the group of myeloma cases characterized by hyperdiploidy. However, isolated gain of a single chromosome is insufficient to establish hyperdiploidy.  If clinically indicated, further evaluation of the ploidy status with the 5/9/15 probe set should be considered.  Hyperdiploidy is considered standard risk in plasma cell myeloma.",
@@ -58,11 +57,11 @@ let ntp = {
     "IGH::CCND1 rearrangement [t(11;14)] is associated with standard risk in plasma cell myeloma.  However, patients with unfavorable risk genetics have the inferior prognosis associated with these anomalies although the higher risk associated with gain of 1q seems to be related to gains above one additional copy.  Clinical trials suggest that multiple myeloma with t(11;14) may respond to BCL2 inhibitors.",
 
   fgfr3:
-    "IGH::FGFR3 rearrangement is considered high risk in plasma cell myeloma.  In one large trial, survival was lower for patients with t(4;14) even after bortezomib-based induction, early ASCT, and bortezomib maintenance.",
+    "Current high-risk myeloma guidelines are rapidly evolving in light of new therapeutic regimens. In newly diagnosed multiple myeloma, the IGH::FGFR3 rearrangement  is considered high-risk in current NCCN guidelines, and if present in association with a chromosome 1 abnormality (1p deletion or gain of 1q) in the mSMART 4.0 guidelines. In relapsed multiple myeloma, this IGH rearrangement is considered high-risk in both NCCN and mSMART 4.0 guidelines",
 
-  maf: "IGH::MAF rearrangement is considered high risk in plasma cell myeloma.  However, in smoldering myeloma it is associated with standard-risk of progression.",
+  maf: "Current high-risk myeloma guidelines are rapidly evolving in light of new therapeutic regimens. In newly diagnosed multiple myeloma, the IGH::MAF rearrangement  is considered high-risk in current NCCN guidelines, and if present in association with a chromosome 1 abnormality (1p deletion or gain of 1q) in the mSMART 4.0 guidelines. In relapsed multiple myeloma, this IGH rearrangement is considered high-risk in both NCCN and mSMART 4.0 guidelines",
 
-  mafb: "IGH::MAFB rearrangement is considered high risk in plasma cell myeloma.  However, in smoldering myeloma it is associated with standard-risk of progression.",
+  mafb: "Current high-risk myeloma guidelines are rapidly evolving in light of new therapeutic regimens. In newly diagnosed multiple myeloma, the IGH::MAFB rearrangement  is considered high-risk in current NCCN guidelines, and if present in association with a chromosome 1 abnormality (1p deletion or gain of 1q) in the mSMART 4.0 guidelines. In relapsed multiple myeloma, this IGH rearrangement is considered high-risk in both NCCN and mSMART 4.0 guidelines",
 
   mono16:
     "Monosomy 16 is frequently observed in plasma cell myeloma and considered standard risk. ",
@@ -71,7 +70,7 @@ let ntp = {
     "Deletion of 20q is a recurring abnormality in myeloid neoplasms.  Studies suggest that del(20q) seen in association with plasma cell myeloma is more likely to represent an abnormality in non-plasma cells.  It is considered standard risk in plasma cell myeloma.",
 
   ighrearr:
-        "The 3G signal pattern with the IGH probe sets is suggestive of gain of the IGH locus, trisomy 14 or an IGH rearrangement with a gene other than FGFR3, CCND1, MAF, or MAFB.  IGH translocations occur in 40% of plasma cell myeloma. An IGH gene rearrangement is considered high risk in plasma cell myeloma if it is associated with t(4;14), t(14;16), or t(14;20).  Other IGH translocations may include t(6;14) seen in ~1-2% of patients and t(8;14) seen in ~3% of patients.  Although MYC translocations are associated with a poorer outcome, all IGH translocations not involving chromosomes 4, 16 and 20 are considered standard risk in plasma cell myeloma.",
+        "Current high-risk myeloma guidelines are rapidly evolving in light of new therapeutic regimens.  The signal pattern with the IGH probe sets is consistent with an IGH rearrangement not involving the partner genes in this panel. All IGH translocations not involving chromosomes 4, 16 and 20 are considered standard risk in mSMART 4.0 guidelines. However, in the current NCCN guidelines, MYC rearrangement is also considered high-risk and may involve IGH as well as non-IGH partners.  If clinically indicated, targeted analysis with the MYC breakapart and t(8;14) IGH/MYC dual fusion probe sets should be considered.",
     igh1r1f:
       "No high-risk immunoglobulin gene rearrangement is identified.  Other IGH translocations in plasma cell myeloma, not investigated for in this FISH assay, include t(6;14) and rarely t(7;14), t(8;14), and t(14;18). Hence the possibility of an IGH rearrangement has not been ruled out in this case. Rearrangements of IGH occur in up to 40% of multiple myeloma and plasma cell leukemia cases.  Although MYC translocations are associated with a poorer outcome, all IGH translocations not involving chromosomes 4, 16 and 20 are considered standard risk in plasma cell myeloma.  However, the possibility that the atypical signal pattern observed with the IGH break-apart probe (1R1F or 1G1F) is indicative of a physiological event accompanying somatic V-D-J assembly in B cells and not oncogenic has also not been ruled out.",
 
@@ -79,7 +78,7 @@ let ntp = {
     "Monosomy 14 is a frequent monosomy in plasma cell myeloma. It is considered standard risk in plasma cell myeloma. ",
 
   ighba:
-    "An IGH gene rearrangement is considered high risk in plasma cell myeloma if it is associated with t(4;14), t(14;16), or t(14;20).  The IGH Complex FISH panel will be performed separately unless otherwise requested. Please refer to the reflexed panel results for information regarding the IGH translocation partner.",
+    "An IGH gene rearrangement may be considered high risk in plasma cell myeloma if it is associated with t(4;14), t(14;16), or t(14;20).  The IGH Complex FISH panel will be performed separately unless otherwise requested. Please refer to the reflexed panel results for information regarding the IGH translocation partner.",
 
   igh5del:
     "The 1R1F signal pattern, with the IGH break apart probe, is indicative of deletion of the 5' region of the IGH locus. Deletions of the IGVH region have been reported to occur as physiological events accompanying somatic V-D-J assembly in B cells and may not be oncogenic.  Rearrangements, including translocations, are sometimes accompanied by deletions at the breakpoints. It is not clear if the deletion, detected by FISH in this case, is accompanied by a translocation. Hence, the possibility of a clinically significant unbalanced rearrangement involving IGH cannot be ruled out.  The prognostic significance of IGH rearrangement depends on the fusion partner. The IGH Complex FISH panel will be performed separately unless otherwise requested. Please refer to the reflexed panel results for information regarding characterization of the IGH abnormality.",
