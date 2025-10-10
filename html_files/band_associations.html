@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Ideogram Band TSV Tooltip Example</title>
+  <script src="https://unpkg.com/ideogram@1.37.0/dist/js/ideogram.min.js"></script>
+  <style>
+    body {
+      font-family: sans-serif;
+      text-align: center;
+      margin: 20px;
+    }
+
+    #ideo-container {
+      display: flex;
+      justify-content: center;
+    }
+
+    /* Tooltip styling */
+    #tooltip {
+      position: absolute;
+      display: none;
+      background: #fff;
+      border: 1px solid #aaa;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+      border-radius: 8px;
+      padding: 10px 12px;
+      max-width: 300px;
+      text-align: left;
+      font-size: 14px;
+      z-index: 9999;
+    }
+
+    #tooltip h3 {
+      margin-top: 0;
+      font-size: 15px;
+      color: #222;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    td {
+      border-top: 1px solid #eee;
+      padding: 4px 0;
+    }
+
+    .no-data {
+      color: #888;
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+  <h1>Human Ideogram Band TSV Tooltip</h1>
+  <p>Click a cytogenetic band to view its data (from TSV).</p>
+  <div id="ideo-container"></div>
+
+  <!-- Floating tooltip -->
+  <div id="tooltip"></div>
+
+  <script>
+    const tsvPath = "bands_data.tsv"; // Path to TSV file
+
+    let bandData = [];
+
+    // Load TSV data
+    fetch(tsvPath)
+      .then(response => response.text())
+      .then(text => {
+        bandData = text.trim().split("\n").map(line => {
+          const [band, data] = line.split("\t");
+          return { band: band.trim(), data: data.trim() };
+        });
+        console.log("Loaded TSV with", bandData.length, "rows");
+      })
+      .catch(err => console.error("Error loading TSV:", err));
+
+    // Tooltip reference
+    const tooltip = document.getElementById("tooltip");
+
+    // Hide tooltip when clicking elsewhere
+    document.addEventListener("click", (event) => {
+      if (!event.target.closest("#tooltip")) {
+        tooltip.style.display = "none";
+      }
+    });
+
+    // Initialize Ideogram
+    const ideogram = new Ideogram({
+      container: "#ideo-container",
+      organism: "human",
+      assembly: "GRCh38",
+      chrHeight: 400,
+      resolution: 550,
+      showBandLabels: true,
+      onClickBand: function(band, evt) {
+        const bandKey = `chr${band.chr}${band.name}`;
+        const matches = bandData.filter(row => row.band === bandKey);
+
+        // Build tooltip content
+        let html = `<h3>${bandKey}</h3>`;
+        if (matches.length > 0) {
+          html += `<table>`;
+          matches.forEach(row => {
+            html += `<tr><td>${row.data}</td></tr>`;
+          });
+          html += `</table>`;
+        } else {
+          html += `<div class="no-data">No data found for this band.</div>`;
+        }
+
+        // Show tooltip near click position
+        tooltip.innerHTML = html;
+        tooltip.style.left = (evt.clientX + 10) + "px";
+        tooltip.style.top = (evt.clientY + 10) + "px";
+        tooltip.style.display = "block";
+      }
+    });
+  </script>
+</body>
+</html>
