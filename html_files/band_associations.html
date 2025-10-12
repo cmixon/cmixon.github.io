@@ -90,12 +90,14 @@
     });
 
     // Initialize Ideogram
-    const ideogram = new Ideogram({
-      container: "#ideo-container",
+
+    var d3 = Ideogram.d3;
+
+    var config = ({
       organism: "human",
-      assembly: "GRCh38",
-      chrHeight: 400,
-      resolution: 550,
+      //assembly: "GRCh38",
+      chrHeight: 600,
+      resolution: 850,
       showBandLabels: true,
       onClickBand: function(band, evt) {
         const bandKey = `chr${band.chr}${band.name}`;
@@ -120,6 +122,9 @@
         tooltip.style.display = "block";
       }
     });
+
+    var ideogram = new Ideogram(config);
+
   </script>
 </body>
 </html>
