@@ -32,7 +32,7 @@ let ntp = {
     "TP53 gene deletion is observed in about 10% of newly diagnosed plasma cell myeloma and up to 80% in later stages.  It is considered high risk in plasma cell myeloma.  There is increasing evidence that higher percentages of TP53 deletion (ie >55%) show worse progression-free and overall survival.  Molecular testing for TP53 mutations is recommended, if clinically indicated.",
 
   relTP53:
-    "Relative deletion of TP53 in multiple myeloma was associated with the same high-risk prognosis as simple deletion 17p in a recent large study.",
+    "There is relative deletion of 17p.  Testing for TP53, a high-risk molecular abnormality, should be considered to determine the significance of this finding.",
 
   TP53Tri5:
     "TP53 gene deletion is observed in about 10% of newly diagnosed plasma cell myeloma and up to 80% in later stages.  It is considered high risk in plasma cell myeloma.  There is increasing evidence that higher percentages of TP53 deletion (ie >55%) show worse progression-free and overall survival.  Molecular testing for TP53 mutations is recommended, if clinically indicated.   There is evidence that the presence of trisomy 5 ameliorates the poor prognosis associated with this deletion somewhat.",
