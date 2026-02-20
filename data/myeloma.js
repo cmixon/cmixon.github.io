@@ -100,7 +100,7 @@ let ntp = {
     marginal: "The presence of this anomaly should be interpreted with caution because of its detection only marginally above cutoff.",
 
     noTargeted: "No targeted rearrangements are identified.",
-    hrsummary:  "SUMMARY OF FINDINGS (see below for additional information):  FISH performed on CD138+ enriched plasma cells identified HIGH RISK cytogenetic abnormalities:  "
+    hrsummary:  "SUMMARY OF FINDINGS (see below for additional information):  FISH performed on CD138+ enriched plasma cells identified HIGH RISK cytogenetic abnormalities:  ",
 
 };
 
