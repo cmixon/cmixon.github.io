@@ -141,7 +141,7 @@ let references = {
     marginal: "",
     igh1r1f: ["Wlodarska"],
   noTargeted:"",
-  blank:""
+  blank:"",
 };
 
 let reference_list = {
