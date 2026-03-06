@@ -23,7 +23,7 @@ let ntp = {
 
     "chr11gain": "Gain of KMT2A signal without rearrangement may occur through a duplication of the locus or gain of chromosome 11/11q.  Gain of the long arm of chromosome 11, including band q23, is a recurring abnormality in myelodysplastic syndrome (MDS) and acute myeloid leukemia (AML). While trisomy 11 as a sole cytogenetic abnormality is assigned an intermediate prognosis in MDS and AML according to the Revised International Prognostic Scoring System (IPSS-R) and European LeukemiaNet (ELN), respectively, some studies have shown trisomy 11 to be associated a poor prognosis. ",
 
-    "chr11amp": "KMT2A gene amplification can be present as internal partial tandem duplication (PTD) at the molecular level and/or as homogenously staining region (hsr) and double minutes (dmin) detectable by cytogenetic analysis. It may be seen in myelodysplastic syndromes (MDS), acute myeloid leukemia (AML), and mixed-phenotype acute leukemia (MPAL) and is associated with poor prognosis.",
+    "chr11amp": "KMT2A gene amplification can be present as internal partial tandem duplication (PTD) at the molecular level and/or as homogeneously staining region (hsr) and double minutes (dmin) detectable by cytogenetic analysis. It may be seen in myelodysplastic syndromes (MDS), acute myeloid leukemia (AML), and mixed-phenotype acute leukemia (MPAL) and is associated with poor prognosis.",
 
     "chr11rearr":"In acute myeloid leukemia (AML), KMT2A (MLL) rearrangements are assigned a poor prognosis according to the European LeukemiaNet (ELN) recommendations for AML risk stratification, except for the t(9;11)(p21.3;q23.3) involving KMT2A-MLLT3, which is assigned an intermediate prognosis. ",
 
